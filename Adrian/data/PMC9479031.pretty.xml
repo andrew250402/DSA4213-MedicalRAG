@@ -1,0 +1,821 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Blood</journal-id>
+<journal-id journal-id-type="iso-abbrev">Blood</journal-id>
+<journal-id journal-id-type="pmc-domain-id">446</journal-id>
+<journal-id journal-id-type="pmc-domain">blood</journal-id>
+<journal-id journal-id-type="publisher-id">Blood</journal-id>
+<journal-title-group>
+<journal-title>Blood</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0006-4971</issn>
+<issn pub-type="epub">1528-0020</issn>
+<publisher>
+<publisher-name>The American Society of Hematology</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC9479031</article-id>
+<article-id pub-id-type="pmcid-ver">PMC9479031.1</article-id>
+<article-id pub-id-type="pmcaid">9479031</article-id>
+<article-id pub-id-type="pmcaiid">9479031</article-id>
+<article-id pub-id-type="pmid">35767897</article-id>
+<article-id pub-id-type="doi">10.1182/blood.2022015850</article-id>
+<article-id pub-id-type="publisher-id">2022/BLD2022015850C</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="hwp-journal-coll">
+<subject>29</subject>
+<subject>33</subject>
+<subject>39</subject>
+<subject>111</subject>
+</subj-group>
+<subj-group subj-group-type="heading">
+<subject>Special Report</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>International Consensus Classification of Myeloid Neoplasms and Acute Leukemias: integrating morphologic, clinical, and genomic data</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2160-9689</contrib-id>
+<name name-style="western">
+<surname>Arber</surname>
+<given-names initials="DA">Daniel A.</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Orazi</surname>
+<given-names initials="A">Attilio</given-names>
+</name>
+<xref rid="aff2" ref-type="aff">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7753-0697</contrib-id>
+<name name-style="western">
+<surname>Hasserjian</surname>
+<given-names initials="RP">Robert P.</given-names>
+</name>
+<xref rid="aff3" ref-type="aff">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Borowitz</surname>
+<given-names initials="MJ">Michael J.</given-names>
+</name>
+<xref rid="aff4" ref-type="aff">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Calvo</surname>
+<given-names initials="KR">Katherine R.</given-names>
+</name>
+<xref rid="aff5" ref-type="aff">5</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5450-4840</contrib-id>
+<name name-style="western">
+<surname>Kvasnicka</surname>
+<given-names initials="HM">Hans-Michael</given-names>
+</name>
+<xref rid="aff6" ref-type="aff">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Wang</surname>
+<given-names initials="SA">Sa A.</given-names>
+</name>
+<xref rid="aff7" ref-type="aff">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Bagg</surname>
+<given-names initials="A">Adam</given-names>
+</name>
+<xref rid="aff8" ref-type="aff">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2747-6327</contrib-id>
+<name name-style="western">
+<surname>Barbui</surname>
+<given-names initials="T">Tiziano</given-names>
+</name>
+<xref rid="aff9" ref-type="aff">9</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5095-7981</contrib-id>
+<name name-style="western">
+<surname>Branford</surname>
+<given-names initials="S">Susan</given-names>
+</name>
+<xref rid="aff10" ref-type="aff">10</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Bueso-Ramos</surname>
+<given-names initials="CE">Carlos E.</given-names>
+</name>
+<xref rid="aff7" ref-type="aff">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8636-1071</contrib-id>
+<name name-style="western">
+<surname>Cortes</surname>
+<given-names initials="JE">Jorge E.</given-names>
+</name>
+<xref rid="aff11" ref-type="aff">11</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Dal Cin</surname>
+<given-names initials="P">Paola</given-names>
+</name>
+<xref rid="aff12" ref-type="aff">12</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9003-0390</contrib-id>
+<name name-style="western">
+<surname>DiNardo</surname>
+<given-names initials="CD">Courtney D.</given-names>
+</name>
+<xref rid="aff7" ref-type="aff">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Dombret</surname>
+<given-names initials="H">Hervé</given-names>
+</name>
+<xref rid="aff13" ref-type="aff">13</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Duncavage</surname>
+<given-names initials="EJ">Eric J.</given-names>
+</name>
+<xref rid="aff14" ref-type="aff">14</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0197-5451</contrib-id>
+<name name-style="western">
+<surname>Ebert</surname>
+<given-names initials="BL">Benjamin L.</given-names>
+</name>
+<xref rid="aff15" ref-type="aff">15</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Estey</surname>
+<given-names initials="EH">Elihu H.</given-names>
+</name>
+<xref rid="aff16" ref-type="aff">16</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Facchetti</surname>
+<given-names initials="F">Fabio</given-names>
+</name>
+<xref rid="aff17" ref-type="aff">17</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Foucar</surname>
+<given-names initials="K">Kathryn</given-names>
+</name>
+<xref rid="aff18" ref-type="aff">18</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9104-6172</contrib-id>
+<name name-style="western">
+<surname>Gangat</surname>
+<given-names initials="N">Naseema</given-names>
+</name>
+<xref rid="aff19" ref-type="aff">19</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3304-8417</contrib-id>
+<name name-style="western">
+<surname>Gianelli</surname>
+<given-names initials="U">Umberto</given-names>
+</name>
+<xref rid="aff20" ref-type="aff">20</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Godley</surname>
+<given-names initials="LA">Lucy A.</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Gökbuget</surname>
+<given-names initials="N">Nicola</given-names>
+</name>
+<xref rid="aff21" ref-type="aff">21</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Gotlib</surname>
+<given-names initials="J">Jason</given-names>
+</name>
+<xref rid="aff22" ref-type="aff">22</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hellström-Lindberg</surname>
+<given-names initials="E">Eva</given-names>
+</name>
+<xref rid="aff23" ref-type="aff">23</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0199-9333</contrib-id>
+<name name-style="western">
+<surname>Hobbs</surname>
+<given-names initials="GS">Gabriela S.</given-names>
+</name>
+<xref rid="aff3" ref-type="aff">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hoffman</surname>
+<given-names initials="R">Ronald</given-names>
+</name>
+<xref rid="aff24" ref-type="aff">24</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Jabbour</surname>
+<given-names initials="EJ">Elias J.</given-names>
+</name>
+<xref rid="aff7" ref-type="aff">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Kiladjian</surname>
+<given-names initials="JJ">Jean-Jacques</given-names>
+</name>
+<xref rid="aff13" ref-type="aff">13</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9168-3203</contrib-id>
+<name name-style="western">
+<surname>Larson</surname>
+<given-names initials="RA">Richard A.</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Le Beau</surname>
+<given-names initials="MM">Michelle M.</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Loh</surname>
+<given-names initials="MLC">Mignon L.-C.</given-names>
+</name>
+<xref rid="aff25" ref-type="aff">25</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8982-5217</contrib-id>
+<name name-style="western">
+<surname>Löwenberg</surname>
+<given-names initials="B">Bob</given-names>
+</name>
+<xref rid="aff26" ref-type="aff">26</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0520-0493</contrib-id>
+<name name-style="western">
+<surname>Macintyre</surname>
+<given-names initials="E">Elizabeth</given-names>
+</name>
+<xref rid="aff27" ref-type="aff">27</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1460-1611</contrib-id>
+<name name-style="western">
+<surname>Malcovati</surname>
+<given-names initials="L">Luca</given-names>
+</name>
+<xref rid="aff28" ref-type="aff">28</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1871-1850</contrib-id>
+<name name-style="western">
+<surname>Mullighan</surname>
+<given-names initials="CG">Charles G.</given-names>
+</name>
+<xref rid="aff29" ref-type="aff">29</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3856-7937</contrib-id>
+<name name-style="western">
+<surname>Niemeyer</surname>
+<given-names initials="C">Charlotte</given-names>
+</name>
+<xref rid="aff30" ref-type="aff">30</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Odenike</surname>
+<given-names initials="OM">Olatoyosi M.</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7778-5374</contrib-id>
+<name name-style="western">
+<surname>Ogawa</surname>
+<given-names initials="S">Seishi</given-names>
+</name>
+<xref rid="aff31" ref-type="aff">31</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Orfao</surname>
+<given-names initials="A">Alberto</given-names>
+</name>
+<xref rid="aff32" ref-type="aff">32</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Papaemmanuil</surname>
+<given-names initials="E">Elli</given-names>
+</name>
+<xref rid="aff33" ref-type="aff">33</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8068-5289</contrib-id>
+<name name-style="western">
+<surname>Passamonti</surname>
+<given-names initials="F">Francesco</given-names>
+</name>
+<xref rid="aff28" ref-type="aff">28</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4112-5902</contrib-id>
+<name name-style="western">
+<surname>Porkka</surname>
+<given-names initials="K">Kimmo</given-names>
+</name>
+<xref rid="aff34" ref-type="aff">34</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Pui</surname>
+<given-names initials="CH">Ching-Hon</given-names>
+</name>
+<xref rid="aff29" ref-type="aff">29</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Radich</surname>
+<given-names initials="JP">Jerald P.</given-names>
+</name>
+<xref rid="aff35" ref-type="aff">35</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Reiter</surname>
+<given-names initials="A">Andreas</given-names>
+</name>
+<xref rid="aff36" ref-type="aff">36</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Rozman</surname>
+<given-names initials="M">Maria</given-names>
+</name>
+<xref rid="aff37" ref-type="aff">37</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Rudelius</surname>
+<given-names initials="M">Martina</given-names>
+</name>
+<xref rid="aff38" ref-type="aff">38</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3763-5504</contrib-id>
+<name name-style="western">
+<surname>Savona</surname>
+<given-names initials="MR">Michael R.</given-names>
+</name>
+<xref rid="aff39" ref-type="aff">39</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Schiffer</surname>
+<given-names initials="CA">Charles A.</given-names>
+</name>
+<xref rid="aff40" ref-type="aff">40</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5082-7979</contrib-id>
+<name name-style="western">
+<surname>Schmitt-Graeff</surname>
+<given-names initials="A">Annette</given-names>
+</name>
+<xref rid="aff41" ref-type="aff">41</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4683-9958</contrib-id>
+<name name-style="western">
+<surname>Shimamura</surname>
+<given-names initials="A">Akiko</given-names>
+</name>
+<xref rid="aff15" ref-type="aff">15</xref>
+<xref rid="aff42" ref-type="aff">42</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Sierra</surname>
+<given-names initials="J">Jorge</given-names>
+</name>
+<xref rid="aff43" ref-type="aff">43</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Stock</surname>
+<given-names initials="WA">Wendy A.</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Stone</surname>
+<given-names initials="RM">Richard M.</given-names>
+</name>
+<xref rid="aff15" ref-type="aff">15</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Tallman</surname>
+<given-names initials="MS">Martin S.</given-names>
+</name>
+<xref rid="aff44" ref-type="aff">44</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Thiele</surname>
+<given-names initials="J">Jürgen</given-names>
+</name>
+<xref rid="aff45" ref-type="aff">45</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Tien</surname>
+<given-names initials="HF">Hwei-Fang</given-names>
+</name>
+<xref rid="aff46" ref-type="aff">46</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Tzankov</surname>
+<given-names initials="A">Alexandar</given-names>
+</name>
+<xref rid="aff47" ref-type="aff">47</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5755-0730</contrib-id>
+<name name-style="western">
+<surname>Vannucchi</surname>
+<given-names initials="AM">Alessandro M.</given-names>
+</name>
+<xref rid="aff48" ref-type="aff">48</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3931-0914</contrib-id>
+<name name-style="western">
+<surname>Vyas</surname>
+<given-names initials="P">Paresh</given-names>
+</name>
+<xref rid="aff49" ref-type="aff">49</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7514-3298</contrib-id>
+<name name-style="western">
+<surname>Wei</surname>
+<given-names initials="AH">Andrew H.</given-names>
+</name>
+<xref rid="aff50" ref-type="aff">50</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Weinberg</surname>
+<given-names initials="OK">Olga K.</given-names>
+</name>
+<xref rid="aff51" ref-type="aff">51</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7909-457X</contrib-id>
+<name name-style="western">
+<surname>Wierzbowska</surname>
+<given-names initials="A">Agnieszka</given-names>
+</name>
+<xref rid="aff52" ref-type="aff">52</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6984-8817</contrib-id>
+<name name-style="western">
+<surname>Cazzola</surname>
+<given-names initials="M">Mario</given-names>
+</name>
+<xref rid="aff28" ref-type="aff">28</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2116-5536</contrib-id>
+<name name-style="western">
+<surname>Döhner</surname>
+<given-names initials="H">Hartmut</given-names>
+</name>
+<xref rid="aff53" ref-type="aff">53</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Tefferi</surname>
+<given-names initials="A">Ayalew</given-names>
+</name>
+<xref rid="aff19" ref-type="aff">19</xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label>University of Chicago, Chicago, IL;</aff>
+<aff id="aff2">
+<label>2</label>Texas Tech University Health Sciences Center El Paso, El Paso, TX;</aff>
+<aff id="aff3">
+<label>3</label>Massuchusetts General Hospital, Boston, MA;</aff>
+<aff id="aff4">
+<label>4</label>Johns Hopkins University, Baltimore, MD;</aff>
+<aff id="aff5">
+<label>5</label>National Institutes of Health Clinical Center, Bethesda, MD;</aff>
+<aff id="aff6">
+<label>6</label>Helios Universitätsklinikum Wuppertal, Wuppertal, Germany;</aff>
+<aff id="aff7">
+<label>7</label>University of Texas MD Anderson Cancer Center, Houston, TX;</aff>
+<aff id="aff8">
+<label>8</label>University of Pennsylvania, Philadelphia, PA;</aff>
+<aff id="aff9">
+<label>9</label>Clinical Research Foundation, Papa Giovanni XXIII Hospital, Bergamo, Italy;</aff>
+<aff id="aff10">
+<label>10</label>Centre for Cancer Biology, Adelaide, SA, Australia;</aff>
+<aff id="aff11">
+<label>11</label>Georgia Cancer Center, Augusta, GA;</aff>
+<aff id="aff12">
+<label>12</label>Brigham and Women’s Hospital, Boston, MA;</aff>
+<aff id="aff13">
+<label>13</label>Université Paris Cité, Hôpital Saint-Louis, Assistance Publique - Hôpitaux de Paris, Paris, France;</aff>
+<aff id="aff14">
+<label>14</label>Washington University in St Louis, St. Louis, MO;</aff>
+<aff id="aff15">
+<label>15</label>Dana-Farber Cancer Institute, Boston, MA;</aff>
+<aff id="aff16">
+<label>16</label>University of Washington, Seattle, WA;</aff>
+<aff id="aff17">
+<label>17</label>University of Brescia School of Medicine, Brescia, Italy;</aff>
+<aff id="aff18">
+<label>18</label>University of New Mexico, Albuquerque, NM;</aff>
+<aff id="aff19">
+<label>19</label>Mayo Clinic, Rochester, MN;</aff>
+<aff id="aff20">
+<label>20</label>Università degli Studi di Milano, Milan, Italy;</aff>
+<aff id="aff21">
+<label>21</label>Goethe University, Frankfurt, Germany;</aff>
+<aff id="aff22">
+<label>22</label>Stanford University School of Medicine, Stanford, CA;</aff>
+<aff id="aff23">
+<label>23</label>Karolinska Institutet, Solna, Sweden;</aff>
+<aff id="aff24">
+<label>24</label>Mount Sinai Medical Center, New York, NY;</aff>
+<aff id="aff25">
+<label>25</label>Seattle Children’s Hospital, Seattle, WA;</aff>
+<aff id="aff26">
+<label>26</label>Erasmus Medical Center, Rotterdam, Netherlands;</aff>
+<aff id="aff27">
+<label>27</label>Université Paris Cité, Paris, France;</aff>
+<aff id="aff28">
+<label>28</label>University of Pavia, Pavia, Italy;</aff>
+<aff id="aff29">
+<label>29</label>St. Jude Children’s Research Hospital, Memphis, TN</aff>
+<aff id="aff30">
+<label>30</label>University of Freiburg Medical Center, Freiburg um Breisgau, Germany;</aff>
+<aff id="aff31">
+<label>31</label>Kyoto University, Kyoto, Japan;</aff>
+<aff id="aff32">
+<label>32</label>University of Salamanca, Salamanca, Spain;</aff>
+<aff id="aff33">
+<label>33</label>Memorial Sloan-Kettering Cancer Center, New York, NY;</aff>
+<aff id="aff34">
+<label>34</label>Helsinki University Central Hospital Comprehensive Cancer Center, Helsinki, Finland;</aff>
+<aff id="aff35">
+<label>35</label>Fred Hutchinson Cancer Research Center, Seattle, WA;</aff>
+<aff id="aff36">
+<label>36</label>University Hospital Mannheim, Mannheim, Germany;</aff>
+<aff id="aff37">
+<label>37</label>University of Barcelona, Barcelona, Spain;</aff>
+<aff id="aff38">
+<label>38</label>Ludwig Maximilians University Munich, Munich, Germany;</aff>
+<aff id="aff39">
+<label>39</label>Vanderbilt University School of Medicine, Nashville, TN;</aff>
+<aff id="aff40">
+<label>40</label>Karmanos Cancer Institute, Detroit, MI;</aff>
+<aff id="aff41">
+<label>41</label>Albert-Ludwigs-University Freiburg, Freiburg im Breisgau, Germany</aff>
+<aff id="aff42">
+<label>42</label>Boston Children’s Cancer and Blood Disorders Center, Boston, MA;</aff>
+<aff id="aff43">
+<label>43</label>Hospital Santa Creu i Sant Pau, Barcelona, Spain;</aff>
+<aff id="aff44">
+<label>44</label>Lurie Children’s Hospital, Chicago, IL;</aff>
+<aff id="aff45">
+<label>45</label>University of Cologne, Köln, Germany;</aff>
+<aff id="aff46">
+<label>46</label>National Taiwan University Hospital, Taipei City, Taiwan;</aff>
+<aff id="aff47">
+<label>47</label>Medical University Basel, Basel, Switzerland;</aff>
+<aff id="aff48">
+<label>48</label>University of Florence and AOU Careggi, Florence, Italy;</aff>
+<aff id="aff49">
+<label>49</label>University of Oxford, Oxford, United Kingdom;</aff>
+<aff id="aff50">
+<label>50</label>Peter MacCallum Cancer Centre and Royal Melbourne Hospital, Melbourne, Australia;</aff>
+<aff id="aff51">
+<label>51</label>University of Texas Southwestern, Dallas, TX;</aff>
+<aff id="aff52">
+<label>52</label>Medical University of Lodz, Lodz, Poland; and</aff>
+<aff id="aff53">
+<label>53</label>University Hospital Ulm, Ulm, Germany</aff>
+<pub-date pub-type="ppub">
+<day>15</day>
+<month>9</month>
+<year>2022</year>
+</pub-date>
+<volume>140</volume>
+<issue>11</issue>
+<issue-id pub-id-type="pmc-issue-id">417240</issue-id>
+<fpage>1200</fpage>
+<lpage>1228</lpage>
+<history>
+<date date-type="received">
+<day>03</day>
+<month>5</month>
+<year>2022</year>
+</date>
+<date date-type="accepted">
+<day>16</day>
+<month>6</month>
+<year>2022</year>
+</date>
+<date date-type="accepted-manuscript">
+<day>29</day>
+<month>6</month>
+<year>2022</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>15</day>
+<month>09</month>
+<year>2023</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>15</day>
+<month>09</month>
+<year>2023</year>
+</date>
+</event>
+<event event-type="pmc-released-under-embargo">
+<date>
+<day>17</day>
+<month>11</month>
+<year>2022</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2024-02-15 00:25:12.480">
+<day>15</day>
+<month>02</month>
+<year>2024</year>
+</date>
+</event>
+</pub-history>
+<self-uri content-type="pmc-pdf" ns0:href="bloodBLD2022015850C.pdf" />
+<self-uri ns0:title="pdf" ns0:href="bloodBLD2022015850C.pdf" />
+<related-article related-article-type="article-reference" xml:lang="en" journal-id="Blood" journal-id-type="nlm-ta" ext-link-type="pubmed" ns0:href="35834418">
+<article-title>Developing a Classification of Hematologic Neoplasms in the Era of Precision Medicine.</article-title>
+<date>
+<day>12</day>
+<month>7</month>
+<year>2022</year>
+</date>
+<source>Blood</source>
+<pub-id pub-id-type="doi">10.1182/blood.2022015849</pub-id>
+<pub-id pub-id-type="pmid">35834418</pub-id>
+</related-article>
+<related-article related-article-type="article-reference" xml:lang="en" ns0:title="research-article" journal-id="Blood" journal-id-type="nlm-ta" ext-link-type="pmc" ns0:href="PMC9479027">
+<article-title>The International Consensus Classification of Mature Lymphoid Neoplasms: a report from the Clinical Advisory Committee</article-title>
+<volume>140</volume>
+<issue>11</issue>
+<date>
+<day>15</day>
+<month>9</month>
+<year>2022</year>
+</date>
+<fpage>1229</fpage>
+<lpage>1253</lpage>
+<source>Blood</source>
+<pub-id pub-id-type="doi">10.1182/blood.2022015851</pub-id>
+<pub-id pub-id-type="pmcid">PMC9479027</pub-id>
+<pub-id pub-id-type="pmid">35653592</pub-id>
+</related-article>
+<abstract abstract-type="teaser">
+<p>We present the new International Consensus Classification (ICC) of myeloid and lymphoid neoplasms, introduced by a Perspective by Sehn and Cazzola. This classification better integrates genomic information to allow therapy to be more easily tailored to targeted agents. In the Perspective, the authors propose that the ICC be adapted to an interactive web-based portal to allow more nimble modification to reflect new discoveries and improve diagnostic, prognostic, and predictive information.</p>
+</abstract>
+<abstract>
+<title>Abstract</title>
+<p>The classification of myeloid neoplasms and acute leukemias was last updated in 2016 within a collaboration between the World Health Organization (WHO), the Society for Hematopathology, and the European Association for Haematopathology. This collaboration was primarily based on input from a clinical advisory committees (CACs) composed of pathologists, hematologists, oncologists, geneticists, and bioinformaticians from around the world. The recent advances in our understanding of the biology of hematologic malignancies, the experience with the use of the 2016 WHO classification in clinical practice, and the results of clinical trials have indicated the need for further revising and updating the classification. As a continuation of this CAC-based process, the authors, a group with expertise in the clinical, pathologic, and genetic aspects of these disorders, developed the International Consensus Classification (ICC) of myeloid neoplasms and acute leukemias. Using a multiparameter approach, the main objective of the consensus process was the definition of real disease entities, including the introduction of new entities and refined criteria for existing diagnostic categories, based on accumulated data. The ICC is aimed at facilitating diagnosis and prognostication of these neoplasms, improving treatment of affected patients, and allowing the design of innovative clinical trials.</p>
+</abstract>
+<counts>
+<page-count count="29" />
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+</article>
+</pmc-articleset>

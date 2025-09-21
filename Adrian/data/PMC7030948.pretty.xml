@@ -1,0 +1,405 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">N Engl J Med</journal-id>
+<journal-id journal-id-type="iso-abbrev">N. Engl. J. Med.</journal-id>
+<journal-id journal-id-type="pmc-domain-id">358</journal-id>
+<journal-id journal-id-type="pmc-domain">wtpa</journal-id>
+<journal-title-group>
+<journal-title>The New England journal of medicine</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0028-4793</issn>
+<issn pub-type="epub">1533-4406</issn>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-is-collection-domain</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-collection-title</meta-name>
+<meta-value>UKPMC Funders Author Manuscripts</meta-value>
+</custom-meta>
+</custom-meta-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC7030948</article-id>
+<article-id pub-id-type="pmcid-ver">PMC7030948.1</article-id>
+<article-id pub-id-type="pmcaid">7030948</article-id>
+<article-id pub-id-type="pmcaiid">7030948</article-id>
+<article-id pub-id-type="manuscript-id">EMS85685</article-id>
+<article-id pub-id-type="pmid">30304655</article-id>
+<article-id pub-id-type="doi">10.1056/NEJMoa1716614</article-id>
+<article-id pub-id-type="manuscript-id-alternative">EMS85685</article-id>
+<article-id pub-id-type="manuscript-id-alternative">WTPA85685</article-id>
+<article-id pub-id-type="manuscript-id-alternative">WTMS85685</article-id>
+<article-id pub-id-type="manuscript-id-alternative">UKMS85685</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Disease heterogeneity and personalized prognosis in myeloproliferative neoplasms</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" equal-contrib="yes">
+<name name-style="western">
+<surname>Grinfeld</surname>
+<given-names initials="J">Jacob</given-names>
+</name>
+<xref ref-type="aff" rid="A1">1</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="aff" rid="A6">6</xref>
+</contrib>
+<contrib contrib-type="author" equal-contrib="yes">
+<name name-style="western">
+<surname>Nangalia</surname>
+<given-names initials="J">Jyoti</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Baxter</surname>
+<given-names initials="EJ">E Joanna</given-names>
+</name>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="aff" rid="A6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Wedge</surname>
+<given-names initials="DC">David C</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A4">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Angelopoulos</surname>
+<given-names initials="N">Nicos</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Cantrill</surname>
+<given-names initials="R">Robert</given-names>
+</name>
+<xref ref-type="aff" rid="A5">5</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Godfrey</surname>
+<given-names initials="AL">Anna L</given-names>
+</name>
+<xref ref-type="aff" rid="A6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Papaemmanuil</surname>
+<given-names initials="E">Elli</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A7">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Gundem</surname>
+<given-names initials="G">Gunes</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A7">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>MacLean</surname>
+<given-names initials="C">Cathy</given-names>
+</name>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="aff" rid="A6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Cook</surname>
+<given-names initials="J">Julia</given-names>
+</name>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="aff" rid="A6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Mudie</surname>
+<given-names initials="L">Laura</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>O’Meara</surname>
+<given-names initials="S">Sarah</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Teague</surname>
+<given-names initials="JW">Jon W</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Butler</surname>
+<given-names initials="AP">Adam P</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Massie</surname>
+<given-names initials="CE">Charlie E</given-names>
+</name>
+<xref ref-type="aff" rid="A1">1</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Williams</surname>
+<given-names initials="N">Nicholas</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Nice</surname>
+<given-names initials="FL">Francesca L</given-names>
+</name>
+<xref ref-type="aff" rid="A1">1</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Andersen</surname>
+<given-names initials="CL">Christen L</given-names>
+</name>
+<xref ref-type="aff" rid="A8">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hasselbalch</surname>
+<given-names initials="HC">Hans C</given-names>
+</name>
+<xref ref-type="aff" rid="A8">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Guglielmelli</surname>
+<given-names initials="P">Paola</given-names>
+</name>
+<xref ref-type="aff" rid="A9">9</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>McMullin</surname>
+<given-names initials="MF">Mary Frances</given-names>
+</name>
+<xref ref-type="aff" rid="A10">10</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Vannucchi</surname>
+<given-names initials="AM">Alessandro M</given-names>
+</name>
+<xref ref-type="aff" rid="A9">9</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Harrison</surname>
+<given-names initials="CN">Claire N</given-names>
+</name>
+<xref ref-type="aff" rid="A11">11</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Gerstung</surname>
+<given-names initials="M">Moritz</given-names>
+</name>
+<xref ref-type="aff" rid="A5">5</xref>
+</contrib>
+<contrib contrib-type="author" equal-contrib="yes">
+<name name-style="western">
+<surname>Green</surname>
+<given-names initials="AR">Anthony R</given-names>
+</name>
+<xref ref-type="aff" rid="A1">1</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="aff" rid="A6">6</xref>
+</contrib>
+<contrib contrib-type="author" equal-contrib="yes">
+<name name-style="western">
+<surname>Campbell</surname>
+<given-names initials="PJ">Peter J</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A1">1</xref>
+</contrib>
+</contrib-group>
+<aff id="A1">
+<label>1</label>Wellcome - MRC Cambridge Stem Cell Institute and Cambridge Institute for Medical Research, Cambridge, UK</aff>
+<aff id="A2">
+<label>2</label>Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, UK</aff>
+<aff id="A3">
+<label>3</label>Department of Haematology, University of Cambridge, Cambridge, UK</aff>
+<aff id="A4">
+<label>4</label>Big Data Institute, University of Oxford, Old Road Campus, Oxford, UK</aff>
+<aff id="A5">
+<label>5</label>European Molecular Biology Laboratory, European Bioinformatics Institute EMBL-EBI, Hinxton, UK</aff>
+<aff id="A6">
+<label>6</label>Department of Haematology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK</aff>
+<aff id="A7">
+<label>7</label>Center for Molecular Oncology and Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, USA</aff>
+<aff id="A8">
+<label>8</label>Department of Haematology, Zealand University Hospital, Roskilde, University of Copenhagen, Copenhagen, Denmark</aff>
+<aff id="A9">
+<label>9</label>Department of Experimental and Clinical Medicine, CRIMM, Center Research and Innovation of Myeloproliferative Neoplasms, Azienda Ospedaliera Universitaria Careggi, University of Florence, Florence, Italy</aff>
+<aff id="A10">
+<label>10</label>Department of Haematology, Queen’s University Belfast, Belfast, UK</aff>
+<aff id="A11">
+<label>11</label>Department of Haematology, Guy’s and St Thomas’ NHS Foundation Trust, London, UK</aff>
+<author-notes>
+<corresp id="CR1">
+<bold>Correspondence</bold>: Peter J. Campbell, Wellcome Trust Sanger Institute, Hinxton, UK; <email>pc8@sanger.ac.uk</email>; Anthony R. Green, Cambridge Institute for Medical Research, Cambridge, UK; <email>arg1000@cam.ac.uk</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>11</day>
+<month>10</month>
+<year>2018</year>
+</pub-date>
+<volume>379</volume>
+<issue>15</issue>
+<issue-id pub-id-type="pmc-issue-id">352785</issue-id>
+<fpage>1416</fpage>
+<lpage>1430</lpage>
+<pub-history>
+<event event-type="nihms-submitted">
+<date>
+<day>03</day>
+<month>02</month>
+<year>2020</year>
+</date>
+</event>
+<event event-type="pmc-release">
+<date>
+<day>19</day>
+<month>02</month>
+<year>2020</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>19</day>
+<month>02</month>
+<year>2020</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2024-06-16 13:25:14.537">
+<day>16</day>
+<month>06</month>
+<year>2024</year>
+</date>
+</event>
+</pub-history>
+<self-uri content-type="pmc-pdf" ns0:href="EMS85685.pdf" />
+<abstract>
+<sec id="S1">
+<title>Background</title>
+<p id="P1">Myeloproliferative neoplasms (MPN), comprising polycythemia vera, essential thrombocythemia and myelofibrosis, are chronic hematological malignancies with variable progression rates. Genomic characterization of MPN patients offers the potential for personalised diagnosis, risk stratification and management.</p>
+</sec>
+<sec id="S2">
+<title>Methods</title>
+<p id="P2">We sequenced coding exons from 69 myeloid cancer genes in 2035 MPN patients, comprehensively annotating driver mutations and copy number changes. We developed a genomic classification for MPNs and multistage prognostic models for predicting individual patient outcomes. Classification and prognostic models were validated on an external cohort.</p>
+</sec>
+<sec id="S3">
+<title>Results</title>
+<p id="P3">33 genes carried driver mutations in &gt;4 patients, with <italic toggle="yes">JAK2</italic>, <italic toggle="yes">CALR</italic> or <italic toggle="yes">MPL</italic> mutations being the sole abnormality in 45% patients. The number of driver mutations increased with age and advanced disease. Driver mutations, germline polymorphisms and demographic variables independently predicted whether patients were diagnosed with essential thrombocythemia versus polycythemia vera, and chronic phase disease versus myelofibrosis. We defined 8 genomic subgroups, exhibiting distinct clinical phenotypes, including diagnostic blood counts, risk of leukemic transformation and event-free survival. Integrating 63 clinical and genomic variables, we created prognostic models capable of generating personally-tailored predictions of clinical outcomes in chronic phase MPN or myelofibrosis. Predicted and observed outcomes correlated well using internal cross-validation and an independent external cohort. Even within individual categories of existing prognostic schemas, our models substantially improved predictive accuracy.</p>
+</sec>
+<sec id="S4">
+<title>Conclusions</title>
+<p id="P4">Comprehensive genomic characterization identifies distinct genetic subgroups and provides an MPN classification based on causal biological mechanisms. Integration of genomic data with clinical parameters enables personalised predictions of patient outcome and will support management of MPN patients.</p>
+</sec>
+</abstract>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+</article>
+</pmc-articleset>

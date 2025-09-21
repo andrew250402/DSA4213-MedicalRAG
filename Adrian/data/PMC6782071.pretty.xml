@@ -1,0 +1,1797 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Nature</journal-id>
+<journal-id journal-id-type="iso-abbrev">Nature</journal-id>
+<journal-id journal-id-type="pmc-domain-id">319</journal-id>
+<journal-id journal-id-type="pmc-domain">nihpa</journal-id>
+<journal-title-group>
+<journal-title>Nature</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0028-0836</issn>
+<issn pub-type="epub">1476-4687</issn>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-is-collection-domain</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-collection-title</meta-name>
+<meta-value>NIHPA Author Manuscripts</meta-value>
+</custom-meta>
+</custom-meta-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC6782071</article-id>
+<article-id pub-id-type="pmcid-ver">PMC6782071.1</article-id>
+<article-id pub-id-type="pmcaid">6782071</article-id>
+<article-id pub-id-type="pmcaiid">6782071</article-id>
+<article-id pub-id-type="manuscript-id">NIHMS1531200</article-id>
+<article-id pub-id-type="pmid">31270458</article-id>
+<article-id pub-id-type="doi">10.1038/s41586-019-1367-0</article-id>
+<article-id pub-id-type="manuscript-id-alternative">NIHMS1531200</article-id>
+<article-id pub-id-type="manuscript-id-alternative">NIHPA1531200</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Genotyping of Transcriptomes links somatic mutations and cell identity</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Nam</surname>
+<given-names initials="AS">Anna S.</given-names>
+</name>
+<xref ref-type="aff" rid="A1">1</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="author-notes" rid="FN1">§</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Kim</surname>
+<given-names initials="KT">Kyu-Tae</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="author-notes" rid="FN1">§</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Chaligne</surname>
+<given-names initials="R">Ronan</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref rid="FN1" ref-type="author-notes">§</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Izzo</surname>
+<given-names initials="F">Franco</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Ang</surname>
+<given-names initials="C">Chelston</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names initials="J">Justin</given-names>
+</name>
+<xref ref-type="aff" rid="A4">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Myers</surname>
+<given-names initials="RM">Robert M.</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Abu-Zeinah</surname>
+<given-names initials="G">Ghaith</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A5">5</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Brand</surname>
+<given-names initials="R">Ryan</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Omans</surname>
+<given-names initials="ND">Nathaniel D.</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="aff" rid="A6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Alonso</surname>
+<given-names initials="A">Alicia</given-names>
+</name>
+<xref ref-type="aff" rid="A7">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Sheridan</surname>
+<given-names initials="C">Caroline</given-names>
+</name>
+<xref ref-type="aff" rid="A7">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Mariani</surname>
+<given-names initials="M">Marisa</given-names>
+</name>
+<xref ref-type="aff" rid="A7">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Dai</surname>
+<given-names initials="X">Xiaoguang</given-names>
+</name>
+<xref ref-type="aff" rid="A8">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Harrington</surname>
+<given-names initials="E">Eoghan</given-names>
+</name>
+<xref ref-type="aff" rid="A8">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Pastore</surname>
+<given-names initials="A">Alessandro</given-names>
+</name>
+<xref ref-type="aff" rid="A4">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Cubillos-Ruiz</surname>
+<given-names initials="JR">Juan R.</given-names>
+</name>
+<xref ref-type="aff" rid="A9">9</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Tam</surname>
+<given-names initials="W">Wayne</given-names>
+</name>
+<xref ref-type="aff" rid="A1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hoffman</surname>
+<given-names initials="R">Ronald</given-names>
+</name>
+<xref ref-type="aff" rid="A10">10</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Rabadan</surname>
+<given-names initials="R">Raul</given-names>
+</name>
+<xref ref-type="aff" rid="A11">11</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Scandura</surname>
+<given-names initials="JM">Joseph M.</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A5">5</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Abdel-Wahab</surname>
+<given-names initials="O">Omar</given-names>
+</name>
+<xref ref-type="aff" rid="A4">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Smibert</surname>
+<given-names initials="P">Peter</given-names>
+</name>
+<xref ref-type="aff" rid="A12">12</xref>
+<xref ref-type="author-notes" rid="FN2">*</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Landau</surname>
+<given-names initials="DA">Dan A.</given-names>
+</name>
+<xref ref-type="aff" rid="A2">2</xref>
+<xref ref-type="aff" rid="A3">3</xref>
+<xref ref-type="aff" rid="A13">13</xref>
+<xref ref-type="author-notes" rid="FN2">*</xref>
+<xref rid="CR1" ref-type="corresp">†</xref>
+</contrib>
+</contrib-group>
+<aff id="A1">
+<label>1</label>Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA</aff>
+<aff id="A2">
+<label>2</label>Division of Hematology and Medical Oncology, Department of Medicine and Meyer Cancer Center, Weill Cornell Medicine, New York, NY, USA</aff>
+<aff id="A3">
+<label>3</label>New York Genome Center, New York, NY, USA</aff>
+<aff id="A4">
+<label>4</label>Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA</aff>
+<aff id="A5">
+<label>5</label>Richard T. Silver MD Myeloproliferative Neoplasms Center, Division of Hematology and Medical Oncology, Department of Medicine and Meyer Cancer Center, Weill Cornell Medicine, New York, NY, USA</aff>
+<aff id="A6">
+<label>6</label>Tri-Institutional Training Program in Computational Biology and Medicine, New York, NY, USA</aff>
+<aff id="A7">
+<label>7</label>Division of Hematology and Medical Oncology, Department of Medicine, Epigenomics Core Facility, Weill Cornell Medicine, New York, NY, USA</aff>
+<aff id="A8">
+<label>8</label>Oxford Nanopore Technologies Inc, New York, New York, USA</aff>
+<aff id="A9">
+<label>9</label>Department of Obstetrics and Gynecology, Weill Cornell Medicine, New York, NY, USA</aff>
+<aff id="A10">
+<label>10</label>Division of Hematology/Medical Oncology, Department of Medicine, Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA</aff>
+<aff id="A11">
+<label>11</label>Department of Systems Biology, Columbia University Medical Center, New York, NY, USA</aff>
+<aff id="A12">
+<label>12</label>Technology Innovation Lab, New York Genome Center, NY, USA</aff>
+<aff id="A13">
+<label>13</label>Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA</aff>
+<author-notes>
+<fn fn-type="equal" id="FN1">
+<label>§</label>
+<p id="P1">Contributed equally to this work</p>
+</fn>
+<fn id="FN2">
+<label>*</label>
+<p id="P2">Jointly supervised this work</p>
+</fn>
+<fn fn-type="con" id="FN3">
+<p id="P3">AUTHOR CONTRIBUTIONS</p>
+<p id="P4">A.S.N., K.T.K., R.C., P.S., O.A.W. and D.A.L. devised the research strategy. A.S.N., K.T.K., R.C., P.S. and D.A.L. developed the tools. A.S.N., R.C., P.S., C.A., N.D.O., A.A., C.S., M.M., J.T., X.D., R.M.M, E.H., and G.A.Z. performed the experiments. A.S.N., K.T.K., R.B., A.P. and F.I. performed the analyses. A.S.N., K.T.K., R.C., P.S. and D.A.L. wrote the manuscript. A.S.N., K.T.K., R.C., J.T., P.S., J.R.C., W.T., R.H., J.M.S., R.R., O.A.W. and D.A.L. helped interpret results. All authors reviewed and approved the final manuscript.</p>
+</fn>
+<corresp id="CR1">
+<label>†</label> Corresponding author <bold>Corresponding author’s contact details:</bold> Dan A. Landau, MD, PhD, New York Genome Center, 101 Avenue of the Americas, New York, NY 10013, <email>dlandau@nygenome.org</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>03</day>
+<month>7</month>
+<year>2019</year>
+</pub-date>
+<pub-date pub-type="ppub">
+<month>7</month>
+<year>2019</year>
+</pub-date>
+<volume>571</volume>
+<issue>7765</issue>
+<issue-id pub-id-type="pmc-issue-id">343342</issue-id>
+<fpage>355</fpage>
+<lpage>360</lpage>
+<pub-history>
+<event event-type="nihms-submitted">
+<date>
+<day>06</day>
+<month>06</month>
+<year>2019</year>
+</date>
+</event>
+<event event-type="pmc-release">
+<date>
+<day>03</day>
+<month>01</month>
+<year>2020</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>03</day>
+<month>01</month>
+<year>2020</year>
+</date>
+</event>
+<event event-type="pmc-released-under-embargo">
+<date>
+<day>09</day>
+<month>10</month>
+<year>2019</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2024-06-16 04:25:17.600">
+<day>16</day>
+<month>06</month>
+<year>2024</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<license>
+<license-p>Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use:<uri ns0:href="http://www.nature.com/authors/editorial_policies/license.html#terms">http://www.nature.com/authors/editorial_policies/license.html#terms</uri>
+</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns0:href="nihms-1531200.pdf" />
+<abstract id="ABS1">
+<p id="P5">Defining the transcriptomic identity of malignant cells is challenging in the absence of surface markers that distinguish cancer clones from one another or from admixed non-neoplastic cells. To address this challenge, we developed Genotyping of Transcriptomes (GoT), integrating genotyping with high-throughput droplet-based single-cell RNA-seq. We applied GoT to study how somatic mutations corrupt the complex process of human hematopoiesis, profiling 38,290 CD34<sup>+</sup> cells from patients with <italic toggle="yes">CALR</italic>-mutated myeloproliferative neoplasms (MPN). High-resolution mapping of malignant vs. normal hematopoietic progenitors revealed increasing <italic toggle="yes">CALR-</italic>mutation fitness advantage with myeloid differentiation. We identified the unfolded protein response as a predominant outcome of <italic toggle="yes">CALR</italic> mutations, with significant cell identity dependency, as well as NF-κB pathway upregulation specifically in uncommitted stem cells. We further extended the GoT toolkit to genotype multiple targets and loci distant from transcript ends. Collectively, these findings revealed that the transcriptional output of MPN somatic mutations is dependent on the native cell identity.</p>
+</abstract>
+<kwd-group>
+<kwd>Single-cell</kwd>
+<kwd>RNA-seq</kwd>
+<kwd>genotyping</kwd>
+<kwd>hematopoiesis</kwd>
+<kwd>myeloproliferative neoplasms</kwd>
+<kwd>somatic evolution</kwd>
+</kwd-group>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<p id="P6">Somatic mutations underlie the development of clonal outgrowth, malignant transformation<sup>
+<xref rid="R1" ref-type="bibr">1</xref>
+</sup>, and subclonal diversification<sup>
+<xref rid="R2" ref-type="bibr">2</xref>–<xref rid="R5" ref-type="bibr">5</xref>
+</sup>. Nonetheless, clonally-derived populations often lack cell surface markers that distinguish them from normal cells or that can help distinguish subclones, limiting the ability to link the clonal architecture of malignant populations with transcriptional read-outs. For example, while myeloproliferative neoplasms (MPN) result from recurrent somatic mutations in <italic toggle="yes">CALR, JAK2</italic> and <italic toggle="yes">MPL</italic>
+<sup>
+<xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R7" ref-type="bibr">7</xref>
+</sup>, the mutated clone often represents a subset of bone marrow progenitors without distinctive surface markers to distinguish them from non-neoplastic hematopoietic cells. Thus, we are unable to study the impact of MPN mutations in the context of their progenitor subtype identity.</p>
+<p id="P7">Although advanced methods have been developed to capture both transcriptional information and genotype at the single-cell level<sup>
+<xref rid="R8" ref-type="bibr">8</xref>,<xref rid="R9" ref-type="bibr">9</xref>
+</sup>, these methods are limited in throughput, and thus are challenged to study complex systems such as hematopoietic differentiation. Droplet-based sequencing enables the transcriptomic profiling of thousands of cells<sup>
+<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref>
+</sup>, and can potentially also provide genotypic information of coding mutations (<xref rid="F6" ref-type="fig">Extended Data Fig. 1a</xref>). However, current methods, by design, provide sequence information for only a short fragment at the transcript end, limiting the ability to jointly genotype somatic mutations. To overcome this challenge, we developed Genotyping of Transcriptomes (GoT) to link genotypes of expressed genes to transcriptional profiling of thousands of single-cells. We applied GoT to CD34<sup>+</sup> cells from MPN patients, which revealed that MPN mutations in hematopoietic progenitor cells do not lead to uniform transcriptional outputs, but rather show strong dependence on progenitor subset identity.</p>
+<sec id="S1">
+<title>RESULTS</title>
+<sec id="S2">
+<title>Genotyping of Transcriptomes (GoT) couples targeted cDNA genotyping with single-cell whole transcriptomes to reveal that <italic toggle="yes">CALR</italic> mutant progenitor cells are comingled with wildtype cells throughout differentiation</title>
+<p id="P8">To link genotypes to single-cell RNA-seq (scRNA-seq) in high-throughput droplet-based platforms, we modified the 10x Genomics platform (Pleasanton, CA) to amplify the targeted transcript and locus of interest (<xref rid="S9" ref-type="sec">Methods</xref>, <xref rid="F1" ref-type="fig">Fig. 1a</xref>, <xref rid="F6" ref-type="fig">Extended Data Fig. 1b</xref>,<xref rid="F6" ref-type="fig">c</xref>). We then interrogated amplicon reads for mutational status, and linked the genotype to single-cell gene expression profiles via shared cell barcodes (<xref rid="F7" ref-type="fig">Extended Data Fig. 2a</xref>,<xref rid="F7" ref-type="fig">b</xref>). We tested the ability of GoT to co-map single-cell genotypes and transcriptomes with a species-mixing experiment, wherein mouse cells with a mutant <italic toggle="yes">CALR</italic> transgene were mixed with human cells with a wildtype <italic toggle="yes">CALR</italic> transgene (<xref rid="F1" ref-type="fig">Fig. 1b</xref>)<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup>. Consistent with precision genotyping, the vast majority of cells with mouse transcripts showed mutant <italic toggle="yes">CALR</italic>, whereas cells with human transcripts showed wildtype <italic toggle="yes">CALR</italic> (96.7% of cells matching the expected species; <xref rid="F1" ref-type="fig">Fig. 1b</xref>, <xref rid="F7" ref-type="fig">Extended Data Fig. 2c</xref>–<xref rid="F7" ref-type="fig">g</xref>).</p>
+<p id="P9">While <italic toggle="yes">CALR</italic> mutations have been demonstrated to activate MPL resulting in megakaryocytic proliferation<sup>
+<xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R12" ref-type="bibr">12</xref>–<xref rid="R16" ref-type="bibr">16</xref>
+</sup>, how the mutations perturb early hematopoietic stem progenitor cell (HSPC) differentiation is largely unknown. We therefore applied GoT to CD34<sup>+</sup> bone marrow cells from five patients with <italic toggle="yes">CALR</italic>-mutated essential thrombocythemia (ET), not treated with disease-modifying therapy at the time of biopsy (<xref rid="SD2" ref-type="supplementary-material">Supplementary Table 1</xref>). <italic toggle="yes">CALR</italic> genotyping data were available for 16,614 of 18,722 cells (88.7%), compared to only 1.4% by interrogation of <italic toggle="yes">CALR</italic> in the conventional 10x Genomics data (<xref rid="F1" ref-type="fig">Fig. 1c</xref>, <xref rid="F8" ref-type="fig">Extended Data Fig. 3a</xref>–<xref rid="F8" ref-type="fig">d</xref>).</p>
+<p id="P10">To interrogate the cellular identities of these progenitors, we performed clustering agnostic to the genotyping information, based on the transcriptome information alone (<xref rid="F1" ref-type="fig">Fig. 1d</xref>, <xref rid="F9" ref-type="fig">Extended Data Fig. 4a</xref>–<xref rid="F9" ref-type="fig">c</xref>)<sup>
+<xref rid="R17" ref-type="bibr">17</xref>,<xref rid="R18" ref-type="bibr">18</xref>
+</sup>. Genotype projection onto progenitor maps demonstrated that mutated cells involved all CD34<sup>+</sup> stem and progenitor clusters, consistent with previous bulk PCR analysis of <italic toggle="yes">CALR</italic> in FACS-sorted CD34<sup>+</sup> subsets<sup>
+<xref rid="R6" ref-type="bibr">6</xref>
+</sup> (<xref rid="F1" ref-type="fig">Fig. 1e</xref>, see <xref rid="F9" ref-type="fig">Extended Data Fig. 4d</xref>,<xref rid="F9" ref-type="fig">e</xref> for validation with an alternative clustering framework<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup>). Notably, mutated cells did not form novel independent clusters, confirming that scRNA-seq alone cannot distinguish mutant from wildtype cells, and demonstrating that <italic toggle="yes">CALR</italic> mutations in ET impact the entire hematopoietic differentiation hierarchy.</p>
+</sec>
+<sec id="S3">
+<title>The fitness impact of <italic toggle="yes">CALR</italic> mutations increases with myeloid differentiation, associated with increased proliferation in mutant progenitors</title>
+<p id="P11">While mutant cells were observed across all progenitor clusters, their frequencies varied between clusters. <italic toggle="yes">CALR</italic> mutated cell frequency was higher in committed myeloid progenitors (<xref rid="F1" ref-type="fig">Fig. 1f</xref>), especially MkPs which are closely associated with the disease phenotype of elevated platelets, compared to uncommitted HSPC clusters across samples (<italic toggle="yes">P</italic>-value &lt;10<sup>−10</sup>, linear mixed model, <xref rid="F1" ref-type="fig">Fig. 1g</xref>, <xref rid="F10" ref-type="fig">Extended Data Fig. 5a</xref>). Consistently, pseudo-temporal ordering (pseudotime) analysis<sup>
+<xref rid="R20" ref-type="bibr">20</xref>,<xref rid="R21" ref-type="bibr">21</xref>
+</sup> showed that <italic toggle="yes">CALR</italic> mutated cells were enriched in cells with later pseudotime points compared to wildtype cells (<xref rid="F1" ref-type="fig">Fig. 1h</xref>,<xref rid="F1" ref-type="fig">i</xref>, <italic toggle="yes">P</italic>-value &lt;10<sup>−10</sup>, linear mixed model, <xref rid="F10" ref-type="fig">Extended Data Fig. 5b</xref>,<xref rid="F10" ref-type="fig">c</xref>). We orthogonally validated this finding via bulk gDNA droplet digital PCR, showing a lower <italic toggle="yes">CALR</italic> variant allele frequency (VAF) in CD34<sup>+</sup>CD38<sup>−</sup> HSPCs compared to CD34<sup>+</sup>CD38<sup>+</sup> progenitors (<italic toggle="yes">P</italic>-value = 0.02, Wilcoxon rank-sum test, <xref rid="F1" ref-type="fig">Fig. 1j</xref>). Thus, while <italic toggle="yes">CALR</italic> mutations arise in uncommitted HSCs and, therefore, propagate to populate the entire differentiation tree, the impact of <italic toggle="yes">CALR</italic> mutations on fitness increases with myeloid differentiation (<xref rid="F10" ref-type="fig">Extended Data Fig. 5d</xref>,<xref rid="F10" ref-type="fig">e</xref>).</p>
+<p id="P12">GoT uniquely enables direct transcriptional program comparison between mutant and wildtype cells, not only within the same sample, but also within the same progenitor cluster. For example, <italic toggle="yes">CALR</italic>-mutated progenitors displayed increased expression of genes upregulated in progenitors from <italic toggle="yes">JAK2</italic>-mutated ET<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup>, most significantly in MkP clusters (combined <italic toggle="yes">P</italic>-value &lt;10<sup>−10</sup>, Fisher’s method, <xref rid="F2" ref-type="fig">Fig. 2a</xref>,<xref rid="F2" ref-type="fig">b</xref>), as <italic toggle="yes">JAK2</italic> and <italic toggle="yes">CALR</italic> mutations partially converge through activation of similar downstream pathways<sup>
+<xref rid="R23" ref-type="bibr">23</xref>
+</sup>. We therefore reasoned that progenitor subtype-specific comparison of cell-cycle gene expression (<xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>)<sup>
+<xref rid="R24" ref-type="bibr">24</xref>
+</sup> in mutant vs. wildtype cells may reveal whether the lower fitness impact of <italic toggle="yes">CALR</italic> mutations in HSPCs compared with MkPs stems from differences in cell proliferation. Indeed, while mutant HSPCs exhibited only a modest increase in cell cycle gene expression compared to wildtype (<italic toggle="yes">P</italic>-value = 0.015, Wilcoxon rank-sum test, mean fold change 1.2, 95% confidence interval, 1.1–1.4), mutant MkPs demonstrated a robust increase in cell cycle expression vs. their wildtype counterparts (<italic toggle="yes">P</italic>-value = 4.4 × 10<sup>−4</sup>, Wilcoxon rank-sum test, fold change 1.8 [1.4–2.8]; <xref rid="F2" ref-type="fig">Fig. 2c</xref>, <xref rid="F11" ref-type="fig">Extended Data Fig. 6a</xref>). Notably, the degree of cell cycle gene expression increase in mutant MkPs correlated with the patients’ platelet counts (<xref rid="F2" ref-type="fig">Fig. 2d</xref>), suggesting that interrogation of the early progenitor cells may correlate with clinical phenotypes and inform our understanding of patient-to-patient variability despite shared mutated genotypes.</p>
+<p id="P13">Cell-to-cell variation exists even within progenitor clusters. For example, MkPs represent a heterogeneous population composed of less differentiated cells with higher expression of HSC genes<sup>
+<xref rid="R25" ref-type="bibr">25</xref>
+</sup> (HSC<sup>hi</sup>MkP<sup>lo</sup>), and more committed MkP cells displaying high expression of MkP-related genes<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> (HSC<sup>lo</sup>MkP<sup>hi</sup>; <xref rid="F2" ref-type="fig">Fig. 2e</xref>, <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>). Even within the MkP cluster, HSC<sup>lo</sup>MkP<sup>hi</sup> cells showed increased cell cycle gene expression, and a higher mutant cell frequency compared to HSC<sup>hi</sup>MkP<sup>lo</sup> cells (<italic toggle="yes">P</italic>-value = 0.01, Fisher’s exact test). Similarly, mutant cells within the platelet-primed HSPCs (MkP<sup>hi</sup>TGFβ<sup>lo</sup>) had higher cell cycle gene expression than wildtype MkP<sup>hi</sup>TGFβ<sup>lo</sup> HSPCs, whereas mutant and wildtype HSPCs in a more quiescent state (MkP<sup>lo</sup>TGFβ<sup>hi</sup>) showed no cell cycle difference (<xref rid="F2" ref-type="fig">Fig. 2f</xref>). These findings further emphasize that the impact of <italic toggle="yes">CALR</italic> mutation is dependent on cell state, and imparts a greater proliferative advantage in more differentiated cells. These data also reveal that <italic toggle="yes">CALR</italic> mutations skew differentiation toward myeloid progenitors, including megakaryocytic priming, early in hematopoiesis (<xref rid="F11" ref-type="fig">Extended Data Fig. 6b</xref>).</p>
+</sec>
+<sec id="S4">
+<title>De novo differential expression analysis reveals cell identity dependent upregulation of the unfolded protein response in <italic toggle="yes">CALR</italic>-mutant cells</title>
+<p id="P14">GoT data further offer a unique opportunity for <italic toggle="yes">de novo</italic> differential gene expression discovery, by examining wildtype vs. mutant cells within the same progenitor subset. Crucially, the wildtype cells serve as an ideal comparison set, as they share all potential environmental and patient-specific variables as the mutated cells. We identified 198 genes to be differentially expressed between mutant and wildtype MkPs (FDR adjusted <italic toggle="yes">P</italic>-value &lt; 0.1; <xref rid="F3" ref-type="fig">Fig. 3a</xref>, <xref rid="SD4" ref-type="supplementary-material">Supplementary Table 3</xref>). Mutated MkPs upregulated <italic toggle="yes">HSPA5</italic> that encodes BiP, a key player in protein quality control that modulates the activities of the three transmembrane transducers of the unfolded protein response (UPR): PERK, IRE1, and ATF6<sup>
+<xref rid="R27" ref-type="bibr">27</xref>
+</sup>. Consistently, <italic toggle="yes">CALR-</italic>mutant MkPs showed upregulation of UPR genes (adjusted <italic toggle="yes">P</italic>-value 1.7 × 10<sup>−8</sup>) and ATF6-mediated activation of chaperone genes (adjusted <italic toggle="yes">P</italic>-value = 0.03, <xref rid="F3" ref-type="fig">Fig. 3a</xref>, <xref rid="SD5" ref-type="supplementary-material">Supplementary Table 4</xref>), providing direct <italic toggle="yes">in vivo</italic> validation of <italic toggle="yes">in vitro</italic> studies that have shown increased UPR in <italic toggle="yes">CALR</italic> mutated cells<sup>
+<xref rid="R28" ref-type="bibr">28</xref>,<xref rid="R29" ref-type="bibr">29</xref>
+</sup>. UPR in this context may signal ER stress in response to misfolded proteins, as the CALR chaperone activity may be compromised by the mutation<sup>
+<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R31" ref-type="bibr">31</xref>
+</sup>. Notably, among 20 differentially expressed genes in mutant HSPCs, <italic toggle="yes">XBP1</italic>, an important regulator of UPR, was upregulated in mutant cells suggesting that UPR activation by <italic toggle="yes">CALR</italic> mutations extends to uncommitted progenitors (<xref rid="F3" ref-type="fig">Fig. 3b</xref>), further supported by upregulation of ATF6-target genes in mutant compared to wildtype HSPCs (<xref rid="F3" ref-type="fig">Fig. 3c</xref>, <xref rid="F12" ref-type="fig">Extended Data Fig. 7</xref>, <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>)<sup>
+<xref rid="R32" ref-type="bibr">32</xref>
+</sup>.</p>
+<p id="P15">UPR was previously demonstrated to be preferentially mediated in HSPCs through PERK resulting in enhanced apoptosis upon ER stress<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup>, helping to eliminate ER stressed cells from the HSC pool. In contrast, committed progenitors have a robust IRE1/XBP1 activity, promoting survival through ER stress challenge<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup>. We observed that in the specific context of <italic toggle="yes">CALR</italic> mutation-induced ER stress, the PERK-branch of the UPR was not enhanced (<xref rid="F3" ref-type="fig">Fig. 3c</xref>, <xref rid="F12" ref-type="fig">Extended Data Fig. 7</xref>, <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>)<sup>
+<xref rid="R33" ref-type="bibr">33</xref>
+</sup>. In contrast, targets of XBP1 were upregulated in mutant MkPs (<italic toggle="yes">P</italic>-value = 5.3 × 10<sup>−10</sup>, linear mixed model), as well as in mutant HSPCs (<italic toggle="yes">P</italic>-value = 1.9 × 10<sup>−6</sup>, linear mixed model, <xref rid="F3" ref-type="fig">Fig. 3c</xref>, <xref rid="F12" ref-type="fig">Extended Data Fig. 7</xref>, <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>)<sup>
+<xref rid="R34" ref-type="bibr">34</xref>,<xref rid="R35" ref-type="bibr">35</xref>
+</sup>. As IRE1 catalyzes the unconventional splicing of <italic toggle="yes">XBP1</italic> unspliced mRNA (<italic toggle="yes">XBP1u</italic>) into the active spliced form (<italic toggle="yes">XBP1s</italic>; <xref rid="F3" ref-type="fig">Fig. 3d</xref>)<sup>
+<xref rid="R36" ref-type="bibr">36</xref>
+</sup>, we further validated that <italic toggle="yes">CALR</italic> mutations induce activation of the IRE1-branch of the UPR by repurposing GoT to probe for the spliced region of <italic toggle="yes">XBP1</italic> in single cells. <italic toggle="yes">CALR</italic> mutations robustly augmented the amount of <italic toggle="yes">XBP1s</italic> in MkPs (<xref rid="F3" ref-type="fig">Fig. 3e</xref>). Remarkably, <italic toggle="yes">CALR</italic> mutations also resulted in enhanced <italic toggle="yes">XBP1s</italic>/<italic toggle="yes">XBP1u</italic> ratio in HSPCs, indicating IRE1 activity (<xref rid="F3" ref-type="fig">Fig. 3e</xref>). These data thus suggest that in <italic toggle="yes">CALR</italic> mutation-induced UPR, IRE1 is activated in both HSPCs and MkPs, skewing the ER stress-challenged stem and progenitor cells toward survival.</p>
+<p id="P16">Differential gene expression analysis in HSPCs also revealed upregulation of the NF-κB pathway (adjusted <italic toggle="yes">P</italic>-value = 0.03), including upregulation of <italic toggle="yes">CXCL2</italic> and <italic toggle="yes">NFKBIA</italic> (<xref rid="F3" ref-type="fig">Fig. 3b</xref>, <xref rid="SD4" ref-type="supplementary-material">Supplementary Tables 3</xref> and <xref rid="SD5" ref-type="supplementary-material">4</xref>). Furthermore, NF-κB gene set upregulation in mutant vs. wildtype HSPCs was most notable in early uncommitted HSPCs (<xref rid="F3" ref-type="fig">Fig. 3f</xref>, <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>). Mutant cells in this early HSPC subcluster also upregulated anti-apoptotic related genes (<xref rid="F3" ref-type="fig">Fig. 3f</xref>, <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>). As NF-κB pathway activation has been previously associated with anti-apoptotic effects<sup>
+<xref rid="R37" ref-type="bibr">37</xref>
+</sup> and HSC self-renewal<sup>
+<xref rid="R38" ref-type="bibr">38</xref>
+</sup>, our data thus points at another potential mechanism linking <italic toggle="yes">CALR</italic> mutation and HSC outgrowth.</p>
+</sec>
+<sec id="S5">
+<title>IRE1-mediated UPR by mutant <italic toggle="yes">CALR</italic> is maintained through progression to myelofibrosis</title>
+<p id="P17">As a proportion of patients with <italic toggle="yes">CALR</italic>-mutated ET eventually progresses to post-ET myelofibrosis (MF) or present initially with MF, we examined whether <italic toggle="yes">CALR</italic> mutation imparted similar proliferative and survival advantage to progenitor cells from patients with <italic toggle="yes">CALR</italic>-mutated MF by examining 9,704 genotyped cells of total 11,093 cells (87.5% genotyping rate) across four MF samples (<xref rid="F4" ref-type="fig">Fig. 4a</xref>,<xref rid="F4" ref-type="fig">b</xref>, <xref rid="F13" ref-type="fig">Extended Data Fig. 8a</xref>). In contrast to ET, we did not observe enrichment of mutated cells in differentiated progenitors compared to HSPCs (<xref rid="F4" ref-type="fig">Fig. 4c</xref>, <xref rid="F13" ref-type="fig">Extended Data Fig. 8b</xref>), consistent with previous reports<sup>
+<xref rid="R39" ref-type="bibr">39</xref>
+</sup>, suggesting that in the context of MF, <italic toggle="yes">CALR</italic> mutations impart a strong fitness advantage even to HSPCs. Indeed, mutant cells were highly enriched in cell cycle activity (<xref rid="F4" ref-type="fig">Fig. 4d</xref>, <xref rid="F13" ref-type="fig">Extended Data Fig. 8c</xref>).</p>
+<p id="P18">As megakaryocytes have been demonstrated to play a principle role in the development of marrow fibrosis<sup>
+<xref rid="R40" ref-type="bibr">40</xref>
+</sup>, we performed differential expression analysis between mutant and wildtype MkPs, showing 92 differentially expressed genes (FDR adjusted <italic toggle="yes">P</italic>-value &lt; 0.1, <xref rid="F4" ref-type="fig">Fig. 4e</xref>, <xref rid="SD4" ref-type="supplementary-material">Supplementary Table 3</xref>). We identified upregulation of <italic toggle="yes">TGFB1</italic>, previously implicated in fibroblast stimulation by megakaryocytes<sup>
+<xref rid="R41" ref-type="bibr">41</xref>,<xref rid="R42" ref-type="bibr">42</xref>
+</sup>, thereby demonstrating that TGFβ production is dysregulated even in early progenitors. Indeed, TGFβ signaling upregulation in mutant MkPs correlated with the degree of fibrosis in the patient’s bone marrow (<xref rid="F13" ref-type="fig">Extended Data Fig. 8d</xref>). As in <italic toggle="yes">CALR</italic>-mutated ET, we observed a robust upregulation of UPR genes in mutated MkPs (adjusted <italic toggle="yes">P</italic>-value = 4.7 × 10<sup>−7</sup>) and, specifically, IRE1 activation (adjusted <italic toggle="yes">P</italic>-value = 0.0017; <xref rid="F4" ref-type="fig">Fig. 4e</xref>, <xref rid="SD5" ref-type="supplementary-material">Supplementary Table 4</xref>). Notably, comparison of cycling to non-cycling wildtype cells did not show UPR upregulation, affirming that UPR activation is not simply a byproduct of increased proliferation (<xref rid="F13" ref-type="fig">Extended Data Fig. 8e</xref>, <xref rid="SD4" ref-type="supplementary-material">Supplementary Tables 3</xref> and <xref rid="SD5" ref-type="supplementary-material">4</xref>). These findings suggest that the enhanced survival of <italic toggle="yes">CALR</italic>-mutant progenitors through upregulation of the IRE1-mediated UPR is maintained through disease progression to myelofibrosis.</p>
+</sec>
+<sec id="S6">
+<title>Multiplexed GoT reveals subclonal transcriptomic identities</title>
+<p id="P19">Ongoing clonal evolution results in multi-clonal malignant populations, requiring genotyping of multiple mutations in parallel. To test the ability of GoT to target multiple mutations, we targeted three mutations affecting <italic toggle="yes">CALR</italic> (VAF 43.5% by bulk exon sequencing), <italic toggle="yes">NFE2</italic> (VAF 33%) and <italic toggle="yes">SF3B1</italic> (VAF 47.5%) in 8,475 CD34<sup>+</sup> cells from a patient with MF (<xref rid="F5" ref-type="fig">Fig. 5a</xref>). The relative VAFs of these mutations suggest that this malignancy follows a nested (linear evolution) clonal structure, with a clonal <italic toggle="yes">SF3B1</italic> mutation, a progeny subclone harboring a <italic toggle="yes">CALR</italic> mutation, which has an additional <italic toggle="yes">NFE2</italic>-mutated progeny (single-cell cloning validation in <xref rid="F14" ref-type="fig">Extended Data Fig. 9a</xref>). GoT provided genotyping for <italic toggle="yes">CALR</italic> and <italic toggle="yes">NFE2</italic> in 74% and 60% of cells, respectively, and showed mutant frequencies (64% and 56%, respectively) comparable to those of single cell cloning (85% and 71%, respectively, performed with unsorted peripheral blood cells).</p>
+<p id="P20">In this context, GoT allows to compare the transcriptional outputs of the different mutations alone or in combination. For example, since <italic toggle="yes">SF3B1</italic> mutations have been shown to block erythroid maturation<sup>
+<xref rid="R43" ref-type="bibr">43</xref>
+</sup>, we examined whether the addition of a <italic toggle="yes">CALR</italic> mutation would still confer increased proliferative status in megakaryocytic-erythroid progenitors. We found that <italic toggle="yes">SF3B1</italic>/<italic toggle="yes">CALR-</italic>double mutants exhibited increased proliferative advantage over <italic toggle="yes">SF3B1</italic>-single mutants (<xref rid="F5" ref-type="fig">Fig. 5b</xref>), while the addition of <italic toggle="yes">NFE2</italic> mutation (triple-mutant) did not further increase cell cycle activation. Thus, multiplexed GoT demonstrated the ability to interrogate complex clonal structures, as well as the need to assess the combinatorial transcriptional output of mutations in the context of high-resolution cell identity mapping.</p>
+</sec>
+<sec id="S7">
+<title>Circularization GoT enables genotyping of mutations distant from transcript ends</title>
+<p id="P21">GoT amplicon recovery is not only dependent on the expression level of the gene but also on the distance of the mutation locus from transcript ends (<xref rid="F14" ref-type="fig">Extended Data Fig. 9b</xref>). Capture efficiency of a mutation distant from the 3’ end (&gt;1.5 kb, e.g. <italic toggle="yes">SF3B1</italic> genotyping of 9% of cells, <xref rid="F5" ref-type="fig">Fig. 5a</xref>) was lower than for targets closer to the 3’ end. While driver mutations are often found within 1.5 kb of either transcript ends (<xref rid="F14" ref-type="fig">Extended Data Fig. 9c</xref>), loci of interest may reside at larger distances, and thus the dependency on relative proximity to transcript end is limiting. We reasoned that lower genotyping efficiency resulted, at least partially, from the inability of larger amplicon fragments to cluster efficiently on Illumina flow cells during sequencing. We further integrated our protocol with long-read sequencing with nanopore GridION X5 (Oxford Nanopore Technology), which demonstrated that <italic toggle="yes">SF3B1</italic> transcripts were captured accurately with our procedure (<xref rid="F14" ref-type="fig">Extended Data Fig. 9d</xref>,<xref rid="F14" ref-type="fig">e</xref>), and further confirmed low intra- and inter-transcript PCR recombination rate, even for these relatively large fragments (<xref rid="F14" ref-type="fig">Extended Data Fig. 9f</xref>,<xref rid="F14" ref-type="fig">g</xref>).</p>
+<p id="P22">To overcome this limitation, we applied sequential rounds of circularization and inverse PCR to remove the intervening sequence between the region of interest and the cell barcode (<xref rid="F5" ref-type="fig">Fig. 5c</xref>). Circularization GoT showed high concordance with un-circularized (linear) GoT for <italic toggle="yes">CALR</italic> genotyping (<xref rid="F14" ref-type="fig">Extended Data Fig. 9h</xref>,<xref rid="F14" ref-type="fig">i</xref>). When applied to <italic toggle="yes">SF3B1</italic> mutation capture, circularization GoT significantly increased the yield of genotyped cells from 750 to 2004 cells (9% to 24% of cells, <xref rid="F5" ref-type="fig">Fig. 5d</xref>,<xref rid="F5" ref-type="fig">e</xref>). These results demonstrate the ability of circularization GoT to extend our reach even to targets distant from gene ends.</p>
+<p id="P23">To further demonstrate the ability of circularization GoT to genotype despite significant distance from the transcript end, we targeted <italic toggle="yes">JAK2</italic>
+<sup>V617F</sup> (~3 kb). We first validated circularization GoT for <italic toggle="yes">JAK2</italic> via a mixing experiment with barcoded cDNA from TF1 cell line (wildtype <italic toggle="yes">JAK2</italic>) and from HEL cells (homozygous <italic toggle="yes">JAK2</italic>
+<sup>V617F</sup>), showing accurate genotype assignment (<xref rid="F5" ref-type="fig">Fig. 5f</xref>). Next, we genotyped primary CD34<sup>+</sup> cells from an individual with <italic toggle="yes">JAK2</italic>
+<sup>V617F</sup> ET, obtaining genotyping information for 7.3% of cells (<xref rid="F5" ref-type="fig">Fig. 5g</xref>), even for this very lowly expressed gene. Mutant cell frequency was higher in MkPs compared to HSPCs, whereas the mutant cell frequency remained low in erythroid progenitors (<xref rid="F5" ref-type="fig">Fig. 5h</xref>), concordant with the clinical phenotype of ET, rather than polycythemia vera (disease associated with the same <italic toggle="yes">JAK2</italic> mutation, but with erythrocytosis as the leading abnormality). Consistent with this observation, we observed, albeit in a small number of genotyped HSPCs, a trend towards increased MkP-priming in mutant HSPCs (<italic toggle="yes">P</italic>-value = 0.04, Wilcoxon rank-sum; <xref rid="F5" ref-type="fig">Fig. 5i</xref>, <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>). These data suggest skewing of differentiation toward megakaryopoiesis in HSPCs and may provide insights into the isolated megakaryocytic proliferation in <italic toggle="yes">JAK2</italic>-mutated ET.</p>
+</sec>
+</sec>
+<sec id="S8">
+<title>Discussion</title>
+<p id="P24">Here, we present GoT, which co-captures somatic genotypes and transcriptomic identities in thousands of single cells from primary cancer specimens. Building on previous experience for targeted amplification in droplet-based scRNA-seq<sup>
+<xref rid="R44" ref-type="bibr">44</xref>,<xref rid="R45" ref-type="bibr">45</xref>
+</sup>, GoT overcomes the unique set of challenges presented by somatic mutation genotyping, including lower expression levels and large distances from the end of the sequenced transcripts.</p>
+<p id="P25">Collectively, GoT allowed us to directly interrogate the transcriptional impact of <italic toggle="yes">CALR</italic> mutation in primary MPN samples, where wildtype cells in the sample provide an ideal comparison set, controlling for patient-specific and technical confounders. We observed that mutant <italic toggle="yes">CALR</italic> provided a greater fitness advantage through differentiation in ET, associated with higher proliferation in committed myeloid progenitors compared with uncommitted HSPCs. GoT’s ability to fine-map mutant vs. wildtype transcriptional differences in HSPCs revealed upregulation of NF-κB pathway genes in the most undifferentiated mutant HSPCs, supporting a cell-intrinsic role for <italic toggle="yes">CALR</italic> mutation in NF-κB activation<sup>
+<xref rid="R46" ref-type="bibr">46</xref>
+</sup>. We further applied GoT to target the unconventional splice site of <italic toggle="yes">XBP1</italic> to demonstrate that IRE1 activity was increased in the mutant cells, including HSPCs. Our data thus nominates the IRE1/XBP1 pathway as a potential therapeutic target for eradication of the mutant clone in the uncommitted HSPCs in patients with <italic toggle="yes">CALR</italic>-mutated MPNs.</p>
+<p id="P26">In conclusion, high-throughput linking of single-cell genotypic and transcriptomic data underscored the cell identity-dependency of somatic mutations in human hematopoiesis, allowing us to superimpose the native differentiation tree with a tree corrupted by somatic mutations. GoT further provides the means to gain insight into the integration of clonal diversification with lineage plasticity<sup>
+<xref rid="R47" ref-type="bibr">47</xref>
+</sup> or differentiation topologies<sup>
+<xref rid="R48" ref-type="bibr">48</xref>
+</sup> across cancer. Thus, GoT may pave the way to resolve central questions related to the link between genetic mutations and cellular identities, and to unravel the underlying programs that enable clonal expansions and evolution in human neoplasms.</p>
+</sec>
+<sec id="S9">
+<title>METHODS</title>
+<sec id="S10">
+<title>Species mixing experiment</title>
+<p id="P27">Previously published UT7 and Ba/F3 cell lines expressing human <italic toggle="yes">MPL</italic> and either human wildtype <italic toggle="yes">CALR</italic> or mutant <italic toggle="yes">CALR</italic> (type 1, 52 bp deletion), kindly provided by Dr. Mullally’s lab, were used for the species mixing study<sup>
+<xref rid="R12" ref-type="bibr">12</xref>
+</sup>. Briefly, human <italic toggle="yes">MPL</italic> expressing Ba/F3 and UT7 cell lines were generated by retroviral transduction, after which they were subjected to infection with <italic toggle="yes">CALR</italic> variant lentiviral supernatants. Wildtype UT7 cells and mutant Ba/F3 cells were mixed in equal proportions which underwent GoT, targeting ~1000 cells. While UT7 has been listed as a commonly misidentified cell line, it was used for the sole purpose of validating the <italic toggle="yes">CALR</italic> mutation status of the cells. All cell lines used in the study were tested for mycoplasma contamination.</p>
+</sec>
+<sec id="S11">
+<title>Patient samples</title>
+<p id="P28">The study was approved by the local ethics committee and by the Institutional Review Board (IRB) of Memorial Sloan-Kettering Cancer Center and Weill Cornell Medicine and conducted in accordance to the Declaration of Helsinki protocol. All patients provided informed consent. Cryopreserved bone marrow mononuclear (BMMCs) or peripheral blood mononuclear cells (PBMCs) from patients with documented <italic toggle="yes">CALR</italic> mutations were retrieved after a database search. See <xref rid="SD2" ref-type="supplementary-material">Supplementary Table 1</xref> for clinical information. Cryopreserved BMMCs or PBMCs were thawed and stained using standard procedures (10 min, 4°C) with the surface antibody CD34-PE-Vio770 (clone AC136, lot# 5180718070, dilution 1:50, Miltenyi Biotec) and DAPI (Sigma-Aldrich). Cells were then sorted for DAPI-negative, CD34<sup>+</sup> and CD34-negative cells using BD Influx at the Weill Cornell Medicine flow cytometry core.</p>
+</sec>
+<sec id="S12">
+<title>Targeted myeloid panel</title>
+<p id="P29">To determine the presence and location of recurrent somatic mutations and their VAF, targeted next-generation sequencing was performed on DNA samples extracted from unfractionated PBMCs (patients ET09, MF01, MF02, MF03, MF04), CD34-negative sorted BMMCs (patients ET02, ET03, ET04, ET05), CD34<sup>+</sup> sorted BMMC (patient ET01) and CD34<sup>+</sup> sorted PBMC (patient MF05), as previously described<sup>
+<xref rid="R49" ref-type="bibr">49</xref>
+</sup>. Briefly, targeted enrichment of 45 genes (<italic toggle="yes">ABL1, ASXL1, BCOR, BRAF, CALR, CBL, CEBPA, DNMT3A, ETV6, EZH2, FAM5C, FLT3, GATA1, GATA2, HNRNPK, IDH1, IDH2, IKZF1, JAK1, JAK2, KDM6A, KIT, KRAS, MPL, NFE2, NOTCH1, NPM1, NRAS, PHF6, PTPN11, RAD21, RUNX1, SETBP1, SF3B1, SH2B3, SMC1A, SMC3, SRSF2, STAG2, SUZ12, TET2, TP53, U2AF1, ZRSR2</italic>) recurrently mutated in myeloid malignancies was performed using the Thunderstorm system (Raindance Technologies, Billerica, MA) with a custom primer panel followed by sequencing using the Illumina MiSeq (v3 chemistry).</p>
+</sec>
+<sec id="S13">
+<title>Genotyping of Transcriptomes (GoT)</title>
+<p id="P30">Extending recent experience with targeted amplicon sequencing in scRNA-seq<sup>
+<xref rid="R44" ref-type="bibr">44</xref>,<xref rid="R45" ref-type="bibr">45</xref>
+</sup>, we developed GoT in order to simultaneously capture genotyping data and whole transcriptomic data in single cells by adapting the 10x Genomics platform (Pleasanton, CA). The standard 10x Genomics Chromium 3’ (v.2 or v.3 chemistry) and 5’ libraries were carried out according to manufacturer’s recommendations until after emulsion breakage and recovery of first strand cDNA (<xref rid="F1" ref-type="fig">Fig. 1a</xref>, step 1). For 3’ libraries, if the targeted gene of interest, e.g. <italic toggle="yes">SF3B1</italic>, was not robustly detected by the standard 10x procedure (i.e. if &lt;60% of the expected cells showed expression) based on <italic toggle="yes">a priori</italic> knowledge in a similar dataset, a gene-specific primer was spiked into 10x primer mix at 1% of the concentration of the cDNA amplification primers for the initial cDNA PCR step (<xref rid="F1" ref-type="fig">Fig. 1a</xref>, see <xref rid="SD6" ref-type="supplementary-material">Supplementary Table 5</xref> for list of primers and <xref rid="F6" ref-type="fig">Extended Data Fig. 1b</xref>,<xref rid="F6" ref-type="fig">c</xref> for primer positions). For 5’ libraries, presence of 10X cell barcodes (CB) and UMI on 3’ side of the transcript enabled a gene-specific primer spike-in during the RT step (Guide RT primer: 0.12 μM final concentration, <xref rid="SD6" ref-type="supplementary-material">Supplementary Table 5</xref>) to increase capture and detection of the transcript of interest (e.g. <italic toggle="yes">JAK2</italic>). At cDNA amplification step, another spike-in primer (Additive primer) is added to increase yield of the same transcript. During the amplification step, for 3’ libraries v.2 chemistry only, the 10x cDNA library underwent an extra cycle of PCR beyond the manufacturer’s recommended number of cycles. (3’ v3 chemistry and 5’ libraries do not require extra cycles of PCR at amplification step.) After cDNA amplification and cleanup with SPRIselect, a small portion of the cDNA library (3 μL for 3’ v.2 and 10 μl for 3’ v.3 chemistry and 5’ libraries) were aliquoted for targeted genotyping, and the remaining cDNA underwent the standard 10x protocol. In the case of 3’ v.2 chemistry, the cDNA set aside for GoT was amplified for 3 to 4 additional cycles using KAPA HiFi HotStart ReadyMix (KAPABiosystems) and 10x primer mix to provide sufficient material for the enrichment step. After clean-up, locus-specific reverse primers and the generic forward SI-PCR were used to amplify the site of interest of the cDNA template (<xref rid="F6" ref-type="fig">Extended Data Fig. 1b</xref>,<xref rid="F6" ref-type="fig">c</xref>, <xref rid="SD6" ref-type="supplementary-material">Supplementary Table 5</xref>). Number of PCR cycles was determined experimentally and was dependent on the level of expression of targeted gene (for instance 10 cycles were used for <italic toggle="yes">CALR</italic>). The locus-specific reverse primers contain a partial Illumina read 2 handle, a stagger to increase the complexity of the library for optimal sequencing and a gene specific region to allow specific priming. The SI-PCR oligo (10x Genomics) anneals to the partial Illumina read 1 sequence at either 3’ or 5’ end of the molecule when using 3’ or 5’ libraries, respectively, preserving the CB and UMI (<xref rid="F6" ref-type="fig">Extended Data Fig. 1b</xref>,<xref rid="F6" ref-type="fig">c</xref>). After the initial amplification and SPRI purification to remove unincorporated primers, a second PCR was performed with a generic forward PCR primer (P5_generic) to retain the CB and UMI together with an RPI-x primer (Illumina) to complete the P7 end of the library and add a sample index. The targeted amplicon library was subsequently spiked into the remainder of the 10x library to be sequenced together on a HiSeq 2500 or sequenced separately on MiSeq (Illumina). The cycle settings were as follows: 26 cycles for read 1, 98 or 130 cycles for read 2, and 8 cycles for sample index for 3’ v.2 chemistry and 5’ libraries, or 28 cycles for read 1, 98 or 130 cycles for read 2, and 8 cycles for sample index for 3’ v.3 chemistry.</p>
+</sec>
+<sec id="S14">
+<title>Circularization GoT</title>
+<p id="P31">For patient samples, we used the same starting material as for GoT (i.e. non-fragmented 10x cDNA fraction); for the <italic toggle="yes">JAK2</italic> cDNA mixing study, we mixed barcoded cDNA from two cells lines (TF-1: <italic toggle="yes">JAK2</italic> wildtype (ATCC CRL-2003), HEL: Homozygote <italic toggle="yes">JAK2</italic> V617F (ATCC TIB-180). With these cDNA libraries, we first performed a PCR to enrich for the amplicon, amplifying from ~50 bp upstream our region of interest to the 3’ end of the 10x library fragment, therefore retaining cell barcode (CB) and unique molecule identifier (UMI), using KAPA HiFi Uracil+ master mix (Kapa Biosystems) and the following PCR conditions: 98°C for 3’; 10 to 20 cycles of: 98°C for 20”, 65°C for 30”, 72°C for 2’, 72°C for 5’. Complementary U-overhang are added to the forward (Fw) and reverse (Rv) primers to allow circularization: Fw-primer#1: AGGUCAGTCU-[50bp-upstream-locus-specific], Rv-primer#1: AGACUGACCUCTACACGACGCTCTTCCGATCT (<xref rid="F6" ref-type="fig">Extended Data Fig. 1b</xref>,<xref rid="F6" ref-type="fig">c</xref>, <xref rid="SD6" ref-type="supplementary-material">Supplementary Table 5</xref>). For genes lowly represented in the cDNA library (such as <italic toggle="yes">SF3B1</italic>), we specifically pre-enriched the gene of interest by doing a PCR targeting ~100bp upstream our region of interest to the 3’ end of the 10x library fragment, using KAPA HiFi Ready mix (Kapa Biosystems) and the following PCR conditions: 95°C for 3’; 20 cycles of: 98°C for 20”, 65°C for 30”, 72°C for 2’, 72°C for 5’. PCR product resulting from the first single or double PCR was then cleaned-up and concentrated using 1.3X SPRI beads. Next, amplicon cohesive ends were created using 40U/mL USERII enzyme (M5508-NEB) digestion for 1 hour at 37°C in 1X CutSmart buffer. Reaction was stopped by incubating for 10’ at 65°C. Relying on complementary overhang at both end of the amplicon, circularization was performed in a large volume (&gt;1 mL) to favor intra-molecule ligation. The following reaction was set-up and incubated overnight at 16°C: USERII-digested amplicon, 2000 U/mL T4 ligase (NEB), 1X CutSmart Buffer (NEB), 1 mM ATP (Roche). Next, T4 DNA ligase was inactivated by incubating for 15’ at 70°C. Then, unwanted un-ligated products were removed by adding 6U of lambda exonuclease (NEB, M0262S) in the ligation mix and incubating for 30’ at 37°C. Exonuclease was inactivated for 20’ at 65°C. Ligated product was cleaned-up and concentrated using 1.3X SPRI beads. A second PCR was set-up to retain the locus of interest and barcodes on the same molecule while removing the unwanted 3’ downstream region of the targeted region. PCR reaction was set-up and performed as previously described using the following primers: Fw-primer#2: AGGUCAGTCU[3’end-locus-specific], Rv-primer#2: AGACUGACCU[10bp-downstream-locus-specific].</p>
+<p id="P32">After PCR#2, SPRI clean-up, USERII digestion, overnight T4 ligation, lambda exonuclease digestion were performed as previously described. After the second ligation, the ligated product was again cleaned-up and concentrated using 1.3X SPRI beads. To increase ligation efficiency during the circularization step and also reduce protocol duration (3 days vs 1 day), we further improve ligation by using Gibson assembly molecular cloning approach. Instead of U-overhang handles, complementary Gibson handles are added to the forward (Fw) and reverse (Rv) primers to allow circularization post PCR#1 and PCR#2 (<xref rid="SD6" ref-type="supplementary-material">Supplementary Table 5</xref>, <xref rid="F6" ref-type="fig">Extended Data Fig. 1b</xref>,<xref rid="F6" ref-type="fig">c</xref>). PCR#1 and PCR#2 are performed as previously described for the U-overhang version of this protocol but using KAPA HiFi Ready mix. Ligation is now perform during 1 hour at 50°C in a large volume (&gt;1 mL, 1X CutSmart Buffer) and using 10 μl of Gibson master mix (NEB, E2611). Finally, to linearize the product of ligation, we performed a third PCR: Fw-primer#3: CCTTGGCACCCGAGAATTCCA[10bp-upstream-specific-locus], Rv-primer#3: SI-PCR (10x Genomics). We used KAPA HiFi master mix (Kapa Biosystems) and the following PCR conditions: 95°C for 3’; 10 cycles of: 98°C for 20”, 65°C for 30”, 72°C for 30”; 72°C for 5’. After SPRI purification, a last PCR was performed with a generic forward PCR primer (P5_generic) and an RPI-x primer (Illumina) to complete the P7 end of the library and add a sample index (95°C for 3’; 5 cycles of: 98°C for 20”, 67°C for 30”, 72°C for 30”; 72°C for 5’). Thus, this method generates amplicons that retain contiguity of the original molecules but are short enough to cluster effectively to be sequenced with standard parameters. The targeted amplicon library was subsequently sequenced using PE150 on MiSeq (Illumina).</p>
+</sec>
+<sec id="S15">
+<title>Single-cell RNA-seq data processing, alignment, cell type classification and clustering</title>
+<p id="P33">10x data was processed using Cell Ranger 2.1.0 with default parameters. Reads were aligned to the human reference sequence GRCh38 or hg19 or to mouse reference mm10 (species mixing experiment). The genomic region of interest for genotyping was examined to determine how many UMIs with targeted sequence were present in the conventional 10x data (<xref rid="F1" ref-type="fig">Fig. 1c</xref>, <xref rid="F8" ref-type="fig">Extended Data Fig. 3a</xref>,<xref rid="F8" ref-type="fig">b</xref>).</p>
+<p id="P34">The Seurat package (v. 3.0) was used to perform unbiased clustering of the CD34<sup>+</sup> sorted cells from patient samples<sup>
+<xref rid="R18" ref-type="bibr">18</xref>,<xref rid="R50" ref-type="bibr">50</xref>
+</sup>. Briefly, for individual datasets, cells with UMI &lt;200 or UMI &gt;3 standard deviation from the mean UMI and mitochondrial gene percentage &gt;10% were filtered. The data was log normalized using a scale factor of 10,000. Prior to clustering, the ET and MF datasets were integrated and underwent batch-correction which implements canonical correlation analysis (CCA) and principles of mutual nearest neighbor. Recommended settings were used for the integration (i.e., 30 canonical correlation vectors for CCA in the FindIntegrationAnchors function and 30 principle components for the anchor weighting procedure in IntegrateData function). For the datasets, potential confounders (e.g., number of UMI per cell and the proportion of mitochondrial genes) were regressed out of the data before principle component analysis (PCA) was performed using variable genes. JackStraw method was used to determine the statistically significant PCs to be used for graph-based clustering. t-SNE was used to visualize the clusters. Clusters were manually assigned based on differentially expressed genes using the FindAllMarkers function using default settings (i.e. using all genes that are detected in a minimum of 25% of cells in either of the two comparison sets as input, and log(fold change) of 0.25 as the threshold). Wilcoxon rank-sum test is applied to rank genes, with the top ten differentially expressed genes per cluster presented in <xref rid="F9" ref-type="fig">Extended Data Fig. 4b</xref>. We identified 19 distinct clusters in the integrated data for ET01-ET05, which were annotated according to marker genes identified by Velten <italic toggle="yes">et al</italic>.<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> (t-distributed stochastic neighbor embedding (t-SNE) in <xref rid="F1" ref-type="fig">Fig. 1d</xref>, and clustering heatmap and t-SNE with representative marker genes in <xref rid="F9" ref-type="fig">Extended Data Fig. 4b</xref>,<xref rid="F9" ref-type="fig">c</xref>). Pseudotime analysis was performed using the Monocle R package (v.3.8) for individual datasets<sup>
+<xref rid="R20" ref-type="bibr">20</xref>
+</sup> and the URD package (v.1.0.2) for the integrated datasets<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup>. Linear mixed effects analysis was performed using the lme4 package (v. 1.2–1). For mutant frequency analysis between HSPCs and MkPs (<xref rid="F1" ref-type="fig">Fig. 1g</xref>), genotype status was defined as the fixed effect and, as random effects, we had intercepts for individual patients (i.e. subjects) and iterative downsampling. For integrated analysis of pseudotime comparison (<xref rid="F1" ref-type="fig">Fig. 1i</xref>) and gene module expression (e.g. <xref rid="F3" ref-type="fig">Fig. 3c</xref>), genotype status was entered as the fixed effect and subjects as random effects. <italic toggle="yes">P</italic>-values were obtained by likelihood ratio tests of the full model with the fixed effect against the model without the fixed effect<sup>
+<xref rid="R51" ref-type="bibr">51</xref>
+</sup>.</p>
+</sec>
+<sec id="S16">
+<title>Deep Generative Model for Single Cell Analysis</title>
+<p id="P35">We applied the deep generative modeling approach of Lopez <italic toggle="yes">et al.</italic> (2018) for the single cell analysis of ET01-ET05<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> (<xref rid="F9" ref-type="fig">Extended Data Fig. 4d</xref>,<xref rid="F9" ref-type="fig">e</xref>). Using the scVI package, we trained a variational autoencoder (VAE) that takes as input a feature vector for each cell consisting of transcript counts for the 256 genes with the highest standard deviation across all samples as well as an indicator for batch ID. Using 90% of cells for training and holding out 10% for validation, these features are provided to the VAE with 64-unit hidden layers in both the encoder and decoder modules and a four-dimensional internal latent vector of gaussian-distributed values that provide a more concise representation of biological variability between cells. t-SNE is applied to these vectors for visualization.</p>
+</sec>
+<sec id="S17">
+<title>IronThrone GoT: Targeted genotype amplicon sequence processing and mutation calling</title>
+<p id="P36">To ensure correct priming, targeted amplicon reads (read 2) were screened for the presence of the primer sequence and the expected intervening sequence between the primer and the start of the mutation site (‘shared sequence’, for circularization GoT, PCR #2Fw and PCR #2Rv primer sequences; <xref rid="F7" ref-type="fig">Extended Data Fig. 2a</xref>,<xref rid="F7" ref-type="fig">b</xref>). 90.0% of the reads from the mixing study showed the expected primer and shared sequences. Subsequently, for reads that passed the priming step, the corresponding read 1 was screened for the presence of the 16 bp or 18 bp long CB that matched the CB in the whitelist provided by 10x Genomics (<xref rid="F15" ref-type="fig">Extended Data Fig. 10</xref>). For CB reads that were 1-Hamming-distance away from the whitelisted CB, the probability that the observed barcode originated from the whitelisted CB was calculated taking into account the base quality (BQ) score at the differing base. The whitelisted CB with the highest probability was used to replace the observed CB, only if the probability exceeded 0.99. For the duplicate reads with the same CB and UMI, the genotype (wildtype vs. mutant) of the UMI was assigned based on majority rule in supporting reads or according to the read with the highest BQ score in the rare case when only two supporting but discordant reads were available.</p>
+<p id="P37">The species-mixing study for <italic toggle="yes">CALR</italic> (type 1) mutation was used to further optimize to optimize the analytical assignment of genotypes to cells, to overcome technical sources of noise such as PCR errors, ambient mRNA and PCR recombination, which may accompany targeted amplification in scRNA-seq. A mean (± standard deviation) of 83.6 (± 95.3) <italic toggle="yes">CALR</italic> UMIs were detected per cell in the amplicon data, with 52 (± 16.3) reads per UMI. We integrated targeted amplicon measures including BQ, number of base pair mismatches, and number of duplicate reads per UMI, and determined optimized parameters that maximize the number of genotyped cells while minimizing genotype mis-assignment (<xref rid="F7" ref-type="fig">Extended Data Fig. 2c</xref>–<xref rid="F7" ref-type="fig">g</xref>). Setting thresholds for the minimum number of duplicate reads and maximum frequency of mismatches contributed significantly to filtering out mis-assigned reads likely due to technical errors (e.g. PCR recombinations). A combination of threshold of two or more duplicate reads for a given UMI and a threshold of allowing less than or equal to 0.2 mismatch ratio significantly improved correct assignment of cells, while maximizing the number of included cells for analysis, and was adopted in the analysis here (<xref rid="F7" ref-type="fig">Extended Data Fig. 2c</xref>). Results of the precision and recall analyses also affirmed this combination of thresholds for minimum duplicate reads and maximum mismatch ratio (<xref rid="F7" ref-type="fig">Extended Data Fig. 2d</xref>). Moreover, given the high number of <italic toggle="yes">CALR</italic> transcripts in the cell lines and thus higher potential impact of PCR recombination, cells were assigned as wildtype or mutant if &gt;90% of <italic toggle="yes">CALR</italic> amplicon UMIs were wildtype or mutant, respectively.</p>
+<p id="P38">To further assess the impact of various parameters of the amplicon reads on the precision of mutation calling, we tested these parameters in a random forest classification using the mixing study, as implemented in the R randomForest package (v. ‎4.6–14)<sup>
+<xref rid="R52" ref-type="bibr">52</xref>
+</sup> (<xref rid="F7" ref-type="fig">Extended Data Fig. 2e</xref>–<xref rid="F7" ref-type="fig">g</xref>). Mean decrease accuracy was determined as a measure of importance of each variable used for the calculation of splits in trees (<xref rid="F7" ref-type="fig">Extended Data Fig. 2e</xref>). For each combination of mismatch ratio and duplicate thresholds, random forest was run 100 times to find the optimal number of random variables used in each tree and the minimum out-of-bag error was selected (<xref rid="F7" ref-type="fig">Extended Data Fig. 2f</xref>,<xref rid="F7" ref-type="fig">g</xref>). This random forest analysis also showed a minimum duplicate read threshold of 2 and maximum mismatch ratio threshold of 0.2 to be optimal for minimizing mis-assignments, and the relatively low contribution of additional quality metrics.</p>
+<p id="P39">Moreover, the genotyping information is derived from transcribed molecules and may be affected by the capture of transcripts from wildtype vs. mutant alleles of heterozygous mutations in primary patient samples (in which median targeted amplicon UMI per cell was 5 [± 4.45, median absolute deviation]). This may be due to incomplete sampling of the transcript pool or due to transcriptional bursts<sup>
+<xref rid="R53" ref-type="bibr">53</xref>
+</sup>, which leads to skewed transcript pools. Consequently, as the number of UMIs per cell increases, the likelihood of capturing a mutant transcript increases, resulting in an apparently higher frequency of mutated cells. Thus, the number of mutant reads may be underestimated in cells with lower amplicon UMI counts. Nonetheless, the frequency of mutant cells (e.g., 26% in patient sample ET01) as determined by GoT using all cells that harbor at least one UMI yielded values that were similar to that determined by bulk DNA exon sequencing of <italic toggle="yes">CALR</italic> from CD34<sup>+</sup> cells (mutant cell fraction of 30% based on VAF of 0.15 in a diploid heterozygous mutation). While the bulk of the downstream analyses between <italic toggle="yes">CALR</italic> mutant and wildtype cells used a threshold of two or greater genotyping amplicon UMIs, we systematically applied three approaches to exclude the impact of this confounder (i.e., expression level of target gene) on the conclusions. First, to exclude the possibility that higher <italic toggle="yes">CALR</italic> expression in committed progenitors can result in greater ability to detect mutant alleles and thereby result in higher mutated cell frequency, we down-sampled all cells to a single amplicon UMI prior to mutation calling and found that the increase in mutation frequencies in MkP compared with HSPC remained unchanged (<xref rid="F1" ref-type="fig">Fig. 1f</xref>). Second, we explored the sensitivity of the difference between mutant and wildtype cells (e.g. pseudotime, mutant cell frequency) by increasing the minimal amplicon UMI threshold allowed for mutation calling and demonstrated that this did not impact the central findings of this study (<xref rid="F10" ref-type="fig">Extended Data Fig. 5a</xref>,<xref rid="F10" ref-type="fig">b</xref>). Third, we explicitly modeled the impact of <italic toggle="yes">CALR</italic> amplicon UMI in multivariable models (generalized linear model using R Stats package v3.5.1, e.g., pseudotime analysis), in which the number of amplicon UMI was included in the model alongside the mutation status (<xref rid="F10" ref-type="fig">Extended Data Fig. 5c</xref>). We further note that the GoT procedure did not result in significant loss of genes or UMIs per cell in comparison to published data of CD34<sup>+</sup> selected cells from the standard 10x library (<xref rid="F8" ref-type="fig">Extended Data Fig. 3d</xref>)<sup>
+<xref rid="R54" ref-type="bibr">54</xref>
+</sup>. For <italic toggle="yes">XBP1</italic> splicing analyses, we required a cell to have at least one unspliced <italic toggle="yes">XBP1</italic> for inclusion in the analyses.</p>
+</sec>
+<sec id="S18">
+<title>Mutant cell frequency analysis</title>
+<p id="P40">For integrated analysis of ET01-ET05 or MF01-MF04, an equal number of cells from each sample (n = 900 for ET and n = 400 for MF) were subsampled randomly. Genotyping amplicon UMIs were downsampled (x100 iterations) to one per cell and mutant cell frequency was determined for each cluster for either the integrated dataset or individual samples. This frequency was then divided by the total mutant cell frequency across all progenitor subsets for each of the iterations (<xref rid="F1" ref-type="fig">Figs. 1f</xref>,<xref rid="F1" ref-type="fig">g</xref>, <xref rid="F4" ref-type="fig">4c</xref>, <xref rid="F5" ref-type="fig">5h</xref>, <xref rid="F10" ref-type="fig">Extended Data Fig. 5d</xref>).</p>
+</sec>
+<sec id="S19">
+<title>Differential expression and gene set enrichment analysis</title>
+<p id="P41">For gene module analysis, the aggregate gene expression levels of modules of genes involved in biological processes of interest (see complete list of genes for each module in <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>) were calculated as log2 of the ratio of UMI in gene module per 10,000 UMIs per cell. The gene modules have been previously published (see references in main text and in <xref rid="SD3" ref-type="supplementary-material">Supplementary Table 2</xref>). Differential gene expression analysis between mutant and wildtype cells for each of the progenitor cluster for each patient was performed via the ‘FindMarkers’ function within the Seurat Package using the logistic regression for differential gene expression<sup>
+<xref rid="R55" ref-type="bibr">55</xref>
+</sup> with variable genes as input and requiring expression in at least 10% of cells in either group. UMI was included as a latent variable. The differentially expressed genes were examined individually for each patient; they were also examined in combination for each cluster across the patients by combining the <italic toggle="yes">P</italic>-values for the differentially expressed genes via Fisher’s method and performing a weighted average of the log2(fold change) (<xref rid="SD4" ref-type="supplementary-material">Supplementary Table 3</xref>). Genes that were differentially expressed with FDR &lt; 0.1 and log2(fold change) &gt;= 0.2 were included for gene set enrichment analysis. Hypergeometric test for gene set enrichment analysis was performed using the gProfileR package (v. 0.6.7)<sup>
+<xref rid="R56" ref-type="bibr">56</xref>
+</sup>. Multiple hypothesis testing correction was performed using the g:SCS algorithm developed by the authors of the gProfileR package. KEGG, Reactome, GO:MF, and GO:BP data sources were included in the analyses (<xref rid="SD5" ref-type="supplementary-material">Supplementary Table 4</xref>).</p>
+</sec>
+<sec id="S20">
+<title>Comparison of mutant allelic fraction in whole exome sequencing (WES) and RNA-seq</title>
+<p id="P42">We compared the mutant allelic fractions between gDNA and RNA, estimated from WES and RNA-seq data, respectively, in five cancer cohorts (BRCA, breast invasive carcinoma; HNSC, head and neck squamous cell carcinoma; KIRC, kidney renal clear cell carcinoma; LUAD, lung adenocarcinoma; STAD, stomach adenocarcinoma). For this analysis, we thank Dr. Tae-Min Kim (Cancer Research Institute, College of Medicine, The Catholic University of Korea) for sharing the curated datasets based on his previous study<sup>
+<xref rid="R57" ref-type="bibr">57</xref>
+</sup>. In brief, the datasets of each cancer cohorts were initially prepared with somatic mutation sets that are reported from The Cancer Genome Atlas (TCGA) portal (<ext-link ext-link-type="uri" ns0:href="https://portal.gdc.cancer.gov/">https://portal.gdc.cancer.gov/</ext-link>). Then, reference and alternative alleles for these mutations were counted in bam files of WES and RNA-seq using SAMtools mpileup<sup>
+<xref rid="R58" ref-type="bibr">58</xref>
+</sup>, and filtered for &gt;10 coverage of reads. We then converted genomic coordinates of the datasets from hg19 to hg38 assembly. To identify the frequencies of somatic mutations in cancers, we used the CNT values from CosmicCodingMuts.vcf (v86) in the Catalogue of Somatic Mutations in Cancer (COSMIC) database<sup>
+<xref rid="R59" ref-type="bibr">59</xref>
+</sup>. Then, we further annotated the variants as oncogene or tumor suppressor gene (TSG) (Vogelstein <italic toggle="yes">et al</italic>. 2013<sup>
+<xref rid="R60" ref-type="bibr">60</xref>
+</sup>), and as driver or passenger mutations (Bailey <italic toggle="yes">et al</italic>. 2018<sup>
+<xref rid="R61" ref-type="bibr">61</xref>
+</sup>).</p>
+</sec>
+<sec id="S21">
+<title>Determination of targeted loci distance from 3’ or 5’ ends of transcripts</title>
+<p id="P43">To identify Ensembl transcript ID (ENST) corresponding to each mutation in the datasets of five cancer cohorts described above, we matched them with COSMIC ID and annotated from the file of CosmicMutantExport.tsv (v86). We used the biomaRt R package<sup>
+<xref rid="R62" ref-type="bibr">62</xref>
+</sup> with the GRCh38 version to annotate the transcript including the length of transcript and the position of cDNA start codon in the transcript. The positions of the 5’ untranslated region (UTR) ends were determined to calculate the distance from 5’ end to target site.</p>
+</sec>
+<sec id="S22">
+<title>Oxford Nanpore Technology (ONT)</title>
+<p id="P44">The cDNA amplicon samples were barcoded by ONT 1D native barcoding kit EXP-NBD104. The barcoded samples were fed into ONT SQK-LSK109 library preparation and sequencing workflow. FLO-MIN106 RevD flowcells and GridION X5 sequencer were used for sequencing. Data were basecalled by ONT Guppy 2.3.1. For analysis, the adaptor sequences were trimmed Porechop (<ext-link ext-link-type="uri" ns0:href="https://github.com/rrwick/Porechop">https://github.com/rrwick/Porechop</ext-link>). Then, the reads were assessed for correct priming as shown in <xref rid="F14" ref-type="fig">Extended Data Fig. 9d</xref>. The correctly primed reads were aligned to the reference genome (Grch38) with minimap2<sup>
+<xref rid="R63" ref-type="bibr">63</xref>
+</sup> (v. 2.16) for variant calling. The cell barcodes underwent the same processing described above for IronThrone GoT (<xref rid="F14" ref-type="fig">Extended Data Fig. 9d</xref>, <xref rid="F15" ref-type="fig">10</xref>).</p>
+</sec>
+<sec id="S23">
+<title>Droplet digital PCR</title>
+<p id="P45">Peripheral blood from three ET patients with mutations in <italic toggle="yes">CALR</italic> underwent Ficoll density gradient separation, immunomagnetic selection for CD34<sup>+</sup> cells (Miltenyi Biotech), and fluorescence-activated cell sorting (FACS) (Influx, Becton-Dickinson) using PeCy7-labeled CD34, clone 561 (lot# B257238, BioLegend), APC-labeled CD38, clone HIT2 (lot #B247250, BioLegend) and FITC-labeled CD10, clone HI10a (lot# B254556, BioLegend) antibodies were used to isolate CD34<sup>+</sup>CD38<sup>−</sup>, CD34<sup>+</sup>CD38<sup>+</sup>, and CD34<sup>+</sup>CD10<sup>+</sup> cell compartments. DNA was extracted from sorted cells (Qiagen) and the VAF of <italic toggle="yes">CALR</italic> mutations was measured by droplet digital PCR (QX200 Droplet Digital PCR System, Bio-Rad) with primers that specifically detect <italic toggle="yes">CALR</italic> type 1 mutations (52-bp deletion (p.L367fs*46), <italic toggle="yes">CALR</italic> type 2 mutations (5-bp TTGTC insertion (p.K385fs*47) or wildtype alleles.</p>
+</sec>
+<sec id="S24">
+<title>Single cell colony genotyping assay</title>
+<p id="P46">Viably frozen mononuclear cells were thawed and plated in H4434 Methocultä media (StemCell Technologies, Cambridge, MA) containing recombinant human SCF, GM-CSF, IL-3 and EPO according to the manufacturer’s specifications. Individual colonies (n = 94) were picked from the methylcellulose media after 14 days of culture at 37°C and sequenced by Sanger sequencing for <italic toggle="yes">SF3B1</italic>, <italic toggle="yes">CALR</italic> and <italic toggle="yes">NFE2</italic> mutations using primers listed in <xref rid="SD6" ref-type="supplementary-material">Supplementary Table 5</xref>.</p>
+</sec>
+</sec>
+<sec sec-type="extended-data" id="S25">
+<title>Extended Data</title>
+<fig id="F6" orientation="portrait" position="anchor">
+<label>Extended Data Figure 1.</label>
+<caption>
+<title>Comparison of variant allele frequency (VAF) between whole exome sequencing (WES) and RNA-seq and primer sequences and positions of linear and circularization GoT.</title>
+<p id="P47">
+<bold>a,</bold> Pie charts show the fraction of variants that are categorized as described in the top-left-box. Distribution of mutant allele fraction is annotated as oncogene or tumor suppressor gene (definitions according to Vogelstein <italic toggle="yes">et al</italic>. 2013<sup>
+<xref rid="R60" ref-type="bibr">60</xref>
+</sup> and Bailey <italic toggle="yes">et al</italic>. 2018<sup>
+<xref rid="R61" ref-type="bibr">61</xref>
+</sup>). Diagonal dashed lines indicate equal allelic fraction between WES and RNA-seq. Yellow density contours represent driver distributions. BRCA, breast invasive carcinoma; HNSC, head and neck squamous cell carcinoma; KIRC, kidney renal clear cell carcinoma; LUAD, lung adenocarcinoma; STAD, stomach adenocarcinoma. <bold>b,</bold> Schematic localization of primers for (linear) GoT and circularization GoT for 3’ and 5’ libraries. <bold>c,</bold> Primer positions and sequences of the regions targeted by GoT and circularization GoT.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0006.jpg" />
+</fig>
+<fig id="F7" orientation="portrait" position="anchor">
+<label>Extended Data Figure 2.</label>
+<caption>
+<title>Optimization of parameters in targeted amplicon sequence processing pipeline in Genotyping of Transcriptomes (IronThrone GoT).</title>
+<p id="P48">
+<bold>a,</bold> Representation of amplicon reads. <bold>b,</bold> Flow chart of the GoT analysis pipeline (see <xref rid="S9" ref-type="sec">Methods</xref>). <bold>c,</bold> Murine (green) vs. human (blue) genome alignment of 10x data (y-axis) with genotyping data by GoT (x-axis) with various thresholds for minimum duplicate reads (across) and maximum mismatch ratio (down). <bold>d,</bold> Results of precision, recall and F1 score analysis for combinations of minimum duplicate reads and maximum mismatch ratios. <bold>e,</bold> Measure of importance of each variable used for the calculation of splits in trees in random forest classification test. <bold>f,</bold> Ratio of cell loss and genotyping errors (Z-score in y-axis) based on mismatch ratio thresholds (x-axis); area of intersection is highlighted with gray around the mismatch ratio 0.2. <bold>g,</bold> Heatmaps showing Z-scores of number of filtered cells (left) and predicted error rates (right) from random forest classification tests for combinations of minimum duplicate reads and maximum mismatch ratio thresholds.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0007.jpg" />
+</fig>
+<fig id="F8" orientation="portrait" position="anchor">
+<label>Extended Data Figure 3.</label>
+<caption>
+<title>GoT captures genotyping information of single cells through cDNA.</title>
+<p id="P49">
+<bold>a,</bold> Percentage of cells by number of UMIs with <italic toggle="yes">CALR</italic> mutation locus capture in standard 10x data (left) and GoT data (right) (see Extended Data Fig. 3c for cell number in each sample). <bold>b,</bold> Number of UMIs per cell of <italic toggle="yes">CALR</italic> transcript from standard 10x data (left, blue shade) or targeted <italic toggle="yes">CALR</italic> locus from standard 10x or GoT (pink shade, see Extended Data Fig. 3c for cell number in each sample). <bold>c,</bold> Summary of clinical, pathologic, and GoT data from patients with <italic toggle="yes">CALR</italic>-mutated myeloproliferative neoplasms. BM, bone marrow; PB, peripheral blood. <bold>d,</bold> Number of genes per cell (left) and number of UMIs per cell (right) from published standard 10x data of healthy control CD34<sup>+</sup> cells and 10x data from 3’ v2 chemistry of CD34<sup>+</sup> cells from patient samples that underwent concurrent GoT, after random down-sampling of the reads from each sample to 50 million reads x3 iterations, showing that extra cycle of PCR and portioning a small aliquot from the 10x cDNA library for GoT using 3’ v2 chemistry does not compromise scRNA-seq data.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0008.jpg" />
+</fig>
+<fig id="F9" orientation="portrait" position="anchor">
+<label>Extended Data Figure 4.</label>
+<caption>
+<title>Integration of ET patient samples and progenitor subset assignment.</title>
+<p id="P50">
+<bold>a,</bold> t-SNE projection of CD34<sup>+</sup> progenitor cells from samples ET01-ET05, after integration and batch-correction using the Seurat package (see <xref rid="S9" ref-type="sec">Methods</xref>). <bold>b,</bold> Heatmap of top ten differentially expressed genes for clusters; lineage-specific genes from Velten <italic toggle="yes">et al.</italic> (2018)<sup>
+<xref rid="R26" ref-type="bibr">26</xref>
+</sup> are highlighted (see <xref rid="S9" ref-type="sec">Methods</xref>). <bold>c,</bold> Representative lineage-specific genes projected on t-SNE representation of CD34<sup>+</sup> cells from ET patient samples. <bold>d,</bold> t-SNE projection of CD34<sup>+</sup> cells from patient samples ET01-ET05 after applying deep generative modeling approach for the single cell analysis using the scVI package (see <xref rid="S9" ref-type="sec">Methods</xref>)<sup>
+<xref rid="R19" ref-type="bibr">19</xref>
+</sup> showing progenitor subset assignments as determined after clustering the cells using the Seurat package. <bold>e,</bold> Genotyping data from GoT are projected onto the t-SNE generated after the scVI analysis of progenitor cells from ET01-ET05. Cells without any GoT data are labeled NA (not assignable). WT, wildtype; MUT, mutant; HSPC, hematopoietic stem progenitor cells; IMP, immature myeloid progenitors; NP, neutrophil progenitors; M/D, monocyte-dendritic cell progenitors; E/B/M, eosinophil, basophil, mast cell progenitors; MEP, megakaryocytic-erythroid progenitors; MkP, megakaryocytic progenitors; EP, erythroid progenitors; PreB, precursor B-cells.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0009.jpg" />
+</fig>
+<fig id="F10" orientation="portrait" position="anchor">
+<label>Extended Data Figure 5.</label>
+<caption>
+<title>Results of GoT analysis is robust to various amplicon UMI thresholds and linear modeling.</title>
+<p id="P51">
+<bold>a,</bold> Wildtype and mutant cell frequency in HSPCs vs. MkPs with variable minimum genotyping UMI thresholds (Fisher’s exact test, two-sided, see <xref rid="SD7" ref-type="supplementary-material">Supplementary Table 6</xref> for sample size). <bold>b,</bold> Pseudotime comparison between wildtype and mutant cells with increasing number of thresholds for targeted genotyping UMI (t-test, two-sided, <xref rid="SD7" ref-type="supplementary-material">Supplementary Table 6</xref>). <bold>c,</bold> Pseudotime comparison between mutant and wildtype cells with UMI threshold of 1 (Extended Data Figure 5b) with statistical test using a generalized linear model including mutation status and total number of amplicon UMIs per cell. <bold>d,</bold> Across 100 iterations, the genotyping amplicon UMIs were downsampled to one per cell and mutant cell frequency was determined for MkPs or precursor B-cells (PreB). This frequency was then divided by the total mutant cell frequency across all progenitor subsets for each of the 100 iterations. Mean ± standard deviation (SD) after n = 100 down-sampling iterations (Wilcoxon rank-sum test, two sided). ET samples with at least 20 cells in each cluster were analyzed. e, Variant allele fraction of <italic toggle="yes">CALR</italic> mutation in CD34<sup>+</sup>, CD38<sup>−</sup> (left), CD34<sup>+</sup>, CD38<sup>+</sup> (middle) and CD34<sup>+</sup>, CD10<sup>+</sup> (right) FACS-sorted peripheral blood cells from patients with ET determined by droplet digital (dd) PCR.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0010.jpg" />
+</fig>
+<fig id="F11" orientation="portrait" position="anchor">
+<label>Extended Data Figure 6.</label>
+<caption>
+<title>Cell cycle module expression in mutant and wildtype progenitor cells.</title>
+<p id="P52">
+<bold>a,</bold> S phase and G2M phase gene module expression in wildtype (wildtype) vs. mutant (mutant) cells in HSPC and MkP clusters from ET patient samples. Cell cycle module score represents sum of S phase and G2M phase gene module expression (Wilcoxon rank-sum test, two-sided, see <xref rid="S9" ref-type="sec">Methods</xref> and <xref rid="SD7" ref-type="supplementary-material">Supplementary Table 6</xref> for sample size). Analysis performed for clusters with at least 20 cells. <bold>b,</bold> Ratio of committed progenitor priming module expression of mutant and wildtype hematopoietic stem progenitor cells (HSPCs). One mutant and one wildtype HSPCs were randomly sampled from ET01-ET05 for each round of analysis (n = 1000 iterations, Wilcoxon-rank sum test, two-sided).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0011.jpg" />
+</fig>
+<fig id="F12" orientation="portrait" position="anchor">
+<label>Extended Data Figure 7.</label>
+<caption>
+<title>ATF6 and IRE1 branches of the unfolded protein response are activated in <italic toggle="yes">CALR</italic>-mutated progenitor cells.</title>
+<p id="P53">By samples, expression of ATF6-, PERK- and XBP1-target genes in the unfolded protein response in <italic toggle="yes">CALR</italic> wildtype and mutant MkPs and HSPCs (Wilcoxon rank-sum test, two-sided).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0012.jpg" />
+</fig>
+<fig id="F13" orientation="portrait" position="anchor">
+<label>Extended Data Figure 8.</label>
+<caption>
+<title>
+<italic toggle="yes">CALR</italic>-mutated hematopoietic progenitor cells from myelofibrosis show upregulation of the IRE1-unfolded protein response.</title>
+<p id="P54">
+<bold>a,</bold> t-SNE projection of CD34<sup>+</sup> progenitor cells from samples MF01-MF04, after integration and batch-correction using the Seurat package (see <xref rid="S9" ref-type="sec">Methods</xref>, n = 11,093). <bold>b,</bold> t-SNE projection of CD34<sup>+</sup> progenitor cells from samples MF01-MF04 labeled with pseuodotime<sup>
+<xref rid="R21" ref-type="bibr">21</xref>
+</sup> (left, n = 11,093). Pseudotime comparison between wildtype (n = 2221) and mutant (n = 7483) cells. <italic toggle="yes">P</italic>-values from likelihood ratio tests of linear mixed model (LMM) with genotype as fixed effect and individual patient samples as random effect, against the model without the genotype effect (see <xref rid="S9" ref-type="sec">Methods</xref>). <bold>c,</bold> Cell cycle module score comparison between wildtype and mutant cells in MF patients (Wilcoxon rank-sum test, two-sided). <bold>d,</bold> Ratio of TGFβ signaling pathway gene expression of mutant and wildtype MkPs. One mutant and one wildtype MkPs were randomly sampled for each round of analysis (n = 100 iterations; Wilcoxon-rank sum test, two-sided). <bold>e,</bold> Differentially expressed genes between wildtype MkPs with high cell cycle expression (n = 220) vs. wildtype MkPs with low cell cycle expression (n = 110) common across patient samples MF02-MF04. <italic toggle="yes">P</italic>-values were combined using Fisher combine test with Benjamini-Hochberg adjustments. Weighted average of log<sub>2</sub>(fold change) based on cell number across samples is shown (see <xref rid="S9" ref-type="sec">Methods</xref>).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0013.jpg" />
+</fig>
+<fig id="F14" orientation="portrait" position="anchor">
+<label>Extended Data Figure 9.</label>
+<caption>
+<title>Deciphering subclonal progenitor identities using multiplex GoT and targeting loci distant from transcript ends using circularization GoT.</title>
+<p id="P55">
+<bold>a,</bold> Single-cell cloning assay of peripheral blood cells from MF05 patient (see <xref rid="S9" ref-type="sec">Methods</xref>). <bold>b,</bold> Rate of targeted locus capture (%) as a function of gene expression and distance of targeted locus from the transcript ends. <bold>c,</bold> Distance of mutation locus from transcript ends for pan-cancer drivers and their frequencies based on the number of times reported in the Catalogue of Somatic Mutations in Cancer (COSMIC) database. Mutations are annotated as oncogenes, tumor suppressor genes, or passengers (as defined in Vogelstein <italic toggle="yes">et al</italic>. 2013<sup>
+<xref rid="R60" ref-type="bibr">60</xref>
+</sup> and Bailey <italic toggle="yes">et al</italic>. 2018<sup>
+<xref rid="R61" ref-type="bibr">61</xref>
+</sup>). Relative density of each subclass of mutations from the closer end (i.e. 3’ or 5’) is shown in the upper panel. <bold>d,</bold> Schematic of analysis of Oxford Nanopore Technology (ONT) sequencing reads. <bold>e,</bold> Frequency of <italic toggle="yes">SF3B1</italic> mutant and wildtype reads of linear GoT amplicon library sequenced with ONT. <bold>f,</bold> Analysis of <italic toggle="yes">SF3B1</italic> amplicon reads sequenced by Oxford Nanopore Technology (ONT) for inter-transcript PCR recombination by mapping 50 bps at the opposite end of the targeted locus showing only 2.2% of fragments that reflect inter-transcript recombination. <bold>g,</bold> Pairwise difference of read lengths for duplicate reads (i.e. reads with the same CB+UMI barcodes) of <italic toggle="yes">SF3B1</italic> amplicon library sequenced with ONT, showing consistent read length of duplicates supporting a low rate of intra-transcript PCR recombination. <bold>h,</bold> Comparison of genotype assignment for <italic toggle="yes">CALR</italic> in patient sample MF01 between linear GoT and circularization GoT after downsampling reads to 300K with 10 iterations (n = 320 cells). <bold>i,</bold> Comparison of <italic toggle="yes">CALR</italic>-mutant UMI fraction per cell in patient sample MF01 between linear GoT and circularization GoT after downsampling reads to 300K with 10 iterations (n = 320 cells, Pearson’s correlation, F-test).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0014.jpg" />
+</fig>
+<fig id="F15" orientation="portrait" position="anchor">
+<label>Extended Data Figure 10.</label>
+<caption>
+<title>Evaluation of barcode replacement in IronThrone GoT processing.</title>
+<p id="P56">
+<bold>a,</bold> Fraction of reads with cell barcodes (CB) that are not perfectly matched to the whitelist CB from the species-mixing experiment. &gt;Hamm-1, filtered reads with barcodes that are greater than 1-Hamming distance away from whitelisted barcodes (n = 139,422 reads); Not significant, filtered reads with barcodes that are 1-Hamming distance away from the whitelisted barcodes but no statistical significance (posterior probability &lt; 0.99, n = 14830 reads); replaced, rescued reads with barcodes that have candidates of 1-Hamming distance away from the whitelisted barcodes with statistical significance (posterior probability ≥ 0.99, n = 224085 reads). <bold>b,</bold> Number of supporting reads per candidate barcode and base quality at the differing base positions and <bold>c,</bold> across base positions. Wilcoxon rank-sum tests (two-sided) were applied to compare not replaced (n = 14,830) and replaced (n = 224,085) barcodes. <bold>d,</bold> Correlation between the number of supporting reads per candidate barcode and median base quality at the differing base (two-tailed Pearson’s correlation, F-test). <bold>e,</bold> Distribution of prior and posterior probabilities from not significant (n = 14,830) and replaced (n = 224,085) barcodes. The dashed red line represents the posterior probability cutoff (0.99). <bold>f-h,</bold> To further evaluate the efficiency of barcode replacement, we generated synthetic CB by randomly changing one base in whitelist CBs (n = 100 iterations). <bold>f,</bold> Fraction of reads with CB that are not identical to the whitelist CB (n = 100 iterations). Percentage of replaced reads were 99.1% ± 0.001% (median ± absolute deviation) in 1-base changed, 1.1% ± 0.002% in 2-bases changed, and 0.7 ± 0.001% in 3-bases changed simulations. <bold>g,</bold> Determination of whether replaced CB are identical to the original CB. In 1-base change simulations, percentage of reads with replaced CB that were identical to the original CB was 100.0 ± 0.0% (median ± absolute deviation of 100 iterations). <bold>h,</bold> Estimation of prediction power for classifying CB from 1-base changed simulations (n = 100 iterations).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0015.jpg" />
+</fig>
+</sec>
+<sec sec-type="supplementary-material" id="SM1">
+<title>Supplementary Material</title>
+<supplementary-material content-type="local-data" id="SD1" position="float" orientation="portrait">
+<label>SI Guide</label>
+<media ns0:href="NIHMS1531200-supplement-SI_Guide.docx" orientation="portrait" id="d36e2353" position="anchor" />
+</supplementary-material>
+<supplementary-material content-type="local-data" id="SD2" position="float" orientation="portrait">
+<label>sup tab 1</label>
+<media ns0:href="NIHMS1531200-supplement-sup_tab_1.xlsx" orientation="portrait" id="d36e2357" position="anchor" />
+</supplementary-material>
+<supplementary-material content-type="local-data" id="SD3" position="float" orientation="portrait">
+<label>sup tab 2</label>
+<media ns0:href="NIHMS1531200-supplement-sup_tab_2.xlsx" orientation="portrait" id="d36e2361" position="anchor" />
+</supplementary-material>
+<supplementary-material content-type="local-data" id="SD4" position="float" orientation="portrait">
+<label>sup tab 3</label>
+<media ns0:href="NIHMS1531200-supplement-sup_tab_3.xlsx" orientation="portrait" id="d36e2365" position="anchor" />
+</supplementary-material>
+<supplementary-material content-type="local-data" id="SD5" position="float" orientation="portrait">
+<label>sup tab 4</label>
+<media ns0:href="NIHMS1531200-supplement-sup_tab_4.xlsx" orientation="portrait" id="d36e2369" position="anchor" />
+</supplementary-material>
+<supplementary-material content-type="local-data" id="SD6" position="float" orientation="portrait">
+<label>sup tab 5</label>
+<media ns0:href="NIHMS1531200-supplement-sup_tab_5.xlsx" orientation="portrait" id="d36e2373" position="anchor" />
+</supplementary-material>
+<supplementary-material content-type="local-data" id="SD7" position="float" orientation="portrait">
+<label>sup tab 6</label>
+<media ns0:href="NIHMS1531200-supplement-sup_tab_6.xlsx" orientation="portrait" id="d36e2377" position="anchor" />
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack id="S26">
+<title>ACKNOWLEDGMENTS</title>
+<p id="P57">The work was enabled by the Weill Cornell Epigenomics Core and Flow Cytometry Core. We thank Dr. Ann Mullally (Brigham and Women’s Hospital) for sharing the cell lines for the species-mixing study and Dr. Nicole Kuchine for helping us acquire a patient sample. R.C. is supported by Lymphoma Research Foundation and Marie Skłodowska-Curie fellowships. G.A.Z. and J.M.S are supported by Cancer Research &amp; Treatment fund (CR&amp;T). D.A.L. is supported by the Burroughs Wellcome Fund Career Award for Medical Scientists, the American Society of Hematology Scholar Award, Pershing Square Sohn Prize for Young Investigators in Cancer Research, and the National Institutes of Health Director’s New Innovator Award (DP2-CA239065). This work was also supported by the Leukemia Lymphoma Society Translational Research Program, Columbia University Physical Sciences in Oncology Center Pilot Grant (U54CA193313), National Heart Lung and Blood Institute (R01HL145283-01), and Stand Up To Cancer Innovative Research Grant (SU2C-AACR-IRG-0616). Stand Up To Cancer is a program of the Entertainment Industry Foundation. Research grants are administered by the American Association for Cancer Research, the scientific partner of SU2C.</p>
+</ack>
+<fn-group>
+<fn fn-type="COI-statement" id="FN4">
+<p id="P58">
+<bold>COMPETING INTERESTS</bold> The authors declare no competing interests.</p>
+</fn>
+<fn id="FN5">
+<p id="P59">
+<bold>Data availability.</bold> All of the sequencing data is available via Gene Expression Omnibus (GEO) under the accession number <ext-link ext-link-type="pmc:entrez-geo" ns0:href="GSE117826">GSE117826</ext-link>.</p>
+</fn>
+<fn id="FN6">
+<p id="P60">
+<bold>Code availability.</bold> IronThrone-GoT pipeline is available on GitHub at <ext-link ext-link-type="uri" ns0:href="https://github.com/landau-lab/IronThrone-GoT">https://github.com/landau-lab/IronThrone-GoT</ext-link>.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>REFERENCES</title>
+<ref id="R1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Sperling</surname>
+<given-names>AS</given-names>
+</name>, <name name-style="western">
+<surname>Gibson</surname>
+<given-names>CJ</given-names>
+</name> &amp; <name name-style="western">
+<surname>Ebert</surname>
+<given-names>BL</given-names>
+</name>
+<article-title>The genetics of myelodysplastic syndrome: from clonal haematopoiesis to secondary leukaemia</article-title>. <source>Nat Rev Cancer</source>
+<volume>17</volume>, <fpage>5</fpage>–<lpage>19</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">27834397</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc.2016.112</pub-id>
+<pub-id pub-id-type="pmcid">PMC5470392</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Landau</surname>
+<given-names>DA</given-names>
+</name>, <etal />
+<article-title>The evolutionary landscape of chronic lymphocytic leukemia treated with ibrutinib targeted therapy</article-title>. <source>Nat Commun</source>
+<volume>8</volume>, <fpage>2185</fpage> (<year>2017</year>).<pub-id pub-id-type="pmid">29259203</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-017-02329-y</pub-id>
+<pub-id pub-id-type="pmcid">PMC5736707</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Burger</surname>
+<given-names>JA</given-names>
+</name>, <etal />
+<article-title>Clonal evolution in patients with chronic lymphocytic leukaemia developing resistance to BTK inhibition</article-title>. <source>Nat Commun</source>
+<volume>7</volume>, <fpage>11589</fpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27199251</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms11589</pub-id>
+<pub-id pub-id-type="pmcid">PMC4876453</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Landau</surname>
+<given-names>DA</given-names>
+</name>, <etal />
+<article-title>Evolution and impact of subclonal mutations in chronic lymphocytic leukemia</article-title>. <source>Cell</source>
+<volume>152</volume>, <fpage>714</fpage>–<lpage>726</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23415222</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2013.01.019</pub-id>
+<pub-id pub-id-type="pmcid">PMC3575604</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Landau</surname>
+<given-names>DA</given-names>
+</name>, <etal />
+<article-title>Mutations driving CLL and their evolution in progression and relapse</article-title>. <source>Nature</source>
+<volume>526</volume>, <fpage>525</fpage>–<lpage>530</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26466571</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature15395</pub-id>
+<pub-id pub-id-type="pmcid">PMC4815041</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R6">
+<label>6.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Nangalia</surname>
+<given-names>J</given-names>
+</name>, <etal />
+<article-title>Somatic CALR mutations in myeloproliferative neoplasms with nonmutated JAK2</article-title>. <source>N Engl J Med</source>
+<volume>369</volume>, <fpage>2391</fpage>–<lpage>2405</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">24325359</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1312542</pub-id>
+<pub-id pub-id-type="pmcid">PMC3966280</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Klampfl</surname>
+<given-names>T</given-names>
+</name>, <etal />
+<article-title>Somatic mutations of calreticulin in myeloproliferative neoplasms</article-title>. <source>N Engl J Med</source>
+<volume>369</volume>, <fpage>2379</fpage>–<lpage>2390</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">24325356</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1311347</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Giustacchini</surname>
+<given-names>A</given-names>
+</name>, <etal />
+<article-title>Single-cell transcriptomics uncovers distinct molecular signatures of stem cells in chronic myeloid leukemia</article-title>. <source>Nat Med</source>
+<volume>23</volume>, <fpage>692</fpage>–<lpage>702</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28504724</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.4336</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Cheow</surname>
+<given-names>LF</given-names>
+</name>, <etal />
+<article-title>Single-cell multimodal profiling reveals cellular epigenetic heterogeneity</article-title>. <source>Nat Methods</source>
+<volume>13</volume>, <fpage>833</fpage>–<lpage>836</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27525975</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmeth.3961</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Macosko</surname>
+<given-names>EZ</given-names>
+</name>, <etal />
+<article-title>Highly Parallel Genome-wide Expression Profiling of Individual Cells Using Nanoliter Droplets</article-title>. <source>Cell</source>
+<volume>161</volume>, <fpage>1202</fpage>–<lpage>1214</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26000488</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2015.05.002</pub-id>
+<pub-id pub-id-type="pmcid">PMC4481139</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Klein</surname>
+<given-names>AM</given-names>
+</name>, <etal />
+<article-title>Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells</article-title>. <source>Cell</source>
+<volume>161</volume>, <fpage>1187</fpage>–<lpage>1201</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26000487</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2015.04.044</pub-id>
+<pub-id pub-id-type="pmcid">PMC4441768</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Elf</surname>
+<given-names>S</given-names>
+</name>, <etal />
+<article-title>Mutant Calreticulin Requires Both Its Mutant C-terminus and the Thrombopoietin Receptor for Oncogenic Transformation</article-title>. <source>Cancer Discov</source>
+<volume>6</volume>, <fpage>368</fpage>–<lpage>381</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26951227</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/2159-8290.CD-15-1434</pub-id>
+<pub-id pub-id-type="pmcid">PMC4851866</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Defour</surname>
+<given-names>JP</given-names>
+</name>, <name name-style="western">
+<surname>Chachoua</surname>
+<given-names>I</given-names>
+</name>, <name name-style="western">
+<surname>Pecquet</surname>
+<given-names>C</given-names>
+</name> &amp; <name name-style="western">
+<surname>Constantinescu</surname>
+<given-names>SN</given-names>
+</name>
+<article-title>Oncogenic activation of MPL/thrombopoietin receptor by 17 mutations at W515: implications for myeloproliferative neoplasms</article-title>. <source>Leukemia</source>
+<volume>30</volume>, <fpage>1214</fpage>–<lpage>1216</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26437785</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/leu.2015.271</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R14">
+<label>14.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Kollmann</surname>
+<given-names>K</given-names>
+</name>, <etal />
+<article-title>A novel signalling screen demonstrates that CALR mutations activate essential MAPK signalling and facilitate megakaryocyte differentiation</article-title>. <source>Leukemia</source>
+<volume>31</volume>, <fpage>934</fpage>–<lpage>944</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">27740635</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/leu.2016.280</pub-id>
+<pub-id pub-id-type="pmcid">PMC5383931</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Marty</surname>
+<given-names>C</given-names>
+</name>, <etal />
+<article-title>Calreticulin mutants in mice induce an MPL-dependent thrombocytosis with frequent progression to myelofibrosis</article-title>. <source>Blood</source>
+<volume>127</volume>, <fpage>1317</fpage>–<lpage>1324</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26608331</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2015-11-679571</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R16">
+<label>16.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Nivarthi</surname>
+<given-names>H</given-names>
+</name>, <etal />
+<article-title>Thrombopoietin receptor is required for the oncogenic function of CALR mutants</article-title>. <source>Leukemia</source>
+<volume>30</volume>, <fpage>1759</fpage>–<lpage>1763</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26883579</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/leu.2016.32</pub-id>
+<pub-id pub-id-type="pmcid">PMC4980558</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Satija</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Farrell</surname>
+<given-names>JA</given-names>
+</name>, <name name-style="western">
+<surname>Gennert</surname>
+<given-names>D</given-names>
+</name>, <name name-style="western">
+<surname>Schier</surname>
+<given-names>AF</given-names>
+</name> &amp; <name name-style="western">
+<surname>Regev</surname>
+<given-names>A</given-names>
+</name>
+<article-title>Spatial reconstruction of single-cell gene expression data</article-title>. <source>Nat Biotechnol</source>
+<volume>33</volume>, <fpage>495</fpage>–<lpage>502</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25867923</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt.3192</pub-id>
+<pub-id pub-id-type="pmcid">PMC4430369</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R18">
+<label>18.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Stuart</surname>
+<given-names>T</given-names>
+</name>, <etal />
+<article-title>Comprehensive integration of single cell data</article-title>. <source>bioRxiv</source>, <volume>460147</volume> (<year>2018</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2019.05.031</pub-id>
+<pub-id pub-id-type="pmcid">PMC6687398</pub-id>
+<pub-id pub-id-type="pmid">31178118</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R19">
+<label>19.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Lopez</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Regier</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Cole</surname>
+<given-names>MB</given-names>
+</name>, <name name-style="western">
+<surname>Jordan</surname>
+<given-names>MI</given-names>
+</name> &amp; <name name-style="western">
+<surname>Yosef</surname>
+<given-names>N</given-names>
+</name>
+<article-title>Deep generative modeling for single-cell transcriptomics</article-title>. <source>Nat Methods</source>
+<volume>15</volume>, <fpage>1053</fpage>–<lpage>1058</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">30504886</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41592-018-0229-2</pub-id>
+<pub-id pub-id-type="pmcid">PMC6289068</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R20">
+<label>20.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Trapnell</surname>
+<given-names>C</given-names>
+</name>, <etal />
+<article-title>The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells</article-title>. <source>Nat Biotechnol</source>
+<volume>32</volume>, <fpage>381</fpage>–<lpage>386</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24658644</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt.2859</pub-id>
+<pub-id pub-id-type="pmcid">PMC4122333</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R21">
+<label>21.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Farrell</surname>
+<given-names>JA</given-names>
+</name>, <etal />
+<article-title>Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis</article-title>. <source>Science</source>
+<volume>360</volume>(<year>2018</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aar3131</pub-id>
+<pub-id pub-id-type="pmcid">PMC6247916</pub-id>
+<pub-id pub-id-type="pmid">29700225</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R22">
+<label>22.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>E</given-names>
+</name>, <etal />
+<article-title>Distinct clinical phenotypes associated with JAK2V617F reflect differential STAT1 signaling</article-title>. <source>Cancer Cell</source>
+<volume>18</volume>, <fpage>524</fpage>–<lpage>535</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">21074499</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccr.2010.10.013</pub-id>
+<pub-id pub-id-type="pmcid">PMC2996868</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R23">
+<label>23.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Rampal</surname>
+<given-names>R</given-names>
+</name>, <etal />
+<article-title>Integrated genomic analysis illustrates the central role of JAK-STAT pathway activation in myeloproliferative neoplasm pathogenesis</article-title>. <source>Blood</source>
+<volume>123</volume>, <fpage>e123</fpage>–<lpage>133</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24740812</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2014-02-554634</pub-id>
+<pub-id pub-id-type="pmcid">PMC4041169</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R24">
+<label>24.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Tirosh</surname>
+<given-names>I</given-names>
+</name>, <etal />
+<article-title>Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq</article-title>. <source>Science</source>
+<volume>352</volume>, <fpage>189</fpage>–<lpage>196</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27124452</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aad0501</pub-id>
+<pub-id pub-id-type="pmcid">PMC4944528</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R25">
+<label>25.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Georgantas</surname>
+<given-names>RW</given-names>
+<suffix>3rd</suffix>
+</name>, <etal />
+<article-title>Microarray and serial analysis of gene expression analyses identify known and novel transcripts overexpressed in hematopoietic stem cells</article-title>. <source>Cancer Res</source>
+<volume>64</volume>, <fpage>4434</fpage>–<lpage>4441</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15231652</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-03-3247</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R26">
+<label>26.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Velten</surname>
+<given-names>L</given-names>
+</name>, <etal />
+<article-title>Human haematopoietic stem cell lineage commitment is a continuous process</article-title>. <source>Nat Cell Biol</source>
+<volume>19</volume>, <fpage>271</fpage>–<lpage>281</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28319093</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncb3493</pub-id>
+<pub-id pub-id-type="pmcid">PMC5496982</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R27">
+<label>27.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Hetz</surname>
+<given-names>C</given-names>
+</name> &amp; <name name-style="western">
+<surname>Papa</surname>
+<given-names>FR</given-names>
+</name>
+<article-title>The Unfolded Protein Response and Cell Fate Control</article-title>. <source>Mol Cell</source>
+<volume>69</volume>, <fpage>169</fpage>–<lpage>181</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29107536</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molcel.2017.06.017</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R28">
+<label>28.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Pronier</surname>
+<given-names>E</given-names>
+</name>, <etal />
+<article-title>Targeting the CALR interactome in myeloproliferative neoplasms</article-title>. <source>JCI Insight</source>
+<volume>3</volume>(<year>2018</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/jci.insight.122703</pub-id>
+<pub-id pub-id-type="pmcid">PMC6302938</pub-id>
+<pub-id pub-id-type="pmid">30429377</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R29">
+<label>29.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Lau</surname>
+<given-names>WW</given-names>
+</name>, <name name-style="western">
+<surname>Hannah</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Green</surname>
+<given-names>AR</given-names>
+</name> &amp; <name name-style="western">
+<surname>Gottgens</surname>
+<given-names>B</given-names>
+</name>
+<article-title>The JAK-STAT signaling pathway is differentially activated in CALR-positive compared with JAK2V617F-positive ET patients</article-title>. <source>Blood</source>
+<volume>125</volume>, <fpage>1679</fpage>–<lpage>1681</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25745188</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2014-12-618074</pub-id>
+<pub-id pub-id-type="pmcid">PMC4471770</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R30">
+<label>30.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Shivarov</surname>
+<given-names>V</given-names>
+</name>, <name name-style="western">
+<surname>Ivanova</surname>
+<given-names>M</given-names>
+</name> &amp; <name name-style="western">
+<surname>Tiu</surname>
+<given-names>RV</given-names>
+</name>
+<article-title>Mutated calreticulin retains structurally disordered C terminus that cannot bind Ca(2+): some mechanistic and therapeutic implications</article-title>. <source>Blood Cancer J</source>
+<volume>4</volume>, <fpage>e185</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24562385</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bcj.2014.7</pub-id>
+<pub-id pub-id-type="pmcid">PMC3944664</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R31">
+<label>31.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Zini</surname>
+<given-names>R</given-names>
+</name>, <etal />
+<article-title>CALR mutational status identifies different disease subtypes of essential thrombocythemia showing distinct expression profiles</article-title>. <source>Blood Cancer J</source>
+<volume>7</volume>, <fpage>638</fpage> (<year>2017</year>).<pub-id pub-id-type="pmid">29217833</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41408-017-0010-2</pub-id>
+<pub-id pub-id-type="pmcid">PMC5802509</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R32">
+<label>32.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</name>, <etal />
+<article-title>ATF6alpha optimizes long-term endoplasmic reticulum function to protect cells from chronic stress</article-title>. <source>Dev Cell</source>
+<volume>13</volume>, <fpage>351</fpage>–<lpage>364</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">17765679</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.devcel.2007.07.005</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R33">
+<label>33.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>van Galen</surname>
+<given-names>P</given-names>
+</name>, <etal />
+<article-title>The unfolded protein response governs integrity of the haematopoietic stem-cell pool during stress</article-title>. <source>Nature</source>
+<volume>510</volume>, <fpage>268</fpage>–<lpage>272</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24776803</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature13228</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R34">
+<label>34.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>AH</given-names>
+</name>, <name name-style="western">
+<surname>Iwakoshi</surname>
+<given-names>NN</given-names>
+</name> &amp; <name name-style="western">
+<surname>Glimcher</surname>
+<given-names>LH</given-names>
+</name>
+<article-title>XBP-1 regulates a subset of endoplasmic reticulum resident chaperone genes in the unfolded protein response</article-title>. <source>Mol Cell Biol</source>
+<volume>23</volume>, <fpage>7448</fpage>–<lpage>7459</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">14559994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/MCB.23.21.7448-7459.2003</pub-id>
+<pub-id pub-id-type="pmcid">PMC207643</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R35">
+<label>35.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Cubillos-Ruiz</surname>
+<given-names>JR</given-names>
+</name>, <etal />
+<article-title>ER Stress Sensor XBP1 Controls Anti-tumor Immunity by Disrupting Dendritic Cell Homeostasis</article-title>. <source>Cell</source>
+<volume>161</volume>, <fpage>1527</fpage>–<lpage>1538</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26073941</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2015.05.025</pub-id>
+<pub-id pub-id-type="pmcid">PMC4580135</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R36">
+<label>36.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Yoshida</surname>
+<given-names>H</given-names>
+</name>, <name name-style="western">
+<surname>Matsui</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Okada</surname>
+<given-names>T</given-names>
+</name> &amp; <name name-style="western">
+<surname>Mori</surname>
+<given-names>K</given-names>
+</name>
+<article-title>XBP1 mRNA is induced by ATF6 and spliced by IRE1 in response to ER stress to produce a highly active transcription factor</article-title>. <source>Cell</source>
+<volume>107</volume>, <fpage>881</fpage>–<lpage>891</lpage> (<year>2001</year>).<pub-id pub-id-type="pmid">11779464</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0092-8674(01)00611-0</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R37">
+<label>37.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Luo</surname>
+<given-names>JL</given-names>
+</name>, <name name-style="western">
+<surname>Kamata</surname>
+<given-names>H</given-names>
+</name> &amp; <name name-style="western">
+<surname>Karin</surname>
+<given-names>M</given-names>
+</name>
+<article-title>IKK/NF-kappaB signaling: balancing life and death--a new approach to cancer therapy</article-title>. <source>J Clin Invest</source>
+<volume>115</volume>, <fpage>2625</fpage>–<lpage>2632</lpage> (<year>2005</year>).<pub-id pub-id-type="pmid">16200195</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI26322</pub-id>
+<pub-id pub-id-type="pmcid">PMC1236696</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R38">
+<label>38.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Stein</surname>
+<given-names>SJ</given-names>
+</name> &amp; <name name-style="western">
+<surname>Baldwin</surname>
+<given-names>AS</given-names>
+</name>
+<article-title>Deletion of the NF-kappaB subunit p65/RelA in the hematopoietic compartment leads to defects in hematopoietic stem cell function</article-title>. <source>Blood</source>
+<volume>121</volume>, <fpage>5015</fpage>–<lpage>5024</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23670180</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2013-02-486142</pub-id>
+<pub-id pub-id-type="pmcid">PMC3689248</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R39">
+<label>39.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Abu-Zeinah</surname>
+<given-names>G</given-names>
+</name>, <etal />
+<article-title>Myeloproliferative Neoplasm (MPN) Driver Mutations Are Enriched during Hematopoietic Stem Cell Differentiation in Patterns That Correlate with Clinical Phenotype and Treatment Response</article-title>. <source>Blood</source>
+<volume>132</volume>, <fpage>4317</fpage> (<year>2018</year>).</mixed-citation>
+</ref>
+<ref id="R40">
+<label>40.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Castro-Malaspina</surname>
+<given-names>H</given-names>
+</name>, <name name-style="western">
+<surname>Rabellino</surname>
+<given-names>EM</given-names>
+</name>, <name name-style="western">
+<surname>Yen</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Nachman</surname>
+<given-names>RL</given-names>
+</name> &amp; <name name-style="western">
+<surname>Moore</surname>
+<given-names>MA</given-names>
+</name>
+<article-title>Human megakaryocyte stimulation of proliferation of bone marrow fibroblasts</article-title>. <source>Blood</source>
+<volume>57</volume>, <fpage>781</fpage>–<lpage>787</lpage> (<year>1981</year>).<pub-id pub-id-type="pmid">7470627</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R41">
+<label>41.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Ciurea</surname>
+<given-names>SO</given-names>
+</name>, <etal />
+<article-title>Pivotal contributions of megakaryocytes to the biology of idiopathic myelofibrosis</article-title>. <source>Blood</source>
+<volume>110</volume>, <fpage>986</fpage>–<lpage>993</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">17473062</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2006-12-064626</pub-id>
+<pub-id pub-id-type="pmcid">PMC1924766</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R42">
+<label>42.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Terui</surname>
+<given-names>T</given-names>
+</name>, <etal />
+<article-title>The production of transforming growth factor-beta in acute megakaryoblastic leukemia and its possible implications in myelofibrosis</article-title>. <source>Blood</source>
+<volume>75</volume>, <fpage>1540</fpage>–<lpage>1548</lpage> (<year>1990</year>).<pub-id pub-id-type="pmid">2317561</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R43">
+<label>43.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Obeng</surname>
+<given-names>EA</given-names>
+</name>, <etal />
+<article-title>Physiologic Expression of Sf3b1(K700E) Causes Impaired Erythropoiesis, Aberrant Splicing, and Sensitivity to Therapeutic Spliceosome Modulation</article-title>. <source>Cancer Cell</source>
+<volume>30</volume>, <fpage>404</fpage>–<lpage>417</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27622333</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccell.2016.08.006</pub-id>
+<pub-id pub-id-type="pmcid">PMC5023069</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R44">
+<label>44.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Saikia</surname>
+<given-names>M</given-names>
+</name>, <etal />
+<article-title>Simultaneous multiplexed amplicon sequencing and transcriptome profiling in single cells</article-title>. <source>Nat Methods</source>
+<volume>16</volume>, <fpage>59</fpage>–<lpage>62</lpage> (<year>2019</year>).<pub-id pub-id-type="pmid">30559431</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41592-018-0259-9</pub-id>
+<pub-id pub-id-type="pmcid">PMC6378878</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R45">
+<label>45.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Hill</surname>
+<given-names>AJ</given-names>
+</name>, <etal />
+<article-title>On the design of CRISPR-based single-cell molecular screens</article-title>. <source>Nat Methods</source>
+<volume>15</volume>, <fpage>271</fpage>–<lpage>274</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29457792</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmeth.4604</pub-id>
+<pub-id pub-id-type="pmcid">PMC5882576</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R46">
+<label>46.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Kleppe</surname>
+<given-names>M</given-names>
+</name>, <etal />
+<article-title>Dual Targeting of Oncogenic Activation and Inflammatory Signaling Increases Therapeutic Efficacy in Myeloproliferative Neoplasms</article-title>. <source>Cancer Cell</source>
+<volume>33</volume>, <fpage>785</fpage>–<lpage>787</lpage> (<year>2018</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccell.2018.03.024</pub-id>
+<pub-id pub-id-type="pmcid">PMC5908465</pub-id>
+<pub-id pub-id-type="pmid">29634952</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R47">
+<label>47.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Mu</surname>
+<given-names>P</given-names>
+</name>, <etal />
+<article-title>SOX2 promotes lineage plasticity and antiandrogen resistance in TP53- and RB1-deficient prostate cancer</article-title>. <source>Science</source>
+<volume>355</volume>, <fpage>84</fpage>–<lpage>88</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28059768</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aah4307</pub-id>
+<pub-id pub-id-type="pmcid">PMC5247742</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R48">
+<label>48.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Suva</surname>
+<given-names>ML</given-names>
+</name>, <etal />
+<article-title>Reconstructing and reprogramming the tumor-propagating potential of glioblastoma stem-like cells</article-title>. <source>Cell</source>
+<volume>157</volume>, <fpage>580</fpage>–<lpage>594</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24726434</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2014.02.030</pub-id>
+<pub-id pub-id-type="pmcid">PMC4004670</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R49">
+<label>49.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Geyer</surname>
+<given-names>JT</given-names>
+</name>, <etal />
+<article-title>Oligomonocytic chronic myelomonocytic leukemia (chronic myelomonocytic leukemia without absolute monocytosis) displays a similar clinicopathologic and mutational profile to classical chronic myelomonocytic leukemia</article-title>. <source>Mod Pathol</source>
+<volume>30</volume>, <fpage>1213</fpage>–<lpage>1222</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28548124</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/modpathol.2017.45</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R50">
+<label>50.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Butler</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Hoffman</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Smibert</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Papalexi</surname>
+<given-names>E</given-names>
+</name> &amp; <name name-style="western">
+<surname>Satija</surname>
+<given-names>R</given-names>
+</name>
+<article-title>Integrating single-cell transcriptomic data across different conditions, technologies, and species</article-title>. <source>Nature Biotechnology</source>
+<volume>36</volume>, <fpage>411</fpage> (<year>2018</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt.4096</pub-id>
+<pub-id pub-id-type="pmcid">PMC6700744</pub-id>
+<pub-id pub-id-type="pmid">29608179</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R51">
+<label>51.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Bolker</surname>
+<given-names>BM</given-names>
+</name>, <etal />
+<article-title>Generalized linear mixed models: a practical guide for ecology and evolution</article-title>. <source>Trends Ecol Evol</source>
+<volume>24</volume>, <fpage>127</fpage>–<lpage>135</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19185386</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tree.2008.10.008</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R52">
+<label>52.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Liaw</surname>
+<given-names>A</given-names>
+</name> &amp; <name name-style="western">
+<surname>Wiener</surname>
+<given-names>M</given-names>
+</name>
+<article-title>Classification and Regression by randomForest</article-title>. <source>R News</source>
+<volume>2</volume>, <fpage>18</fpage>–<lpage>22</lpage> (<year>2002</year>).</mixed-citation>
+</ref>
+<ref id="R53">
+<label>53.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Reinius</surname>
+<given-names>B</given-names>
+</name> &amp; <name name-style="western">
+<surname>Sandberg</surname>
+<given-names>R</given-names>
+</name>
+<article-title>Random monoallelic expression of autosomal genes: stochastic transcription and allele-level regulation</article-title>. <source>Nature Reviews Genetics</source>
+<volume>16</volume>, <fpage>653</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrg3888</pub-id>
+<pub-id pub-id-type="pmid">26442639</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R54">
+<label>54.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Zheng</surname>
+<given-names>GXY</given-names>
+</name>, <etal />
+<article-title>Massively parallel digital transcriptional profiling of single cells</article-title>. <source>Nature Communications</source>
+<volume>8</volume>, <fpage>14049</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms14049</pub-id>
+<pub-id pub-id-type="pmcid">PMC5241818</pub-id>
+<pub-id pub-id-type="pmid">28091601</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R55">
+<label>55.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Ntranos</surname>
+<given-names>V</given-names>
+</name>, <name name-style="western">
+<surname>Yi</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Melsted</surname>
+<given-names>P</given-names>
+</name> &amp; <name name-style="western">
+<surname>Pachter</surname>
+<given-names>L</given-names>
+</name>
+<article-title>A discriminative learning approach to differential expression analysis for single-cell RNA-seq</article-title>. <source>Nat Methods</source>
+<volume>16</volume>, <fpage>163</fpage>–<lpage>166</lpage> (<year>2019</year>).<pub-id pub-id-type="pmid">30664774</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41592-018-0303-9</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R56">
+<label>56.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Reimand</surname>
+<given-names>J</given-names>
+</name>, <etal />
+<article-title>g:Profiler-a web server for functional interpretation of gene lists (2016 update)</article-title>. <source>Nucleic Acids Res</source>
+<volume>44</volume>, <fpage>W83</fpage>–<lpage>89</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27098042</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkw199</pub-id>
+<pub-id pub-id-type="pmcid">PMC4987867</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R57">
+<label>57.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Rhee</surname>
+<given-names>JK</given-names>
+</name>, <name name-style="western">
+<surname>Lee</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Park</surname>
+<given-names>WY</given-names>
+</name>, <name name-style="western">
+<surname>Kim</surname>
+<given-names>YH</given-names>
+</name> &amp; <name name-style="western">
+<surname>Kim</surname>
+<given-names>TM</given-names>
+</name>
+<article-title>Allelic imbalance of somatic mutations in cancer genomes and transcriptomes</article-title>. <source>Sci Rep</source>
+<volume>7</volume>, <fpage>1653</fpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28490743</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-01966-z</pub-id>
+<pub-id pub-id-type="pmcid">PMC5431982</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R58">
+<label>58.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</name>, <etal />
+<article-title>The Sequence Alignment/Map format and SAMtools</article-title>. <source>Bioinformatics</source>
+<volume>25</volume>, <fpage>2078</fpage>–<lpage>2079</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19505943</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btp352</pub-id>
+<pub-id pub-id-type="pmcid">PMC2723002</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R59">
+<label>59.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Forbes</surname>
+<given-names>SA</given-names>
+</name>, <etal />
+<article-title>COSMIC: somatic cancer genetics at high-resolution</article-title>. <source>Nucleic Acids Res</source>
+<volume>45</volume>, <fpage>D777</fpage>–<lpage>D783</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">27899578</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkw1121</pub-id>
+<pub-id pub-id-type="pmcid">PMC5210583</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R60">
+<label>60.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Vogelstein</surname>
+<given-names>B</given-names>
+</name>, <etal />
+<article-title>Cancer genome landscapes</article-title>. <source>Science</source>
+<volume>339</volume>, <fpage>1546</fpage>–<lpage>1558</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23539594</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1235122</pub-id>
+<pub-id pub-id-type="pmcid">PMC3749880</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R61">
+<label>61.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Bailey</surname>
+<given-names>MH</given-names>
+</name>, <etal />
+<article-title>Comprehensive Characterization of Cancer Driver Genes and Mutations</article-title>. <source>Cell</source>
+<volume>174</volume>, <fpage>1034</fpage>–<lpage>1035</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">30096302</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2018.07.034</pub-id>
+<pub-id pub-id-type="pmcid">PMC8045146</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R62">
+<label>62.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Durinck</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Spellman</surname>
+<given-names>PT</given-names>
+</name>, <name name-style="western">
+<surname>Birney</surname>
+<given-names>E</given-names>
+</name> &amp; <name name-style="western">
+<surname>Huber</surname>
+<given-names>W</given-names>
+</name>
+<article-title>Mapping identifiers for the integration of genomic datasets with the R/Bioconductor package biomaRt</article-title>. <source>Nat Protoc</source>
+<volume>4</volume>, <fpage>1184</fpage>–<lpage>1191</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19617889</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nprot.2009.97</pub-id>
+<pub-id pub-id-type="pmcid">PMC3159387</pub-id>
+</mixed-citation>
+</ref>
+<ref id="R63">
+<label>63.</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</name>
+<article-title>Minimap2: pairwise alignment for nucleotide sequences</article-title>. <source>Bioinformatics</source>
+<volume>34</volume>, <fpage>3094</fpage>–<lpage>3100</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29750242</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/bty191</pub-id>
+<pub-id pub-id-type="pmcid">PMC6137996</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+<floats-group>
+<fig id="F1" orientation="portrait" position="float">
+<label>Figure 1.</label>
+<caption>
+<title>GoT provides somatic mutation genotyping for thousands of cancer cells and reveals differential fitness impact of <italic toggle="yes">CALR</italic> mutation in hematopoietic progenitor subsets.</title>
+<p id="P61">
+<bold>a,</bold> Schematic of GoT workflow. <bold>b,</bold> Species-mixing study with mutant <italic toggle="yes">CALR</italic> murine cells and wildtype <italic toggle="yes">CALR</italic> human cells. 10x reads from singlet cells map to human or murine genome (left). Murine vs. human genome alignment of 10x data (y-axis) and GoT data (x-axis, right, n = 1,259 cells). <bold>c,</bold> FACS of CD34<sup>+</sup> cells (left) and UMI per cell (right) for <italic toggle="yes">CALR</italic> transcript (blue shade) or targeted locus (pink shade) from representative ET01 (n = 6811 cells) of 10 independent experiments (<xref rid="F8" ref-type="fig">Extended Data Fig. 3a</xref>,<xref rid="F8" ref-type="fig">b</xref> for replicates). <bold>d,</bold> t-SNE projection of CD34<sup>+</sup> cells from ET patients with cluster assignment and <bold>e,</bold> genotyping data. <bold>f,</bold> Normalized mutant cell frequency (<xref rid="S9" ref-type="sec">Methods</xref>). Bars show aggregate analysis of ET01-ET05 with mean±SD of 100 downsampling iterations to 1 genotyping UMI; points represent mean of n = 100 downsampling iterations for each sample. <bold>g,</bold> Normalized mutant cell frequency; mean±SD of n = 100 downsampling iterations (Wilcoxon rank-sum test, two-sided). <bold>h,</bold> t-SNE projection of ET CD34<sup>+</sup> cells with pseudotime (left) and density plot of wildtype and mutant cells (right). <bold>i,</bold> Pseudotime in wildtype vs. mutant cells. <italic toggle="yes">P</italic>-value from likelihood ratio test of LMM with/without mutation status (<xref rid="S9" ref-type="sec">Methods</xref>). <bold>j,</bold> Bulk VAF of <italic toggle="yes">CALR</italic> mutation in FACS-sorted cells from ET patients by droplet digital (dd) PCR. HSPC, hematopoietic stem progenitor cells; IMP, immature myeloid progenitors; NP, neutrophil progenitors; M/D, monocyte-dendritic cell progenitors; E/B/M, eosinophil, basophil, mast cell progenitors; MEP, megakaryocytic-erythroid progenitors; MkP, megakaryocytic progenitors; EP, erythroid progenitors; PreB, precursor B-cells; cc, cell cycle; WT, wildtype. MUT, mutant; NA, not assignable. In all figures, box plots represent the median, bottom and upper quartiles, whiskers correspond to 1.5x the interquartile range; violin plots depict kernel density estimates to show the density distribution.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0001.jpg" />
+</fig>
+<fig id="F2" orientation="portrait" position="float">
+<label>Figure 2.</label>
+<caption>
+<title>
+<italic toggle="yes">CALR</italic> mutations result in higher proliferative impact on MkPs compared to HSPCs.</title>
+<p id="P62">
+<bold>a,</bold> Expression of representative genes upregulated in <italic toggle="yes">JAK2</italic>-mutated ET cells<sup>
+<xref rid="R22" ref-type="bibr">22</xref>
+</sup> in <italic toggle="yes">CALR</italic> wildtype (n = 157) vs. mutant (n = 85) MkPs from representative ET01. <bold>b,</bold> Heatmap of -log10(<italic toggle="yes">P-</italic>value) from comparisons of expressions of <italic toggle="yes">JAK2</italic>-mutated ET genes between mutant and wildtype cells (<xref rid="SD7" ref-type="supplementary-material">Supplementary Table 6</xref>). <bold>c,</bold> Cell cycle module expression in HSPCs (n = 108 wildtype vs. n = 240 mutant) and MkPs (n = 25 wildtype vs. n = 276 mutant) from ET03 (<xref rid="F11" ref-type="fig">Extended Data Fig. 6a</xref>). <bold>d,</bold> Platelet counts vs. difference of mean cell cycle score (± SE) between wildtype and mutant MkPs (n = 5 samples; F-test). <bold>e,</bold> Expression of MkP and HSC modules in MkPs from ET03. Pie charts of wildtype vs. mutant cell frequencies in HSC<sup>lo</sup>MkP<sup>hi</sup> (n = 121 cells) and HSC<sup>hi</sup>MkP<sup>lo</sup> (n = 28 cells; Fisher’s exact test, two-sided). <bold>f,</bold> Expression of TGFβ and MkP modules in HSPCs from ET01 and cell cycle score in HSPCs in MkP<sup>hi</sup>TGFβ<sup>lo</sup> (n = 127 wildtype vs. n = 41 mutant) and MkP<sup>lo</sup>TGFβ<sup>hi</sup> populations (n = 105 wildtype vs. n = 15 mutant). <italic toggle="yes">P</italic>-values for <bold>a</bold>, <bold>b, c, f</bold> determined by Wilcoxon rank-sum test, two-sided.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0002.jpg" />
+</fig>
+<fig id="F3" orientation="portrait" position="float">
+<label>Figure 3.</label>
+<caption>
+<title>
+<italic toggle="yes">CALR</italic> mutation transcriptional effects are cell identity dependent.</title>
+<p id="P63">
+<bold>a,</bold> Differentially expressed genes between mutant vs. wildtype MkPs and <bold>b,</bold> between mutant vs. wildtype HSPCs across ET01-ET05 samples (<xref rid="SD7" ref-type="supplementary-material">Supplementary Table 6</xref>). <italic toggle="yes">P</italic>-values combined using Fisher combine test with Benjamini-Hochberg adjustment. Key gene set enrichments (hypergeometic test, <xref rid="S9" ref-type="sec">Methods</xref>). <bold>c,</bold> Expression of genes upregulated in UPR branches in MkPs (n = 442 wildtype vs. n = 640 mutant) and HSPCs (n = 1704 wildtype vs. n = 613 mutant) from ET01-ET05. <italic toggle="yes">P</italic>-values from likelihood ratio tests of LMM with and without mutation status (<xref rid="S9" ref-type="sec">Methods</xref>). <bold>d,</bold> Schematic of GoT applied to <italic toggle="yes">XBP1</italic> splice site. <bold>e,</bold> Local regression of total and spliced <italic toggle="yes">XBP1</italic> (<italic toggle="yes">XBP1s</italic>) expression in progenitor cells from samples ET03 and ET04 (n = 1308 wildtype, and n = 1514 mutant; shade: 95% CI, left). <italic toggle="yes">XBP1s</italic> to unspliced <italic toggle="yes">XBP1</italic> ratio in MkPs (n = 115 wildtype vs. n = 248 mutant) and HSPCs (n = 489 wildtype vs. n = 302 mutant; right panel). <bold>f,</bold> Expression of NF-κB pathway and anti-apoptosis genes in HSPC1 (n = 116 wildtype vs. n = 27 mutant), HSPC2 (n = 365 wildtype vs. n = 53 mutant), and HSPC3 (n = 381 wildtype vs. n = 105 mutant) from ET01. <italic toggle="yes">P</italic>-values for panels <bold>e, f</bold> from Wilcoxon rank-sum test, two-sided.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0003.jpg" />
+</fig>
+<fig id="F4" orientation="portrait" position="float">
+<label>Figure 4.</label>
+<caption>
+<title>
+<italic toggle="yes">CALR</italic> mutation effects on hematopoietic progenitor cells from MF patients.</title>
+<p id="P64">
+<bold>a,</bold> t-SNE projection of CD34<sup>+</sup> cells from MF patients showing cluster assignment and <bold>b,</bold> genotyping data from GoT. <bold>c,</bold> Normalized frequency of mutant cells (<xref rid="S9" ref-type="sec">Methods</xref>). Bar graphs represent aggregate analysis of MF01-MF04 showing mean ± SD of 100 downsampling iterations to 1 genotyping UMI; gray points represent mean of 100 down-sampling iterations for each sample. <bold>d,</bold> t-SNE projection of the CD34<sup>+</sup> cells showing cell cycle gene expression (left) and density plot of mutant and wildtype cells (right). Density plots of mutant vs. wildtype cells along cell cycle gene expression (inset, Wilcoxon rank-sum test, two-sided; <xref rid="SD7" ref-type="supplementary-material">Supplementary Table 6</xref>). <bold>e,</bold> Differentially expressed genes in mutant vs. wildtype MkPs across samples MF01-MF04 (<xref rid="SD7" ref-type="supplementary-material">Supplementary Table 6</xref>). <italic toggle="yes">P</italic>-values combined using Fisher combine test with Benjamini-Hochberg adjustment. Key gene set enrichments (hypergeometic test, <xref rid="S9" ref-type="sec">Methods</xref>).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0004.jpg" />
+</fig>
+<fig id="F5" orientation="portrait" position="float">
+<label>Figure 5.</label>
+<caption>
+<title>GoT dissects subclonal identity through multiplexing and targets loci distant from transcript ends via circularization.</title>
+<p id="P65">
+<bold>a,</bold> Schematic of clonal evolution of neoplastic cells from MF05 (top-left). t-SNE projections of CD34<sup>+</sup> cells with cluster assignments (top-right) and with with GoT data for each variant (bottom). <bold>b,</bold> Cell cycle score in subclonal MEP populations (n = 28 single mutant, 109 double mutant, 293 triple mutant cells). <bold>c,</bold> Schematic of circularization GoT. <bold>d,</bold> t-SNE projection of MF05 CD34<sup>+</sup> cells GoT data for <italic toggle="yes">SF3B1</italic> from circularization and linear GoT. <bold>e,</bold> UMI per cell of <italic toggle="yes">SF3B1</italic> gene (blue shade) or targeted <italic toggle="yes">SF3B1</italic> locus (pink shade) from 10x, linear GoT sequenced on Illumina, circularization GoT, and linear GoT sequenced with ONT (n = 8475 cells). <bold>f,</bold> Mixing study with human <italic toggle="yes">JAK2</italic> wildtype cDNA from TF-1 and homozygous <italic toggle="yes">JAK2</italic> V617F cDNA from HEL. Frequency of reads (wildtype, V617F or not assignable [NA]) assigned to TF-1 or HEL cell barcodes (CB). <bold>g,</bold> t-SNE projection of CD34<sup>+</sup> cells from patient with <italic toggle="yes">JAK2</italic> V617F ET showing cluster assignment (left) and genotyping information (right) based on GoT data. <bold>h,</bold> Normalized frequency of mutant cells within the progenitor clusters (<xref rid="S9" ref-type="sec">Methods</xref>). Mean ± SD of n = 100 down-sampling iterations. <bold>i,</bold> Density plots of HSPCs along lineage priming modules (n = 17 wildtype vs. 15 mutant cells). <italic toggle="yes">P</italic>-values for <bold>b</bold>, <bold>h</bold>, <bold>i</bold> from Wilcoxon rank-sum test, two-sided.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="nihms-1531200-f0005.jpg" />
+</fig>
+</floats-group>
+</article>
+</pmc-articleset>

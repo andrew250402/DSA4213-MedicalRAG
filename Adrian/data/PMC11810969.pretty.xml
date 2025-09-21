@@ -1,0 +1,2124 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.niso.org/schemas/ali/1.0/">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Front Pediatr</journal-id>
+<journal-id journal-id-type="iso-abbrev">Front Pediatr</journal-id>
+<journal-id journal-id-type="pmc-domain-id">2282</journal-id>
+<journal-id journal-id-type="pmc-domain">frontpediatrics</journal-id>
+<journal-id journal-id-type="publisher-id">Front. Pediatr.</journal-id>
+<journal-title-group>
+<journal-title>Frontiers in Pediatrics</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2296-2360</issn>
+<publisher>
+<publisher-name>Frontiers Media SA</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC11810969</article-id>
+<article-id pub-id-type="pmcid-ver">PMC11810969.1</article-id>
+<article-id pub-id-type="pmcaid">11810969</article-id>
+<article-id pub-id-type="pmcaiid">11810969</article-id>
+<article-id pub-id-type="pmid">39936127</article-id>
+<article-id pub-id-type="doi">10.3389/fped.2025.1530832</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Pediatrics</subject>
+<subj-group>
+<subject>Original Research</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Secondary neoplasms in survivors of pediatric acute lymphoblastic leukemia and lymphoblastic lymphoma: a single-center, retrospective study</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Ushida</surname>
+<given-names initials="E">Eri</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<uri ns0:href="https://loop.frontiersin.org/people/2925201/overview" />
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/formal-analysis/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/methodology/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/validation/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Toyoda</surname>
+<given-names initials="H">Hidemi</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<xref rid="cor1" ref-type="corresp">*</xref>
+<uri ns0:href="https://loop.frontiersin.org/people/949187/overview" />
+<role content-type="https://credit.niso.org/contributor-roles/conceptualization/" />
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/formal-analysis/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/software/" />
+<role content-type="https://credit.niso.org/contributor-roles/supervision/" />
+<role content-type="https://credit.niso.org/contributor-roles/validation/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Kohso</surname>
+<given-names initials="A">Atsushi</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<uri ns0:href="https://loop.frontiersin.org/people/2712149/overview" />
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Okumura</surname>
+<given-names initials="Y">Yosuke</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<uri ns0:href="https://loop.frontiersin.org/people/2710893/overview" />
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Niwa</surname>
+<given-names initials="K">Kaori</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<uri ns0:href="https://loop.frontiersin.org/people/2666069/overview" />
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Ito</surname>
+<given-names initials="T">Takahiro</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<uri ns0:href="https://loop.frontiersin.org/people/2922977/overview" />
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Morimoto</surname>
+<given-names initials="M">Mari</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hanaki</surname>
+<given-names initials="R">Ryo</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Amano</surname>
+<given-names initials="K">Keishiro</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Iwamoto</surname>
+<given-names initials="S">Shotaro</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Deguchi</surname>
+<given-names initials="T">Takao</given-names>
+</name>
+<xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+<uri ns0:href="https://loop.frontiersin.org/people/1987723/overview" />
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hori</surname>
+<given-names initials="H">Hiroki</given-names>
+</name>
+<xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hirayama</surname>
+<given-names initials="M">Masahiro</given-names>
+</name>
+<xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+<uri ns0:href="https://loop.frontiersin.org/people/50449/overview" />
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/" />
+<role content-type="https://credit.niso.org/contributor-roles/investigation/" />
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/" />
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/" />
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>
+<sup>1</sup>
+</label>
+<institution>Department of Pediatrics, Mie University Graduate School of Medicine</institution>, <addr-line>Tsu</addr-line>, <country>Japan</country>
+</aff>
+<aff id="aff2">
+<label>
+<sup>2</sup>
+</label>
+<institution>Division of Cancer Immunodiagnostics, Children’s Cancer Center, National Center for Child Health and Development</institution>, <addr-line>Tokyo</addr-line>, <country>Japan</country>
+</aff>
+<aff id="aff3">
+<label>
+<sup>3</sup>
+</label>
+<institution>Department of Medical Technology Course, Suzuka University of Medical Science</institution>, <addr-line>Suzuka</addr-line>, <country>Japan</country>
+</aff>
+<author-notes>
+<fn fn-type="edited-by">
+<p>
+<bold>Edited by:</bold> Yong-mi Kim, Children's Hospital of Los Angeles, United States</p>
+</fn>
+<fn fn-type="edited-by">
+<p>
+<bold>Reviewed by:</bold> Ravi M. Shah, Alberta Health Services, Canada</p>
+<p>Jason R. Schwartz, Vanderbilt University Medical Center, United States</p>
+</fn>
+<corresp id="cor1">
+<label>*</label>
+<bold>Correspondence:</bold> Hidemi Toyoda <email>htoyoda@med.mie-u.ac.jp</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>28</day>
+<month>1</month>
+<year>2025</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2025</year>
+</pub-date>
+<volume>13</volume>
+<issue-id pub-id-type="pmc-issue-id">480574</issue-id>
+<elocation-id>1530832</elocation-id>
+<history>
+<date date-type="received">
+<day>19</day>
+<month>11</month>
+<year>2024</year>
+</date>
+<date date-type="accepted">
+<day>08</day>
+<month>1</month>
+<year>2025</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>28</day>
+<month>01</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>11</day>
+<month>02</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2025-02-13 13:25:19.273">
+<day>13</day>
+<month>02</month>
+<year>2025</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2025 Ushida, Toyoda, Kohso, Okumura, Niwa, Ito, Morimoto, Hanaki, Amano, Iwamoto, Deguchi, Hori and Hirayama.</copyright-statement>
+<copyright-year>2025</copyright-year>
+<copyright-holder>Ushida, Toyoda, Kohso, Okumura, Niwa, Ito, Morimoto, Hanaki, Amano, Iwamoto, Deguchi, Hori and Hirayama</copyright-holder>
+<license>
+<ns1:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns1:license_ref>
+<license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" ns0:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns0:href="fped-13-1530832.pdf" />
+<abstract>
+<sec>
+<title>Background</title>
+<p>Acute lymphoblastic leukemia (ALL)-based therapeutic regimens have markedly improved the survival of children with ALL and lymphoblastic lymphoma (LBL). However, survivors are at risk of secondary neoplasms. Few studies on such secondary neoplasms have been conducted outside of Europe and the United States. The aim of this study was to evaluate the incidence of, risk factors for, and outcomes of secondary neoplasms in long-term survivors of ALL and LBL at a tertiary pediatric oncology center in Mie prefecture, Japan.</p>
+</sec>
+<sec>
+<title>Procedure</title>
+<p>We retrospectively reviewed 188 patients with ALL and LBL who were treated with an ALL-based therapeutic regimen at Mie University Hospital from January 1, 1977 to December 31, 2022 and followed up.</p>
+</sec>
+<sec>
+<title>Results</title>
+<p>Ten patients developed secondary neoplasms, with 10-year and 20-year cumulative incidences of 2.9% [standard error (SE) = 1.5%] and 5.5% (SE = 2.3%), respectively. The median interval between the primary-cancer diagnosis and secondary-neoplasm diagnosis was 18.5 years (range: 7.8–41.7 years). All 10 secondary neoplasms were central nervous system (CNS) tumors (6 meningiomas and 4 high-grade gliomas). Radiotherapy (<italic toggle="yes">p</italic> = 0.007) and CNS involvement in the primary cancer (<italic toggle="yes">p</italic> &lt; 0.001) increased the risk of secondary neoplasms among long-term survivors. Gliomas occurred significantly earlier than meningiomas (<italic toggle="yes">p</italic> = 0.047), and three patients died of secondary neoplasms (all gliomas).</p>
+</sec>
+<sec>
+<title>Conclusions</title>
+<p>As secondary gliomas occurred earlier than meningiomas and are associated with poor outcomes, physicians should take great pains to minimize their risk to improve long-term survival and quality of life.</p>
+</sec>
+</abstract>
+<kwd-group>
+<kwd>acute lymphoblastic leukemia</kwd>
+<kwd>lymphoblastic lymphoma</kwd>
+<kwd>secondary neoplasm</kwd>
+<kwd>cranial radiotherapy</kwd>
+<kwd>total body irradiation</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>The author(s) declare that no financial support was received for the research, authorship, and/or publication of this article.</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="3" />
+<table-count count="3" />
+<equation-count count="0" />
+<ref-count count="25" />
+<page-count count="11" />
+<word-count count="0" />
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-license-ref</meta-name>
+<meta-value>CC BY</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>section-at-acceptance</meta-name>
+<meta-value>Pediatric Hematology and Hematological Malignancies</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro" id="s1">
+<label>1</label>
+<title>Introduction</title>
+<p>Acute lymphoblastic leukemia (ALL) is the most common childhood cancer, accounting for approximately 20%–30% of pediatric cancers (<xref rid="B1" ref-type="bibr">1</xref>). The 5-year survival of children with ALL improved from &lt;35% in the early 1970s to 90% in 2010 (<xref rid="B2" ref-type="bibr">2</xref>, <xref rid="B3" ref-type="bibr">3</xref>). Lymphoblastic lymphoma (LBL), the second most common type of non-Hodgkin lymphoma in children, is usually treated with an ALL-based therapeutic regimen because ALL and LBL are on the same disease spectrum (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B5" ref-type="bibr">5</xref>). The event-free and overall survival rates of children with LBL now exceed 80% (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B7" ref-type="bibr">7</xref>). The number of long-term survivors of childhood ALL and LBL has risen; however, many survivors experience premature mortality and excess morbidity in the form of secondary neoplasms, chronic health conditions, neurocognitive impairment, and a self-reported poor health status because of cancer treatment (<xref rid="B2" ref-type="bibr">2</xref>).</p>
+<p>Secondary neoplasms are considered the most fatal and life-threatening late effects among long-term survivors of childhood ALL and LBL, and several studies have reported the incidence of, type of, risk factors for, and outcomes of secondary neoplasms (<xref rid="B8" ref-type="bibr">8</xref>–<xref rid="B12" ref-type="bibr">12</xref>). Reported risk factors for secondary-neoplasm development are cancer-predisposing conditions, cranial radiotherapy (CRT), the treatment regimen, female sex, younger age at primary cancer diagnosis, initial characteristics of the primary cancer, radiation dose, and allogeneic hematopoietic stem-cell transplantation (allo-HCT) (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B13" ref-type="bibr">13</xref>–<xref rid="B17" ref-type="bibr">17</xref>). Interestingly, Moser et al. reported that an ALL-based therapeutic regimen was a significant risk factor for secondary neoplasms in long-term survivors of LBL (<xref rid="B10" ref-type="bibr">10</xref>).</p>
+<p>ALL-based therapeutic regimens consist of a four-drug induction, central nervous system (CNS) prophylaxis, consolidation therapy, and maintenance therapy for up to 2 years (<xref rid="B18" ref-type="bibr">18</xref>). Although recent ALL-based, intrathecal, systemic chemotherapeutic regimens have eliminated prophylactic CRT without jeopardizing leukemia control in the CNS (<xref rid="B19" ref-type="bibr">19</xref>), CRT is still administered as a therapeutic approach for ALL and LBL with CNS involvement. CRT may also be administered as a part of total body irradiation (TBI) within the conditioning regimen of children selected to undergo allo-HCT.</p>
+<p>The observation that an ALL-based therapeutic regimen is a risk factor for secondary neoplasms in LBL prompted us to analyze the development of secondary neoplasms in patients who received ALL-based therapeutic regimens in our hospital. Furthermore, the majority of studies on secondary neoplasms have been conducted in Europe and the United States, and the cumulative incidence of secondary neoplasms has varied from less than 1% to 10% or more (<xref rid="B8" ref-type="bibr">8</xref>–<xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B15" ref-type="bibr">15</xref>, <xref rid="B16" ref-type="bibr">16</xref>). Therefore, we aimed to retrospectively evaluate the cumulative incidence, clinical features, and outcomes of secondary neoplasms in long-term survivors of ALL and LBL who were treated with an ALL-based therapeutic regimen and followed up at our hospital in Japan.</p>
+</sec>
+<sec sec-type="methods" id="s2">
+<label>2</label>
+<title>Methods</title>
+<sec id="s2a">
+<label>2.1</label>
+<title>Patients</title>
+<p>Mie University Hospital is a tertiary referral center for pediatric oncology in Mie Prefecture, Japan. Patients with primary ALL or primary LBL treated with an ALL-based therapeutic regimen from January 1, 1977 to December 31, 2022 and still being followed up at Mie University Hospital were eligible for the study. Study participants were selected from among these survivors according to the following inclusion criteria: (a) age ≤18 years at the time of primary cancer diagnosis, (b) ≥1 year of follow-up at Mie University Hospital after the end of treatment, and (c) availability of outcome information. Patients lost to follow-up were excluded from the study.</p>
+<p>The study protocol was approved by the institutional ethics committee (identifier: H2023-228 and H2020-129). The study was performed in accordance with the principles of the Declaration of Helsinki.</p>
+</sec>
+<sec id="s2b">
+<label>2.2</label>
+<title>Follow-up and data collection</title>
+<p>We obtained detailed information on sex, age at diagnosis of the primary cancers, and treatment for primary cancers, including cumulative radiation doses and cumulative doses of anticancer agents. For alkylating agents, the conversion factor for the cyclophosphamide-equivalent dose was 1:4 (i.e., 1 mg cyclophosphamide equals 4 mg ifosfamide). For anthracyclines, the conversion factors for the doxorubicin-equivalent dose were 1:0.5 (i.e., 1 mg doxorubicin equals 0.5 mg daunorubicin) and 1:10 (i.e., 1 mg doxorubicin equals 10 mg mitoxantrone). Patients were followed up at least annually in the outpatient clinic at our hospital. A secondary neoplasm was defined as a histologically or radiologically distinct neoplasm that developed after diagnosis of the primary cancer, for which it was possible to rule out metastasis or recurrence of the primary cancer. We collected the following data regarding secondary-neoplasm diagnosis: date of diagnosis; histological or radiological reports, including cytogenetic findings; site of secondary neoplasm; interval to secondary neoplasm; and outcomes. The time at risk for a secondary neoplasm was computed from the date of primary-cancer diagnosis to the date of secondary-neoplasm diagnosis, death, or last contact, whichever came first. The end of the follow-up period was December 31, 2023.</p>
+</sec>
+<sec id="s2c">
+<label>2.3</label>
+<title>Statistical analysis</title>
+<p>The cumulative incidence of secondary neoplasms over time was calculated using competing-risk methods, with death regarded as a competing event. In the regression model, we evaluated sex, age at primary-cancer diagnosis, CNS involvement, allo-HCT, radiotherapy, and chemotherapy. Age at primary-cancer diagnosis was analyzed as a categorical variable according to quartiles (&lt;5 years, ≥5 years and &lt;10 years, ≥10 years and &lt;15 years, and ≥15 years). Primary ALL and LBL were classified into three (precursor B-ALL, T-ALL, and Philadelphia-positive ALL) and two (T-LBL and B-LBL) categories, respectively. Survival analysis was conducted using the Kaplan–Meier method (log-rank method for comparison). Data were analyzed using the BellCurve for Excel software (Social Survey Research Information Co., Ltd. Tokyo, Japan). Statistical significance was set at <italic toggle="yes">p</italic> &lt; 0.05.</p>
+</sec>
+</sec>
+<sec sec-type="results" id="s3">
+<label>3</label>
+<title>Results</title>
+<sec id="s3a">
+<label>3.1</label>
+<title>Patient characteristics</title>
+<p>A total of 188 survivors participated in the study and their characteristics are summarized in <xref rid="T1" ref-type="table">Table 1</xref>. Of 188 patients, 171 were diagnosed with ALL and 17 with LBL. The median age at primary-cancer diagnosis was 5.5 (range, 0.2–18.5) years. The median duration of follow-up from the end of treatment for primary cancer was 14.6 (range, 1.0–43.8; mean, 15.5) years. The duration of follow-up was &lt;5 years for 37 patients, ≥5 but &lt;10 years for 31 patients, ≥10 but &lt;15 years for 30 patients, ≥15 but &lt;20 years for 30 patients, and ≥20 years for 60 patients. Twenty-seven patients underwent allo-HCT, and 63 received radiotherapy, either CRT or TBI.</p>
+<table-wrap position="float" id="T1" orientation="portrait">
+<label>Table 1</label>
+<caption>
+<p>Characteristics and distribution of childhood cancer survivors included in this study.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th valign="top" align="left" rowspan="2" colspan="1" />
+<th valign="top" align="center" colspan="2" rowspan="1">All patients</th>
+<th valign="top" align="center" colspan="2" rowspan="1">Patients with secondary neoplasms</th>
+<th valign="top" align="center" rowspan="1" colspan="1">20 years’ cumulative incidence</th>
+<th valign="top" align="center" rowspan="2" colspan="1">
+<italic toggle="yes">p</italic>
+</th>
+</tr>
+<tr>
+<th valign="top" align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th>
+<th valign="top" align="center" rowspan="1" colspan="1">(%)</th>
+<th valign="top" align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th>
+<th valign="top" align="center" rowspan="1" colspan="1">(%)</th>
+<th valign="top" align="center" rowspan="1" colspan="1">% (SE)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Total</bold>
+</td>
+<td valign="top" align="center" rowspan="1" colspan="1">
+<bold>188</bold>
+</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+<td valign="top" align="center" rowspan="1" colspan="1">
+<bold>10</bold>
+</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+<td valign="top" align="center" rowspan="1" colspan="1">
+<bold>5.5</bold>
+<bold>(</bold>
+<bold>2.3)</bold>
+</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Sex</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+<td valign="top" align="center" rowspan="1" colspan="1">101</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(53.7)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(40.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2.9 (2.0)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">0.40</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Female</td>
+<td valign="top" align="center" rowspan="1" colspan="1">87</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(46.3)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">6</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(60.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">7.9 (4.0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Age at diagnosis of primary cancer</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;5 years</td>
+<td valign="top" align="center" rowspan="1" colspan="1">91</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(48.4)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">5</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(50.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3.3 (2.3)</td>
+<td valign="top" align="center" rowspan="4" colspan="1">0.75</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">≥5 years and &lt;10 years</td>
+<td valign="top" align="center" rowspan="1" colspan="1">53</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(28.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3.0 (3.0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">≥10 years and &lt;15 years</td>
+<td valign="top" align="center" rowspan="1" colspan="1">38</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(30.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">14.5 (8.5)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">≥15 years</td>
+<td valign="top" align="center" rowspan="1" colspan="1">6</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(3.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Calender year of treatment</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">1977–1979</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(1.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+<td valign="top" align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">1980–1989</td>
+<td valign="top" align="center" rowspan="1" colspan="1">18</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(9.6)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(40.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+<td valign="top" align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">1990–1999</td>
+<td valign="top" align="center" rowspan="1" colspan="1">38</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(30.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+<td valign="top" align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">2000–2009</td>
+<td valign="top" align="center" rowspan="1" colspan="1">53</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(28.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(10.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+<td valign="top" align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">2010–2019</td>
+<td valign="top" align="center" rowspan="1" colspan="1">59</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(31.4)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+<td valign="top" align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">2020–2022</td>
+<td valign="top" align="center" rowspan="1" colspan="1">18</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(9.6)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+<td valign="top" align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Primary neoplasms</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">171</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(91.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">8</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(80.0)</td>
+<td valign="top" align="center" rowspan="4" colspan="1">4.6 (2.4)</td>
+<td valign="top" align="center" rowspan="7" colspan="1">0.45</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">B precursor ALL (Ph-)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">155</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(82.4)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">7</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(70.0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">T-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">11</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(5.9)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(10.0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Ph + ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">5</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(2.7)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">LBL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">17</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(9.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="3" colspan="1">14.4 (9.5)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">T-LBL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">15</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(8.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">B-LBL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(1.1)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">CNS involvement</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Yes</td>
+<td valign="top" align="center" rowspan="1" colspan="1">7</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(3.7)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">25.0 (21.7)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">&lt;0.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">No</td>
+<td valign="top" align="center" rowspan="1" colspan="1">181</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(96.3)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">8</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(80.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4.9 (2.3)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">allo-HCT</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Yes</td>
+<td valign="top" align="center" rowspan="1" colspan="1">27</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(14.4)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4.6 (2.4)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">0.48</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">No</td>
+<td valign="top" align="center" rowspan="1" colspan="1">161</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(85.6)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">8</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(80.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">11.8 (7.9)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Radiotherapy</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Yes</td>
+<td valign="top" align="center" rowspan="1" colspan="1">63</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(33.5)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">10</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(100.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">12.0 (4.6)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">0.0069</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">No</td>
+<td valign="top" align="center" rowspan="1" colspan="1">125</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(66.5)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="table-fn1">
+<p>ALL, acute lymphoblastic leukemia; T, T-cell; LBL, lymphoblastic lymphoma; Ph, Philadelphia chromosome; B, B-cell; CNS, central nervous system; allo-HCT, allogenieic hematopoietic stem-cell transplantation; SE, standard error.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Of the 188 patients, 10 developed secondary neoplasms (<xref rid="T1" ref-type="table">Table 1</xref>). The cumulative incidence of secondary neoplasms at 10 and 20 years was 2.9% [standard error (SE) = 1.5%] and 5.5% (SE = 2.3%), respectively (<xref rid="F1" ref-type="fig">Figure 1A</xref>). The primary-cancer diagnoses for the 10 patients with secondary neoplasms were B-cell precursor ALL (<italic toggle="yes">n</italic> = 7), T-cell LBL (<italic toggle="yes">n</italic> = 2), and T-cell ALL (<italic toggle="yes">n</italic> = 1). The median age at diagnosis of primary cancer was 4.5 (range, 2.9–14.3) years for patients who subsequently developed a secondary neoplasm, and the median age at diagnosis of the secondary neoplasm was 27.1 (range, 12.2–46.1) years (<xref rid="T2" ref-type="table">Table 2</xref>). The median time from primary-cancer diagnosis to secondary-neoplasm diagnosis was 18.5 (range, 7.8–41.7 years) years. No patient was diagnosed with secondary neoplasms within 5 years of the primary-cancer diagnosis. The analyzed group did not include patients with known cancer-predisposing conditions.</p>
+<fig position="float" id="F1" orientation="portrait">
+<label>Figure 1</label>
+<caption>
+<p>Estimated cumulative incidence of secondary neoplasms among patients with acute lymphoblastic leukemia (ALL) or lymphoblastic lymphoma who were treated with ALL-based therapeutic regimens. <bold>(A)</bold> Cumulative incidence of secondary neoplasms for all analyzed patients (5.5% ± 2.3%). <bold>(B)</bold> Cumulative incidence of secondary neoplasms for patients treated with radiotherapy (12.0% ± 4.6%) compared with that of patients treated without radiotherapy (0%). Solid line, patients receiving radiotherapy; dotted line, patients not receiving radiotherapy.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="fped-13-1530832-g001.jpg" />
+</fig>
+<table-wrap position="float" id="T2" orientation="portrait">
+<label>Table 2</label>
+<caption>
+<p>Clinical characteristics of patients with secondary neoplasms.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="center" span="1" />
+<col align="left" span="1" />
+<col align="center" span="1" />
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="center" span="1" />
+<col align="left" span="1" />
+<col align="center" span="1" />
+<col align="left" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th valign="top" align="left" rowspan="1" colspan="1" />
+<th valign="top" align="center" rowspan="1" colspan="1">Diagnosis of primary malignancy</th>
+<th valign="top" align="center" rowspan="1" colspan="1">Age at onset</th>
+<th valign="top" align="center" rowspan="1" colspan="1">XRT</th>
+<th valign="top" align="center" rowspan="1" colspan="1">Latency between XRT and SN (years)</th>
+<th valign="top" align="center" rowspan="1" colspan="1">Symptoms</th>
+<th valign="top" align="center" rowspan="1" colspan="1">Diagnosis of SN</th>
+<th valign="top" align="center" rowspan="1" colspan="1">Age at SN</th>
+<th valign="top" align="center" rowspan="1" colspan="1">Treatment</th>
+<th valign="top" align="center" rowspan="1" colspan="1">Duration after SN (years)</th>
+<th valign="top" align="center" rowspan="1" colspan="1">Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">1</td>
+<td valign="top" align="left" rowspan="1" colspan="1">T-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">11.6</td>
+<td valign="top" align="left" rowspan="1" colspan="1">TBI, 12 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">7.0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Convulsion</td>
+<td valign="top" align="left" rowspan="1" colspan="1">High-grade glioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">19.4</td>
+<td valign="top" align="left" rowspan="1" colspan="1">OP, Chemo, XRT</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Alive</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">2</td>
+<td valign="top" align="left" rowspan="1" colspan="1">T-LBL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2.9</td>
+<td valign="top" align="left" rowspan="1" colspan="1">CSI, 18 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">8.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Convulsion</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Meningioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">12.2</td>
+<td valign="top" align="left" rowspan="1" colspan="1">OP, XRT</td>
+<td valign="top" align="center" rowspan="1" colspan="1">10.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Alive</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">BCP-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">9.9</td>
+<td valign="top" align="left" rowspan="1" colspan="1">TBI, 12 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">9.4</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Right hemiplegia</td>
+<td valign="top" align="left" rowspan="1" colspan="1">High-grade glioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">19.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">OP, Chemo, XRT</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3.1</td>
+<td valign="top" align="left" rowspan="1" colspan="1">DOD</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">4</td>
+<td valign="top" align="left" rowspan="1" colspan="1">T-LBL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">14.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT, 24 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">12.1</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Convulsion</td>
+<td valign="top" align="left" rowspan="1" colspan="1">High-grade glioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">26.6</td>
+<td valign="top" align="left" rowspan="1" colspan="1">OP, Chemo, XRT</td>
+<td valign="top" align="center" rowspan="1" colspan="1">6.0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">DOD</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">5</td>
+<td valign="top" align="left" rowspan="1" colspan="1">BCP-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT, 15 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">14.0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Convulsion</td>
+<td valign="top" align="left" rowspan="1" colspan="1">High-grade glioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">19.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Chemo, XRT</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1.9</td>
+<td valign="top" align="left" rowspan="1" colspan="1">DOD</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">6</td>
+<td valign="top" align="left" rowspan="1" colspan="1">BCP-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">13.1</td>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT, 18 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">20.8</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Discomfort in eye</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Meningioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">35.1</td>
+<td valign="top" align="left" rowspan="1" colspan="1">OP</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3.2</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Alive</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">7</td>
+<td valign="top" align="left" rowspan="1" colspan="1">BCP-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4.1</td>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT, 15 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">22.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">None</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Meningioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">27.6</td>
+<td valign="top" align="left" rowspan="1" colspan="1">OP</td>
+<td valign="top" align="center" rowspan="1" colspan="1">5.0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Alive</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">8</td>
+<td valign="top" align="left" rowspan="1" colspan="1">BCP-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT, 24 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">30.6</td>
+<td valign="top" align="left" rowspan="1" colspan="1">None</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Meningioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">36.0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">None</td>
+<td valign="top" align="center" rowspan="1" colspan="1">5.3</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Alive</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">9</td>
+<td valign="top" align="left" rowspan="1" colspan="1">BCP-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">5.0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT, 24 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">34.8</td>
+<td valign="top" align="left" rowspan="1" colspan="1">None</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Meningioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">40.0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">None</td>
+<td valign="top" align="center" rowspan="1" colspan="1">7.0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Alive</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">BCP-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4.5</td>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT, 24 Gy</td>
+<td valign="top" align="center" rowspan="1" colspan="1">41.5</td>
+<td valign="top" align="left" rowspan="1" colspan="1">None</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Meningioma</td>
+<td valign="top" align="center" rowspan="1" colspan="1">46.1</td>
+<td valign="top" align="left" rowspan="1" colspan="1">None</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Alive</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="table-fn2">
+<p>T, T-cell; ALL, acute lymphoblastic leukemia; LBL, lymphoblastic lymphoma; BCP, B-cell precursor; XRT, radiotherapy; TBI, total-body irradiation; CSI, craniospinal irradiation; CRT, cranial radiotherapy; SN, secondary neoplasm; OP, operation; Chemo, chemotherapy; DOD, died of the disease.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="s3b">
+<label>3.2</label>
+<title>Risk factors for secondary neoplasms</title>
+<p>The cumulative incidence of secondary neoplasms at 20 years was 14.4% (SE = 9.5%) among patients with LBL and 4.6% (SE = 2.4%) among patients with ALL (<italic toggle="yes">p</italic> = 0.45) (<xref rid="T1" ref-type="table">Table 1</xref>). Secondary neoplasms had a higher cumulative incidence at 20 years among patients with CNS involvement than those among patients without CNS involvement (25.0%, SE = 21.7% vs. 4.9%, SE = 2.3%, <italic toggle="yes">p</italic> &lt; 0.001). No statistically significant differences in the cumulative incidence of secondary neoplasms were observed with respect to sex, age at primary diagnosis, or allo-HCT status. However, the cumulative incidence of secondary neoplasms was significantly higher among patients treated with radiotherapy (12.0% at 20 years, SE = 4.6%) than that among patients treated without radiotherapy (0% at 20 years, <italic toggle="yes">p</italic> = 0.007) (<xref rid="T1" ref-type="table">Table 1</xref>, <xref rid="F1" ref-type="fig">Figure 1B</xref>). Interestingly, all secondary neoplasms were CNS tumors, either meningiomas (<italic toggle="yes">n</italic> = 6; World Health Organization grade I) or high-grade gliomas (<italic toggle="yes">n</italic> = 4; World Health Organization grade III) (<xref rid="T2" ref-type="table">Table 2</xref>). The median time to the occurrence of secondary neoplasms from the primary-cancer diagnosis was 11.1 (range, 7.8–15.1) years for gliomas and 28.0 (range, 9.2–41.7) years for meningiomas. Secondary gliomas occurred 7.0–14.0 years after radiotherapy, and three of the four patients were diagnosed before the age of 20 years (<xref rid="T2" ref-type="table">Table 2</xref>, <xref rid="F2" ref-type="fig">Figures 2A,B</xref>). Conversely, secondary meningiomas tended to appear later, with five of six cases diagnosed ≥20 years after radiotherapy, and the numbers of secondary-meningioma diagnoses did not seem to decrease thereafter. The median radiation dose was 18.0 (range, 12.0–24.0) Gy among patients who developed secondary neoplasms, 13.5 (range, 12.0–24.0) Gy for gliomas and 21.0 (range, 15.0–24.0) Gy for meningiomas. No radiation dose–response relationship was observed in our study. Of the 10 patients with secondary CNS neoplasms, six were evaluated using brain magnetic resonance imaging owing to acute or chronic symptoms (convulsions, hemiplegia, or slight discomfort in the eyes). The four asymptomatic patients were discovered to have secondary CNS neoplasms, all meningiomas, upon routine brain magnetic resonance imaging performed because of a history of radiotherapy.</p>
+<fig position="float" id="F2" orientation="portrait">
+<label>Figure 2</label>
+<caption>
+<p>Incidence of secondary neoplasms. <bold>(A)</bold> Time to occurrence of subsequent glioma or meningioma from primary-cancer diagnosis in patients treated with acute lymphoblastic leukemia-based therapeutic regimens; white bars, white circles, and solid line: gliomas; black bars, black circles, and dotted line: meningiomas. <bold>(B)</bold> Cumulative incidence of secondary gliomas and meningiomas. Solid line: gliomas; dotted line: meningiomas.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="fped-13-1530832-g002.jpg" />
+</fig>
+<p>In addition to radiotherapy, exposure to ALL-based therapeutic regimens, including anticancer agents, may result in secondary neoplasms. Therefore, we examined whether exposure to anticancer agents increases the risk of secondary neoplasms owing to radiotherapy. Higher cumulative doses of anticancer agents were not associated with a higher incidence of secondary neoplasms among patients who received radiotherapy (<xref rid="T3" ref-type="table">Table 3</xref>).</p>
+<table-wrap position="float" id="T3" orientation="portrait">
+<label>Table 3</label>
+<caption>
+<p>Risk factors for the development of secondary neoplasms after radiotherapy in long-term survivors with ALL or LBL.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+<col align="center" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th valign="top" align="left" rowspan="2" colspan="1" />
+<th valign="top" align="center" colspan="2" rowspan="1">Patients with SNs</th>
+<th valign="top" align="center" colspan="2" rowspan="1">Patients without SNs</th>
+<th valign="top" align="center" rowspan="1" colspan="1">20 years’ cumulative incidence</th>
+<th valign="top" align="center" rowspan="2" colspan="1">
+<italic toggle="yes">P</italic>
+</th>
+</tr>
+<tr>
+<th valign="top" align="center" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th>
+<th valign="top" align="center" rowspan="1" colspan="1">(%)</th>
+<th valign="top" align="center" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th>
+<th valign="top" align="center" rowspan="1" colspan="1">(%)</th>
+<th valign="top" align="center" rowspan="1" colspan="1">% (SE)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Total</bold>
+</td>
+<td valign="top" align="center" rowspan="1" colspan="1">
+<bold>10</bold>
+</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(100)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">53</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(100)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">
+<bold>5.5</bold>
+<bold>(</bold>
+<bold>2.3)</bold>
+</td>
+<td valign="top" align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Sex</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Male</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(40.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">30</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(56.6)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">7.7 (5.3)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">0.74</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Female</td>
+<td valign="top" align="center" rowspan="1" colspan="1">6</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(60.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">23</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(43.4)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">15.3 (7.1)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Age at diagnosis of primary malignancy</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;5 years</td>
+<td valign="top" align="center" rowspan="1" colspan="1">5</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(50.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">19</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(35.8)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">9.6 (6.5)</td>
+<td valign="top" align="center" rowspan="4" colspan="1">0.90</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">≥5 years and &lt;10 years</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">16</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(30.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">9.1 (8.7)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">≥10 years and &lt;15 years</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(30.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">16</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(30.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">19.3 (10.3)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">≥15 years</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(3.8)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Primary neoplasms</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">8</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(80.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">47</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(88.7)</td>
+<td valign="top" align="center" rowspan="4" colspan="1">9.5 (4.6)</td>
+<td valign="top" align="center" rowspan="7" colspan="1">0.30</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">B-cell precursor ALL (Ph-)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">7</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(70.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">40</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(75.5)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">T-ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(10.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(5.7)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Ph + ALL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(7.5)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">LBL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">6</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(11.3)</td>
+<td valign="top" align="center" rowspan="3" colspan="1">28.6 (17.1)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">T-LBL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">5</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(9.4)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">B-LBL</td>
+<td valign="top" align="center" rowspan="1" colspan="1">0</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(1.9)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">CNS status</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Positive</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">5</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(9.4)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">25.0 (21.7)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">0.02</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">Negative</td>
+<td valign="top" align="center" rowspan="1" colspan="1">8</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(80.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">48</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(90.6)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">10.8 (4.6)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Radiotherapy</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT (&lt;15 Gy)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">7</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(13.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">16.7 (15.2)</td>
+<td valign="top" align="center" rowspan="4" colspan="1">0.50</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT (18 Gy)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">19</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(35.8)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">10.4 (7.0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">CRT (≥20 Gy)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(40.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">10</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(18.9)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">6.7 (6.4)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">TBI (12 Gy)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(20.0)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">17</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(32.1)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">20.5 (13.1)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Anthracyclines<xref rid="table-fn5" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+<sup>,</sup>
+<xref rid="table-fn7" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">≤200 mg/m<sup>2</sup> BSA</td>
+<td valign="top" align="center" rowspan="1" colspan="1">6</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(66.7)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">25</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(48.1)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">20.3 (8.3)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">0.11</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">&gt;200 mg/m<sup>2</sup> BSA</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(33.3)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">27</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(51.9)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">4.4 (4.3)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Alkylating agents<xref rid="table-fn6" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+<sup>,</sup>
+<xref rid="table-fn7" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">CPM ≤2 g/m<sup>2</sup> BSA</td>
+<td valign="top" align="center" rowspan="1" colspan="1">3</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(33.3)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">2</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(3.8)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">16.7 (15.2)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">0.44</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">CPM &gt;2 g/m<sup>2</sup> BSA</td>
+<td valign="top" align="center" rowspan="1" colspan="1">6</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(66.7)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">50</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(96.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">15.6 (5.9)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="7" rowspan="1">Etoposide<xref rid="table-fn7" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">≤800 mg/m<sup>2</sup> BSA</td>
+<td valign="top" align="center" rowspan="1" colspan="1">8</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(88.9)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">36</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(69.2)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">13.3 (5.6)</td>
+<td valign="top" align="center" rowspan="2" colspan="1">0.74</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="1" colspan="1">&gt;800 mg/m<sup>2</sup> BSA</td>
+<td valign="top" align="center" rowspan="1" colspan="1">1</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(11.1)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">16</td>
+<td valign="top" align="center" rowspan="1" colspan="1">(30.8)</td>
+<td valign="top" align="center" rowspan="1" colspan="1">8.3 (8.0)</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="table-fn3">
+<p>Cumulative drug doses were calculated according to the actual dose administered to patients.</p>
+</fn>
+<fn id="table-fn4">
+<p>ALL, acute lymphoblastic leukemia; LBL, lymphoblastic lymphoma; Ph, Philadelphia chromosome; T, T-cell; B, B-cell; CNS, central nervous system; TBI, total-body irradiation; CRT, cranial radiotherapy; BSA, body surface area; CPM, cyclophosphamide; SN; secondary neoplasm; SE, standard error.</p>
+</fn>
+<fn id="table-fn5">
+<label>
+<sup>a</sup>
+</label>
+<p>Doxorubicin-equivalent dose was calculated at a 1:1 ratio for doxorubicin and daunorubicin.</p>
+</fn>
+<fn id="table-fn6">
+<label>
+<sup>b</sup>
+</label>
+<p>The conversion factor for the cyclophosphamide equivalent dose was 1:4 (i.e., 1 mg cyclophosphamide equals 4 mg ifosfamide).</p>
+</fn>
+<fn id="table-fn7">
+<label>
+<sup>c</sup>
+</label>
+<p>Information about the cumulative dose of anticancer agents was missing for two patients.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="s3c">
+<label>3.3</label>
+<title>Outcome after secondary neoplasms</title>
+<p>The 10-year survival rate was 49.4% (SE = 22.8%) for patients with secondary neoplasms (<xref rid="F3" ref-type="fig">Figure 3A</xref>). The median follow-up period after the secondary-neoplasm diagnosis was 5.0 (range, 2.3–10.3) years for the seven patients who were alive at their latest follow-up. All patients with secondary meningiomas survived throughout the follow-up period. Three of the four patients with high-grade gliomas died as a result of the glioma at 1.9, 3.1, and 6.0 years, respectively, after the secondary-neoplasm diagnosis (<xref rid="F3" ref-type="fig">Figure 3B</xref>), and the 3-year probability of survival among the four patients was 37.5% (SE = 28.6%).</p>
+<fig position="float" id="F3" orientation="portrait">
+<label>Figure 3</label>
+<caption>
+<p>Kaplan–meier survival curves of patients with secondary neoplasms. <bold>(A)</bold> Overall cohort. <bold>(B)</bold> Gliomas and meningiomas. Solid line: gliomas; dotted line: meningiomas.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="fped-13-1530832-g003.jpg" />
+</fig>
+</sec>
+</sec>
+<sec sec-type="discussion" id="s4">
+<label>4</label>
+<title>Discussion</title>
+<p>In our study, radiotherapy and CNS involvement in the primary cancer were significant risk factors for secondary neoplasms. However, we did not detect a significant relationship between female sex, younger age at the primary-cancer diagnosis, initial characteristics of the primary cancer, radiation dose, or allo-HCT and the cumulative incidence of secondary neoplasms, in contrast with previous studies (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B15" ref-type="bibr">15</xref>–<xref rid="B17" ref-type="bibr">17</xref>). The 10- and 20-year cumulative incidences of secondary neoplasms were 2.9% (SE = 1.5%) and 5.5% (SE = 2.3%), respectively, among 188 long-term survivors of ALL and LBL. The risk of secondary neoplasms continued to increase over time and did not plateau, which is consistent with observations in previous reports (<xref rid="B8" ref-type="bibr">8</xref>–<xref rid="B12" ref-type="bibr">12</xref>).</p>
+<p>Previous investigations demonstrated clear associations between secondary neoplasms and prior radiotherapy (<xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B20" ref-type="bibr">20</xref>–<xref rid="B22" ref-type="bibr">22</xref>). Our results are in agreement with those, considering that all patients who developed secondary neoplasms in our study had received prior CRT or TBI, whereas none of the patients who did not receive radiotherapy developed secondary neoplasms. Interestingly, the secondary neoplasms observed in our study were all CNS tumors, consisting of meningiomas (<italic toggle="yes">n</italic> = 6) and high-grade gliomas (<italic toggle="yes">n</italic> = 4), and no secondary neoplasms developed outside the irradiated field. The secondary neoplasms occurred 7.8–41.7 years from the primary-cancer diagnosis, and the median time to development of a secondary glioma was much shorter than that to development of a secondary meningioma (11.0 vs. 28.0 years, <italic toggle="yes">p</italic> = 0.047). The radiation-related increase in the incidence of glioma was apparent 5–10 years after radiotherapy, but largely disappeared after 15 years. In contrast, the cumulative incidence of meningioma continued to increase over time and did not plateau. This timing difference may be related to the age-specific background incidence rates and non-therapeutic exposures, such as tobacco, alcohol, and diet, related to meningiomas. The decrease in the relative risk of glioma over time is consistent with observations in a previous report of survivors of childhood cancer (<xref rid="B23" ref-type="bibr">23</xref>), in contrast with the results for atomic-bomb survivors (<xref rid="B24" ref-type="bibr">24</xref>) and patients irradiated for tinea capitis (<xref rid="B25" ref-type="bibr">25</xref>). Although the mechanisms underlying the early onset of glioma are largely unknown, cancer-predisposing conditions may exist. A detailed family history of cancer predisposition could not be obtained in this study, and further genetic investigations could not easily be performed because of the retrospective nature of our study. In a previous study, radiation dose–response relationships were observed for both gliomas and meningiomas (<xref rid="B23" ref-type="bibr">23</xref>). For doses in excess of 30 Gy, the relative risks were of the order of 20 for glioma and 50–100 for meningioma. Possibly owing to the small number of cases, no radiation dose-response relationship was observed in our study. Of 27 patients undergoing allo-HCT, 19 underwent TBI as a part of conditioning regimen and 2 of whom developed secondary gliomas. Further prospective studies are warranted to address this issue.</p>
+<p>In our study, CNS involvement in the primary cancer was also a risk factor for the development of secondary CNS neoplasms. The cumulative incidence of secondary neoplasms at 20 years in patients with CNS involvement is 25% (SE = 21.7%). The large SE reflects the small sample size, nevertheless, this incidence is noteworthy. Patients with CNS involvement typically receive a higher radiation dose than those without. However, in our study, the irradiation doses for the two patients with CNS involvement who developed secondary CNS neoplasms were 12 and 18 Gy, respectively, and no difference in irradiation dose was observed compared with those with CNS involvement who did not develop secondary CNS neoplasms. Alteration of the microenvironment caused by blast-cell infiltration into the CNS may alter factors such as cytokines, nutrients, and oxygen supplied by the microenvironment, making it suitable for the development of secondary CNS neoplasms.</p>
+<p>In our cohort, a relatively large number of patients, 63 of 188 (33.5%), underwent radiotherapy. At Mie University Hospital, prophylactic cranial irradiation was performed for high-risk patients with ALL and LBL until 2000, and prophylactic cranial irradiation was discontinued for primary ALL and LBL in 2001. Of the 63 patients treated with radiation therapy, 41 were treated before 2000, including 3 patients who received TBI as part of the allo-HCT conditioning regimen and 38 patients who received either prophylactic or therapeutic radiation. Twenty-two patients received radiotherapy after 2001, 16 for TBI, 3 for CNS involvement, and 3 for prophylactic cranial irradiation for relapsed ALL. Prophylactic cranial irradiation for relapsed cases was discontinued in 2015.</p>
+<p>Several chemotherapeutic agents, especially alkylating agents and topoisomerase-II inhibitors, have been hypothesized to increase the risk of secondary neoplasms (<xref rid="B12" ref-type="bibr">12</xref>). Solid tumors are reportedly associated with cyclophosphamide exposure, and myeloid malignancy is reportedly associated with topoisomerase II inhibitors and higher starting doses of methotrexate and mercaptopurine (<xref rid="B12" ref-type="bibr">12</xref>). Cyclophosphamide was also associated with a threefold increased risk of secondary neoplasms in patients with ALL (<xref rid="B14" ref-type="bibr">14</xref>). Moreover, in another study, 11q23/MLL rearrangements were observed in one third of patients with treatment-related myeloid neoplasia with an aberrant karyotype and previous exposure to epipodophyllotoxins, which are topoisomerase II inhibitors (<xref rid="B12" ref-type="bibr">12</xref>). Therefore, we analyzed the relationship between chemotherapeutic agents (in addition to radiotherapy) and the incidence of secondary neoplasms. However, we did not observe a significant relationship between the cumulative dose of chemotherapeutic agents, such as alkylating agents, topoisomerase-II inhibitors (VP-16), and anthracyclines, and the incidence of secondary neoplasms.</p>
+<p>At least one annual follow-up visit is offered to long-term childhood cancer survivors at our hospital. The long-term follow-up rate was relatively high in our cohort (approximately 80%), and those with secondary neoplasms were all treated and followed up at our hospital. This provided an accurate estimation of the risk of secondary neoplasms and enabled a detailed evaluation of the effect of treatment on secondary neoplasms. However, our results should be interpreted in the context of several limitations. First, because the data were based on a single center, the number of patients who developed secondary neoplasms was small, and the generalizability of the results are limited. Second, although the follow-up rate was relatively high, the number of patients with secondary neoplasms might have been underestimated and the result might have been skewed because of loss to follow-up and death due to any cause, including unreported secondary neoplasms. The information on how many patients were excluded from the study owing to a loss to follow up/death is important. However, the list of patients treated for ALL or LBL prior to 2000 has been lost. The 188 patients who were treated and still being followed up at Mie University Hospital were eligible for this study. Although the number of patients treated from 1977 to 2022 at Mie University Hospital is higher than 188, the exact number is unfortunately unknown. Third, radiation techniques have progressed since the 1970s, with the development of stereotactic radiotherapy, intensity-modulated radiotherapy, and particle-beam therapy. Therefore, discussing the radiotherapy-related risk of secondary neoplasms over the long study period is difficult.</p>
+<p>In conclusion, our analysis confirmed radiotherapy and CNS involvement in the primary cancer as risk factors for secondary neoplasms. The risk of secondary neoplasms after successful treatment of childhood ALL and LBL was similar with that in previous studies. The development of secondary glioma plateaued by 15 years after irradiation, whereas the incidence of secondary meningioma increased after 10 years. As secondary gliomas are associated with poor outcomes, physicians should take great pains to minimize their risk to improve long-term survival and quality of life.</p>
+</sec>
+</body>
+<back>
+<ack>
+<title>Acknowledgments</title>
+<p>The authors thank all the long-term survivors who participated in the study.</p>
+</ack>
+<fn-group>
+<title>Abbreviations</title>
+<fn fn-type="abbr" id="ab001">
+<p>ALL, acute lymphoblastic leukemia; allo-HCT, allogeneic hematopoietic stem-cell transplantation; CNS, central nervous system; CRT, cranial radiotherapy; LBL, lymphoblastic lymphoma; SE, standard error; TBI, total-body irradiation.</p>
+</fn>
+</fn-group>
+<sec sec-type="data-availability" id="s5">
+<title>Data availability statement</title>
+<p>The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.</p>
+</sec>
+<sec sec-type="ethics-statement" id="s6">
+<title>Ethics statement</title>
+<p>The studies involving humans were approved by Ethics Review Committee, Mie University Hospital. The studies were conducted in accordance with the local legislation and institutional requirements. Written informed consent for participation was not required from the participants or the participants' legal guardians/next of kin because the study is a retrospective observational study using existing data, and it was determined that opting out would not be feasible.</p>
+</sec>
+<sec sec-type="author-contributions" id="s7">
+<title>Author contributions</title>
+<p>EU: Data curation, Formal Analysis, Investigation, Methodology, Project administration, Validation, Writing – original draft, Writing – review &amp; editing. HT: Conceptualization, Data curation, Formal Analysis, Investigation, Project administration, Software, Supervision, Validation, Writing – original draft, Writing – review &amp; editing. AK: Data curation, Investigation, Project administration, Writing – review &amp; editing. YO: Data curation, Investigation, Project administration, Writing – review &amp; editing. KN: Data curation, Investigation, Project administration, Writing – review &amp; editing. TI: Data curation, Investigation, Project administration, Writing – review &amp; editing. MM: Data curation, Investigation, Project administration, Writing – review &amp; editing. RH: Data curation, Investigation, Project administration, Writing – review &amp; editing. KA: Data curation, Investigation, Project administration, Writing – review &amp; editing. SI: Data curation, Investigation, Project administration, Writing – review &amp; editing. TD: Data curation, Investigation, Project administration, Writing – review &amp; editing. HH: Data curation, Investigation, Project administration, Writing – review &amp; editing. MH: Data curation, Investigation, Project administration, Writing – review &amp; editing.</p>
+</sec>
+<sec sec-type="COI-statement" id="s9">
+<title>Conflict of interest</title>
+<p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+</sec>
+<sec sec-type="ai-statement" id="s19">
+<title>Generative AI statement</title>
+<p>The author(s) declare that no Generative AI was used in the creation of this manuscript.</p>
+</sec>
+<sec sec-type="disclaimer" id="s10">
+<title>Publisher's note</title>
+<p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+</sec>
+<ref-list>
+<title>References</title>
+<ref id="B1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hunger</surname>
+<given-names>SP</given-names>
+</name>
+<name name-style="western">
+<surname>Mullighan</surname>
+<given-names>CG</given-names>
+</name>
+</person-group>. <article-title>Acute lymphoblastic leukemia in children</article-title>. <source>N Engl J Med</source>. (<year>2015</year>) <volume>373</volume>(<issue>16</issue>):<fpage>1541</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMra1400972</pub-id>
+<pub-id pub-id-type="pmid">26465987</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dixon</surname>
+<given-names>SB</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Yasui</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Pui</surname>
+<given-names>CH</given-names>
+</name>
+<name name-style="western">
+<surname>Hunger</surname>
+<given-names>SP</given-names>
+</name>
+<name name-style="western">
+<surname>Silverman</surname>
+<given-names>LB</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Impact of risk-stratified therapy on health status in survivors of childhood acute lymphoblastic leukemia: a report from the childhood cancer survivor study</article-title>. <source>Cancer Epidemiol Biomarkers Prev</source>. (<year>2022</year>) <volume>31</volume>(<issue>1</issue>):<fpage>150</fpage>–<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1158/1055-9965.EPI-21-0667</pub-id>
+<pub-id pub-id-type="pmid">34697055</pub-id>
+<pub-id pub-id-type="pmcid">PMC8755626</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pui</surname>
+<given-names>CH</given-names>
+</name>
+<name name-style="western">
+<surname>Yang</surname>
+<given-names>JJ</given-names>
+</name>
+<name name-style="western">
+<surname>Hunger</surname>
+<given-names>SP</given-names>
+</name>
+<name name-style="western">
+<surname>Pieters</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Schrappe</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Biondi</surname>
+<given-names>A</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Childhood acute lymphoblastic leukemia: progress through collaboration</article-title>. <source>J Clin Oncol</source>. (<year>2015</year>) <volume>33</volume>(<issue>27</issue>):<fpage>2938</fpage>–<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2014.59.1636</pub-id>
+<pub-id pub-id-type="pmid">26304874</pub-id>
+<pub-id pub-id-type="pmcid">PMC4567699</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Burkhardt</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Hermiston</surname>
+<given-names>ML</given-names>
+</name>
+</person-group>. <article-title>Lymphoblastic lymphoma in children and adolescents: review of current challenges and future opportunities</article-title>. <source>Br J Haematol</source>. (<year>2019</year>) <volume>185</volume>(<issue>6</issue>):<fpage>1158</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.15793</pub-id>
+<pub-id pub-id-type="pmid">30809797</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Temple</surname>
+<given-names>WC</given-names>
+</name>
+<name name-style="western">
+<surname>Mueller</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Hermiston</surname>
+<given-names>ML</given-names>
+</name>
+<name name-style="western">
+<surname>Burkhardt</surname>
+<given-names>B</given-names>
+</name>
+</person-group>. <article-title>Diagnosis and management of lymphoblastic lymphoma in children, adolescents and young adults</article-title>. <source>Best Pract Res Clin Haematol</source>. (<year>2023</year>) <volume>36</volume>(<issue>1</issue>):<fpage>101449</fpage>. <pub-id pub-id-type="doi">10.1016/j.beha.2023.101449</pub-id>
+<pub-id pub-id-type="pmid">36907639</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B6">
+<label>6.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Landmann</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Burkhardt</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Zimmermann</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Meyer</surname>
+<given-names>U</given-names>
+</name>
+<name name-style="western">
+<surname>Woessmann</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Klapper</surname>
+<given-names>W</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Results and conclusions of the European intergroup EURO-LB02 trial in children and adolescents with lymphoblastic lymphoma</article-title>. <source>Haematologica</source>. (<year>2017</year>) <volume>102</volume>(<issue>12</issue>):<fpage>2086</fpage>–<lpage>96</lpage>. <pub-id pub-id-type="doi">10.3324/haematol.2015.139162</pub-id>
+<pub-id pub-id-type="pmid">28983060</pub-id>
+<pub-id pub-id-type="pmcid">PMC5709108</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Termuhlen</surname>
+<given-names>AM</given-names>
+</name>
+<name name-style="western">
+<surname>Smith</surname>
+<given-names>LM</given-names>
+</name>
+<name name-style="western">
+<surname>Perkins</surname>
+<given-names>SL</given-names>
+</name>
+<name name-style="western">
+<surname>Lones</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Finlay</surname>
+<given-names>JL</given-names>
+</name>
+<name name-style="western">
+<surname>Weinstein</surname>
+<given-names>H</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Disseminated lymphoblastic lymphoma in children and adolescents: results of the COG A5971 trial: a report from the children’s oncology group</article-title>. <source>Br J Haematol</source>. (<year>2013</year>) <volume>162</volume>(<issue>6</issue>):<fpage>792</fpage>–<lpage>801</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.12460</pub-id>
+<pub-id pub-id-type="pmid">23889312</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hijiya</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Hudson</surname>
+<given-names>MM</given-names>
+</name>
+<name name-style="western">
+<surname>Lensing</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Zacher</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Onciu</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Behm</surname>
+<given-names>FG</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Cumulative incidence of secondary neoplasms as a first event after childhood acute lymphoblastic leukemia</article-title>. <source>JAMA</source>. (<year>2007</year>) <volume>297</volume>(<issue>11</issue>):<fpage>1207</fpage>–<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1001/jama.297.11.1207</pub-id>
+<pub-id pub-id-type="pmid">17374815</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ishida</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Maeda</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Adachi</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Inada</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Kawaguchi</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Hori</surname>
+<given-names>H</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Secondary cancer after a childhood cancer diagnosis: viewpoints considering primary cancer</article-title>. <source>Int J Clin Oncol</source>. (<year>2018</year>) <volume>23</volume>(<issue>6</issue>):<fpage>1178</fpage>–<lpage>88</lpage>. <pub-id pub-id-type="doi">10.1007/s10147-018-1303-6</pub-id>
+<pub-id pub-id-type="pmid">29869758</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Moser</surname>
+<given-names>O</given-names>
+</name>
+<name name-style="western">
+<surname>Zimmermann</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Meyer</surname>
+<given-names>U</given-names>
+</name>
+<name name-style="western">
+<surname>Klapper</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Oschlies</surname>
+<given-names>I</given-names>
+</name>
+<name name-style="western">
+<surname>Schrappe</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Second malignancies after treatment of childhood non-Hodgkin lymphoma: a report of the Berlin-Frankfurt-muenster study group</article-title>. <source>Haematologica</source>. (<year>2021</year>) <volume>106</volume>(<issue>5</issue>):<fpage>1390</fpage>–<lpage>400</lpage>. <pub-id pub-id-type="doi">10.3324/haematol.2019.244780</pub-id>
+<pub-id pub-id-type="pmid">32299903</pub-id>
+<pub-id pub-id-type="pmcid">PMC8094109</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Poyer</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Dieckmann</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Dworzak</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Tamesberger</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Haas</surname>
+<given-names>O</given-names>
+</name>
+<name name-style="western">
+<surname>Jones</surname>
+<given-names>N</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Second malignant neoplasms after treatment of 1,487 children and adolescents with acute lymphoblastic leukemia-a population-based analysis of the Austrian ALL-BFM study group</article-title>. <source>EJHaem</source>. (<year>2022</year>) <volume>3</volume>(<issue>3</issue>):<fpage>940</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1002/jha2.488</pub-id>
+<pub-id pub-id-type="pmid">36051012</pub-id>
+<pub-id pub-id-type="pmcid">PMC9421960</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Schmiegelow</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Levinsen</surname>
+<given-names>MF</given-names>
+</name>
+<name name-style="western">
+<surname>Attarbaschi</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Baruchel</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Devidas</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Escherich</surname>
+<given-names>G</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Second malignant neoplasms after treatment of childhood acute lymphoblastic leukemia</article-title>. <source>J Clin Oncol</source>. (<year>2013</year>) <volume>31</volume>(<issue>19</issue>):<fpage>2469</fpage>–<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2012.47.0500</pub-id>
+<pub-id pub-id-type="pmid">23690411</pub-id>
+<pub-id pub-id-type="pmcid">PMC3807139</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bhatia</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Sather</surname>
+<given-names>HN</given-names>
+</name>
+<name name-style="western">
+<surname>Pabustan</surname>
+<given-names>OB</given-names>
+</name>
+<name name-style="western">
+<surname>Trigg</surname>
+<given-names>ME</given-names>
+</name>
+<name name-style="western">
+<surname>Gaynon</surname>
+<given-names>PS</given-names>
+</name>
+<name name-style="western">
+<surname>Robison</surname>
+<given-names>LL</given-names>
+</name>
+</person-group>. <article-title>Low incidence of second neoplasms among children diagnosed with acute lymphoblastic leukemia after 1983</article-title>. <source>Blood</source>. (<year>2002</year>) <volume>99</volume>(<issue>12</issue>):<fpage>4257</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1182/blood.V99.12.4257</pub-id>
+<pub-id pub-id-type="pmid">12036851</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B14">
+<label>14.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ishida</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Maeda</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Urayama</surname>
+<given-names>KY</given-names>
+</name>
+<name name-style="western">
+<surname>Kiyotani</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Aoki</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Kato</surname>
+<given-names>Y</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Secondary cancers among children with acute lymphoblastic leukaemia treated by the Tokyo children’s cancer study group protocols: a retrospective cohort study</article-title>. <source>Br J Haematol</source>. (<year>2014</year>) <volume>164</volume>(<issue>1</issue>):<fpage>101</fpage>–<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.12602</pub-id>
+<pub-id pub-id-type="pmid">24116892</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Löning</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Zimmermann</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Reiter</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Kaatsch</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Henze</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Riehm</surname>
+<given-names>H</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Secondary neoplasms subsequent to Berlin-Frankfurt-Münster therapy of acute lymphoblastic leukemia in childhood: significantly lower risk without cranial radiotherapy</article-title>. <source>Blood</source>. (<year>2000</year>) <volume>95</volume>(<issue>9</issue>):<fpage>2770</fpage>–<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1182/blood.V95.9.2770.009k16_2770_2775</pub-id>
+<pub-id pub-id-type="pmid">10779419</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B16">
+<label>16.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Neglia</surname>
+<given-names>JP</given-names>
+</name>
+<name name-style="western">
+<surname>Friedman</surname>
+<given-names>DL</given-names>
+</name>
+<name name-style="western">
+<surname>Yasui</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Mertens</surname>
+<given-names>AC</given-names>
+</name>
+<name name-style="western">
+<surname>Hammond</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Stovall</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Second malignant neoplasms in five-year survivors of childhood cancer: childhood cancer survivor study</article-title>. <source>J Natl Cancer Inst</source>. (<year>2001</year>) <volume>93</volume>(<issue>8</issue>):<fpage>618</fpage>–<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1093/jnci/93.8.618</pub-id>
+<pub-id pub-id-type="pmid">11309438</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Westerveld</surname>
+<given-names>ASR</given-names>
+</name>
+<name name-style="western">
+<surname>Roesthuis</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>van der Pal</surname>
+<given-names>HJH</given-names>
+</name>
+<name name-style="western">
+<surname>Bresters</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Bierings</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Loonen</surname>
+<given-names>J</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Increased risk of subsequent neoplasm after hematopoietic stem cell transplantation in 5-year survivors of childhood acute lymphoblastic leukemia</article-title>. <source>Blood Cancer J</source>. (<year>2024</year>) <volume>14</volume>(<issue>1</issue>):<fpage>150</fpage>. <pub-id pub-id-type="doi">10.1038/s41408-024-01122-7</pub-id>
+<pub-id pub-id-type="pmid">39198413</pub-id>
+<pub-id pub-id-type="pmcid">PMC11358316</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B18">
+<label>18.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kato</surname>
+<given-names>M</given-names>
+</name>
+</person-group>. <article-title>Recent progress in pediatric lymphoblastic leukemia</article-title>. <source>Int J Hematol</source>. (<year>2023</year>) <volume>117</volume>(<issue>2</issue>):<fpage>155</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1007/s12185-022-03501-x</pub-id>
+<pub-id pub-id-type="pmid">36456860</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B19">
+<label>19.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jeha</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Pei</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Choi</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Cheng</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Sandlund</surname>
+<given-names>JT</given-names>
+</name>
+<name name-style="western">
+<surname>Coustan-Smith</surname>
+<given-names>E</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Improved CNS control of childhood acute lymphoblastic leukemia without cranial irradiation: St Jude total therapy study 16</article-title>. <source>J Clin Oncol</source>. (<year>2019</year>) <volume>37</volume>(<issue>35</issue>):<fpage>3377</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.19.01692</pub-id>
+<pub-id pub-id-type="pmid">31657981</pub-id>
+<pub-id pub-id-type="pmcid">PMC7351342</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B20">
+<label>20.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pui</surname>
+<given-names>CH</given-names>
+</name>
+<name name-style="western">
+<surname>Cheng</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Leung</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Rai</surname>
+<given-names>SN</given-names>
+</name>
+<name name-style="western">
+<surname>Rivera</surname>
+<given-names>GK</given-names>
+</name>
+<name name-style="western">
+<surname>Sandlund</surname>
+<given-names>JT</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Extended follow-up of long-term survivors of childhood acute lymphoblastic leukemia</article-title>. <source>N Engl J Med</source>. (<year>2003</year>) <volume>349</volume>(<issue>7</issue>):<fpage>640</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa035091</pub-id>
+<pub-id pub-id-type="pmid">12917300</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B21">
+<label>21.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Relling</surname>
+<given-names>MV</given-names>
+</name>
+<name name-style="western">
+<surname>Rubnitz</surname>
+<given-names>JE</given-names>
+</name>
+<name name-style="western">
+<surname>Rivera</surname>
+<given-names>GK</given-names>
+</name>
+<name name-style="western">
+<surname>Boyett</surname>
+<given-names>JM</given-names>
+</name>
+<name name-style="western">
+<surname>Hancock</surname>
+<given-names>ML</given-names>
+</name>
+<name name-style="western">
+<surname>Felix</surname>
+<given-names>CA</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>High incidence of secondary brain tumours after radiotherapy and antimetabolites</article-title>. <source>Lancet</source>. (<year>1999</year>) <volume>354</volume>(<issue>9172</issue>):<fpage>34</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(98)11079-6</pub-id>
+<pub-id pub-id-type="pmid">10406363</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B22">
+<label>22.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Stanulla</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Löning</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Welte</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Schrappe</surname>
+<given-names>M</given-names>
+</name>
+</person-group>. <article-title>Secondary brain tumours in children with ALL</article-title>. <source>Lancet</source>. (<year>1999</year>) <volume>354</volume>(<issue>9184</issue>):<fpage>1126</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(05)76923-3</pub-id>
+<pub-id pub-id-type="pmid">10509534</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B23">
+<label>23.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Neglia</surname>
+<given-names>JP</given-names>
+</name>
+<name name-style="western">
+<surname>Robison</surname>
+<given-names>LL</given-names>
+</name>
+<name name-style="western">
+<surname>Stovall</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Packer</surname>
+<given-names>RJ</given-names>
+</name>
+<name name-style="western">
+<surname>Hammond</surname>
+<given-names>S</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>New primary neoplasms of the central nervous system in survivors of childhood cancer: a report from the childhood cancer survivor study</article-title>. <source>J Natl Cancer Inst</source>. (<year>2006</year>) <volume>98</volume>(<issue>21</issue>):<fpage>1528</fpage>–<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1093/jnci/djj411</pub-id>
+<pub-id pub-id-type="pmid">17077355</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B24">
+<label>24.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Preston</surname>
+<given-names>DL</given-names>
+</name>
+<name name-style="western">
+<surname>Ron</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Yonehara</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Kobuke</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Fujii</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Kishikawa</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Tumors of the nervous system and pituitary gland associated with atomic bomb radiation exposure</article-title>. <source>J Natl Cancer Inst</source>. (<year>2002</year>) <volume>94</volume>(<issue>20</issue>):<fpage>1555</fpage>–<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1093/jnci/94.20.1555</pub-id>
+<pub-id pub-id-type="pmid">12381708</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B25">
+<label>25.</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sadetzki</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Chetrit</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Freedman</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Stovall</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Modan</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Novikov</surname>
+<given-names>I</given-names>
+</name>
+</person-group>. <article-title>Long-term follow-up for brain tumor development after childhood exposure to ionizing radiation for tinea capitis</article-title>. <source>Radiat Res</source>. (<year>2005</year>) <volume>163</volume>(<issue>4</issue>):<fpage>424</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1667/RR3329</pub-id>
+<pub-id pub-id-type="pmid">15799699</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>
+</pmc-articleset>

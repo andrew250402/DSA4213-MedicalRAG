@@ -1,0 +1,382 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Cancer</journal-id>
+<journal-id journal-id-type="iso-abbrev">Cancer</journal-id>
+<journal-id journal-id-type="pmc-domain-id">319</journal-id>
+<journal-id journal-id-type="pmc-domain">nihpa</journal-id>
+<journal-title-group>
+<journal-title>Cancer</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0008-543X</issn>
+<issn pub-type="epub">1097-0142</issn>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-is-collection-domain</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-collection-title</meta-name>
+<meta-value>NIHPA Author Manuscripts</meta-value>
+</custom-meta>
+</custom-meta-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC8738100</article-id>
+<article-id pub-id-type="pmcid-ver">PMC8738100.1</article-id>
+<article-id pub-id-type="pmcaid">8738100</article-id>
+<article-id pub-id-type="pmcaiid">8738100</article-id>
+<article-id pub-id-type="manuscript-id">NIHMS1738204</article-id>
+<article-id pub-id-type="pmid">34606625</article-id>
+<article-id pub-id-type="doi">10.1002/cncr.33922</article-id>
+<article-id pub-id-type="manuscript-id-alternative">NIHMS1738204</article-id>
+<article-id pub-id-type="manuscript-id-alternative">NIHPA1738204</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Subsequent malignant neoplasms in the Childhood Cancer Survivor Study: Occurrence of cancer types where human papillomavirus is an established etiologic risk factor</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Henderson</surname>
+<given-names initials="TO">Tara O.</given-names>
+</name>
+<degrees>MD, MPH</degrees>
+<contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-9394-6206</contrib-id>
+<xref ref-type="aff" rid="A1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Fowler</surname>
+<given-names initials="BW">Brynn W.</given-names>
+</name>
+<degrees>MPH</degrees>
+<xref ref-type="aff" rid="A1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hamann</surname>
+<given-names initials="H">Haley</given-names>
+</name>
+<degrees>MPH</degrees>
+<xref ref-type="aff" rid="A1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Nathan</surname>
+<given-names initials="PC">Paul C.</given-names>
+</name>
+<degrees>MD, MSc</degrees>
+<contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-0334-0871</contrib-id>
+<xref ref-type="aff" rid="A2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Whitton</surname>
+<given-names initials="J">Jillian</given-names>
+</name>
+<degrees>MS</degrees>
+<xref ref-type="aff" rid="A3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Leisenring</surname>
+<given-names initials="WM">Wendy M.</given-names>
+</name>
+<degrees>ScD</degrees>
+<contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7405-0906</contrib-id>
+<xref ref-type="aff" rid="A3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Oeffinger</surname>
+<given-names initials="KC">Kevin C.</given-names>
+</name>
+<degrees>MD</degrees>
+<xref ref-type="aff" rid="A4">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Neglia</surname>
+<given-names initials="JP">Joseph P.</given-names>
+</name>
+<degrees>MD, MPH</degrees>
+<xref ref-type="aff" rid="A5">5</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Turcotte</surname>
+<given-names initials="LM">Lucie M.</given-names>
+</name>
+<degrees>MD, MPH, MS</degrees>
+<contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4106-6172</contrib-id>
+<xref ref-type="aff" rid="A5">5</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Arnold</surname>
+<given-names initials="MA">Michael A.</given-names>
+</name>
+<degrees>MD, PhD</degrees>
+<xref ref-type="aff" rid="A6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Conces</surname>
+<given-names initials="MR">Miriam R.</given-names>
+</name>
+<degrees>MD</degrees>
+<xref ref-type="aff" rid="A7">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Howell</surname>
+<given-names initials="RM">Rebecca M.</given-names>
+</name>
+<degrees>PhD</degrees>
+<xref ref-type="aff" rid="A8">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Robison</surname>
+<given-names initials="LL">Leslie L.</given-names>
+</name>
+<degrees>PhD</degrees>
+<xref ref-type="aff" rid="A9">9</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Armstrong</surname>
+<given-names initials="GT">Gregory T.</given-names>
+</name>
+<degrees>MD, MSCE</degrees>
+<xref ref-type="aff" rid="A9">9</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Alexander</surname>
+<given-names initials="KA">Kenneth A.</given-names>
+</name>
+<degrees>MD, PhD</degrees>
+<xref ref-type="aff" rid="A10">10</xref>
+</contrib>
+</contrib-group>
+<aff id="A1">
+<label>1</label>University of Chicago Comer Children’s Hospital, Chicago, IL</aff>
+<aff id="A2">
+<label>2</label>The Hospital for Sick Children, Toronto, Ontario</aff>
+<aff id="A3">
+<label>3</label>Fred Hutchinson Cancer Research Center, Seattle, WA</aff>
+<aff id="A4">
+<label>4</label>Duke University, Durham, NC</aff>
+<aff id="A5">
+<label>5</label>University of Minnesota, Minneapolis, MN</aff>
+<aff id="A6">
+<label>6</label>Children’s Hospital of Colorado and University of Colorado, Denver, CO</aff>
+<aff id="A7">
+<label>7</label>Nationwide Children’s Hospital, Columbus, OH,</aff>
+<aff id="A8">
+<label>8</label>MD Anderson Cancer Center, Houston, TX</aff>
+<aff id="A9">
+<label>9</label>St. Jude Children’s Research Hospital, Memphis, TN</aff>
+<aff id="A10">
+<label>10</label>Nemours Children’s Hospital, Orlando, FL</aff>
+<author-notes>
+<fn fn-type="con" id="FN1">
+<p id="P1">Authors Contribution Statement:</p>
+<p id="P2">Tara O. Henderson: Research design, data analysis, writing – first draft, writing – input and critical revisions, and study supervision. Responsible for the overall content as guarantor.</p>
+<p id="P3">Brynn W. Fowler: Data analysis, writing – input and critical revisions</p>
+<p id="P4">Haley Hamann: Data analysis, writing – input and critical revisions</p>
+<p id="P5">Paul C. Nathan: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P6">Jillian Whitton: Research design, data analysis, writing – first draft, writing – input and critical revisions, and study supervision.</p>
+<p id="P7">Wendy M. Leisenring: Research design, data analysis, writing – first draft, writing – input and critical revisions, and study supervision.</p>
+<p id="P8">Kevin C. Oeffinger: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P9">Joseph P. Neglia: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P10">Lucie M. Turcotte: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P11">Michael A. Arnold: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P12">Miriam R. Conces: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P13">Rebecca M. Howell: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P14">Leslie L. Robison: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P15">Greg T. Armstrong: Research design, data analysis, writing – input and critical revisions</p>
+<p id="P16">Kenneth A. Alexander: Research design, data analysis, writing – first draft, writing – input and critical revisions, and study supervision.</p>
+</fn>
+<corresp id="CR1">
+<italic toggle="yes">Corresponding Author:</italic> Tara O. Henderson, MD, MPH, 900 E. 57<sup>th</sup> Street, KCBD 5124, Chicago, IL 60637, Phone: (773) 702-2501, Fax: (773) 834-1329, <email>thenderson@peds.bsd.uchicago.edu</email>
+</corresp>
+<fn fn-type="COI-statement" id="FN3">
+<p id="P49">Conflict of Interest Disclosures</p>
+<p id="P50">The authors have nothing to disclose.</p>
+</fn>
+</author-notes>
+<pub-date pub-type="epub">
+<day>04</day>
+<month>10</month>
+<year>2021</year>
+</pub-date>
+<pub-date pub-type="ppub">
+<day>15</day>
+<month>1</month>
+<year>2022</year>
+</pub-date>
+<volume>128</volume>
+<issue>2</issue>
+<issue-id pub-id-type="pmc-issue-id">397748</issue-id>
+<fpage>373</fpage>
+<lpage>382</lpage>
+<pub-history>
+<event event-type="nihms-submitted">
+<date>
+<day>15</day>
+<month>09</month>
+<year>2021</year>
+</date>
+</event>
+<event event-type="pmc-release">
+<date>
+<day>15</day>
+<month>01</month>
+<year>2023</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>15</day>
+<month>01</month>
+<year>2023</year>
+</date>
+</event>
+<event event-type="pmc-released-under-embargo">
+<date>
+<day>08</day>
+<month>01</month>
+<year>2022</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2024-06-11 17:25:12.997">
+<day>11</day>
+<month>06</month>
+<year>2024</year>
+</date>
+</event>
+</pub-history>
+<self-uri content-type="pmc-pdf" ns0:href="nihms-1738204.pdf" />
+<abstract id="ABS1">
+<sec id="S1">
+<title>Background:</title>
+<p id="P17">Human papillomavirus-associated subsequent malignant neoplasms (SMN<sub>
+<italic toggle="yes">HPV</italic>
+</sub>) in childhood cancer survivors are poorly understood.</p>
+</sec>
+<sec id="S2">
+<title>Methods:</title>
+<p id="P18">SMN<sub>
+<italic toggle="yes">HPV</italic>
+</sub> cumulative risk was assessed among 24,363 Childhood Cancer Survivor Study participants. Standardized incidence ratios (SIRs) and absolute excess risk (AER) were calculated using age-, sex- and calendar year rates from the Surveillance, Epidemiology and End Results (SEER) program. Poisson regression models identified SMN<sub>
+<italic toggle="yes">HPV</italic>
+</sub> risk factors, evaluating relative SIRs (rSIR) and 95% Confidence Intervals (95% CI).</p>
+</sec>
+<sec id="S3">
+<title>Results:</title>
+<p id="P19">46 survivors developed an SMN<sub>
+<italic toggle="yes">HPV</italic>
+</sub> (median age of 31 years [range: 10-56], median time from primary cancer of 21 years [range: 9-35]). SMN<sub>
+<italic toggle="yes">HPV</italic>
+</sub> locations included oropharynx (N=44), anorectum (N=6), uterine cervix (N=2), vulva (N=2). Thirty-year cumulative incidence was 0.3% (95% CI: 0.2%-0.4%) and SIR was nearly three-fold the general population (SIR=2.86, 95% CI 2.05-4.00). Female survivors were not at increased risk of cervical or vulvar cancers compared to the general population. All survivors had an elevated risk of oropharyngeal (Males SIR=4.06, 95% CI 2.37-6.97; Females SIR=8.44, 95% CI 4.88-14.61) and anorectal (Males SIR=13.56, 95% CI 5.09-36.13; Females SIR=9.15, 95% CI 2.29-36.61) SMN<sub>
+<italic toggle="yes">HPV</italic>
+</sub>. Males (vs. females, rSIR=1.99, CI 1.00-3.94), head/neck/pelvic RT dose &gt;3000 cGy (vs none, rSIR=2.35, CI 1.11-4.97), and cisplatin-equivalent dose &gt;400 mg/m<sup>2</sup> (vs none, rSIR=4.51, CI: 1.78-11.43) were associated with increased SMN<sub>
+<italic toggle="yes">HPV</italic>
+</sub> SIRs in multivariable analysis.</p>
+</sec>
+<sec id="S4">
+<title>Conclusion:</title>
+<p id="P20">Childhood cancer survivors are at increased risk for SMN in locations susceptible to HPV-associated malignancies. Further research examining HPV in the etiology of SMN and the promotion of HPV vaccination and surveillance guidelines for SMN<sub>
+<italic toggle="yes">HPV</italic>
+</sub> in cancer survivors is warranted.</p>
+</sec>
+</abstract>
+<abstract id="ABS2" abstract-type="summary">
+<title>Precis</title>
+<p id="P21">Childhood cancer survivors are at increased risk for secondary malignant neoplasms in locations associated with HPV infection.</p>
+</abstract>
+<kwd-group>
+<kwd>Cancer Survivors</kwd>
+<kwd>Human Papillomavirus</kwd>
+<kwd>Early Detection of Cancer</kwd>
+</kwd-group>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+</article>
+</pmc-articleset>

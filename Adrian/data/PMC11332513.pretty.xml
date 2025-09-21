@@ -1,0 +1,2163 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.niso.org/schemas/ali/1.0/">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Acta Oncol</journal-id>
+<journal-id journal-id-type="iso-abbrev">Acta Oncol</journal-id>
+<journal-id journal-id-type="pmc-domain-id">4634</journal-id>
+<journal-id journal-id-type="pmc-domain">ao</journal-id>
+<journal-id journal-id-type="publisher-id">AO</journal-id>
+<journal-title-group>
+<journal-title>Acta Oncologica</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0284-186X</issn>
+<issn pub-type="epub">1651-226X</issn>
+<publisher>
+<publisher-name>MJS Publishing</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC11332513</article-id>
+<article-id pub-id-type="pmcid-ver">PMC11332513.1</article-id>
+<article-id pub-id-type="pmcaid">11332513</article-id>
+<article-id pub-id-type="pmcaiid">11332513</article-id>
+<article-id pub-id-type="pmid">38850051</article-id>
+<article-id pub-id-type="doi">10.2340/1651-226X.2024.34138</article-id>
+<article-id pub-id-type="publisher-id">AO-63-34138</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Original Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Relative risk of second malignant neoplasms highest among young adult cancer patients – a population-based registry study in Finland</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-8453-3489</contrib-id>
+<name name-style="western">
+<surname>Koivisto</surname>
+<given-names initials="HAM">Hanna A. M.</given-names>
+</name>
+<xref rid="AF0001" ref-type="aff">a</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9253-4493</contrib-id>
+<name name-style="western">
+<surname>Nevala</surname>
+<given-names initials="AO">Aapeli O.</given-names>
+</name>
+<xref rid="AF0002" ref-type="aff">b</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8624-6754</contrib-id>
+<name name-style="western">
+<surname>Miettinen</surname>
+<given-names initials="JM">Joonas M.</given-names>
+</name>
+<xref rid="AF0002" ref-type="aff">b</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9879-6673</contrib-id>
+<name name-style="western">
+<surname>Pitkäniemi</surname>
+<given-names initials="JM">Janne M.</given-names>
+</name>
+<xref rid="AF0002" ref-type="aff">b</xref>
+<xref rid="AF0003" ref-type="aff">c</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8127-8087</contrib-id>
+<name name-style="western">
+<surname>Malila</surname>
+<given-names initials="NK">Nea K.</given-names>
+</name>
+<xref rid="AF0002" ref-type="aff">b</xref>
+<xref rid="AFN0001" ref-type="author-notes">*</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9995-5605</contrib-id>
+<name name-style="western">
+<surname>Heikkinen</surname>
+<given-names initials="SMM">Sanna M. M.</given-names>
+</name>
+<xref rid="AF0002" ref-type="aff">b</xref>
+<xref rid="AFN0001" ref-type="author-notes">*</xref>
+</contrib>
+<aff id="AF0001">
+<label>a</label>Faculty of Medicine, University of Helsinki, Helsinki, Finland</aff>
+<aff id="AF0002">
+<label>b</label>Finnish Cancer Registry, Cancer Society of Finland, Helsinki, Finland</aff>
+<aff id="AF0003">
+<label>c</label>Faculty of Social Sciences, Tampere University, Tampere, Finland</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1">
+<bold>CONTACT</bold> Hanna Koivisto <email ns0:href="hanna.koivisto@cancer.fi">hanna.koivisto@cancer.fi</email> Faculty of Medicine, University of Helsinki, Helsinki, Finland</corresp>
+<fn id="AFN0001">
+<label>*</label>
+<p>These authors contributed equally to this work.</p>
+</fn>
+<fn>
+<p>Supplemental data for this article can be accessed online at <ext-link ns0:href="https://doi.org/10.2340/1651-226X.2024.34138" ext-link-type="uri">https://doi.org/10.2340/1651-226X.2024.34138</ext-link>
+</p>
+</fn>
+</author-notes>
+<pub-date pub-type="epub">
+<day>08</day>
+<month>6</month>
+<year>2024</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2024</year>
+</pub-date>
+<volume>63</volume>
+<issue-id pub-id-type="pmc-issue-id">469053</issue-id>
+<elocation-id>34138</elocation-id>
+<history>
+<date date-type="received">
+<day>04</day>
+<month>12</month>
+<year>2023</year>
+</date>
+<date date-type="accepted">
+<day>05</day>
+<month>4</month>
+<year>2024</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>08</day>
+<month>06</month>
+<year>2024</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>20</day>
+<month>08</month>
+<year>2024</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2024-08-28 23:25:35.897">
+<day>28</day>
+<month>08</month>
+<year>2024</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2024 The Author(s)</copyright-statement>
+<copyright-year>2024</copyright-year>
+<license>
+<ns1:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns1:license_ref>
+<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution 4.0 International License, allowing third parties to copy and redistribute the material in any medium or format and to remix, transform, and build upon the material, with the condition of proper attribution to the original work.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns0:href="AO-63-34138.pdf" />
+<abstract>
+<sec id="s1">
+<title>Background and purpose</title>
+<p>The objective of this study was to explore the incidence of second malignant neoplasms (SMNs) among adult cancer patients in Finland diagnosed with their first primary cancer (FPC) in 1992–2021.</p>
+</sec>
+<sec id="s2">
+<title>Material and methods</title>
+<p>The study used data from the population-based Finnish Cancer Registry (FCR). Risk estimates were calculated using the standardised incidence ratio (SIR), the ratio of observed second cancers compared to the expected numbers assuming the same cancer incidence as the corresponding sex-age-calendar year -split of the general population.</p>
+</sec>
+<sec id="s3">
+<title>Results</title>
+<p>A total of 573,379 FPCs were diagnosed during 1992–2021. During the follow-up, 60,464 SMNs were diagnosed. Male cancer patients had neither a decreased nor an increased risk (SIR 1.00 [95% CI, 0.99–1.01]) and female patients had an 8% increased risk (SIR 1.08 [95% CI, 1.06–1.09]) of developing any SMN compared to a FPC in the general population. The highest SIR of any SMN was observed in patients aged 20–39 -years at FPC diagnosis, and the SIR decreased by increasing age at diagnosis. Patients with lymphoid and haematopoietic tissue neoplasms, cancers of the mouth and pharynx, endocrine glands, respiratory and intrathoracic organs, skin, and urinary organs had the highest SIRs, while patients with cancers of the male genital organs and the female breast had the lowest SIRs.</p>
+</sec>
+<sec id="s4">
+<title>Interpretation</title>
+<p>Elevated SIRs were observed in cancer patients diagnosed at an early age and for FPCs known to be in large part attributable to lifestyle factors, which highlights the importance of monitoring and encouraging lifestyle changes.</p>
+</sec>
+</abstract>
+<kwd-group>
+<title>KEYWORDS</title>
+<kwd>Cancer</kwd>
+<kwd>epidemiology</kwd>
+<kwd>second malignancy</kwd>
+<kwd>cohort study</kwd>
+</kwd-group>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-license-ref</meta-name>
+<meta-value>CC BY</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro" id="sec1">
+<title>Introduction</title>
+<p>An estimated 19.3 million new cancer cases were diagnosed globally in 2020 [<xref rid="CIT0001" ref-type="bibr">1</xref>]. Due to a growing and ageing population, this number is expected to reach 28.4 million by 2040 [<xref rid="CIT0001" ref-type="bibr">1</xref>]. In Finland, the number of new cancer cases increased from nearly 20,000 in 1992 to more than 35,000 in 2020, while cancer mortality has decreased in both men and women [<xref rid="CIT0002" ref-type="bibr">2</xref>, <xref rid="CIT0003" ref-type="bibr">3</xref>]. There were more than 300,000 cancer patients in Finland in 2020 [<xref rid="CIT0003" ref-type="bibr">3</xref>], many of whom have likely received cancer treatment in the form of chemo- or radiotherapy. Increased cancer incidence, in addition to improved survival rates, puts patients at a higher risk of developing second malignant neoplasms (SMN) [<xref rid="CIT0001" ref-type="bibr">1</xref>–<xref rid="CIT0005" ref-type="bibr">5</xref>].</p>
+<p>Several SMN risk factors have been identified. Both chemotherapy and radiotherapy are associated with the development of secondary malignancies [<xref rid="CIT0004" ref-type="bibr">4</xref>, <xref rid="CIT0005" ref-type="bibr">5</xref>]. Genetic predisposition, hormonal influence, and lifestyle and environmental factors also play a part [<xref rid="CIT0005" ref-type="bibr">5</xref>–<xref rid="CIT0007" ref-type="bibr">7</xref>]. Smoking, excess body weight and alcohol consumption are all strongly associated with cancer pathogenesis [<xref rid="CIT0006" ref-type="bibr">6</xref>, <xref rid="CIT0007" ref-type="bibr">7</xref>]. Positive associations have also been observed between aforementioned lifestyle factors and the increased risk of several different SMNs [<xref rid="CIT0008" ref-type="bibr">8</xref>–<xref rid="CIT0012" ref-type="bibr">12</xref>].</p>
+<p>In Finland, smoking has been decreasing in men since the 1970s; in women it started to decrease more recently [<xref rid="CIT0013" ref-type="bibr">13</xref>, <xref rid="CIT0014" ref-type="bibr">14</xref>]. The proportion of individuals consuming alcohol or having excess body weight has increased since the 1980s [<xref rid="CIT0014" ref-type="bibr">14</xref>]. Although modern cancer treatments are increasingly targeted [<xref rid="CIT0015" ref-type="bibr">15</xref>], a higher exposure to known lifestyle risk factors, coupled with improving survival rates, is likely to increase the overall incidence of SMNs in Finland [<xref rid="CIT0008" ref-type="bibr">8</xref>–<xref rid="CIT0014" ref-type="bibr">14</xref>]. While the cost per new cancer patient decreased between 2009 and 2014, the overall costs will increase along with the number of cancer patients [<xref rid="CIT0016" ref-type="bibr">16</xref>]. Information about the risk of developing SMNs will thus be of significance when planning future care and preventative measures.</p>
+<p>The previous comprehensive registry-based study on the risk of developing SMNs in Finland was based on data from 1953 to 1991 [<xref rid="CIT0017" ref-type="bibr">17</xref>]. Many other European studies cover a similar time period or end before 2010 [<xref rid="CIT0018" ref-type="bibr">18</xref>–<xref rid="CIT0023" ref-type="bibr">23</xref>]. Prominent risk factors, treatments, and survivorship care have changed over time, thus an update is warranted [<xref rid="CIT0013" ref-type="bibr">13</xref>–<xref rid="CIT0015" ref-type="bibr">15</xref>]. The objective of this population-based study is to explore and describe the incidence of SMNs among adult cancer patients in Finland diagnosed with their first primary cancer (FPC) between 1992 and 2021. The focus will be on the diagnostic age and calendar period of the FPC diagnosis, as well as on the follow-up.</p>
+</sec>
+<sec sec-type="material|methods" id="sec2">
+<title>Material and methods</title>
+<p>This study uses data from the nationwide Finnish Cancer Registry (FCR), which maintains information on all cancer cases diagnosed in Finland since 1953. Hospitals, physicians, and laboratories have been obliged to report cancer cases to the FCR since 1961. FCR data includes details on the diagnosis and the tumour, such as the date and method of diagnosis, as well as the topography, morphology and spreading of the tumour. Information on cancer deaths is updated annually from Statistics Finland [<xref rid="CIT0024" ref-type="bibr">24</xref>].</p>
+<p>The FCR follows the coding rules of the International Agency for Research on Cancer (IARC, 2004) for multiple cancers with modifications [<xref rid="CIT0025" ref-type="bibr">25</xref>]. This means multiple primaries in the same organ are mostly excluded, however, with the national Finnish exception of haematological and lymphatic cancers. Both malignant and benign neoplasms of the brain and the central nervous system are registered. Cancers with unclear growth tendencies and in situ- tumours of the bladder and the urinary system are included as well. In addition, certain other benign tumours are also registered, but not reported in routine cancer statistics [<xref rid="CIT0003" ref-type="bibr">3</xref>].</p>
+<p>In this study, the cancer type classification followed the 10th edition of the World Health Organization’s (WHO) International Classification of Diseases with the following entities included: C00–96, D0.9.0–1, D32–33, D41–43, D45–47, D76 [<xref rid="CIT0003" ref-type="bibr">3</xref>]. Cancer primary sites were combined into 16 larger site groups, which will be referred to as primary sites (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>). To avoid synchronous cancers to be included as second malignancies, the follow-up started 6 months after the date of diagnosis of the FPC. FPCs were included until 2021, excluding the last 6 months of the year, and the follow-up ended on 31 December 2021 at the latest.</p>
+<table-wrap position="float" id="T0001" orientation="portrait">
+<label>Table 1</label>
+<caption>
+<p>Standardised incidence ratios (SIR) for any metachronous second malignant neoplasm (SMN) diagnosed in Finland between 1992-2021 by age at first primary cancer (FPC), diagnosis period of first primary cancer (FPC), and site of first primary cancer (FPC).</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th align="left" rowspan="2" colspan="1">Age at FPC, diagnosis period of FPC, and site of FPC</th>
+<th colspan="6" align="center" rowspan="1">Men</th>
+<th colspan="6" align="center" rowspan="1">Women</th>
+</tr>
+<tr>
+<th align="center" rowspan="1" colspan="1">No. of FPCs</th>
+<th align="center" rowspan="1" colspan="1">Obs. SMNs</th>
+<th align="center" rowspan="1" colspan="1">Exp. SMNs</th>
+<th align="center" rowspan="1" colspan="1">PYRS</th>
+<th align="center" rowspan="1" colspan="1">SIR</th>
+<th align="center" rowspan="1" colspan="1">95% CI</th>
+<th align="center" rowspan="1" colspan="1">No. of FPCs</th>
+<th align="center" rowspan="1" colspan="1">Obs. SMNs</th>
+<th align="center" rowspan="1" colspan="1">Exp. SMNs</th>
+<th align="center" rowspan="1" colspan="1">PYRS</th>
+<th align="center" rowspan="1" colspan="1">SIR</th>
+<th align="center" rowspan="1" colspan="1">95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">
+<bold>Age at FPC</bold>
+</td>
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> 20–39</td>
+<td align="center" rowspan="1" colspan="1">10,312</td>
+<td align="center" rowspan="1" colspan="1">367</td>
+<td align="center" rowspan="1" colspan="1">160.79</td>
+<td align="center" rowspan="1" colspan="1">109,548.57</td>
+<td align="center" rowspan="1" colspan="1">2.28</td>
+<td align="center" rowspan="1" colspan="1">2.06-2.52</td>
+<td align="center" rowspan="1" colspan="1">15,691</td>
+<td align="center" rowspan="1" colspan="1">778</td>
+<td align="center" rowspan="1" colspan="1">482.89</td>
+<td align="center" rowspan="1" colspan="1">177,825.25</td>
+<td align="center" rowspan="1" colspan="1">1.61</td>
+<td align="center" rowspan="1" colspan="1">1.50-1.73</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> 40–59</td>
+<td align="center" rowspan="1" colspan="1">57,308</td>
+<td align="center" rowspan="1" colspan="1">5,961</td>
+<td align="center" rowspan="1" colspan="1">4,533.76</td>
+<td align="center" rowspan="1" colspan="1">453,393.14</td>
+<td align="center" rowspan="1" colspan="1">1.31</td>
+<td align="center" rowspan="1" colspan="1">1.28-1.35</td>
+<td align="center" rowspan="1" colspan="1">89,423</td>
+<td align="center" rowspan="1" colspan="1">8,182</td>
+<td align="center" rowspan="1" colspan="1">7,803.87</td>
+<td align="center" rowspan="1" colspan="1">932,838.44</td>
+<td align="center" rowspan="1" colspan="1">1.05</td>
+<td align="center" rowspan="1" colspan="1">1.03-1.07</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> 60–79</td>
+<td align="center" rowspan="1" colspan="1">177,797</td>
+<td align="center" rowspan="1" colspan="1">23,817</td>
+<td align="center" rowspan="1" colspan="1">25,138.00</td>
+<td align="center" rowspan="1" colspan="1">994,031.93</td>
+<td align="center" rowspan="1" colspan="1">0.95</td>
+<td align="center" rowspan="1" colspan="1">0.94-0.96</td>
+<td align="center" rowspan="1" colspan="1">139,267</td>
+<td align="center" rowspan="1" colspan="1">14,276</td>
+<td align="center" rowspan="1" colspan="1">13,214.47</td>
+<td align="center" rowspan="1" colspan="1">923,578.10</td>
+<td align="center" rowspan="1" colspan="1">1.08</td>
+<td align="center" rowspan="1" colspan="1">1.06-1.10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> 80+</td>
+<td align="center" rowspan="1" colspan="1">38,933</td>
+<td align="center" rowspan="1" colspan="1">3,952</td>
+<td align="center" rowspan="1" colspan="1">4,410.94</td>
+<td align="center" rowspan="1" colspan="1">122,625.00</td>
+<td align="center" rowspan="1" colspan="1">0.90</td>
+<td align="center" rowspan="1" colspan="1">0.87-0.92</td>
+<td align="center" rowspan="1" colspan="1">44,648</td>
+<td align="center" rowspan="1" colspan="1">3,131</td>
+<td align="center" rowspan="1" colspan="1">3,018.13</td>
+<td align="center" rowspan="1" colspan="1">153,948.41</td>
+<td align="center" rowspan="1" colspan="1">1.04</td>
+<td align="center" rowspan="1" colspan="1">1.00-1.07</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> <bold>Total</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">284,350</td>
+<td align="center" rowspan="1" colspan="1">34,097</td>
+<td align="center" rowspan="1" colspan="1">34,243.49</td>
+<td align="center" rowspan="1" colspan="1">1,679,598.65</td>
+<td align="center" rowspan="1" colspan="1">1.00</td>
+<td align="center" rowspan="1" colspan="1">0.99-1.01</td>
+<td align="center" rowspan="1" colspan="1">289,029</td>
+<td align="center" rowspan="1" colspan="1">26,367</td>
+<td align="center" rowspan="1" colspan="1">24,519.36</td>
+<td align="center" rowspan="1" colspan="1">2,188,190.20</td>
+<td align="center" rowspan="1" colspan="1">1.08</td>
+<td align="center" rowspan="1" colspan="1">1.06-1.09</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">
+<bold>Period of FPC</bold>
+</td>
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> 1992–2001</td>
+<td align="center" rowspan="1" colspan="1">70,462</td>
+<td align="center" rowspan="1" colspan="1">11,056</td>
+<td align="center" rowspan="1" colspan="1">11,351.98</td>
+<td align="center" rowspan="1" colspan="1">553,069.56</td>
+<td align="center" rowspan="1" colspan="1">0.97</td>
+<td align="center" rowspan="1" colspan="1">0.96-0.99</td>
+<td align="center" rowspan="1" colspan="1">79,169</td>
+<td align="center" rowspan="1" colspan="1">10,608</td>
+<td align="center" rowspan="1" colspan="1">9,993.89</td>
+<td align="center" rowspan="1" colspan="1">916,534.50</td>
+<td align="center" rowspan="1" colspan="1">1.06</td>
+<td align="center" rowspan="1" colspan="1">1.04-1.08</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> 2002–2011</td>
+<td align="center" rowspan="1" colspan="1">98,783</td>
+<td align="center" rowspan="1" colspan="1">15,032</td>
+<td align="center" rowspan="1" colspan="1">15,408.41</td>
+<td align="center" rowspan="1" colspan="1">748,812.15</td>
+<td align="center" rowspan="1" colspan="1">0.98</td>
+<td align="center" rowspan="1" colspan="1">0.96-0.99</td>
+<td align="center" rowspan="1" colspan="1">97,168</td>
+<td align="center" rowspan="1" colspan="1">10,545</td>
+<td align="center" rowspan="1" colspan="1">9,829.49</td>
+<td align="center" rowspan="1" colspan="1">866,592.87</td>
+<td align="center" rowspan="1" colspan="1">1.07</td>
+<td align="center" rowspan="1" colspan="1">1.05-1.09</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> 2012–2021</td>
+<td align="center" rowspan="1" colspan="1">115,105</td>
+<td align="center" rowspan="1" colspan="1">8,008</td>
+<td align="center" rowspan="1" colspan="1">7,483.10</td>
+<td align="center" rowspan="1" colspan="1">377,716.95</td>
+<td align="center" rowspan="1" colspan="1">1.07</td>
+<td align="center" rowspan="1" colspan="1">1.05-1.09</td>
+<td align="center" rowspan="1" colspan="1">112,692</td>
+<td align="center" rowspan="1" colspan="1">5,215</td>
+<td align="center" rowspan="1" colspan="1">4,695.98</td>
+<td align="center" rowspan="1" colspan="1">405,062.83</td>
+<td align="center" rowspan="1" colspan="1">1.11</td>
+<td align="center" rowspan="1" colspan="1">1.08-1.14</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">
+<bold>First primary cancer</bold>
+</td>
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+<td align="center" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Bone</td>
+<td align="center" rowspan="1" colspan="1">470</td>
+<td align="center" rowspan="1" colspan="1">48</td>
+<td align="center" rowspan="1" colspan="1">31.96</td>
+<td align="center" rowspan="1" colspan="1">3,560.39</td>
+<td align="center" rowspan="1" colspan="1">1.50</td>
+<td align="center" rowspan="1" colspan="1">1.11-1.99</td>
+<td align="center" rowspan="1" colspan="1">318</td>
+<td align="center" rowspan="1" colspan="1">28</td>
+<td align="center" rowspan="1" colspan="1">22.12</td>
+<td align="center" rowspan="1" colspan="1">2,935.40</td>
+<td align="center" rowspan="1" colspan="1">1.27</td>
+<td align="center" rowspan="1" colspan="1">0.84-1.83</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Brain, meninges and CNS</td>
+<td align="center" rowspan="1" colspan="1">6,909</td>
+<td align="center" rowspan="1" colspan="1">614</td>
+<td align="center" rowspan="1" colspan="1">503.04</td>
+<td align="center" rowspan="1" colspan="1">48,113.91</td>
+<td align="center" rowspan="1" colspan="1">1.22</td>
+<td align="center" rowspan="1" colspan="1">1.13-1.32</td>
+<td align="center" rowspan="1" colspan="1">10,721</td>
+<td align="center" rowspan="1" colspan="1">1,044</td>
+<td align="center" rowspan="1" colspan="1">929.20</td>
+<td align="center" rowspan="1" colspan="1">98,568.46</td>
+<td align="center" rowspan="1" colspan="1">1.12</td>
+<td align="center" rowspan="1" colspan="1">1.06-1.19</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Breast</td>
+<td align="center" rowspan="1" colspan="1">467</td>
+<td align="center" rowspan="1" colspan="1">87</td>
+<td align="center" rowspan="1" colspan="1">59.24</td>
+<td align="center" rowspan="1" colspan="1">3,128.46</td>
+<td align="center" rowspan="1" colspan="1">1.47</td>
+<td align="center" rowspan="1" colspan="1">1.18-1.81</td>
+<td align="center" rowspan="1" colspan="1">107,002</td>
+<td align="center" rowspan="1" colspan="1">9,128</td>
+<td align="center" rowspan="1" colspan="1">10,633.16</td>
+<td align="center" rowspan="1" colspan="1">978,479.70</td>
+<td align="center" rowspan="1" colspan="1">0.86</td>
+<td align="center" rowspan="1" colspan="1">0.84-0.88</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Digestive organs</td>
+<td align="center" rowspan="1" colspan="1">46,851</td>
+<td align="center" rowspan="1" colspan="1">4,398</td>
+<td align="center" rowspan="1" colspan="1">4,238.28</td>
+<td align="center" rowspan="1" colspan="1">209,626.72</td>
+<td align="center" rowspan="1" colspan="1">1.04</td>
+<td align="center" rowspan="1" colspan="1">1.01-1.07</td>
+<td align="center" rowspan="1" colspan="1">42,944</td>
+<td align="center" rowspan="1" colspan="1">2,963</td>
+<td align="center" rowspan="1" colspan="1">2,915.12</td>
+<td align="center" rowspan="1" colspan="1">224,019.90</td>
+<td align="center" rowspan="1" colspan="1">1.02</td>
+<td align="center" rowspan="1" colspan="1">0.98-1.05</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Endocrine glands</td>
+<td align="center" rowspan="1" colspan="1">2,498</td>
+<td align="center" rowspan="1" colspan="1">325</td>
+<td align="center" rowspan="1" colspan="1">219.47</td>
+<td align="center" rowspan="1" colspan="1">22,051.42</td>
+<td align="center" rowspan="1" colspan="1">1.48</td>
+<td align="center" rowspan="1" colspan="1">1.32-1.65</td>
+<td align="center" rowspan="1" colspan="1">7,931</td>
+<td align="center" rowspan="1" colspan="1">858</td>
+<td align="center" rowspan="1" colspan="1">685.30</td>
+<td align="center" rowspan="1" colspan="1">88,734.24</td>
+<td align="center" rowspan="1" colspan="1">1.25</td>
+<td align="center" rowspan="1" colspan="1">1.17-1.34</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Eye</td>
+<td align="center" rowspan="1" colspan="1">675</td>
+<td align="center" rowspan="1" colspan="1">91</td>
+<td align="center" rowspan="1" colspan="1">82.00</td>
+<td align="center" rowspan="1" colspan="1">5,235.02</td>
+<td align="center" rowspan="1" colspan="1">1.11</td>
+<td align="center" rowspan="1" colspan="1">0.89-1.36</td>
+<td align="center" rowspan="1" colspan="1">624</td>
+<td align="center" rowspan="1" colspan="1">74</td>
+<td align="center" rowspan="1" colspan="1">59.73</td>
+<td align="center" rowspan="1" colspan="1">5,383.37</td>
+<td align="center" rowspan="1" colspan="1">1.24</td>
+<td align="center" rowspan="1" colspan="1">0.97-1.56</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Genital organs</td>
+<td align="center" rowspan="1" colspan="1">111,156</td>
+<td align="center" rowspan="1" colspan="1">13,390</td>
+<td align="center" rowspan="1" colspan="1">18,078.24</td>
+<td align="center" rowspan="1" colspan="1">781,143.62</td>
+<td align="center" rowspan="1" colspan="1">0.74</td>
+<td align="center" rowspan="1" colspan="1">0.73-0.75</td>
+<td align="center" rowspan="1" colspan="1">37,837</td>
+<td align="center" rowspan="1" colspan="1">3,734</td>
+<td align="center" rowspan="1" colspan="1">3,342.25</td>
+<td align="center" rowspan="1" colspan="1">293,552.61</td>
+<td align="center" rowspan="1" colspan="1">1.12</td>
+<td align="center" rowspan="1" colspan="1">1.08-1.15</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Illdefined or unknown</td>
+<td align="center" rowspan="1" colspan="1">1,579</td>
+<td align="center" rowspan="1" colspan="1">112</td>
+<td align="center" rowspan="1" colspan="1">75.53</td>
+<td align="center" rowspan="1" colspan="1">4,907.28</td>
+<td align="center" rowspan="1" colspan="1">1.48</td>
+<td align="center" rowspan="1" colspan="1">1.22-1.78</td>
+<td align="center" rowspan="1" colspan="1">2,095</td>
+<td align="center" rowspan="1" colspan="1">100</td>
+<td align="center" rowspan="1" colspan="1">83.16</td>
+<td align="center" rowspan="1" colspan="1">7,261.25</td>
+<td align="center" rowspan="1" colspan="1">1.20</td>
+<td align="center" rowspan="1" colspan="1">0.98-1.46</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Lymphoid and haematopoietic tissue</td>
+<td align="center" rowspan="1" colspan="1">25,872</td>
+<td align="center" rowspan="1" colspan="1">3,822</td>
+<td align="center" rowspan="1" colspan="1">2,207.22</td>
+<td align="center" rowspan="1" colspan="1">153,634.50</td>
+<td align="center" rowspan="1" colspan="1">1.73</td>
+<td align="center" rowspan="1" colspan="1">1.68-1.79</td>
+<td align="center" rowspan="1" colspan="1">23,427</td>
+<td align="center" rowspan="1" colspan="1">2,835</td>
+<td align="center" rowspan="1" colspan="1">1,579.68</td>
+<td align="center" rowspan="1" colspan="1">146,980.31</td>
+<td align="center" rowspan="1" colspan="1">1.79</td>
+<td align="center" rowspan="1" colspan="1">1.73-1.86</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Mesothelioma</td>
+<td align="center" rowspan="1" colspan="1">987</td>
+<td align="center" rowspan="1" colspan="1">22</td>
+<td align="center" rowspan="1" colspan="1">26.30</td>
+<td align="center" rowspan="1" colspan="1">1,515.54</td>
+<td align="center" rowspan="1" colspan="1">0.84</td>
+<td align="center" rowspan="1" colspan="1">0.52-1.27</td>
+<td align="center" rowspan="1" colspan="1">295</td>
+<td align="center" rowspan="1" colspan="1">4</td>
+<td align="center" rowspan="1" colspan="1">5.84</td>
+<td align="center" rowspan="1" colspan="1">540.00</td>
+<td align="center" rowspan="1" colspan="1">0.69</td>
+<td align="center" rowspan="1" colspan="1">0.19-1.75</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Mouth, pharynx</td>
+<td align="center" rowspan="1" colspan="1">7,608</td>
+<td align="center" rowspan="1" colspan="1">1,232</td>
+<td align="center" rowspan="1" colspan="1">752.85</td>
+<td align="center" rowspan="1" colspan="1">45,141.63</td>
+<td align="center" rowspan="1" colspan="1">1.64</td>
+<td align="center" rowspan="1" colspan="1">1.55-1.73</td>
+<td align="center" rowspan="1" colspan="1">4,757</td>
+<td align="center" rowspan="1" colspan="1">640</td>
+<td align="center" rowspan="1" colspan="1">378.13</td>
+<td align="center" rowspan="1" colspan="1">32,285.91</td>
+<td align="center" rowspan="1" colspan="1">1.69</td>
+<td align="center" rowspan="1" colspan="1">1.56-1.83</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Peripheral nerves, autonomic nervous system</td>
+<td align="center" rowspan="1" colspan="1">104</td>
+<td align="center" rowspan="1" colspan="1">10</td>
+<td align="center" rowspan="1" colspan="1">6.80</td>
+<td align="center" rowspan="1" colspan="1">669.31</td>
+<td align="center" rowspan="1" colspan="1">1.47</td>
+<td align="center" rowspan="1" colspan="1">0.71-2.71</td>
+<td align="center" rowspan="1" colspan="1">84</td>
+<td align="center" rowspan="1" colspan="1">7</td>
+<td align="center" rowspan="1" colspan="1">5.18</td>
+<td align="center" rowspan="1" colspan="1">615.18</td>
+<td align="center" rowspan="1" colspan="1">1.35</td>
+<td align="center" rowspan="1" colspan="1">0.54-2.78</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Respiratory and intrathoracic organs</td>
+<td align="center" rowspan="1" colspan="1">24,262</td>
+<td align="center" rowspan="1" colspan="1">1,465</td>
+<td align="center" rowspan="1" colspan="1">1,139.27</td>
+<td align="center" rowspan="1" colspan="1">61,155.37</td>
+<td align="center" rowspan="1" colspan="1">1.29</td>
+<td align="center" rowspan="1" colspan="1">1.22-1.35</td>
+<td align="center" rowspan="1" colspan="1">10,953</td>
+<td align="center" rowspan="1" colspan="1">477</td>
+<td align="center" rowspan="1" colspan="1">374.89</td>
+<td align="center" rowspan="1" colspan="1">32,032.10</td>
+<td align="center" rowspan="1" colspan="1">1.27</td>
+<td align="center" rowspan="1" colspan="1">1.16-1.39</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Skin</td>
+<td align="center" rowspan="1" colspan="1">26,505</td>
+<td align="center" rowspan="1" colspan="1">4,144</td>
+<td align="center" rowspan="1" colspan="1">3,369.96</td>
+<td align="center" rowspan="1" colspan="1">168,567.68</td>
+<td align="center" rowspan="1" colspan="1">1.23</td>
+<td align="center" rowspan="1" colspan="1">1.19-1.27</td>
+<td align="center" rowspan="1" colspan="1">26,575</td>
+<td align="center" rowspan="1" colspan="1">3,008</td>
+<td align="center" rowspan="1" colspan="1">2,331.91</td>
+<td align="center" rowspan="1" colspan="1">185,039.26</td>
+<td align="center" rowspan="1" colspan="1">1.29</td>
+<td align="center" rowspan="1" colspan="1">1.24-1.34</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Soft tissues</td>
+<td align="center" rowspan="1" colspan="1">1,826</td>
+<td align="center" rowspan="1" colspan="1">192</td>
+<td align="center" rowspan="1" colspan="1">169.97</td>
+<td align="center" rowspan="1" colspan="1">11,890.26</td>
+<td align="center" rowspan="1" colspan="1">1.13</td>
+<td align="center" rowspan="1" colspan="1">0.98-1.30</td>
+<td align="center" rowspan="1" colspan="1">1,740</td>
+<td align="center" rowspan="1" colspan="1">150</td>
+<td align="center" rowspan="1" colspan="1">123.55</td>
+<td align="center" rowspan="1" colspan="1">11,873.03</td>
+<td align="center" rowspan="1" colspan="1">1.21</td>
+<td align="center" rowspan="1" colspan="1">1.03-1,42</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Urinary organs</td>
+<td align="center" rowspan="1" colspan="1">26,581</td>
+<td align="center" rowspan="1" colspan="1">4,145</td>
+<td align="center" rowspan="1" colspan="1">3,283.37</td>
+<td align="center" rowspan="1" colspan="1">159,257.55</td>
+<td align="center" rowspan="1" colspan="1">1.26</td>
+<td align="center" rowspan="1" colspan="1">1.22-1.30</td>
+<td align="center" rowspan="1" colspan="1">11,726</td>
+<td align="center" rowspan="1" colspan="1">1,317</td>
+<td align="center" rowspan="1" colspan="1">1,049.96</td>
+<td align="center" rowspan="1" colspan="1">79,844.99</td>
+<td align="center" rowspan="1" colspan="1">1.25</td>
+<td align="center" rowspan="1" colspan="1">1.19-1.32</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn>
+<p>CI: confidence interval; Exp: expected; FPC: first primary cancer; Obs: observed; PYRS: person-years at risk; SIR: standardised incidence ratio; SMN: second malignant neoplasm.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<fig position="float" id="F0001" orientation="portrait">
+<label>Figure 1</label>
+<caption>
+<p>Forest plot showing the standardised incidence ratios (SIR) and confidence intervals (CI) among men for any metachronous second malignant neoplasm (SMN) diagnosed in Finland between 1992 and 2021 by age at first primary cancer (FPC), diagnosis period of FPC and site of FPC.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="AO-63-34138-g001.jpg" />
+</fig>
+<fig position="float" id="F0002" orientation="portrait">
+<label>Figure 2</label>
+<caption>
+<p>Forest plot showing the standardised incidence ratios (SIR) and confidence intervals (CI) among women for any metachronous second malignant neoplasm (SMN) diagnosed in Finland between 1992 and 2021 by age at first primary cancer (FPC), diagnosis period of FPC, and site of FPC.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="AO-63-34138-g002.jpg" />
+</fig>
+<p>The follow-up time was considered short when it was up to 5 years, and long if more than 5 years had elapsed since the FPC diagnosis. The diagnostic time of the FPC was divided into three periods, 1992–2001, 2002–2011, and 2012–2021.</p>
+<p>We estimated the risk of developing SMNs using standardised incidence ratios (SIR). We split the general population by sex and 5-year intervals by age and calendar period and calculated the incidence rate for a FPC in given strata. This incidence rate multiplied by person-years in the same age-sex-period-strata gave the expected number of cancer cases for the cancer patient cohort. We then calculated the SIR (observed divided by expected number of cases) and confidence intervals (CI) assuming cancer cases are Poisson–distributed. The patient cohort was followed until SMN diagnosis or until the end of the follow-up due to censoring, thus excluding third or a higher number of malignancies. Similarly, for reference rates we followed the general population only until the FPC diagnosis or censoring. Censoring was either due to death unrelated to cancer, emigration from Finland or end of year 2021, whichever was earliest. We chose SIR for estimating the relative risk of SMNs in the cancer prevalent population compared to the general population to evaluate the importance and magnitude of SMNs in the cancer prevalent population, and also to be able to better compare the results with earlier findings in the field, as SIR is frequently used for this purpose [<xref rid="CIT0026" ref-type="bibr">26</xref>]. For comparison with other studies in the literature, we also made analyses without restricting the follow-up after the diagnosis of the FPC in the general population, as this seemed to be a commonly used method. Only statistically significant findings are referred to as increased or decreased. All statistical analyses were performed using R version 4.0.2 and R package popEpi 0.4.9.</p>
+</sec>
+<sec sec-type="results" id="sec3">
+<title>Results</title>
+<p>There were 573,379 new FPCs (284,350 [50%] in men and 289,029 [50%] in women) diagnosed during 1992–2021 in Finland (<xref rid="T0001" ref-type="table">Table 1</xref>). During the follow-up, 60,464 SMNs were diagnosed (34,096 [56%] in men and 26,368 [44%] in women) (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>), yielding 3,867,789 person-years of follow-up (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>).</p>
+<p>The overall risk of developing any SMN after any FPC was neither decreased nor increased among men (SIR, 1.00 [95% CI, 0.99–1.01]) and increased by 8% among women (SIR, 1.08 [1.06–1.09]) (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>). In women, the SIRs were generally increased among patients aged 20–39-, 40–59- and 60–79 -years over all diagnostic periods and follow-up intervals (<xref rid="T0002" ref-type="table">Tables 2</xref> and <xref rid="T0003" ref-type="table">3</xref>). In men, the SIRs were increased among those aged 20–39- and 40–59 -years, and generally decreased among those aged 60–79- and 80 and over (<xref rid="T0002" ref-type="table">Tables 2</xref> and <xref rid="T0003" ref-type="table">3</xref>). Age-specifically, the SIRs were generally lower in women than men among those aged 20–39- and 40–59 -years, while generally being higher in women than men among those aged 60–79- and 80 and over (<xref rid="T0001" ref-type="table">Tables 1</xref>, <xref rid="T0002" ref-type="table">2</xref> and <xref rid="T0003" ref-type="table">3</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>).</p>
+<table-wrap position="float" id="T0002" orientation="portrait">
+<label>Table 2</label>
+<caption>
+<p>Standardised incidence ratios (SIR) for any metachronous second malignant neoplasm (SMN) diagnosed in Finland between 1992-2021 by age at first primary cancer (FPC) and diagnosis period of first primary cancer (FPC).</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th align="left" rowspan="2" colspan="1">Age at FPC</th>
+<th align="center" rowspan="2" colspan="1">Period of FPC</th>
+<th colspan="6" align="center" rowspan="1">Men</th>
+<th colspan="6" align="center" rowspan="1">Women</th>
+</tr>
+<tr>
+<th align="center" rowspan="1" colspan="1">No. of FPCs</th>
+<th align="center" rowspan="1" colspan="1">Observed SMNs</th>
+<th align="center" rowspan="1" colspan="1">Expected SMNs</th>
+<th align="center" rowspan="1" colspan="1">PYRS</th>
+<th align="center" rowspan="1" colspan="1">SIR</th>
+<th align="center" rowspan="1" colspan="1">95% CI</th>
+<th align="center" rowspan="1" colspan="1">No. of FPCs</th>
+<th align="center" rowspan="1" colspan="1">Observed SMNs</th>
+<th align="center" rowspan="1" colspan="1">Expected SMNs</th>
+<th align="center" rowspan="1" colspan="1">PYRS</th>
+<th align="center" rowspan="1" colspan="1">SIR</th>
+<th align="center" rowspan="1" colspan="1">95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">20–39</td>
+<td align="center" rowspan="1" colspan="1">1992–2001</td>
+<td align="center" rowspan="1" colspan="1">2,949</td>
+<td align="center" rowspan="1" colspan="1">216</td>
+<td align="center" rowspan="1" colspan="1">103.01</td>
+<td align="center" rowspan="1" colspan="1">52,234.50</td>
+<td align="center" rowspan="1" colspan="1">2.10</td>
+<td align="center" rowspan="1" colspan="1">1.83-2.39</td>
+<td align="center" rowspan="1" colspan="1">4,993</td>
+<td align="center" rowspan="1" colspan="1">492</td>
+<td align="center" rowspan="1" colspan="1">310.77</td>
+<td align="center" rowspan="1" colspan="1">92,657.25</td>
+<td align="center" rowspan="1" colspan="1">1.58</td>
+<td align="center" rowspan="1" colspan="1">1.45-1.73</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">20–39</td>
+<td align="center" rowspan="1" colspan="1">2002–2011</td>
+<td align="center" rowspan="1" colspan="1">3,387</td>
+<td align="center" rowspan="1" colspan="1">105</td>
+<td align="center" rowspan="1" colspan="1">41.82</td>
+<td align="center" rowspan="1" colspan="1">37,380.88</td>
+<td align="center" rowspan="1" colspan="1">2.51</td>
+<td align="center" rowspan="1" colspan="1">2.06-3.02</td>
+<td align="center" rowspan="1" colspan="1">4,851</td>
+<td align="center" rowspan="1" colspan="1">197</td>
+<td align="center" rowspan="1" colspan="1">126.46</td>
+<td align="center" rowspan="1" colspan="1">55,612.97</td>
+<td align="center" rowspan="1" colspan="1">1.56</td>
+<td align="center" rowspan="1" colspan="1">1.35-1.79</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">20–39</td>
+<td align="center" rowspan="1" colspan="1">2012–2021</td>
+<td align="center" rowspan="1" colspan="1">3,976</td>
+<td align="center" rowspan="1" colspan="1">46</td>
+<td align="center" rowspan="1" colspan="1">15.95</td>
+<td align="center" rowspan="1" colspan="1">19,933.20</td>
+<td align="center" rowspan="1" colspan="1">2.88</td>
+<td align="center" rowspan="1" colspan="1">2.13-3.80</td>
+<td align="center" rowspan="1" colspan="1">5,847</td>
+<td align="center" rowspan="1" colspan="1">89</td>
+<td align="center" rowspan="1" colspan="1">45.65</td>
+<td align="center" rowspan="1" colspan="1">29,555.04</td>
+<td align="center" rowspan="1" colspan="1">1.95</td>
+<td align="center" rowspan="1" colspan="1">1.57-2.38</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">
+<bold>20–39</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1992–2021</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>10,312</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>367</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>160.79</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>109,548.57</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>2.28</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>2.06-2.52</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>15,691</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>778</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>482.89</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>177,825.25</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.61</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.50-1.73</bold>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">40–59</td>
+<td align="center" rowspan="1" colspan="1">1992–2001</td>
+<td align="center" rowspan="1" colspan="1">15,416</td>
+<td align="center" rowspan="1" colspan="1">2,588</td>
+<td align="center" rowspan="1" colspan="1">2,004.12</td>
+<td align="center" rowspan="1" colspan="1">171,286.38</td>
+<td align="center" rowspan="1" colspan="1">1.29</td>
+<td align="center" rowspan="1" colspan="1">1.24-1.34</td>
+<td align="center" rowspan="1" colspan="1">27,602</td>
+<td align="center" rowspan="1" colspan="1">4,195</td>
+<td align="center" rowspan="1" colspan="1">4,034.11</td>
+<td align="center" rowspan="1" colspan="1">444,868.30</td>
+<td align="center" rowspan="1" colspan="1">1.04</td>
+<td align="center" rowspan="1" colspan="1">1.01-1.07</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">40–59</td>
+<td align="center" rowspan="1" colspan="1">2002–2011</td>
+<td align="center" rowspan="1" colspan="1">22,019</td>
+<td align="center" rowspan="1" colspan="1">2,435</td>
+<td align="center" rowspan="1" colspan="1">1,939.74</td>
+<td align="center" rowspan="1" colspan="1">191,528.22</td>
+<td align="center" rowspan="1" colspan="1">1.26</td>
+<td align="center" rowspan="1" colspan="1">1.21-1.31</td>
+<td align="center" rowspan="1" colspan="1">32,434</td>
+<td align="center" rowspan="1" colspan="1">2,843</td>
+<td align="center" rowspan="1" colspan="1">2,775.39</td>
+<td align="center" rowspan="1" colspan="1">338,172.41</td>
+<td align="center" rowspan="1" colspan="1">1.02</td>
+<td align="center" rowspan="1" colspan="1">0.99-1.06</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">40–59</td>
+<td align="center" rowspan="1" colspan="1">2012–2021</td>
+<td align="center" rowspan="1" colspan="1">19,873</td>
+<td align="center" rowspan="1" colspan="1">938</td>
+<td align="center" rowspan="1" colspan="1">589.91</td>
+<td align="center" rowspan="1" colspan="1">90,578.55</td>
+<td align="center" rowspan="1" colspan="1">1.59</td>
+<td align="center" rowspan="1" colspan="1">1.49-1.69</td>
+<td align="center" rowspan="1" colspan="1">29,387</td>
+<td align="center" rowspan="1" colspan="1">1,144</td>
+<td align="center" rowspan="1" colspan="1">994.37</td>
+<td align="center" rowspan="1" colspan="1">149,797.73</td>
+<td align="center" rowspan="1" colspan="1">1.15</td>
+<td align="center" rowspan="1" colspan="1">1.09-1.22</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">
+<bold>40–59</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1992–2021</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>57,308</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>5,961</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>4,533.76</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>453,393.14</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.31</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.28-1.35</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>89,423</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>8,182</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>7,803.87</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>932,838.44</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.05</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.03-1.07</bold>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">60–79</td>
+<td align="center" rowspan="1" colspan="1">1992–2001</td>
+<td align="center" rowspan="1" colspan="1">43,207</td>
+<td align="center" rowspan="1" colspan="1">7,342</td>
+<td align="center" rowspan="1" colspan="1">8,098.59</td>
+<td align="center" rowspan="1" colspan="1">299,490.45</td>
+<td align="center" rowspan="1" colspan="1">0.91</td>
+<td align="center" rowspan="1" colspan="1">0.89-0.93</td>
+<td align="center" rowspan="1" colspan="1">35,694</td>
+<td align="center" rowspan="1" colspan="1">5,106</td>
+<td align="center" rowspan="1" colspan="1">4,840.89</td>
+<td align="center" rowspan="1" colspan="1">337,025.92</td>
+<td align="center" rowspan="1" colspan="1">1.05</td>
+<td align="center" rowspan="1" colspan="1">1.03-1.08</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">60–79</td>
+<td align="center" rowspan="1" colspan="1">2002–2011</td>
+<td align="center" rowspan="1" colspan="1">60,941</td>
+<td align="center" rowspan="1" colspan="1">9,702</td>
+<td align="center" rowspan="1" colspan="1">10,512.23</td>
+<td align="center" rowspan="1" colspan="1">409,942.10</td>
+<td align="center" rowspan="1" colspan="1">0.92</td>
+<td align="center" rowspan="1" colspan="1">0.90-0.94</td>
+<td align="center" rowspan="1" colspan="1">45,073</td>
+<td align="center" rowspan="1" colspan="1">5,376</td>
+<td align="center" rowspan="1" colspan="1">4,957.11</td>
+<td align="center" rowspan="1" colspan="1">341,375.97</td>
+<td align="center" rowspan="1" colspan="1">1.08</td>
+<td align="center" rowspan="1" colspan="1">1.06-1.11</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">60–79</td>
+<td align="center" rowspan="1" colspan="1">2012–2021</td>
+<td align="center" rowspan="1" colspan="1">73,649</td>
+<td align="center" rowspan="1" colspan="1">6,772</td>
+<td align="center" rowspan="1" colspan="1">6,527.17</td>
+<td align="center" rowspan="1" colspan="1">284,599.38</td>
+<td align="center" rowspan="1" colspan="1">1.04</td>
+<td align="center" rowspan="1" colspan="1">1.01-1.06</td>
+<td align="center" rowspan="1" colspan="1">58,500</td>
+<td align="center" rowspan="1" colspan="1">3,795</td>
+<td align="center" rowspan="1" colspan="1">3,416.48</td>
+<td align="center" rowspan="1" colspan="1">245,176.21</td>
+<td align="center" rowspan="1" colspan="1">1.11</td>
+<td align="center" rowspan="1" colspan="1">1.08-1.15</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">
+<bold>60–79</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1992–2021</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>177,797</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>23,816</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>25,138.00</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>994,031.93</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>0.95</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>0.94-0.96</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>139,267</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>14,277</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>13,214.47</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>923,578.10</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.08</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.06-1.10</bold>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">80+</td>
+<td align="center" rowspan="1" colspan="1">1992–2001</td>
+<td align="center" rowspan="1" colspan="1">8,890</td>
+<td align="center" rowspan="1" colspan="1">910</td>
+<td align="center" rowspan="1" colspan="1">1,146.26</td>
+<td align="center" rowspan="1" colspan="1">30,058.23</td>
+<td align="center" rowspan="1" colspan="1">0.79</td>
+<td align="center" rowspan="1" colspan="1">0.74-0.85</td>
+<td align="center" rowspan="1" colspan="1">10,880</td>
+<td align="center" rowspan="1" colspan="1">815</td>
+<td align="center" rowspan="1" colspan="1">808.13</td>
+<td align="center" rowspan="1" colspan="1">41,983.04</td>
+<td align="center" rowspan="1" colspan="1">1.01</td>
+<td align="center" rowspan="1" colspan="1">0.94-1.08</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">80+</td>
+<td align="center" rowspan="1" colspan="1">2002–2011</td>
+<td align="center" rowspan="1" colspan="1">12,436</td>
+<td align="center" rowspan="1" colspan="1">1,419</td>
+<td align="center" rowspan="1" colspan="1">1,555.51</td>
+<td align="center" rowspan="1" colspan="1">43,297.88</td>
+<td align="center" rowspan="1" colspan="1">0.91</td>
+<td align="center" rowspan="1" colspan="1">0.87-0.96</td>
+<td align="center" rowspan="1" colspan="1">14,810</td>
+<td align="center" rowspan="1" colspan="1">1,143</td>
+<td align="center" rowspan="1" colspan="1">1,092.50</td>
+<td align="center" rowspan="1" colspan="1">55,384.48</td>
+<td align="center" rowspan="1" colspan="1">1.05</td>
+<td align="center" rowspan="1" colspan="1">0.99-1.11</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">80+</td>
+<td align="center" rowspan="1" colspan="1">2012–2021</td>
+<td align="center" rowspan="1" colspan="1">17,607</td>
+<td align="center" rowspan="1" colspan="1">1,623</td>
+<td align="center" rowspan="1" colspan="1">1,709.18</td>
+<td align="center" rowspan="1" colspan="1">49,268.90</td>
+<td align="center" rowspan="1" colspan="1">0.95</td>
+<td align="center" rowspan="1" colspan="1">0.90-1.00</td>
+<td align="center" rowspan="1" colspan="1">18,958</td>
+<td align="center" rowspan="1" colspan="1">1,173</td>
+<td align="center" rowspan="1" colspan="1">1,117.51</td>
+<td align="center" rowspan="1" colspan="1">56,580.88</td>
+<td align="center" rowspan="1" colspan="1">1.05</td>
+<td align="center" rowspan="1" colspan="1">0.99-1.11</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">
+<bold>80+</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1992–2021</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>38,933</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>3,952</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>4,410.94</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>122,625.00</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>0.90</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>0.87-0.92</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>44,648</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>3,131</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>3,018.13</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>153,948.41</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.04</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.00-1.07</bold>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">
+<bold>All ages</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1992–2021</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>284,350</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>34,096</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>34,243.49</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1,679,598.65</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.00</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>0.99-1.01</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>289,029</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>26,368</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>24,519.36</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>2,188,190.20</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.08</bold>
+</td>
+<td align="center" rowspan="1" colspan="1">
+<bold>1.06-1.09</bold>
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn>
+<p>CI: confidence interval; Exp: expected; FPC: first primary cancer; Obs: observed; PYRS: person-years at risk; SIR: standardised incidence ratio; SMN: second malignant neoplasm.</p>
+</fn>
+<fn>
+<p>Results for all three diagnostic periods combined bolded.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap position="float" id="T0003" orientation="portrait">
+<label>Table 3</label>
+<caption>
+<p>Standardised incidence ratios (SIR) for any metachronous second malignant neoplasm (SMN) diagnosed in Finland between 1992-2021 by follow-up interval and age at first primary cancer (FPC).</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th align="left" rowspan="2" colspan="1">Follow-up interval</th>
+<th align="center" rowspan="2" colspan="1">Age at FPC</th>
+<th colspan="5" align="center" rowspan="1">Men</th>
+<th colspan="5" align="center" rowspan="1">Women</th>
+</tr>
+<tr>
+<th align="center" rowspan="1" colspan="1">Observed SMNs</th>
+<th align="center" rowspan="1" colspan="1">Expected SMNs</th>
+<th align="center" rowspan="1" colspan="1">PYRS</th>
+<th align="center" rowspan="1" colspan="1">SIR</th>
+<th align="center" rowspan="1" colspan="1">95% CI</th>
+<th align="center" rowspan="1" colspan="1">Observed SMNs</th>
+<th align="center" rowspan="1" colspan="1">Expected SMNs</th>
+<th align="center" rowspan="1" colspan="1">PYRS</th>
+<th align="center" rowspan="1" colspan="1">SIR</th>
+<th align="center" rowspan="1" colspan="1">95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">0.5–5 years</td>
+<td align="center" rowspan="1" colspan="1">20–39</td>
+<td align="center" rowspan="1" colspan="1">80</td>
+<td align="center" rowspan="1" colspan="1">24.72</td>
+<td align="center" rowspan="1" colspan="1">37,884.73</td>
+<td align="center" rowspan="1" colspan="1">3.24</td>
+<td align="center" rowspan="1" colspan="1">2.58-4.00</td>
+<td align="center" rowspan="1" colspan="1">175</td>
+<td align="center" rowspan="1" colspan="1">75.25</td>
+<td align="center" rowspan="1" colspan="1">59,420.39</td>
+<td align="center" rowspan="1" colspan="1">2.33</td>
+<td align="center" rowspan="1" colspan="1">2.00-2.69</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">&gt; 5 years</td>
+<td align="center" rowspan="1" colspan="1">20–39</td>
+<td align="center" rowspan="1" colspan="1">287</td>
+<td align="center" rowspan="1" colspan="1">136.07</td>
+<td align="center" rowspan="1" colspan="1">71,663.84</td>
+<td align="center" rowspan="1" colspan="1">2.11</td>
+<td align="center" rowspan="1" colspan="1">1.87-2.36</td>
+<td align="center" rowspan="1" colspan="1">603</td>
+<td align="center" rowspan="1" colspan="1">407.64</td>
+<td align="center" rowspan="1" colspan="1">118,404.86</td>
+<td align="center" rowspan="1" colspan="1">1.48</td>
+<td align="center" rowspan="1" colspan="1">1.36-1.60</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">All</td>
+<td align="center" rowspan="1" colspan="1">20–39</td>
+<td align="center" rowspan="1" colspan="1">367</td>
+<td align="center" rowspan="1" colspan="1">160.79</td>
+<td align="center" rowspan="1" colspan="1">109,548.57</td>
+<td align="center" rowspan="1" colspan="1">2.28</td>
+<td align="center" rowspan="1" colspan="1">2.06-2.52</td>
+<td align="center" rowspan="1" colspan="1">778</td>
+<td align="center" rowspan="1" colspan="1">482.89</td>
+<td align="center" rowspan="1" colspan="1">177,825.25</td>
+<td align="center" rowspan="1" colspan="1">1.61</td>
+<td align="center" rowspan="1" colspan="1">1.50-1.73</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">0.5–5 years</td>
+<td align="center" rowspan="1" colspan="1">40–59</td>
+<td align="center" rowspan="1" colspan="1">1,606</td>
+<td align="center" rowspan="1" colspan="1">1,064.65</td>
+<td align="center" rowspan="1" colspan="1">185,783.99</td>
+<td align="center" rowspan="1" colspan="1">1.51</td>
+<td align="center" rowspan="1" colspan="1">1.44-1.58</td>
+<td align="center" rowspan="1" colspan="1">2107</td>
+<td align="center" rowspan="1" colspan="1">1,932.10</td>
+<td align="center" rowspan="1" colspan="1">329,456.25</td>
+<td align="center" rowspan="1" colspan="1">1.09</td>
+<td align="center" rowspan="1" colspan="1">1.04-1.14</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">&gt; 5 years</td>
+<td align="center" rowspan="1" colspan="1">40–59</td>
+<td align="center" rowspan="1" colspan="1">4,355</td>
+<td align="center" rowspan="1" colspan="1">3,469.12</td>
+<td align="center" rowspan="1" colspan="1">267,609.15</td>
+<td align="center" rowspan="1" colspan="1">1.26</td>
+<td align="center" rowspan="1" colspan="1">1.22-1.29</td>
+<td align="center" rowspan="1" colspan="1">6075</td>
+<td align="center" rowspan="1" colspan="1">5,871.76</td>
+<td align="center" rowspan="1" colspan="1">603,382.19</td>
+<td align="center" rowspan="1" colspan="1">1.03</td>
+<td align="center" rowspan="1" colspan="1">1.01-1.06</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">All</td>
+<td align="center" rowspan="1" colspan="1">40–59</td>
+<td align="center" rowspan="1" colspan="1">5,961</td>
+<td align="center" rowspan="1" colspan="1">4,533.76</td>
+<td align="center" rowspan="1" colspan="1">453,393.14</td>
+<td align="center" rowspan="1" colspan="1">1.31</td>
+<td align="center" rowspan="1" colspan="1">1.28-1.35</td>
+<td align="center" rowspan="1" colspan="1">8182</td>
+<td align="center" rowspan="1" colspan="1">7,803.87</td>
+<td align="center" rowspan="1" colspan="1">932,838.44</td>
+<td align="center" rowspan="1" colspan="1">1.05</td>
+<td align="center" rowspan="1" colspan="1">1.03-1.07</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">0.5–5 years</td>
+<td align="center" rowspan="1" colspan="1">60–79</td>
+<td align="center" rowspan="1" colspan="1">11,258</td>
+<td align="center" rowspan="1" colspan="1">11,818.31</td>
+<td align="center" rowspan="1" colspan="1">528,047.72</td>
+<td align="center" rowspan="1" colspan="1">0.95</td>
+<td align="center" rowspan="1" colspan="1">0.94-0.97</td>
+<td align="center" rowspan="1" colspan="1">5868</td>
+<td align="center" rowspan="1" colspan="1">5,569.95</td>
+<td align="center" rowspan="1" colspan="1">439,822.52</td>
+<td align="center" rowspan="1" colspan="1">1.05</td>
+<td align="center" rowspan="1" colspan="1">1.03-1.08</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">&gt; 5 years</td>
+<td align="center" rowspan="1" colspan="1">60–79</td>
+<td align="center" rowspan="1" colspan="1">12,558</td>
+<td align="center" rowspan="1" colspan="1">13,319.69</td>
+<td align="center" rowspan="1" colspan="1">465,984.22</td>
+<td align="center" rowspan="1" colspan="1">0.94</td>
+<td align="center" rowspan="1" colspan="1">0.93-0.96</td>
+<td align="center" rowspan="1" colspan="1">8409</td>
+<td align="center" rowspan="1" colspan="1">7,644.52</td>
+<td align="center" rowspan="1" colspan="1">483,755.58</td>
+<td align="center" rowspan="1" colspan="1">1.10</td>
+<td align="center" rowspan="1" colspan="1">1.08-1.12</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">All</td>
+<td align="center" rowspan="1" colspan="1">60–79</td>
+<td align="center" rowspan="1" colspan="1">23,816</td>
+<td align="center" rowspan="1" colspan="1">25,138.00</td>
+<td align="center" rowspan="1" colspan="1">994,031.93</td>
+<td align="center" rowspan="1" colspan="1">0.95</td>
+<td align="center" rowspan="1" colspan="1">0.94-0.96</td>
+<td align="center" rowspan="1" colspan="1">14277</td>
+<td align="center" rowspan="1" colspan="1">13,214.47</td>
+<td align="center" rowspan="1" colspan="1">923,578.10</td>
+<td align="center" rowspan="1" colspan="1">1.08</td>
+<td align="center" rowspan="1" colspan="1">1.06-1.10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">0.5–5 years</td>
+<td align="center" rowspan="1" colspan="1">80+</td>
+<td align="center" rowspan="1" colspan="1">2,949</td>
+<td align="center" rowspan="1" colspan="1">3,312.96</td>
+<td align="center" rowspan="1" colspan="1">92,387.55</td>
+<td align="center" rowspan="1" colspan="1">0.89</td>
+<td align="center" rowspan="1" colspan="1">0.86-0.92</td>
+<td align="center" rowspan="1" colspan="1">2169</td>
+<td align="center" rowspan="1" colspan="1">2,101.83</td>
+<td align="center" rowspan="1" colspan="1">109,319.59</td>
+<td align="center" rowspan="1" colspan="1">1.03</td>
+<td align="center" rowspan="1" colspan="1">0.99-1.08</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">&gt; 5 years</td>
+<td align="center" rowspan="1" colspan="1">80+</td>
+<td align="center" rowspan="1" colspan="1">1,003</td>
+<td align="center" rowspan="1" colspan="1">1,097.98</td>
+<td align="center" rowspan="1" colspan="1">30,237.46</td>
+<td align="center" rowspan="1" colspan="1">0.91</td>
+<td align="center" rowspan="1" colspan="1">0.86-0.97</td>
+<td align="center" rowspan="1" colspan="1">962</td>
+<td align="center" rowspan="1" colspan="1">916.30</td>
+<td align="center" rowspan="1" colspan="1">44,628.81</td>
+<td align="center" rowspan="1" colspan="1">1.05</td>
+<td align="center" rowspan="1" colspan="1">0.98-1.12</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">All</td>
+<td align="center" rowspan="1" colspan="1">80+</td>
+<td align="center" rowspan="1" colspan="1">3,952</td>
+<td align="center" rowspan="1" colspan="1">4,410.94</td>
+<td align="center" rowspan="1" colspan="1">122,625.00</td>
+<td align="center" rowspan="1" colspan="1">0.90</td>
+<td align="center" rowspan="1" colspan="1">0.87-0.92</td>
+<td align="center" rowspan="1" colspan="1">3131</td>
+<td align="center" rowspan="1" colspan="1">3,018.13</td>
+<td align="center" rowspan="1" colspan="1">153,948.41</td>
+<td align="center" rowspan="1" colspan="1">1.04</td>
+<td align="center" rowspan="1" colspan="1">1.00-1.07</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">0.5–5 years</td>
+<td align="center" rowspan="1" colspan="1">All</td>
+<td align="center" rowspan="1" colspan="1">15,893</td>
+<td align="center" rowspan="1" colspan="1">16,220.63</td>
+<td align="center" rowspan="1" colspan="1">844,104.99</td>
+<td align="center" rowspan="1" colspan="1">0.98</td>
+<td align="center" rowspan="1" colspan="1">0.96-1.00</td>
+<td align="center" rowspan="1" colspan="1">10319</td>
+<td align="center" rowspan="1" colspan="1">9,679.14</td>
+<td align="center" rowspan="1" colspan="1">938,018.75</td>
+<td align="center" rowspan="1" colspan="1">1.07</td>
+<td align="center" rowspan="1" colspan="1">1.05-1.09</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">&gt; 5 years</td>
+<td align="center" rowspan="1" colspan="1">All</td>
+<td align="center" rowspan="1" colspan="1">18,203</td>
+<td align="center" rowspan="1" colspan="1">18,022.86</td>
+<td align="center" rowspan="1" colspan="1">835,494.67</td>
+<td align="center" rowspan="1" colspan="1">1.01</td>
+<td align="center" rowspan="1" colspan="1">1.00-1.02</td>
+<td align="center" rowspan="1" colspan="1">16049</td>
+<td align="center" rowspan="1" colspan="1">14,840.22</td>
+<td align="center" rowspan="1" colspan="1">1,250,171.45</td>
+<td align="center" rowspan="1" colspan="1">1.08</td>
+<td align="center" rowspan="1" colspan="1">1.06-1.10</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">All</td>
+<td align="center" rowspan="1" colspan="1">All</td>
+<td align="center" rowspan="1" colspan="1">34,096</td>
+<td align="center" rowspan="1" colspan="1">34,243.49</td>
+<td align="center" rowspan="1" colspan="1">1,679,598.65</td>
+<td align="center" rowspan="1" colspan="1">1.00</td>
+<td align="center" rowspan="1" colspan="1">0.99-1.01</td>
+<td align="center" rowspan="1" colspan="1">26368</td>
+<td align="center" rowspan="1" colspan="1">24,519.36</td>
+<td align="center" rowspan="1" colspan="1">2,188,190.20</td>
+<td align="center" rowspan="1" colspan="1">1.08</td>
+<td align="center" rowspan="1" colspan="1">1.06-1.09</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn>
+<p>CI: confidence interval; Exp: expected; FPC: first primary cancer; Obs: observed; PYRS: person-years at risk; SIR: standardised incidence ratio; SMN: second malignant neoplasm.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>When stratifying the analyses into short (0.5–5 years) and long (over 5 years) follow-up intervals, SIRs among those aged 20–39- and 40–59 -years tended to decrease with a longer follow-up time (<xref rid="T0003" ref-type="table">Table 3</xref>).</p>
+<p>SIRs decreased by diagnostic age at FPC among men and women, in men from SIR 2.28 (2.06–2.52) among those aged 20–39 -years to 0.90 (0.87–0.92) among those aged 80 and over, and in women from SIR 1.61 (1.50–1.73) to 1.04 (1.00–1.07), respectively (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>). The decrease was seen over both short and long follow-up intervals (<xref rid="T0003" ref-type="table">Table 3</xref>) and over all studied calendar periods (<xref rid="T0002" ref-type="table">Table 2</xref>).</p>
+<p>When stratifying the analyses by the FPC site groups, many of the SIRs for any SMN were increased (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>). The highest SIRs were observed for FPCs of the lymphoid and haematopoietic tissue (SIR 1.73 [1.68–1.79] in men and 1.79 [1.73–1.86] in women), the mouth and pharynx (SIR 1.64 [1.55–1.73] and SIR 1.69 [1.56–1.83]), the endocrine glands (SIR 1.48 [1.32–1.65] and SIR 1.25 [1.17–1.34]), the respiratory and intrathoracic organs (SIR 1.29 [1.22–1.35] and SIR 1.27 [1.16–1.39]), the skin (SIR 1.23 [1.19–1.27] and SIR 1.29 [1.24–1.34]), and the urinary organs (SIR 1.26 [1.22–1.30] and SIR 1.25 [1.19–1.32]), in addition to the breast in males (SIR 1.47 [1.18–1.81]) (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>). However, the largest number of SMNs was observed in cancer cases of the male genital organs and the female breast even if the respective SIRs were low (SIR 0.74 [0.73–0.75] and SIR 0.86 [0.84–0.88]) (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>).</p>
+<p>In men, the SIR decreased by age at first diagnosis for FPCs of the digestive organs, lymphoid and haematopoietic tissue, the male genital organs, and the respiratory and intrathoracic organs (<ext-link ns0:href="https://doi.org/10.2340/1651-226X.2024.34138" ext-link-type="uri">Supplement 1</ext-link>). It is of note that the SIR for the male genital organs changed from increased in men aged 20–39-years (SIR 2.07 [1.60–2.64]) to decreased in 40–59-years and older (SIR 0.88 [0.84–0.93], 0.73 [0.71–0.74] and 0.72 [0.68–0.75], respectively). In women, the SIR decreased by age at first diagnosis for FPCs of the breast, the digestive organs, lymphoid and haematopoietic tissue, the skin, the urinary organs, and the brain, meninges and central nervous system (<ext-link ns0:href="https://doi.org/10.2340/1651-226X.2024.34138" ext-link-type="uri">Supplement 1</ext-link>).</p>
+<p>In the supplementary analysis, where the follow-up was extended beyond the FPC in the general population, we observed a 19% increased risk of developing any SMN among men (SIR 1.19 [1.18–1.20]) and 22% among women (SIR 1.22 [1.21–1.24]) (<ext-link ns0:href="https://doi.org/10.2340/1651-226X.2024.34138" ext-link-type="uri">Supplement 2</ext-link>).</p>
+</sec>
+<sec sec-type="discussion" id="sec4">
+<title>Discussion</title>
+<p>We found male cancer patients to have neither an increased nor a decreased SMN risk (SIR 1.00) and females cancer patients to have an 8% increased risk (SIR 1.08) compared to a FPC in the general population. The highest risk of any SMN was in those aged 20–39-years at FPC diagnosis, and the risk decreased by increasing age at FPC diagnosis. The risk of any SMN was highest for patients with a FPC of the lymphoid and haematopoietic tissue, mouth and pharynx, endocrine glands, respiratory and intrathoracic organs, skin, and urinary organs, in addition to the male breast. By contrast, the risk of any SMN was lowest for cancers of the male genital organs and the female breast, with reduced risk estimates from ages 40 and over.</p>
+<p>We found higher overall SIRs in women than in men, matching earlier findings from Finland (1.00 in men and 1.25 in women) [<xref rid="CIT0017" ref-type="bibr">17</xref>]. Previous studies in Sweden (SIR 1.3 vs 1.6), Austria (SIR 0.90 vs 1.00), Italy (SIR 0.78 vs 0.96), and the US (SIR 1.01 vs 1.10) have yielded similar results [<xref rid="CIT0019" ref-type="bibr">19</xref>–<xref rid="CIT0021" ref-type="bibr">21</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>]. Studies conducted in Switzerland (SIR 1.18 vs 1.20) and France (SIR 1.38 vs 1.32), however, found no statistically significant difference in SIRs between the sexes due to overlapping confidence intervals [<xref rid="CIT0018" ref-type="bibr">18</xref>, <xref rid="CIT0022" ref-type="bibr">22</xref>].</p>
+<p>Explanations could include women being more susceptible to SMNs after radiotherapy and exposed to radiation at younger ages than men due to the incidence of breast and thyroid cancer [<xref rid="CIT0005" ref-type="bibr">5</xref>]. Furthermore, hormonal drugs such as tamoxifen used to treat breast cancer increase the risk of endometrial cancer [<xref rid="CIT0006" ref-type="bibr">6</xref>]. In contrast, lifestyle and environmental factors associated with the development of SMNs are more commonly linked to men than women. Indeed, SMNs after FPCs associated with smoking, alcohol consumption and obesity skewed the results heavily towards men (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>) [<xref rid="CIT0006" ref-type="bibr">6</xref>–<xref rid="CIT0014" ref-type="bibr">14</xref>].</p>
+<p>The difference in overall SIRs between men and women is also likely caused by the SIR for the male genital organs being lower than that for female breast cancer, as these two groups constituted the highest number of FPCs overall (<xref rid="T0001" ref-type="table">Table 1</xref>). Both of these SIRs being decreased likely also explains the observed disparity between the relatively low overall SIR and high site-specific SIRs (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>). Using the IARC’s rules for reporting multiple primaries excludes cancers of the same histological group arising in a pair of organs, thereby possibly decreasing the number of second breast tumours and reducing the SIR [<xref rid="CIT0025" ref-type="bibr">25</xref>]. The low SIR after the male genital organs is likely due to prostate cancer making up the majority of cases in men aged 40 and over [<xref rid="CIT0002" ref-type="bibr">2</xref>]. Increasing age is one of the most important risk factors associated with prostate cancer, and as we reported the risk by the specific first primary site, these individuals would have no previous cancer history [<xref rid="CIT0002" ref-type="bibr">2</xref>, <xref rid="CIT0028" ref-type="bibr">28</xref>]. Moreover, prostate cancer is commonly diagnosed in its latent phase, making some conditions less aggressive and the treatment conservative [<xref rid="CIT0028" ref-type="bibr">28</xref>–<xref rid="CIT0030" ref-type="bibr">30</xref>]. This could imply less common treatment related risk factors in many of the patients, and therefore a lower likelihood of developing an SMN. It is of note that studies from the US and Austria have presented separate SIRs both including and excluding prostate cancer, with the SIR excluding prostate cancer increasing from 1.01 to 1.11 in the US and 0.90 to 1.10 in Austria. This suggests that male genital organs could have affected our overall results as well [<xref rid="CIT0020" ref-type="bibr">20</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>].</p>
+<p>All FPC sites with the highest SIRs for SMNs have been previously connected to smoking, alcohol consumption and excess body weight, with smoking being especially prevalent (<xref rid="T0001" ref-type="table">Table 1</xref>, <xref rid="F0001" ref-type="fig">Figures 1</xref> and <xref rid="F0002" ref-type="fig">2</xref>) [<xref rid="CIT0006" ref-type="bibr">6</xref>–<xref rid="CIT0012" ref-type="bibr">12</xref>]. Risk factors for FPC sites are also risk factors for SMNs, which relates to the risk of cancer due to habits such as smoking and other long-term lifestyle-related factors with long-lasting effects. Certain treatments have been associated with an increased risk of SMNs as well, with radiotherapy emphasised in long-term outcomes and the risk of solid malignancy, and chemotherapy emphasised in short-term outcomes, as well as the risk of lymphoid and haematological malignancies specifically [<xref rid="CIT0004" ref-type="bibr">4</xref>–<xref rid="CIT0006" ref-type="bibr">6</xref>].</p>
+<p>The primary sites with the highest SIRs were mostly in line with earlier findings, as was the low SIR after a FPC of the male genital organs [<xref rid="CIT0017" ref-type="bibr">17</xref>–<xref rid="CIT0023" ref-type="bibr">23</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>]. The fluctuations in site-specific risk estimations between studies were most likely affected by how sites were grouped together, where high SIR sites combined with low SIR sites could lead to less emphasised results.</p>
+<p>In the case of breast cancer, our results differed from many others, with the risk of SMNs usually being increased instead of decreased [<xref rid="CIT0017" ref-type="bibr">17</xref>, <xref rid="CIT0019" ref-type="bibr">19</xref>, <xref rid="CIT0021" ref-type="bibr">21</xref>–<xref rid="CIT0023" ref-type="bibr">23</xref>, <xref rid="CIT0026" ref-type="bibr">26</xref>]. A previous study including patients from multiple Nordic population-based registries also reported an increased risk of SMNs after breast cancer (SIR 1.15 [95% CI, 1.14–1.17]) [<xref rid="CIT0031" ref-type="bibr">31</xref>]. Only an Austrian study found the risk of SMNs after breast cancer to be decreased, as did we [<xref rid="CIT0020" ref-type="bibr">20</xref>]. Similarly to us, Austria followed the IARC rules excluding bilateral breast cancers (except if different histological group), but so did most previous studies. Thus, this alone does not explain the differences in results [<xref rid="CIT0025" ref-type="bibr">25</xref>].</p>
+<p>Similarly to the earlier Finnish findings, the SIR was highest in patients aged 20–39 -years and the risk declined by age [<xref rid="CIT0017" ref-type="bibr">17</xref>]. This is known to be at least partly caused by an increased susceptibility to radiotherapy [<xref rid="CIT0005" ref-type="bibr">5</xref>]. Furthermore, familial aggregation is more often associated with early onset cancers [<xref rid="CIT0032" ref-type="bibr">32</xref>]. The SIR was also found to decrease by age at FPC diagnosis in Switzerland, Austria, Italy and France [<xref rid="CIT0018" ref-type="bibr">18</xref>–<xref rid="CIT0022" ref-type="bibr">22</xref>].</p>
+<p>In our case, the primary sites with the highest SIRs for SMNs among 20–39 -years were lymphoid and haematopoietic tissue in both sexes, in addition to the endocrine glands, digestive organs, male genital organs, and mouth and pharynx in men, as well as skin, soft tissues, and the brain, meninges and central nervous system in women, which are common cancers in adolescents and young adults (<ext-link ns0:href="https://doi.org/10.2340/1651-226X.2024.34138" ext-link-type="uri">Supplement 1</ext-link>) [<xref rid="CIT0033" ref-type="bibr">33</xref>, <xref rid="CIT0034" ref-type="bibr">34</xref>]. The distribution of different cancer types, grouped together as one FPC site, varies between age groups, like that of the male genital organs. Among men aged 40 and over, prostate cancer makes up the majority of cases, decreasing the SIR, whereas in 20–39 -year-olds testicle cancer is the major primary site, increasing the SIR [<xref rid="CIT0002" ref-type="bibr">2</xref>].</p>
+<p>Direct comparisons between studies are difficult to make due to methodological differences. For example, in the earlier Finnish study the follow-up of the general population did not end at FPC diagnosis and therefore resulted in lower expected numbers with higher SIRs than the present analyses [<xref rid="CIT0017" ref-type="bibr">17</xref>]. This method seemed to be the more commonly used alternative, as we could only find mentions of restricting follow-up to the general population in a Danish study from 2012 [<xref rid="CIT0018" ref-type="bibr">18</xref>–<xref rid="CIT0023" ref-type="bibr">23</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>]. This does, however, not account for the lower SIRs in Austria’s and Italy’s results [<xref rid="CIT0020" ref-type="bibr">20</xref>, <xref rid="CIT0021" ref-type="bibr">21</xref>]. Further complicating comparisons, we evaluated the risk of any SMN by FPC site, whereas, for example, the earlier Finnish study reported SIRs for specific SMNs after any FPC [<xref rid="CIT0017" ref-type="bibr">17</xref>]. Many previously mentioned studies calculated risks for both selected specific FPCs and specific SMNs [<xref rid="CIT0018" ref-type="bibr">18</xref>–<xref rid="CIT0023" ref-type="bibr">23</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>]. Denmark used hazard ratios for comparing risk between cancer patients and a matched sample of the general population [<xref rid="CIT0023" ref-type="bibr">23</xref>]. More recently, cumulative incidence has been used for risk estimations as well, comparing the risk within a cohort of cancer patients. In this case, we preferred using SIR, because we wanted to compare the risk between cancer patients and the general population instead [<xref rid="CIT0035" ref-type="bibr">35</xref>].</p>
+<p>Although overall second malignancy risk estimations may vary, the common trends point toward similar results. Both primary and secondary cancer sites associated with smoking, alcohol use and obesity generally score the highest risk estimates, while cancers of the male genitals, specifically prostate cancer, seem to result in some of the lowest risk estimates.</p>
+<p>The present study used data from the FCR, which is legally based and registers all incident cancers since 1953 in Finland. The FCR follows WHO guidelines for coding, including those for multiple primary malignancies. The national coverage of cancer cases is high and the losses in follow-up practically none. The overall completeness of the cancer registry is 96% for solid tumours and 86% for non-solid tumours. Yet, while it generally provides accurate and near complete national cancer data on solid malignancies, it has some weaknesses in the case of tumours not histologically verified, such as haematological malignancies [<xref rid="CIT0024" ref-type="bibr">24</xref>]. Death certificates with cancer mentioned, information on deaths and migration are transferred to the registry regularly, which increases the coverage and completes the follow-up [<xref rid="CIT0024" ref-type="bibr">24</xref>]. The high coverage and valid coding combined with the homogeneity of the Finnish population [<xref rid="CIT0036" ref-type="bibr">36</xref>], make results generalisable to predominantly Caucasian populations and in terms of lifestyle and other environmental factors, to areas with a very high human development index [<xref rid="CIT0037" ref-type="bibr">37</xref>].</p>
+<p>The median latency for case verification is 18 months among European cancer registries, which stands true for the FCR as well. There is also a 3–6-month delay before data is published [<xref rid="CIT0024" ref-type="bibr">24</xref>]. Details such as treatment information are of low accuracy compared to the clinical records [<xref rid="CIT0038" ref-type="bibr">38</xref>]. Our study also lacks information on risk factors, such as smoking history, alcohol consumption or BMI.</p>
+<p>Among adult cancer patients in Finland, the overall risk of developing a SMN was slightly increased among women and neither increased nor decreased among men compared to developing a FPC in the general population. However, the risk was materially increased in patients diagnosed at young ages and for primary cancers known to be in large part attributable to lifestyle factors such as smoking, alcohol consumption, and obesity. These risk groups highlight the importance of continued monitoring, choice of treatment and encouraging of lifestyle changes among long-term cancer patients.</p>
+</sec>
+<sec id="sec5">
+<title>Author contributions</title>
+<p>NM, JP, SH, and JM developed the concept and study design. HK drafted the first version of the manuscript with support from SH and NM. AN and JM conducted the statistical analyses with supervision from JP. All authors contributed to interpretation of the results, critically reviewed the manuscript, and approved the final manuscript before submission.</p>
+</sec>
+<sec sec-type="supplementary-material">
+<title>Supplementary Material</title>
+<supplementary-material id="s0001-34138" position="float" content-type="local-data" orientation="portrait">
+<caption>
+<title>Relative risk of second malignant neoplasms highest among young adult cancer patients – a population-based registry study in Finland</title>
+</caption>
+<media ns0:href="AO-63-34138-s1.xlsx" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="s0002-34138" position="float" content-type="local-data" orientation="portrait">
+<caption>
+<title>Relative risk of second malignant neoplasms highest among young adult cancer patients – a population-based registry study in Finland</title>
+</caption>
+<media ns0:href="AO-63-34138-s2.xlsx" position="float" orientation="portrait" />
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<title>Acknowledgements</title>
+<p>The study was funded by Cancer Foundation Finland. The funder had no role in study design, data collection, data analysis, data interpretation, or writing of the manuscript.</p>
+</ack>
+<sec sec-type="COI-statement">
+<title>Disclosure statements</title>
+<p>The authors report there are no competing interests to declare.</p>
+</sec>
+<sec sec-type="data-availability">
+<title>Data availability statement</title>
+<p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+</sec>
+<sec>
+<title>Ethics declarations</title>
+<p>According to Finnish legislation, register studies can be conducted without consent. However, individual level data are pseudonymised and protected according to the requirements of the GDPR, and results are presented in aggregate form where individuals will remain protected from identification. For privacy issues, only anonymous aggregate form data can be shared.</p>
+</sec>
+<ref-list id="references">
+<title>References</title>
+<ref id="CIT0001">
+<label>[1]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sung</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 285 countries</article-title>. <source>CA Cancer J Clin</source>. <year>2021</year>;<volume>71</volume>(<issue>3</issue>):<fpage>209</fpage>–<lpage>49</lpage>. <pub-id pub-id-type="doi">10.3322/caac.21660</pub-id>
+<pub-id pub-id-type="pmid">33538338</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0002">
+<label>[2]</label>
+<mixed-citation publication-type="book">
+<source>
+<italic toggle="yes">Cancer statistics application of the Finnish Cancer Registry</italic> [Internet]</source>. <publisher-name>Finnish Cancer Registry</publisher-name>. <comment>[cited 03-2022]. Available from: <ext-link ns0:href="https://cancerregistry.fi/statistics/cancer-statistics/" ext-link-type="uri">https://cancerregistry.fi/statistics/cancer-statistics/</ext-link>
+</comment>
+</mixed-citation>
+</ref>
+<ref id="CIT0003">
+<label>[3]</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pitkäniemi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malila</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanskanen</surname>
+<given-names>T</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <source>Cancer in Finland 2020</source>. <publisher-loc>Helsinki</publisher-loc>: <publisher-name>Cancer Society of Finland</publisher-name>; <year>2022</year>.</mixed-citation>
+</ref>
+<ref id="CIT0004">
+<label>[4]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Morton</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dores</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schonfeld</surname>
+<given-names>SJ</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Association of chemotherapy for solid tumors with development of therapy-related myelodysplastic syndrome or acute myeloid leukemia in the modern era</article-title>. <source>JAMA Oncol</source>. <year>2019</year>;<volume>5</volume>(<issue>3</issue>):<fpage>318</fpage>–<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1001/jamaoncol.2018.5625</pub-id>
+<pub-id pub-id-type="pmid">30570657</pub-id>
+<pub-id pub-id-type="pmcid">PMC6439835</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0005">
+<label>[5]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Dracham</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shankar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madan</surname>
+<given-names>R</given-names>
+</string-name>
+</person-group>. <article-title>Radiation induced second malignancies: a review article</article-title>. <source>Radiat Oncol J</source>. <year>2018</year>;<volume>26</volume>(<issue>2</issue>):<fpage>85</fpage>–<lpage>94</lpage>. <pub-id pub-id-type="doi">10.3857/roj.2018.00290</pub-id>
+<pub-id pub-id-type="pmcid">PMC6074073</pub-id>
+<pub-id pub-id-type="pmid">29983028</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0006">
+<label>[6]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Cogliano</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Straif</surname>
+<given-names>K</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Preventable exposures associated with human cancers</article-title>. <source>J Natl Cancer Inst</source>. <year>2011</year>;<volume>103</volume>(<issue>24</issue>):<fpage>1827</fpage>–<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1093/jnci/djr483</pub-id>
+<pub-id pub-id-type="pmid">22158127</pub-id>
+<pub-id pub-id-type="pmcid">PMC3243677</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0007">
+<label>[7]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lauby-Secretan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scoccianti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loomis</surname>
+<given-names>D</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Body fatness and cancer – viewpoint of the IARC Working Group</article-title>. <source>N Engl J Med</source>. <year>2016</year>;<volume>375</volume>(<issue>8</issue>):<fpage>794</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMsr1606602</pub-id>
+<pub-id pub-id-type="pmid">27557308</pub-id>
+<pub-id pub-id-type="pmcid">PMC6754861</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0008">
+<label>[8]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Shiels</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sampson</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Cigarette smoking prior to first cancer and risk of second smoking-associated cancers among survivors of bladder, kidney, head and neck, and stage I lung cancers</article-title>. <source>J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>(<issue>35</issue>):<fpage>3989</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2014.56.8220</pub-id>
+<pub-id pub-id-type="pmid">25385740</pub-id>
+<pub-id pub-id-type="pmcid">PMC4251962</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0009">
+<label>[9]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Boakye</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buchanan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hinyard</surname>
+<given-names>L</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Trends in the risk and burden of second primary malignancy among survivors of smoking-related cancers in the United States</article-title>. <source>Int J Cancer</source>. <year>2019</year>;<volume>145</volume>:<fpage>143</fpage>–<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1002/ijc.32101</pub-id>
+<pub-id pub-id-type="pmid">30613963</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0010">
+<label>[10]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gibson</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robien</surname>
+<given-names>K</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Body mass index and risk of second obesity-associated cancers after colorectal cancer: a pooled analysis of prospective cohort studies</article-title>. <source>J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>(<issue>35</issue>):<fpage>4004</fpage>–<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1200/JCO.2014.56.8444</pub-id>
+<pub-id pub-id-type="pmid">25267739</pub-id>
+<pub-id pub-id-type="pmcid">PMC4251963</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0011">
+<label>[11]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Druesne-Pecollo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Touvier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrandon</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Excess body weight and second primary cancer risk after breast cancer: a systematic review and meta-analysis of prospective studies</article-title>. <source>Breast Cancer Res Treat</source>. <year>2012</year>;<volume>135</volume>(<issue>3</issue>):<fpage>647</fpage>–<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1007/s10549-012-2187-1</pub-id>
+<pub-id pub-id-type="pmid">22864804</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0012">
+<label>[12]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Druesne-Pecollo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keita</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Touvier</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Alcohol drinking and second primary cancer risk in patients with upper aerodigestive tract cancers: a systemic review and meta-analysis of observational studies</article-title>. <source>Cancer Epidemiol Biomarkers Prev</source>. <year>2014</year>;<volume>23</volume>(<issue>2</issue>):<fpage>324</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1158/1055-9965.EPI-13-0779</pub-id>
+<pub-id pub-id-type="pmid">24307268</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0013">
+<label>[13]</label>
+<mixed-citation publication-type="book">
+<source>
+<italic toggle="yes">Official statistics of Finland, tobacco statistics</italic> [Internet]</source>. <publisher-name>THL</publisher-name>; <year>2021</year>
+<comment>[cited 03-2023]. Available from: <ext-link ns0:href="https://thl.fi/fi/tilastot-ja-data/tilastot-aiheittain/paihteet-ja-riippuvuudet/tupakka" ext-link-type="uri">https://thl.fi/fi/tilastot-ja-data/tilastot-aiheittain/paihteet-ja-riippuvuudet/tupakka</ext-link>
+</comment>
+</mixed-citation>
+</ref>
+<ref id="CIT0014">
+<label>[14]</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Helldán</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Helakorpi</surname>
+<given-names>S</given-names>
+</string-name>
+</person-group>. <source>Health behaviour and health among Finnish adult population, spring 2014. Report 6/2015</source>. <publisher-loc>Helsinki</publisher-loc>: <publisher-name>National Institute for Health and Welfare (THL</publisher-name>); <year>2015</year>.</mixed-citation>
+</ref>
+<ref id="CIT0015">
+<label>[15]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Arruebo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vilaboa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sáez-Gutierrez</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lambea</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tres</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valladares</surname>
+<given-names>M</given-names>
+</string-name>
+<etal>et al</etal>
+</person-group>. <article-title>Assessment of the evolution of cancer treatment therapies</article-title>. <source>Cancers (Basel)</source>. <year>2011</year>;<volume>3</volume>(<issue>3</issue>):<fpage>3279</fpage>–<lpage>330</lpage>. <pub-id pub-id-type="doi">10.3390/cancers3033279</pub-id>
+<pub-id pub-id-type="pmid">24212956</pub-id>
+<pub-id pub-id-type="pmcid">PMC3759197</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0016">
+<label>[16]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Torkki</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leskelä</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linna</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Cancer costs and outcomes for common cancer sites in the Finnish population between 2009–2014</article-title>. <source>Acta Oncol</source>. <year>2018</year>;<volume>57</volume>(<issue>7</issue>):<fpage>983</fpage>–<lpage>88</lpage>. <pub-id pub-id-type="doi">10.1080/0284186X.2018.1438656</pub-id>
+<pub-id pub-id-type="pmid">29451406</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0017">
+<label>[17]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sankila</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pukkala</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teppo</surname>
+<given-names>L</given-names>
+</string-name>
+</person-group>. <article-title>Risk of subsequent malignant neoplasms among 470,000 cancer patients in Finland, 1953–1991</article-title>. <source>Int J Cancer</source>. <year>1995</year>;<volume>60</volume>(<issue>4</issue>):<fpage>464</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1002/ijc.2910600407</pub-id>
+<pub-id pub-id-type="pmid">7829259</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0018">
+<label>[18]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Feller</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matthes</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bordoni</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>The relative risk of second primary cancers in Switzerland: a population-based retrospective cohort study</article-title>. <source>BMC Cancer</source>. <year>2020</year>;<volume>20</volume>(<issue>1</issue>):<fpage>51</fpage>. <pub-id pub-id-type="doi">10.1186/s12885-019-6452-0</pub-id>
+<pub-id pub-id-type="pmid">31964352</pub-id>
+<pub-id pub-id-type="pmcid">PMC6974968</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0019">
+<label>[19]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Dong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hemminki</surname>
+<given-names>K</given-names>
+</string-name>
+</person-group>. <article-title>Second primary neoplasms in 633,964 cancer patients in Sweden, 1958–1996</article-title>. <source>Int J Cancer</source>. <year>2001</year>;<volume>93</volume>(<issue>2</issue>):<fpage>155</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1002/ijc.1317</pub-id>
+<pub-id pub-id-type="pmid">11410860</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0020">
+<label>[20]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Preyer</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Concin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Obermair</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>The relative risk of second primary cancers in Austria’s western states: a retrospective cohort study</article-title>. <source>BMC Cancer</source>. <year>2017</year>;<volume>17</volume>(<issue>1</issue>):<fpage>699</fpage>. <pub-id pub-id-type="doi">10.1186/s12885-017-3683-9</pub-id>
+<pub-id pub-id-type="pmid">29065867</pub-id>
+<pub-id pub-id-type="pmcid">PMC5655958</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0021">
+<label>[21]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Buiatti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crocetti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acciai</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Incidence of second primary cancers in three Italian population-based cancer registries</article-title>. <source>Eur J Cancer</source>. <year>1997</year>;<volume>33</volume>(<issue>11</issue>):<fpage>1829</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1016/S0959-8049(97)00173-1</pub-id>
+<pub-id pub-id-type="pmid">9470841</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0022">
+<label>[22]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Jégu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Colonna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daubisse-Marliac</surname>
+<given-names>L</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>The effect of patient characteristics on second primary cancer risk in France</article-title>. <source>BMC Cancer</source>. <year>2014</year>;<volume>14</volume>:<fpage>94</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2407-14-94</pub-id>
+<pub-id pub-id-type="pmid">24528929</pub-id>
+<pub-id pub-id-type="pmcid">PMC3927622</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0023">
+<label>[23]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Nielsen</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nordestgaard</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bojesen</surname>
+<given-names>SE</given-names>
+</string-name>
+</person-group>. <article-title>Associations between first and second primary cancers: a population-based study</article-title>. <source>CMAJ</source>. <year>2012</year>;<volume>184</volume>(<issue>1</issue>):<fpage>E57</fpage>–<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1503/cmaj.110167</pub-id>
+<pub-id pub-id-type="pmid">22125331</pub-id>
+<pub-id pub-id-type="pmcid">PMC3255183</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0024">
+<label>[24]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Leinonen</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miettinen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heikkinen</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Quality measures of the population-based Finnish Cancer Registry indicate sound data quality for solid malignant tumours</article-title>. <source>Eur J Cancer</source>. <year>2017</year>;<volume>77</volume>:<fpage>31</fpage>–<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejca.2017.02.017</pub-id>
+<pub-id pub-id-type="pmid">28350996</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0025">
+<label>[25]</label>
+<mixed-citation publication-type="book">
+<source>International rules for multiple primary cancers (ICD-O third edition) [Internet]</source>. <publisher-loc>Lyon</publisher-loc>: <publisher-name>IACR</publisher-name>; <year>2004</year>
+<comment>[cited 03-2023]. Available from: <ext-link ns0:href="http://www.iacr.com.fr/index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=472" ext-link-type="uri">http://www.iacr.com.fr/index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=472</ext-link>
+</comment>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00008469-200508000-00002</pub-id>
+<pub-id pub-id-type="pmid">16030420</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0026">
+<label>[26]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Breslow</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Day</surname>
+<given-names>NE</given-names>
+</string-name>
+</person-group>. <article-title>Statistical methods in cancer research. Volume II – the design and analysis of cohort studies</article-title>. <source>IARC Sci Publ</source>. <year>1987</year>;<volume>82</volume>:<fpage>1</fpage>–<lpage>406</lpage>.<pub-id pub-id-type="pmid">3329634</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0027">
+<label>[27]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sung</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hyun</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leach</surname>
+<given-names>CR</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Association of first primary cancer with risk of subsequent primary cancer among survivors of adult-onset cancers in the United States</article-title>. <source>JAMA</source>. <year>2020</year>;<volume>324</volume>(<issue>24</issue>):<fpage>2521</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1001/jama.2020.23130</pub-id>
+<pub-id pub-id-type="pmid">33351041</pub-id>
+<pub-id pub-id-type="pmcid">PMC7756242</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0028">
+<label>[28]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sekhoacha</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riet</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Motloung</surname>
+<given-names>P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Prostate cancer review: genetics, diagnosis, treatment options, and alternative approaches</article-title>. <source>Molecules</source>. <year>2020</year>;<volume>27</volume>(<issue>17</issue>):<fpage>5730</fpage>. <pub-id pub-id-type="doi">10.3390/molecules27175730</pub-id>
+<pub-id pub-id-type="pmcid">PMC9457814</pub-id>
+<pub-id pub-id-type="pmid">36080493</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0029">
+<label>[29]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Walter</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Talala</surname>
+<given-names>K</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Estimating the rate of overdiagnosis with prostate cancer screening: evidence from the Finnish component of the European Randomized Study of Screening for Prostate Cancer</article-title>. <source>Cancer Causes Control</source>. <year>2021</year>;<volume>32</volume>(<issue>11</issue>):<fpage>1299</fpage>–<lpage>313</lpage>. <pub-id pub-id-type="doi">10.1007/s10552-021-01480-8</pub-id>
+<pub-id pub-id-type="pmid">34313874</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0030">
+<label>[30]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Loeb</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bjurlin</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicholson</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Overdiagnosis and overtreatment of prostate cancer</article-title>. <source>Eur Urol</source>. <year>2014</year>;<volume>65</volume>(<issue>6</issue>):<fpage>1046</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1016/j.eururo.2013.12.062</pub-id>
+<pub-id pub-id-type="pmid">24439788</pub-id>
+<pub-id pub-id-type="pmcid">PMC4113338</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0031">
+<label>[31]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Brown</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pfeiffer</surname>
+<given-names>RM</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Risk of second non-hematological malignancies among 376,825 breast cancer survivors</article-title>. <source>Breast Cancer Res Treat</source>. <year>2007</year>;<volume>106</volume>(<issue>3</issue>):<fpage>439</fpage>–<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1007/s10549-007-9509-8</pub-id>
+<pub-id pub-id-type="pmid">17277968</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0032">
+<label>[32]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Heikkinen</surname>
+<given-names>SMM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madanat-Harjuoja</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seppä</surname>
+<given-names>KJM</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Familial aggregation of early-onset cancers</article-title>. <source>Int J Cancer</source>. <year>2020</year>;<volume>146</volume>(<issue>7</issue>):<fpage>1791</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1002/ijc.32512</pub-id>
+<pub-id pub-id-type="pmid">31199509</pub-id>
+<pub-id pub-id-type="pmcid">PMC7027840</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0033">
+<label>[33]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Barr</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ries</surname>
+<given-names>L</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Cancer in adolescents and young adults: A narrative review of the current status and a view of the future</article-title>. <source>JAMA Pediatr</source>. <year>2016</year>;<volume>170</volume>(<issue>5</issue>):<fpage>495</fpage>–<lpage>501</lpage>. <pub-id pub-id-type="doi">10.1001/jamapediatrics.2015.4689</pub-id>
+<pub-id pub-id-type="pmid">26999630</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0034">
+<label>[34]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Trama</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Botta</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steliarova-Foucher</surname>
+<given-names>E</given-names>
+</string-name>
+</person-group>. <article-title>Cancer burden in adolescents and young adults: a review of epidemiological evidence</article-title>. <source>Cancer J</source>. <year>2018</year>;<volume>24</volume>(<issue>6</issue>):<fpage>256</fpage>–<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1097/PPO.0000000000000346</pub-id>
+<pub-id pub-id-type="pmid">30480570</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0035">
+<label>[35]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kjaer</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersen</surname>
+<given-names>EAW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ursin</surname>
+<given-names>G</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Cumulative incidence of second primary cancers in a large nationwide cohort of Danish cancer survivors: a population-based retrospective cohort study</article-title>. <source>Lancet Oncol</source>. <year>2024</year>
+<month>Jan</month>;<volume>25</volume>(<issue>1</issue>):<fpage>126</fpage>–<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/S1470-2045(23)00538-7</pub-id>
+<pub-id pub-id-type="pmid">38048803</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CIT0036">
+<label>[36]</label>
+<mixed-citation publication-type="book">
+<source>Foreign citizens [Internet]</source>. <publisher-name>Statistics Finland</publisher-name>; <year>2020</year>
+<comment>[cited 03-2023]. Available from: <ext-link ns0:href="https://stat.fi/tup/maahanmuutto/maahanmuuttajat-vaestossa/ulkomaan-kansalaiset_en.html" ext-link-type="uri">https://stat.fi/tup/maahanmuutto/maahanmuuttajat-vaestossa/ulkomaan-kansalaiset_en.html</ext-link>
+</comment>
+</mixed-citation>
+</ref>
+<ref id="CIT0037">
+<label>[37]</label>
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Conceição</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calderón</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavez Esbry</surname>
+<given-names>F</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <source>Human development report 2021–22: uncertain times, unsettled lives: shaping our future in a transforming world</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>United Nations Development Programme</publisher-name>; <year>2022</year>.</mixed-citation>
+</ref>
+<ref id="CIT0038">
+<label>[38]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Teppo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pukkala</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lehtonen</surname>
+<given-names>M</given-names>
+</string-name>
+</person-group>. <article-title>Data quality and quality control of a population-based cancer registry. Experience in Finland</article-title>. <source>Acta Oncol</source>. <year>1994</year>;<volume>33</volume>(<issue>4</issue>):<fpage>365</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.3109/02841869409098430</pub-id>
+<pub-id pub-id-type="pmid">8018367</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>
+</pmc-articleset>
