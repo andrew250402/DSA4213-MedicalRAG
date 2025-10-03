@@ -1,7 +1,14 @@
 import requests, pathlib, sys, os, argparse
 from xml.etree import ElementTree as ET
+import sys
+import os
 
-def fetch_pmc_ids(term: str = "cancer", limit: int =50) -> list[str]:
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+import config
+
+
+def fetch_pmc_ids(term: str = "cancer", limit: int =1) -> list[str]:
     """
     Use NCBI ESearch to get PMC IDs for a query term.
     Returns a list like ['PMC12345', ...] up to `limit`.
@@ -192,22 +199,16 @@ def extract_plain_text(xml_text: str,
     return text.strip()
 
 def main():
-    parser = argparse.ArgumentParser(description="Fetch PMC articles by search term.")
-    parser.add_argument("--term", default="cancer", help="Search term (default: cancer)")
-    parser.add_argument("--limit", type=int, default=50, help="Number of articles to fetch (default: 500)")
-    parser.add_argument("--out", default="data",
-                        help="Output subdirectory relative to this script (default: data)")
-    args = parser.parse_args()
-
-    # Always anchor output under the directory containing this script (Adrian)
-    script_dir = pathlib.Path(__file__).resolve().parent
-    outdir = (script_dir / args.out).resolve()
+    outdir = pathlib.Path(config.OUT_DIR)
     outdir.mkdir(parents=True, exist_ok=True)
 
+    for sub in ["raw", "pretty", "plain"]:
+        (outdir / sub).mkdir(parents=True, exist_ok=True)
+
     print(f"Output directory: {outdir}")
-    print(f"Searching PMC for term='{args.term}' (limit={args.limit}) …")
+    print(f"Searching PMC for term='{config.TERM}' (limit={config.LIMIT}) …")
     try:
-        pmcids = fetch_pmc_ids(args.term, args.limit)
+        pmcids = fetch_pmc_ids(config.TERM, config.LIMIT)
     except Exception as e:
         print(f"Failed to fetch PMC ID list: {e}")
         sys.exit(1)
@@ -216,7 +217,7 @@ def main():
         print("No PMC IDs returned. Exiting.")
         return
 
-    id_list_path = outdir / f"pmcids_{args.term}.txt"
+    id_list_path = outdir / f"pmcids_{config.TERM}.txt"
     id_list_path.write_text("\n".join(pmcids), encoding="utf-8")
     print(f"Got {len(pmcids)} PMCIDs. Saved list to {id_list_path}")
 
@@ -227,17 +228,17 @@ def main():
             print(f"Fetching {pmcid} …")
             xml_text = fetch_xml(pmcid)
 
-            raw_xml_path = outdir / f"{pmcid}.xml"
+            raw_xml_path = outdir / f"raw/{pmcid}.xml"
             raw_xml_path.write_text(xml_text, encoding="utf-8")
             last_raw = raw_xml_path
 
             pretty = pretty_print_xml(xml_text)
-            pretty_path = outdir / f"{pmcid}.pretty.xml"
+            pretty_path = outdir / f"pretty/{pmcid}.xml"
             pretty_path.write_text(pretty, encoding="utf-8")
             last_pretty = pretty_path
 
             plain = extract_plain_text(xml_text)
-            txt_path = outdir / f"{pmcid}.plain.txt"
+            txt_path = outdir / f"plain/{pmcid}.plain.txt"
             txt_path.write_text(plain, encoding="utf-8")
             last_plain = txt_path
 
