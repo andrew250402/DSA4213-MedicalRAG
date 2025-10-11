@@ -1,7 +1,7 @@
 """
-rag_pipeline.py
+rag_with_16k.py
 - Loads FAISS vectorstore
-- Connects retriever to Hugging Face local LLM
+- Connects retriever to Hugging Face local LLM (CPU-only)
 - Builds QA chain with custom prompt
 """
 
@@ -20,10 +20,10 @@ def load_vector_db():
 def build_rag_pipeline():
     # Load vector DB
     db = load_vector_db()
-    retriever = db.as_retriever(search_kwargs={"k":5})
+    retriever = db.as_retriever(search_kwargs={"k": 7})
 
-    # Load Hugging Face model locally
-    model_name = "google/flan-t5-base"   # ✅ bigger than small, but still CPU-friendly
+    # Long-context model (~16k tokens), CPU-only
+    model_name = "google/long-t5-tglobal-base"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
@@ -31,7 +31,13 @@ def build_rag_pipeline():
         "text2text-generation",
         model=model,
         tokenizer=tokenizer,
-        max_new_tokens=256
+        device=-1,              # force CPU
+        max_new_tokens=220,
+        do_sample=False,
+        num_beams=4,
+        early_stopping=True,
+        no_repeat_ngram_size=3,
+        repetition_penalty=1.2,
     )
 
     llm = HuggingFacePipeline(pipeline=pipe)
