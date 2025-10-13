@@ -5,6 +5,7 @@ rag_pipeline.py
 - Builds QA or direct LLM chain depending on ENABLE_RAG
 """
 
+import config
 import pickle
 from langchain.chains import RetrievalQA, LLMChain
 from langchain_huggingface import HuggingFacePipeline
@@ -14,8 +15,6 @@ import sys
 import os
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-import config
 
 
 def load_vector_db():

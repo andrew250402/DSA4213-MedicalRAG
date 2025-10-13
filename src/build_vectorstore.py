@@ -9,6 +9,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 import pickle
 from ingest_data import load_text_files, split_documents
 
+
 def build_vector_db():
     # Load + chunk docs
     texts = load_text_files()
@@ -27,6 +28,7 @@ def build_vector_db():
         pickle.dump(db, f)
 
     return db
+
 
 if __name__ == "__main__":
     db = build_vector_db()
