@@ -1,5 +1,5 @@
 """
-build_vectorstore.py
+build_faiss_store.py
 - Creates or updates the vector store from text files in the data directory.
 """
 

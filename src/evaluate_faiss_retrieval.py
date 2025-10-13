@@ -1,5 +1,5 @@
 """
-evaluate_retrieval.py
+evaluate_vector_retrieval.py
 - Retrieval evaluation script for the Medical RAG system
 - Checks how many questions can retrieve the relevant files shown in 'references' field
 """

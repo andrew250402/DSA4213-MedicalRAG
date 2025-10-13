@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "retrieval_method": "FAISS (Dense)",
+    "retrieval_method": "BM25 (Sparse)",
     "total_questions": 50,
-    "evaluation_timestamp": "2025-10-14T00:37:17.516431",
+    "evaluation_timestamp": "2025-10-14T00:37:17.130303",
     "retrieval_k": 3,
-    "database_path": "../store/faiss/openai-text-embedding-3-small",
+    "database_path": "../store/bm25",
     "evaluation_data": "../data/evaluation/retrieval/single.json",
-    "embedding_model": "text-embedding-3-small"
+    "tokenizer": "nltk"
   },
   "detailed_results": [
     {
@@ -16,55 +16,20 @@
         "PMC5850596.plain.txt"
       ],
       "retrieved_files": [
-        "PMC5850596.plain.txt",
-        "PMC11332513.plain.txt"
-      ],
-      "retrieved_sources": [
-        {
-          "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:0"
-        },
-        {
-          "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:1"
-        },
-        {
-          "filename": "PMC11332513.plain.txt",
-          "chunk_id": "../data/plain/PMC11332513.plain.txt:39"
-        }
-      ],
-      "true_positives": 1,
-      "false_positives": 1,
-      "false_negatives": 0,
-      "precision": 0.5,
-      "recall": 1.0,
-      "f1_score": 0.6666666666666666,
-      "exact_match": false,
-      "at_least_one_correct": true,
-      "num_expected": 1,
-      "num_retrieved": 2
-    },
-    {
-      "question_id": 2,
-      "question": "How is 'net survival' defined in the English cancer policy study, and why is it a suitable measure for comparison between populations?",
-      "expected_files": [
-        "PMC5850596.plain.txt"
-      ],
-      "retrieved_files": [
         "PMC5850596.plain.txt"
       ],
       "retrieved_sources": [
         {
           "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:22"
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:48"
         },
         {
           "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:58"
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:49"
         },
         {
           "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:1"
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:17"
         }
       ],
       "true_positives": 1,
@@ -79,6 +44,41 @@
       "num_retrieved": 1
     },
     {
+      "question_id": 2,
+      "question": "How is 'net survival' defined in the English cancer policy study, and why is it a suitable measure for comparison between populations?",
+      "expected_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC5850596.plain.txt",
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:22"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:77"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:74"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
       "question_id": 3,
       "question": "For which specific cancers did the socioeconomic deprivation gap in survival widen between 1996 and 2013?",
       "expected_files": [
@@ -90,15 +90,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:47"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
           "chunk_id": "../data/plain/PMC5850596.plain.txt:48"
         },
         {
           "filename": "PMC5850596.plain.txt",
           "chunk_id": "../data/plain/PMC5850596.plain.txt:44"
-        },
-        {
-          "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:47"
         }
       ],
       "true_positives": 1,
@@ -119,32 +119,33 @@
         "PMC5850596.plain.txt"
       ],
       "retrieved_files": [
-        "PMC5850596.plain.txt"
+        "PMC5850596.plain.txt",
+        "PMC7430217.plain.txt"
       ],
       "retrieved_sources": [
-        {
-          "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:5"
-        },
         {
           "filename": "PMC5850596.plain.txt",
           "chunk_id": "../data/plain/PMC5850596.plain.txt:0"
         },
         {
           "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:51"
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:74"
+        },
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:4"
         }
       ],
       "true_positives": 1,
-      "false_positives": 0,
+      "false_positives": 1,
       "false_negatives": 0,
-      "precision": 1.0,
+      "precision": 0.5,
       "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 1
+      "num_retrieved": 2
     },
     {
       "question_id": 5,
@@ -162,12 +163,12 @@
           "chunk_id": "../data/plain/PMC5850596.plain.txt:0"
         },
         {
-          "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:1"
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:52"
         },
         {
-          "filename": "PMC5850596.plain.txt",
-          "chunk_id": "../data/plain/PMC5850596.plain.txt:1"
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:1"
         }
       ],
       "true_positives": 1,
@@ -193,16 +194,16 @@
       ],
       "retrieved_sources": [
         {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:0"
+        },
+        {
           "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:1"
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:0"
         },
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:4"
-        },
-        {
-          "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:17"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:2"
         }
       ],
       "true_positives": 1,
@@ -232,11 +233,11 @@
         },
         {
           "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:45"
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:60"
         },
         {
           "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:60"
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:55"
         }
       ],
       "true_positives": 1,
@@ -266,11 +267,11 @@
         },
         {
           "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:52"
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:54"
         },
         {
           "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:79"
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:59"
         }
       ],
       "true_positives": 1,
@@ -292,20 +293,56 @@
       ],
       "retrieved_files": [
         "PMC6494975.plain.txt",
-        "PMC11513776.plain.txt"
+        "PMC10933766.plain.txt",
+        "PMC9796073.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC10933766.plain.txt",
+          "chunk_id": "../data/plain/PMC10933766.plain.txt:22"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:41"
+        },
+        {
+          "filename": "PMC9796073.plain.txt",
+          "chunk_id": "../data/plain/PMC9796073.plain.txt:87"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 10,
+      "question": "What was the 35-year cumulative incidence of all subsequent primary neoplasms for survivors of cervical cancer in the TYACSS study?",
+      "expected_files": [
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6494975.plain.txt",
+        "PMC9814398.plain.txt"
       ],
       "retrieved_sources": [
         {
           "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:42"
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:6"
         },
         {
-          "filename": "PMC11513776.plain.txt",
-          "chunk_id": "../data/plain/PMC11513776.plain.txt:95"
+          "filename": "PMC9814398.plain.txt",
+          "chunk_id": "../data/plain/PMC9814398.plain.txt:23"
         },
         {
           "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:23"
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:64"
         }
       ],
       "true_positives": 1,
@@ -320,58 +357,24 @@
       "num_retrieved": 2
     },
     {
-      "question_id": 10,
-      "question": "What was the 35-year cumulative incidence of all subsequent primary neoplasms for survivors of cervical cancer in the TYACSS study?",
-      "expected_files": [
-        "PMC6494975.plain.txt"
-      ],
-      "retrieved_files": [
-        "PMC6494975.plain.txt"
-      ],
-      "retrieved_sources": [
-        {
-          "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:49"
-        },
-        {
-          "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:43"
-        },
-        {
-          "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:6"
-        }
-      ],
-      "true_positives": 1,
-      "false_positives": 0,
-      "false_negatives": 0,
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
-      "at_least_one_correct": true,
-      "num_expected": 1,
-      "num_retrieved": 1
-    },
-    {
       "question_id": 11,
       "question": "What was the purpose of the study involving the St Jude Lifetime Cohort and genetic risk?",
       "expected_files": [
         "PMC6036620.plain.txt"
       ],
       "retrieved_files": [
-        "PMC6036620.plain.txt",
         "PMC11029534.plain.txt",
-        "PMC7430217.plain.txt"
+        "PMC7430217.plain.txt",
+        "PMC6036620.plain.txt"
       ],
       "retrieved_sources": [
         {
-          "filename": "PMC6036620.plain.txt",
-          "chunk_id": "../data/plain/PMC6036620.plain.txt:1"
-        },
-        {
           "filename": "PMC11029534.plain.txt",
           "chunk_id": "../data/plain/PMC11029534.plain.txt:1"
+        },
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:1"
         },
         {
           "filename": "PMC7430217.plain.txt",
@@ -396,21 +399,21 @@
         "PMC6036620.plain.txt"
       ],
       "retrieved_files": [
-        "PMC12367065.plain.txt",
+        "PMC11029534.plain.txt",
         "PMC6036620.plain.txt"
       ],
       "retrieved_sources": [
         {
-          "filename": "PMC12367065.plain.txt",
-          "chunk_id": "../data/plain/PMC12367065.plain.txt:1"
+          "filename": "PMC11029534.plain.txt",
+          "chunk_id": "../data/plain/PMC11029534.plain.txt:1"
         },
         {
           "filename": "PMC6036620.plain.txt",
           "chunk_id": "../data/plain/PMC6036620.plain.txt:0"
         },
         {
-          "filename": "PMC12367065.plain.txt",
-          "chunk_id": "../data/plain/PMC12367065.plain.txt:5"
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:1"
         }
       ],
       "true_positives": 1,
@@ -431,18 +434,89 @@
         "PMC6036620.plain.txt"
       ],
       "retrieved_files": [
-        "PMC12367065.plain.txt",
-        "PMC9820434.plain.txt",
+        "PMC6036620.plain.txt",
+        "PMC7430217.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:0"
+        },
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:0"
+        },
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:4"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 14,
+      "question": "What was the study's primary recommendation regarding genetic counseling for childhood cancer survivors?",
+      "expected_files": [
+        "PMC6036620.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6036620.plain.txt",
+        "PMC7430217.plain.txt",
+        "PMC12367065.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:4"
+        },
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:6"
+        },
+        {
+          "filename": "PMC12367065.plain.txt",
+          "chunk_id": "../data/plain/PMC12367065.plain.txt:1"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 15,
+      "question": "For irradiated survivors in the St. Jude genetic risk study, mutations were linked to a significantly increased rate of which two subsequent cancers?",
+      "expected_files": [
+        "PMC6036620.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC11029534.plain.txt",
+        "PMC11480609.plain.txt",
         "PMC6036620.plain.txt"
       ],
       "retrieved_sources": [
         {
-          "filename": "PMC12367065.plain.txt",
-          "chunk_id": "../data/plain/PMC12367065.plain.txt:0"
+          "filename": "PMC11029534.plain.txt",
+          "chunk_id": "../data/plain/PMC11029534.plain.txt:1"
         },
         {
-          "filename": "PMC9820434.plain.txt",
-          "chunk_id": "../data/plain/PMC9820434.plain.txt:1"
+          "filename": "PMC11480609.plain.txt",
+          "chunk_id": "../data/plain/PMC11480609.plain.txt:7"
         },
         {
           "filename": "PMC6036620.plain.txt",
@@ -461,109 +535,38 @@
       "num_retrieved": 3
     },
     {
-      "question_id": 14,
-      "question": "What was the study's primary recommendation regarding genetic counseling for childhood cancer survivors?",
-      "expected_files": [
-        "PMC6036620.plain.txt"
-      ],
-      "retrieved_files": [
-        "PMC6036620.plain.txt",
-        "PMC12367065.plain.txt"
-      ],
-      "retrieved_sources": [
-        {
-          "filename": "PMC6036620.plain.txt",
-          "chunk_id": "../data/plain/PMC6036620.plain.txt:6"
-        },
-        {
-          "filename": "PMC12367065.plain.txt",
-          "chunk_id": "../data/plain/PMC12367065.plain.txt:7"
-        },
-        {
-          "filename": "PMC12367065.plain.txt",
-          "chunk_id": "../data/plain/PMC12367065.plain.txt:1"
-        }
-      ],
-      "true_positives": 1,
-      "false_positives": 1,
-      "false_negatives": 0,
-      "precision": 0.5,
-      "recall": 1.0,
-      "f1_score": 0.6666666666666666,
-      "exact_match": false,
-      "at_least_one_correct": true,
-      "num_expected": 1,
-      "num_retrieved": 2
-    },
-    {
-      "question_id": 15,
-      "question": "For irradiated survivors in the St. Jude genetic risk study, mutations were linked to a significantly increased rate of which two subsequent cancers?",
-      "expected_files": [
-        "PMC6036620.plain.txt"
-      ],
-      "retrieved_files": [
-        "PMC11029534.plain.txt",
-        "PMC7430217.plain.txt",
-        "PMC12367065.plain.txt"
-      ],
-      "retrieved_sources": [
-        {
-          "filename": "PMC11029534.plain.txt",
-          "chunk_id": "../data/plain/PMC11029534.plain.txt:1"
-        },
-        {
-          "filename": "PMC7430217.plain.txt",
-          "chunk_id": "../data/plain/PMC7430217.plain.txt:1"
-        },
-        {
-          "filename": "PMC12367065.plain.txt",
-          "chunk_id": "../data/plain/PMC12367065.plain.txt:0"
-        }
-      ],
-      "true_positives": 0,
-      "false_positives": 3,
-      "false_negatives": 1,
-      "precision": 0.0,
-      "recall": 0.0,
-      "f1_score": 0.0,
-      "exact_match": false,
-      "at_least_one_correct": false,
-      "num_expected": 1,
-      "num_retrieved": 3
-    },
-    {
       "question_id": 16,
       "question": "What three malignancies comprise myeloproliferative neoplasms (MPN)?",
       "expected_files": [
         "PMC7030948.plain.txt"
       ],
       "retrieved_files": [
-        "PMC8748501.plain.txt",
-        "PMC10486581.plain.txt",
-        "PMC8975834.plain.txt"
+        "PMC9252913.plain.txt",
+        "PMC7030948.plain.txt",
+        "PMC11184125.plain.txt"
       ],
       "retrieved_sources": [
         {
-          "filename": "PMC10486581.plain.txt",
-          "chunk_id": "../data/plain/PMC10486581.plain.txt:8"
+          "filename": "PMC7030948.plain.txt",
+          "chunk_id": "../data/plain/PMC7030948.plain.txt:0"
         },
         {
-          "filename": "PMC8748501.plain.txt",
-          "chunk_id": "../data/plain/PMC8748501.plain.txt:21"
+          "filename": "PMC9252913.plain.txt",
+          "chunk_id": "../data/plain/PMC9252913.plain.txt:21"
         },
         {
-          "filename": "PMC8975834.plain.txt",
-          "chunk_id": "../data/plain/PMC8975834.plain.txt:7"
+          "filename": "PMC11184125.plain.txt",
+          "chunk_id": "../data/plain/PMC11184125.plain.txt:15"
         }
       ],
-      "true_positives": 0,
-      "false_positives": 3,
-      "false_negatives": 1,
-      "precision": 0.0,
-      "recall": 0.0,
-      "f1_score": 0.0,
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
       "exact_match": false,
-      "at_least_one_correct": false,
+      "at_least_one_correct": true,
       "num_expected": 1,
       "num_retrieved": 3
     },
@@ -574,15 +577,11 @@
         "PMC7030948.plain.txt"
       ],
       "retrieved_files": [
-        "PMC7030948.plain.txt",
         "PMC9252913.plain.txt",
-        "PMC10486581.plain.txt"
+        "PMC7030948.plain.txt",
+        "PMC8975834.plain.txt"
       ],
       "retrieved_sources": [
-        {
-          "filename": "PMC10486581.plain.txt",
-          "chunk_id": "../data/plain/PMC10486581.plain.txt:10"
-        },
         {
           "filename": "PMC7030948.plain.txt",
           "chunk_id": "../data/plain/PMC7030948.plain.txt:2"
@@ -590,6 +589,10 @@
         {
           "filename": "PMC9252913.plain.txt",
           "chunk_id": "../data/plain/PMC9252913.plain.txt:29"
+        },
+        {
+          "filename": "PMC8975834.plain.txt",
+          "chunk_id": "../data/plain/PMC8975834.plain.txt:7"
         }
       ],
       "true_positives": 1,
@@ -610,55 +613,21 @@
         "PMC7030948.plain.txt"
       ],
       "retrieved_files": [
-        "PMC7030948.plain.txt"
+        "PMC7030948.plain.txt",
+        "PMC11635530.plain.txt"
       ],
       "retrieved_sources": [
+        {
+          "filename": "PMC7030948.plain.txt",
+          "chunk_id": "../data/plain/PMC7030948.plain.txt:2"
+        },
         {
           "filename": "PMC7030948.plain.txt",
           "chunk_id": "../data/plain/PMC7030948.plain.txt:5"
         },
         {
-          "filename": "PMC7030948.plain.txt",
-          "chunk_id": "../data/plain/PMC7030948.plain.txt:1"
-        },
-        {
-          "filename": "PMC7030948.plain.txt",
-          "chunk_id": "../data/plain/PMC7030948.plain.txt:3"
-        }
-      ],
-      "true_positives": 1,
-      "false_positives": 0,
-      "false_negatives": 0,
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
-      "at_least_one_correct": true,
-      "num_expected": 1,
-      "num_retrieved": 1
-    },
-    {
-      "question_id": 19,
-      "question": "According to the MPN heterogeneity study, what is the benefit of integrating genomic data with clinical parameters?",
-      "expected_files": [
-        "PMC7030948.plain.txt"
-      ],
-      "retrieved_files": [
-        "PMC10486581.plain.txt",
-        "PMC7030948.plain.txt"
-      ],
-      "retrieved_sources": [
-        {
-          "filename": "PMC7030948.plain.txt",
-          "chunk_id": "../data/plain/PMC7030948.plain.txt:5"
-        },
-        {
-          "filename": "PMC7030948.plain.txt",
-          "chunk_id": "../data/plain/PMC7030948.plain.txt:0"
-        },
-        {
-          "filename": "PMC10486581.plain.txt",
-          "chunk_id": "../data/plain/PMC10486581.plain.txt:197"
+          "filename": "PMC11635530.plain.txt",
+          "chunk_id": "../data/plain/PMC11635530.plain.txt:19"
         }
       ],
       "true_positives": 1,
@@ -673,15 +642,51 @@
       "num_retrieved": 2
     },
     {
+      "question_id": 19,
+      "question": "According to the MPN heterogeneity study, what is the benefit of integrating genomic data with clinical parameters?",
+      "expected_files": [
+        "PMC7030948.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC9479031.plain.txt",
+        "PMC6403009.plain.txt",
+        "PMC7030948.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7030948.plain.txt",
+          "chunk_id": "../data/plain/PMC7030948.plain.txt:5"
+        },
+        {
+          "filename": "PMC9479031.plain.txt",
+          "chunk_id": "../data/plain/PMC9479031.plain.txt:0"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:86"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
       "question_id": 20,
       "question": "The study on MPN heterogeneity found that the number of driver mutations increased with what two factors?",
       "expected_files": [
         "PMC7030948.plain.txt"
       ],
       "retrieved_files": [
-        "PMC8748501.plain.txt",
+        "PMC10486581.plain.txt",
         "PMC7030948.plain.txt",
-        "PMC11184125.plain.txt"
+        "PMC11852771.plain.txt"
       ],
       "retrieved_sources": [
         {
@@ -689,12 +694,12 @@
           "chunk_id": "../data/plain/PMC7030948.plain.txt:2"
         },
         {
-          "filename": "PMC11184125.plain.txt",
-          "chunk_id": "../data/plain/PMC11184125.plain.txt:46"
+          "filename": "PMC10486581.plain.txt",
+          "chunk_id": "../data/plain/PMC10486581.plain.txt:5"
         },
         {
-          "filename": "PMC8748501.plain.txt",
-          "chunk_id": "../data/plain/PMC8748501.plain.txt:42"
+          "filename": "PMC11852771.plain.txt",
+          "chunk_id": "../data/plain/PMC11852771.plain.txt:29"
         }
       ],
       "true_positives": 1,
@@ -720,15 +725,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:3"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
           "chunk_id": "../data/plain/PMC6782071.plain.txt:52"
         },
         {
           "filename": "PMC6782071.plain.txt",
           "chunk_id": "../data/plain/PMC6782071.plain.txt:1"
-        },
-        {
-          "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:4"
         }
       ],
       "true_positives": 1,
@@ -758,11 +763,11 @@
         },
         {
           "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:9"
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:42"
         },
         {
           "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:43"
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:34"
         }
       ],
       "true_positives": 1,
@@ -788,15 +793,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:37"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:52"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
           "chunk_id": "../data/plain/PMC6782071.plain.txt:38"
-        },
-        {
-          "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:80"
-        },
-        {
-          "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:34"
         }
       ],
       "true_positives": 1,
@@ -822,11 +827,11 @@
       "retrieved_sources": [
         {
           "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:20"
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:2"
         },
         {
           "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:21"
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:19"
         },
         {
           "filename": "PMC6782071.plain.txt",
@@ -856,15 +861,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:2"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
           "chunk_id": "../data/plain/PMC6782071.plain.txt:21"
         },
         {
           "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:20"
-        },
-        {
-          "filename": "PMC6782071.plain.txt",
-          "chunk_id": "../data/plain/PMC6782071.plain.txt:22"
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:19"
         }
       ],
       "true_positives": 1,
@@ -890,15 +895,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:6"
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:0"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:14"
         },
         {
           "filename": "PMC6835610.plain.txt",
           "chunk_id": "../data/plain/PMC6835610.plain.txt:5"
-        },
-        {
-          "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:1"
         }
       ],
       "true_positives": 1,
@@ -924,15 +929,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:0"
-        },
-        {
-          "filename": "PMC6835610.plain.txt",
           "chunk_id": "../data/plain/PMC6835610.plain.txt:1"
         },
         {
           "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:55"
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:0"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:5"
         }
       ],
       "true_positives": 1,
@@ -958,15 +963,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:59"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:1"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
           "chunk_id": "../data/plain/PMC6835610.plain.txt:71"
-        },
-        {
-          "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:58"
-        },
-        {
-          "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:33"
         }
       ],
       "true_positives": 1,
@@ -987,32 +992,33 @@
         "PMC6835610.plain.txt"
       ],
       "retrieved_files": [
+        "PMC6494975.plain.txt",
         "PMC6835610.plain.txt"
       ],
       "retrieved_sources": [
         {
           "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:4"
-        },
-        {
-          "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:19"
-        },
-        {
-          "filename": "PMC6835610.plain.txt",
           "chunk_id": "../data/plain/PMC6835610.plain.txt:12"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:73"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:53"
         }
       ],
       "true_positives": 1,
-      "false_positives": 0,
+      "false_positives": 1,
       "false_negatives": 0,
-      "precision": 1.0,
+      "precision": 0.5,
       "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 1
+      "num_retrieved": 2
     },
     {
       "question_id": 30,
@@ -1021,32 +1027,33 @@
         "PMC6835610.plain.txt"
       ],
       "retrieved_files": [
+        "PMC11513776.plain.txt",
         "PMC6835610.plain.txt"
       ],
       "retrieved_sources": [
         {
           "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:63"
-        },
-        {
-          "filename": "PMC6835610.plain.txt",
-          "chunk_id": "../data/plain/PMC6835610.plain.txt:75"
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:62"
         },
         {
           "filename": "PMC6835610.plain.txt",
           "chunk_id": "../data/plain/PMC6835610.plain.txt:85"
+        },
+        {
+          "filename": "PMC11513776.plain.txt",
+          "chunk_id": "../data/plain/PMC11513776.plain.txt:89"
         }
       ],
       "true_positives": 1,
-      "false_positives": 0,
+      "false_positives": 1,
       "false_negatives": 0,
-      "precision": 1.0,
+      "precision": 0.5,
       "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 1
+      "num_retrieved": 2
     },
     {
       "question_id": 31,
@@ -1068,7 +1075,7 @@
         },
         {
           "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:17"
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:2"
         }
       ],
       "true_positives": 1,
@@ -1089,32 +1096,34 @@
         "PMC6403009.plain.txt"
       ],
       "retrieved_files": [
+        "PMC6782071.plain.txt",
+        "PMC6036620.plain.txt",
         "PMC6403009.plain.txt"
       ],
       "retrieved_sources": [
         {
           "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:87"
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:86"
         },
         {
-          "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:28"
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:52"
         },
         {
-          "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:109"
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:2"
         }
       ],
       "true_positives": 1,
-      "false_positives": 0,
+      "false_positives": 2,
       "false_negatives": 0,
-      "precision": 1.0,
+      "precision": 0.3333333333333333,
       "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
+      "f1_score": 0.5,
+      "exact_match": false,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 1
+      "num_retrieved": 3
     },
     {
       "question_id": 33,
@@ -1123,33 +1132,34 @@
         "PMC6403009.plain.txt"
       ],
       "retrieved_files": [
-        "PMC11810969.plain.txt",
-        "PMC6403009.plain.txt"
+        "PMC8638760.plain.txt",
+        "PMC11762997.plain.txt",
+        "PMC7700753.plain.txt"
       ],
       "retrieved_sources": [
         {
-          "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:102"
+          "filename": "PMC8638760.plain.txt",
+          "chunk_id": "../data/plain/PMC8638760.plain.txt:179"
         },
         {
-          "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:97"
+          "filename": "PMC7700753.plain.txt",
+          "chunk_id": "../data/plain/PMC7700753.plain.txt:1"
         },
         {
-          "filename": "PMC11810969.plain.txt",
-          "chunk_id": "../data/plain/PMC11810969.plain.txt:36"
+          "filename": "PMC11762997.plain.txt",
+          "chunk_id": "../data/plain/PMC11762997.plain.txt:57"
         }
       ],
-      "true_positives": 1,
-      "false_positives": 1,
-      "false_negatives": 0,
-      "precision": 0.5,
-      "recall": 1.0,
-      "f1_score": 0.6666666666666666,
+      "true_positives": 0,
+      "false_positives": 3,
+      "false_negatives": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
       "exact_match": false,
-      "at_least_one_correct": true,
+      "at_least_one_correct": false,
       "num_expected": 1,
-      "num_retrieved": 2
+      "num_retrieved": 3
     },
     {
       "question_id": 34,
@@ -1163,15 +1173,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:172"
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:169"
         },
         {
           "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:69"
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:23"
         },
         {
           "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:188"
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:177"
         }
       ],
       "true_positives": 1,
@@ -1197,7 +1207,7 @@
       "retrieved_sources": [
         {
           "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:37"
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:36"
         },
         {
           "filename": "PMC6403009.plain.txt",
@@ -1205,7 +1215,7 @@
         },
         {
           "filename": "PMC6403009.plain.txt",
-          "chunk_id": "../data/plain/PMC6403009.plain.txt:38"
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:39"
         }
       ],
       "true_positives": 1,
@@ -1226,9 +1236,9 @@
         "PMC7444638.plain.txt"
       ],
       "retrieved_files": [
-        "PMC12090201.plain.txt",
-        "PMC8748501.plain.txt",
-        "PMC7444638.plain.txt"
+        "PMC9796073.plain.txt",
+        "PMC7444638.plain.txt",
+        "PMC9731832.plain.txt"
       ],
       "retrieved_sources": [
         {
@@ -1236,12 +1246,12 @@
           "chunk_id": "../data/plain/PMC7444638.plain.txt:1"
         },
         {
-          "filename": "PMC12090201.plain.txt",
-          "chunk_id": "../data/plain/PMC12090201.plain.txt:49"
+          "filename": "PMC9731832.plain.txt",
+          "chunk_id": "../data/plain/PMC9731832.plain.txt:0"
         },
         {
-          "filename": "PMC8748501.plain.txt",
-          "chunk_id": "../data/plain/PMC8748501.plain.txt:49"
+          "filename": "PMC9796073.plain.txt",
+          "chunk_id": "../data/plain/PMC9796073.plain.txt:78"
         }
       ],
       "true_positives": 1,
@@ -1262,41 +1272,8 @@
         "PMC7444638.plain.txt"
       ],
       "retrieved_files": [
-        "PMC7444638.plain.txt"
-      ],
-      "retrieved_sources": [
-        {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:5"
-        },
-        {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:4"
-        },
-        {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:6"
-        }
-      ],
-      "true_positives": 1,
-      "false_positives": 0,
-      "false_negatives": 0,
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
-      "at_least_one_correct": true,
-      "num_expected": 1,
-      "num_retrieved": 1
-    },
-    {
-      "question_id": 38,
-      "question": "Which three cancer types saw the largest decreases in patient encounters in April 2020 versus April 2019?",
-      "expected_files": [
-        "PMC7444638.plain.txt"
-      ],
-      "retrieved_files": [
-        "PMC7444638.plain.txt"
+        "PMC7444638.plain.txt",
+        "PMC10853257.plain.txt"
       ],
       "retrieved_sources": [
         {
@@ -1304,47 +1281,12 @@
           "chunk_id": "../data/plain/PMC7444638.plain.txt:4"
         },
         {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:6"
+          "filename": "PMC10853257.plain.txt",
+          "chunk_id": "../data/plain/PMC10853257.plain.txt:66"
         },
         {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:5"
-        }
-      ],
-      "true_positives": 1,
-      "false_positives": 0,
-      "false_negatives": 0,
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
-      "at_least_one_correct": true,
-      "num_expected": 1,
-      "num_retrieved": 1
-    },
-    {
-      "question_id": 39,
-      "question": "What future consequence is suggested by the steep decreases in cancer screening and new cancer diagnoses during the pandemic?",
-      "expected_files": [
-        "PMC7444638.plain.txt"
-      ],
-      "retrieved_files": [
-        "PMC8748501.plain.txt",
-        "PMC7444638.plain.txt"
-      ],
-      "retrieved_sources": [
-        {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:6"
-        },
-        {
-          "filename": "PMC8748501.plain.txt",
-          "chunk_id": "../data/plain/PMC8748501.plain.txt:47"
-        },
-        {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:5"
+          "filename": "PMC10853257.plain.txt",
+          "chunk_id": "../data/plain/PMC10853257.plain.txt:31"
         }
       ],
       "true_positives": 1,
@@ -1359,12 +1301,85 @@
       "num_retrieved": 2
     },
     {
+      "question_id": 38,
+      "question": "Which three cancer types saw the largest decreases in patient encounters in April 2020 versus April 2019?",
+      "expected_files": [
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7794669.plain.txt",
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7444638.plain.txt",
+          "chunk_id": "../data/plain/PMC7444638.plain.txt:4"
+        },
+        {
+          "filename": "PMC7794669.plain.txt",
+          "chunk_id": "../data/plain/PMC7794669.plain.txt:4"
+        },
+        {
+          "filename": "PMC7444638.plain.txt",
+          "chunk_id": "../data/plain/PMC7444638.plain.txt:6"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 39,
+      "question": "What future consequence is suggested by the steep decreases in cancer screening and new cancer diagnoses during the pandemic?",
+      "expected_files": [
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7444638.plain.txt",
+        "PMC10853257.plain.txt",
+        "PMC9731832.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7444638.plain.txt",
+          "chunk_id": "../data/plain/PMC7444638.plain.txt:6"
+        },
+        {
+          "filename": "PMC10853257.plain.txt",
+          "chunk_id": "../data/plain/PMC10853257.plain.txt:64"
+        },
+        {
+          "filename": "PMC9731832.plain.txt",
+          "chunk_id": "../data/plain/PMC9731832.plain.txt:43"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
       "question_id": 40,
       "question": "How did the study compare patient encounter data from the pre-COVID and pandemic periods?",
       "expected_files": [
         "PMC7444638.plain.txt"
       ],
       "retrieved_files": [
+        "PMC11184125.plain.txt",
+        "PMC8748501.plain.txt",
         "PMC7444638.plain.txt"
       ],
       "retrieved_sources": [
@@ -1373,24 +1388,24 @@
           "chunk_id": "../data/plain/PMC7444638.plain.txt:0"
         },
         {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:1"
+          "filename": "PMC8748501.plain.txt",
+          "chunk_id": "../data/plain/PMC8748501.plain.txt:49"
         },
         {
-          "filename": "PMC7444638.plain.txt",
-          "chunk_id": "../data/plain/PMC7444638.plain.txt:6"
+          "filename": "PMC11184125.plain.txt",
+          "chunk_id": "../data/plain/PMC11184125.plain.txt:54"
         }
       ],
       "true_positives": 1,
-      "false_positives": 0,
+      "false_positives": 2,
       "false_negatives": 0,
-      "precision": 1.0,
+      "precision": 0.3333333333333333,
       "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
+      "f1_score": 0.5,
+      "exact_match": false,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 1
+      "num_retrieved": 3
     },
     {
       "question_id": 41,
@@ -1400,6 +1415,7 @@
       ],
       "retrieved_files": [
         "PMC6036620.plain.txt",
+        "PMC11029534.plain.txt",
         "PMC7430217.plain.txt"
       ],
       "retrieved_sources": [
@@ -1412,20 +1428,20 @@
           "chunk_id": "../data/plain/PMC6036620.plain.txt:1"
         },
         {
-          "filename": "PMC7430217.plain.txt",
-          "chunk_id": "../data/plain/PMC7430217.plain.txt:0"
+          "filename": "PMC11029534.plain.txt",
+          "chunk_id": "../data/plain/PMC11029534.plain.txt:1"
         }
       ],
       "true_positives": 1,
-      "false_positives": 1,
+      "false_positives": 2,
       "false_negatives": 0,
-      "precision": 0.5,
+      "precision": 0.3333333333333333,
       "recall": 1.0,
-      "f1_score": 0.6666666666666666,
+      "f1_score": 0.5,
       "exact_match": false,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 2
+      "num_retrieved": 3
     },
     {
       "question_id": 42,
@@ -1435,7 +1451,8 @@
       ],
       "retrieved_files": [
         "PMC12367065.plain.txt",
-        "PMC7430217.plain.txt"
+        "PMC7430217.plain.txt",
+        "PMC6036620.plain.txt"
       ],
       "retrieved_sources": [
         {
@@ -1443,24 +1460,24 @@
           "chunk_id": "../data/plain/PMC7430217.plain.txt:0"
         },
         {
-          "filename": "PMC7430217.plain.txt",
-          "chunk_id": "../data/plain/PMC7430217.plain.txt:2"
-        },
-        {
           "filename": "PMC12367065.plain.txt",
           "chunk_id": "../data/plain/PMC12367065.plain.txt:0"
+        },
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:0"
         }
       ],
       "true_positives": 1,
-      "false_positives": 1,
+      "false_positives": 2,
       "false_negatives": 0,
-      "precision": 0.5,
+      "precision": 0.3333333333333333,
       "recall": 1.0,
-      "f1_score": 0.6666666666666666,
+      "f1_score": 0.5,
       "exact_match": false,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 2
+      "num_retrieved": 3
     },
     {
       "question_id": 43,
@@ -1475,11 +1492,11 @@
       "retrieved_sources": [
         {
           "filename": "PMC7430217.plain.txt",
-          "chunk_id": "../data/plain/PMC7430217.plain.txt:3"
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:2"
         },
         {
           "filename": "PMC7430217.plain.txt",
-          "chunk_id": "../data/plain/PMC7430217.plain.txt:2"
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:3"
         },
         {
           "filename": "PMC6036620.plain.txt",
@@ -1511,7 +1528,7 @@
       "retrieved_sources": [
         {
           "filename": "PMC9450413.plain.txt",
-          "chunk_id": "../data/plain/PMC9450413.plain.txt:102"
+          "chunk_id": "../data/plain/PMC9450413.plain.txt:77"
         },
         {
           "filename": "PMC7430217.plain.txt",
@@ -1519,7 +1536,7 @@
         },
         {
           "filename": "PMC11201516.plain.txt",
-          "chunk_id": "../data/plain/PMC11201516.plain.txt:36"
+          "chunk_id": "../data/plain/PMC11201516.plain.txt:71"
         }
       ],
       "true_positives": 1,
@@ -1540,6 +1557,7 @@
         "PMC7430217.plain.txt"
       ],
       "retrieved_files": [
+        "PMC9450413.plain.txt",
         "PMC7430217.plain.txt"
       ],
       "retrieved_sources": [
@@ -1548,24 +1566,24 @@
           "chunk_id": "../data/plain/PMC7430217.plain.txt:4"
         },
         {
-          "filename": "PMC7430217.plain.txt",
-          "chunk_id": "../data/plain/PMC7430217.plain.txt:1"
+          "filename": "PMC9450413.plain.txt",
+          "chunk_id": "../data/plain/PMC9450413.plain.txt:98"
         },
         {
-          "filename": "PMC7430217.plain.txt",
-          "chunk_id": "../data/plain/PMC7430217.plain.txt:0"
+          "filename": "PMC9450413.plain.txt",
+          "chunk_id": "../data/plain/PMC9450413.plain.txt:77"
         }
       ],
       "true_positives": 1,
-      "false_positives": 0,
+      "false_positives": 1,
       "false_negatives": 0,
-      "precision": 1.0,
+      "precision": 0.5,
       "recall": 1.0,
-      "f1_score": 1.0,
-      "exact_match": true,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 1
+      "num_retrieved": 2
     },
     {
       "question_id": 46,
@@ -1579,15 +1597,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:7"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:2"
         },
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:49"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:3"
         },
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:16"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:0"
         }
       ],
       "true_positives": 1,
@@ -1613,15 +1631,15 @@
       "retrieved_sources": [
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:16"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:49"
         },
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:50"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:47"
         },
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:11"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:48"
         }
       ],
       "true_positives": 1,
@@ -1642,8 +1660,7 @@
         "PMC6563559.plain.txt"
       ],
       "retrieved_files": [
-        "PMC6563559.plain.txt",
-        "PMC6494975.plain.txt"
+        "PMC6563559.plain.txt"
       ],
       "retrieved_sources": [
         {
@@ -1651,24 +1668,24 @@
           "chunk_id": "../data/plain/PMC6563559.plain.txt:40"
         },
         {
-          "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:62"
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:7"
         },
         {
-          "filename": "PMC6494975.plain.txt",
-          "chunk_id": "../data/plain/PMC6494975.plain.txt:64"
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:8"
         }
       ],
       "true_positives": 1,
-      "false_positives": 1,
+      "false_positives": 0,
       "false_negatives": 0,
-      "precision": 0.5,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.6666666666666666,
-      "exact_match": false,
+      "f1_score": 1.0,
+      "exact_match": true,
       "at_least_one_correct": true,
       "num_expected": 1,
-      "num_retrieved": 2
+      "num_retrieved": 1
     },
     {
       "question_id": 49,
@@ -1686,11 +1703,11 @@
         },
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:7"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:9"
         },
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:36"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:59"
         }
       ],
       "true_positives": 1,
@@ -1716,7 +1733,7 @@
       "retrieved_sources": [
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:36"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:64"
         },
         {
           "filename": "PMC6563559.plain.txt",
@@ -1724,7 +1741,7 @@
         },
         {
           "filename": "PMC6563559.plain.txt",
-          "chunk_id": "../data/plain/PMC6563559.plain.txt:3"
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:36"
         }
       ],
       "true_positives": 1,
@@ -1741,18 +1758,18 @@
   ],
   "summary": {
     "total_questions": 50,
-    "exact_matches": 29,
-    "exact_match_rate": 0.58,
-    "at_least_one_correct": 48,
-    "at_least_one_correct_rate": 0.96,
-    "average_precision": 0.75,
-    "average_recall": 0.96,
-    "average_f1_score": 0.8133333333333332,
-    "micro_precision": 0.6075949367088608,
-    "micro_recall": 0.96,
-    "micro_f1_score": 0.7441860465116279,
-    "total_true_positives": 48,
-    "total_false_positives": 31,
-    "total_false_negatives": 2
+    "exact_matches": 20,
+    "exact_match_rate": 0.4,
+    "at_least_one_correct": 49,
+    "at_least_one_correct_rate": 0.98,
+    "average_precision": 0.64,
+    "average_recall": 0.98,
+    "average_f1_score": 0.7366666666666667,
+    "micro_precision": 0.5104166666666666,
+    "micro_recall": 0.98,
+    "micro_f1_score": 0.6712328767123288,
+    "total_true_positives": 49,
+    "total_false_positives": 47,
+    "total_false_negatives": 1
   }
 }
