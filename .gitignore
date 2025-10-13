@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# Vector store
-vectorstore.pkl
+# Environment variables
+.env

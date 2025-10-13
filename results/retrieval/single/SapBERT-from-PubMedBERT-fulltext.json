@@ -1,0 +1,1769 @@
+{
+  "metadata": {
+    "total_questions": 50,
+    "evaluation_timestamp": "2025-10-14T00:11:57.984054",
+    "retrieval_k": 3,
+    "database_path": "../store/faiss/SapBERT-from-PubMedBERT-fulltext",
+    "evaluation_data": "../data/evaluation/retrieval/single.json"
+  },
+  "detailed_results": [
+    {
+      "question_id": 1,
+      "question": "What was the primary objective of the population-based study conducted in England between 1996 and 2013?",
+      "expected_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6494975.plain.txt",
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:0"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:21"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:87"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 2,
+      "question": "How is 'net survival' defined in the English cancer policy study, and why is it a suitable measure for comparison between populations?",
+      "expected_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:58"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:52"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:1"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 3,
+      "question": "For which specific cancers did the socioeconomic deprivation gap in survival widen between 1996 and 2013?",
+      "expected_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:45"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:44"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:74"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 4,
+      "question": "What overall conclusion did the English cancer policy study reach regarding the impact of national cancer strategies on one-year survival?",
+      "expected_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:37"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:12"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:58"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 5,
+      "question": "What was the population size and age range for the cohort in the study on national cancer policies in England?",
+      "expected_files": [
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC10099796.plain.txt",
+        "PMC5850596.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:0"
+        },
+        {
+          "filename": "PMC5850596.plain.txt",
+          "chunk_id": "../data/plain/PMC5850596.plain.txt:14"
+        },
+        {
+          "filename": "PMC10099796.plain.txt",
+          "chunk_id": "../data/plain/PMC10099796.plain.txt:15"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 6,
+      "question": "What is the name of the population-based cohort study focusing on adolescent and young adult cancer survivors, and what was the age range of patients at their initial diagnosis?",
+      "expected_files": [
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6494975.plain.txt",
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:17"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:2"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:0"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 7,
+      "question": "According to the TYACSS study, what was the absolute excess risk (AER) of any subsequent primary neoplasm for female survivors of Hodgkin lymphoma?",
+      "expected_files": [
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:80"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:15"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:45"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 8,
+      "question": "In the TYACSS study, for survivors of testicular cancer who had survived at least 30 years, which four subsequent primary neoplasms accounted for the largest percentages of the total excess number of neoplasms?",
+      "expected_files": [
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7430217.plain.txt",
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:53"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:93"
+        },
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:3"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 9,
+      "question": "What key limitation did the TYACSS study have regarding its data source, and how did the researchers compensate for this?",
+      "expected_files": [
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6494975.plain.txt",
+        "PMC11726020.plain.txt",
+        "PMC8975834.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:42"
+        },
+        {
+          "filename": "PMC11726020.plain.txt",
+          "chunk_id": "../data/plain/PMC11726020.plain.txt:104"
+        },
+        {
+          "filename": "PMC8975834.plain.txt",
+          "chunk_id": "../data/plain/PMC8975834.plain.txt:75"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 10,
+      "question": "What was the 35-year cumulative incidence of all subsequent primary neoplasms for survivors of cervical cancer in the TYACSS study?",
+      "expected_files": [
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:6"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:49"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:61"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 11,
+      "question": "What was the purpose of the study involving the St Jude Lifetime Cohort and genetic risk?",
+      "expected_files": [
+        "PMC6036620.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC10099796.plain.txt",
+        "PMC6494975.plain.txt",
+        "PMC11029534.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC10099796.plain.txt",
+          "chunk_id": "../data/plain/PMC10099796.plain.txt:52"
+        },
+        {
+          "filename": "PMC11029534.plain.txt",
+          "chunk_id": "../data/plain/PMC11029534.plain.txt:1"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:91"
+        }
+      ],
+      "true_positives": 0,
+      "false_positives": 3,
+      "false_negatives": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match": false,
+      "at_least_one_correct": false,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 12,
+      "question": "In the St. Jude cohort study on genetic risk, what percentage of the childhood cancer survivors were found to have pathogenic/likely pathogenic (P/LP) mutations?",
+      "expected_files": [
+        "PMC6036620.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6036620.plain.txt",
+        "PMC12367065.plain.txt",
+        "PMC11029534.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:0"
+        },
+        {
+          "filename": "PMC11029534.plain.txt",
+          "chunk_id": "../data/plain/PMC11029534.plain.txt:1"
+        },
+        {
+          "filename": "PMC12367065.plain.txt",
+          "chunk_id": "../data/plain/PMC12367065.plain.txt:1"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 13,
+      "question": "Among nonirradiated childhood cancer survivors, pathogenic mutations were associated with an increased risk of which three outcomes?",
+      "expected_files": [
+        "PMC6036620.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6036620.plain.txt",
+        "PMC7430217.plain.txt",
+        "PMC9450413.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:0"
+        },
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:0"
+        },
+        {
+          "filename": "PMC9450413.plain.txt",
+          "chunk_id": "../data/plain/PMC9450413.plain.txt:2"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 14,
+      "question": "What was the study's primary recommendation regarding genetic counseling for childhood cancer survivors?",
+      "expected_files": [
+        "PMC6036620.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6036620.plain.txt",
+        "PMC12367065.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC12367065.plain.txt",
+          "chunk_id": "../data/plain/PMC12367065.plain.txt:7"
+        },
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:0"
+        },
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:6"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 15,
+      "question": "For irradiated survivors in the St. Jude genetic risk study, mutations were linked to a significantly increased rate of which two subsequent cancers?",
+      "expected_files": [
+        "PMC6036620.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7430217.plain.txt",
+        "PMC11029534.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:1"
+        },
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:2"
+        },
+        {
+          "filename": "PMC11029534.plain.txt",
+          "chunk_id": "../data/plain/PMC11029534.plain.txt:1"
+        }
+      ],
+      "true_positives": 0,
+      "false_positives": 2,
+      "false_negatives": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match": false,
+      "at_least_one_correct": false,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 16,
+      "question": "What three malignancies comprise myeloproliferative neoplasms (MPN)?",
+      "expected_files": [
+        "PMC7030948.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC10486581.plain.txt",
+        "PMC11184125.plain.txt",
+        "PMC8748501.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC10486581.plain.txt",
+          "chunk_id": "../data/plain/PMC10486581.plain.txt:113"
+        },
+        {
+          "filename": "PMC8748501.plain.txt",
+          "chunk_id": "../data/plain/PMC8748501.plain.txt:34"
+        },
+        {
+          "filename": "PMC11184125.plain.txt",
+          "chunk_id": "../data/plain/PMC11184125.plain.txt:45"
+        }
+      ],
+      "true_positives": 0,
+      "false_positives": 3,
+      "false_negatives": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match": false,
+      "at_least_one_correct": false,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 17,
+      "question": "In the study of 2035 MPN patients, what percentage had mutations in JAK2, CALR, or MPL as their only identified abnormality?",
+      "expected_files": [
+        "PMC7030948.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC9252913.plain.txt",
+        "PMC10486581.plain.txt",
+        "PMC8748501.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC8748501.plain.txt",
+          "chunk_id": "../data/plain/PMC8748501.plain.txt:21"
+        },
+        {
+          "filename": "PMC9252913.plain.txt",
+          "chunk_id": "../data/plain/PMC9252913.plain.txt:29"
+        },
+        {
+          "filename": "PMC10486581.plain.txt",
+          "chunk_id": "../data/plain/PMC10486581.plain.txt:10"
+        }
+      ],
+      "true_positives": 0,
+      "false_positives": 3,
+      "false_negatives": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match": false,
+      "at_least_one_correct": false,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 18,
+      "question": "How many distinct genomic subgroups of MPNs were defined by the study, and what did these subgroups help predict?",
+      "expected_files": [
+        "PMC7030948.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7030948.plain.txt",
+        "PMC10486581.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7030948.plain.txt",
+          "chunk_id": "../data/plain/PMC7030948.plain.txt:5"
+        },
+        {
+          "filename": "PMC7030948.plain.txt",
+          "chunk_id": "../data/plain/PMC7030948.plain.txt:0"
+        },
+        {
+          "filename": "PMC10486581.plain.txt",
+          "chunk_id": "../data/plain/PMC10486581.plain.txt:197"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 19,
+      "question": "According to the MPN heterogeneity study, what is the benefit of integrating genomic data with clinical parameters?",
+      "expected_files": [
+        "PMC7030948.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7030948.plain.txt",
+        "PMC10486581.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7030948.plain.txt",
+          "chunk_id": "../data/plain/PMC7030948.plain.txt:5"
+        },
+        {
+          "filename": "PMC7030948.plain.txt",
+          "chunk_id": "../data/plain/PMC7030948.plain.txt:0"
+        },
+        {
+          "filename": "PMC10486581.plain.txt",
+          "chunk_id": "../data/plain/PMC10486581.plain.txt:197"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 20,
+      "question": "The study on MPN heterogeneity found that the number of driver mutations increased with what two factors?",
+      "expected_files": [
+        "PMC7030948.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC9252913.plain.txt",
+        "PMC7030948.plain.txt",
+        "PMC8748501.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC8748501.plain.txt",
+          "chunk_id": "../data/plain/PMC8748501.plain.txt:42"
+        },
+        {
+          "filename": "PMC9252913.plain.txt",
+          "chunk_id": "../data/plain/PMC9252913.plain.txt:30"
+        },
+        {
+          "filename": "PMC7030948.plain.txt",
+          "chunk_id": "../data/plain/PMC7030948.plain.txt:0"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 21,
+      "question": "What is the Genotyping of Transcriptomes (GoT) method, and what two processes does it combine?",
+      "expected_files": [
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:3"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:4"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:52"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 22,
+      "question": "In the GoT study of CALR-mutated myeloproliferative neoplasms (MPN), where was the fitness advantage of the mutation most pronounced?",
+      "expected_files": [
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC10486581.plain.txt",
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:26"
+        },
+        {
+          "filename": "PMC10486581.plain.txt",
+          "chunk_id": "../data/plain/PMC10486581.plain.txt:179"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:2"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 23,
+      "question": "What technical limitation of the standard GoT method is 'Circularization GoT' designed to overcome?",
+      "expected_files": [
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6403009.plain.txt",
+        "PMC6782071.plain.txt",
+        "PMC11726020.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:38"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:57"
+        },
+        {
+          "filename": "PMC11726020.plain.txt",
+          "chunk_id": "../data/plain/PMC11726020.plain.txt:33"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 24,
+      "question": "The GoT study identified the unfolded protein response (UPR) as a predominant outcome of CALR mutations. What specific branch of the UPR was activated?",
+      "expected_files": [
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:20"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:30"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:23"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 25,
+      "question": "Besides the unfolded protein response, what other pathway was found to be upregulated by CALR mutations specifically in uncommitted stem cells?",
+      "expected_files": [
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6782071.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:21"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:20"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:30"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 26,
+      "question": "What is the definition of Glycemic Index (GI) and Glycemic Load (GL)?",
+      "expected_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:0"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:5"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:78"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 27,
+      "question": "According to the updated meta-analysis, a high Glycemic Index (GI) was associated with an increased risk for which three types of cancer?",
+      "expected_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:1"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:0"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:75"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 28,
+      "question": "In the meta-analysis, what was the summary relative risk of breast cancer for high versus low Glycemic Load (GL) intake specifically among premenopausal women?",
+      "expected_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:79"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:72"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:34"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 29,
+      "question": "Did the meta-analysis find a significant association between GI or GL and the risk of developing stomach, prostate, or lung cancer?",
+      "expected_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:53"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:4"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:84"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 30,
+      "question": "What biological mechanism is suggested to explain the modest association between high GI/GL diets and cancer risk?",
+      "expected_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6835610.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:62"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:85"
+        },
+        {
+          "filename": "PMC6835610.plain.txt",
+          "chunk_id": "../data/plain/PMC6835610.plain.txt:64"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 31,
+      "question": "What are the three main clinical tasks in cancer imaging where Artificial Intelligence (AI) finds significant utility?",
+      "expected_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:19"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:4"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:16"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 32,
+      "question": "What is 'imaging genomics'?",
+      "expected_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6403009.plain.txt",
+        "PMC6782071.plain.txt",
+        "PMC11513776.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC11513776.plain.txt",
+          "chunk_id": "../data/plain/PMC11513776.plain.txt:26"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:87"
+        },
+        {
+          "filename": "PMC6782071.plain.txt",
+          "chunk_id": "../data/plain/PMC6782071.plain.txt:0"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 33,
+      "question": "What is 'pseudoprogression' in patients with glioblastoma, and what percentage of patients experience it?",
+      "expected_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:105"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:93"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:110"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 34,
+      "question": "According to the article, what is a major obstacle to developing automated clinical AI solutions?",
+      "expected_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:19"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:4"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:185"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 35,
+      "question": "What was the key finding of the National Lung Screening Trial (NLST) regarding low-dose CT screening?",
+      "expected_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6403009.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:39"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:36"
+        },
+        {
+          "filename": "PMC6403009.plain.txt",
+          "chunk_id": "../data/plain/PMC6403009.plain.txt:40"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 36,
+      "question": "What was the purpose of the study that used the COVID and Cancer Research Network (CCRN)?",
+      "expected_files": [
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC11635530.plain.txt",
+        "PMC6563559.plain.txt",
+        "PMC8748501.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC8748501.plain.txt",
+          "chunk_id": "../data/plain/PMC8748501.plain.txt:49"
+        },
+        {
+          "filename": "PMC11635530.plain.txt",
+          "chunk_id": "../data/plain/PMC11635530.plain.txt:4"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:25"
+        }
+      ],
+      "true_positives": 0,
+      "false_positives": 3,
+      "false_negatives": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match": false,
+      "at_least_one_correct": false,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 37,
+      "question": "During the COVID-19 pandemic, by what percentage did screenings for breast and colorectal cancer decline in April 2020 compared to April 2019?",
+      "expected_files": [
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC9731832.plain.txt",
+        "PMC7444638.plain.txt",
+        "PMC8748501.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7444638.plain.txt",
+          "chunk_id": "../data/plain/PMC7444638.plain.txt:4"
+        },
+        {
+          "filename": "PMC8748501.plain.txt",
+          "chunk_id": "../data/plain/PMC8748501.plain.txt:48"
+        },
+        {
+          "filename": "PMC9731832.plain.txt",
+          "chunk_id": "../data/plain/PMC9731832.plain.txt:43"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 38,
+      "question": "Which three cancer types saw the largest decreases in patient encounters in April 2020 versus April 2019?",
+      "expected_files": [
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC10853257.plain.txt",
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7444638.plain.txt",
+          "chunk_id": "../data/plain/PMC7444638.plain.txt:4"
+        },
+        {
+          "filename": "PMC10853257.plain.txt",
+          "chunk_id": "../data/plain/PMC10853257.plain.txt:65"
+        },
+        {
+          "filename": "PMC10853257.plain.txt",
+          "chunk_id": "../data/plain/PMC10853257.plain.txt:66"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 39,
+      "question": "What future consequence is suggested by the steep decreases in cancer screening and new cancer diagnoses during the pandemic?",
+      "expected_files": [
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC12090201.plain.txt",
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7444638.plain.txt",
+          "chunk_id": "../data/plain/PMC7444638.plain.txt:6"
+        },
+        {
+          "filename": "PMC12090201.plain.txt",
+          "chunk_id": "../data/plain/PMC12090201.plain.txt:5"
+        },
+        {
+          "filename": "PMC12090201.plain.txt",
+          "chunk_id": "../data/plain/PMC12090201.plain.txt:49"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 40,
+      "question": "How did the study compare patient encounter data from the pre-COVID and pandemic periods?",
+      "expected_files": [
+        "PMC7444638.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7444638.plain.txt",
+        "PMC8748501.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC8748501.plain.txt",
+          "chunk_id": "../data/plain/PMC8748501.plain.txt:49"
+        },
+        {
+          "filename": "PMC8748501.plain.txt",
+          "chunk_id": "../data/plain/PMC8748501.plain.txt:48"
+        },
+        {
+          "filename": "PMC7444638.plain.txt",
+          "chunk_id": "../data/plain/PMC7444638.plain.txt:0"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 41,
+      "question": "What was the main goal of the St Jude Lifetime Cohort study on DNA repair genes?",
+      "expected_files": [
+        "PMC7430217.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7430217.plain.txt",
+        "PMC11726020.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:1"
+        },
+        {
+          "filename": "PMC11726020.plain.txt",
+          "chunk_id": "../data/plain/PMC11726020.plain.txt:34"
+        },
+        {
+          "filename": "PMC11726020.plain.txt",
+          "chunk_id": "../data/plain/PMC11726020.plain.txt:67"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 42,
+      "question": "In the study of 4,402 childhood cancer survivors, what percentage had pathogenic germline mutations (PGMs) in DNA repair genes?",
+      "expected_files": [
+        "PMC7430217.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6036620.plain.txt",
+        "PMC7430217.plain.txt",
+        "PMC12367065.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:0"
+        },
+        {
+          "filename": "PMC12367065.plain.txt",
+          "chunk_id": "../data/plain/PMC12367065.plain.txt:1"
+        },
+        {
+          "filename": "PMC6036620.plain.txt",
+          "chunk_id": "../data/plain/PMC6036620.plain.txt:0"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 2,
+      "false_negatives": 0,
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1_score": 0.5,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 3
+    },
+    {
+      "question_id": 43,
+      "question": "Mutations in homologous recombination (HR) genes were significantly associated with an increased rate of subsequent sarcoma under what specific treatment condition?",
+      "expected_files": [
+        "PMC7430217.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7430217.plain.txt",
+        "PMC11029534.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:2"
+        },
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:3"
+        },
+        {
+          "filename": "PMC11029534.plain.txt",
+          "chunk_id": "../data/plain/PMC11029534.plain.txt:3"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 44,
+      "question": "In the DNA repair gene study, how many genes and DNA repair pathways were evaluated for mutations?",
+      "expected_files": [
+        "PMC7430217.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC11201516.plain.txt",
+        "PMC11726020.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC11726020.plain.txt",
+          "chunk_id": "../data/plain/PMC11726020.plain.txt:68"
+        },
+        {
+          "filename": "PMC11201516.plain.txt",
+          "chunk_id": "../data/plain/PMC11201516.plain.txt:19"
+        },
+        {
+          "filename": "PMC11726020.plain.txt",
+          "chunk_id": "../data/plain/PMC11726020.plain.txt:88"
+        }
+      ],
+      "true_positives": 0,
+      "false_positives": 2,
+      "false_negatives": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "exact_match": false,
+      "at_least_one_correct": false,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 45,
+      "question": "What is the potential benefit of the findings from the DNA repair gene study for high-risk survivors?",
+      "expected_files": [
+        "PMC7430217.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC7430217.plain.txt",
+        "PMC11726020.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:4"
+        },
+        {
+          "filename": "PMC11726020.plain.txt",
+          "chunk_id": "../data/plain/PMC11726020.plain.txt:65"
+        },
+        {
+          "filename": "PMC7430217.plain.txt",
+          "chunk_id": "../data/plain/PMC7430217.plain.txt:0"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 46,
+      "question": "In the KPSC cohort study, how much greater was the risk for adolescent and young adult (AYA) cancer survivors to develop a second malignant neoplasm (SMN) compared to a matched cohort?",
+      "expected_files": [
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:11"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:2"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:1"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 47,
+      "question": "According to the KPSC study, which five factors were associated with an increased risk of developing an SMN among AYA cancer survivors?",
+      "expected_files": [
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6563559.plain.txt",
+        "PMC6494975.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:51"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:64"
+        },
+        {
+          "filename": "PMC6494975.plain.txt",
+          "chunk_id": "../data/plain/PMC6494975.plain.txt:14"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 48,
+      "question": "For survivors of breast cancer in the KPSC cohort, what was the incidence rate ratio (IRR) for developing another breast cancer?",
+      "expected_files": [
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6563559.plain.txt",
+        "PMC11184125.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:53"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:40"
+        },
+        {
+          "filename": "PMC11184125.plain.txt",
+          "chunk_id": "../data/plain/PMC11184125.plain.txt:54"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6666666666666666,
+      "exact_match": false,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 2
+    },
+    {
+      "question_id": 49,
+      "question": "How did the all-cause mortality rate for AYA survivors who developed an SMN compare to those who did not?",
+      "expected_files": [
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:32"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:49"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:52"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    },
+    {
+      "question_id": 50,
+      "question": "What was the 20-year cumulative incidence of a second malignant neoplasm (SMN) in the KPSC cohort of AYA cancer survivors?",
+      "expected_files": [
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_files": [
+        "PMC6563559.plain.txt"
+      ],
+      "retrieved_sources": [
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:0"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:3"
+        },
+        {
+          "filename": "PMC6563559.plain.txt",
+          "chunk_id": "../data/plain/PMC6563559.plain.txt:11"
+        }
+      ],
+      "true_positives": 1,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "exact_match": true,
+      "at_least_one_correct": true,
+      "num_expected": 1,
+      "num_retrieved": 1
+    }
+  ],
+  "summary": {
+    "total_questions": 50,
+    "exact_matches": 20,
+    "exact_match_rate": 0.4,
+    "at_least_one_correct": 44,
+    "at_least_one_correct_rate": 0.88,
+    "average_precision": 0.6133333333333334,
+    "average_recall": 0.88,
+    "average_f1_score": 0.6933333333333332,
+    "micro_precision": 0.4782608695652174,
+    "micro_recall": 0.88,
+    "micro_f1_score": 0.619718309859155,
+    "total_true_positives": 44,
+    "total_false_positives": 48,
+    "total_false_negatives": 6
+  }
+}
