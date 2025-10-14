@@ -12,5 +12,4 @@ __pycache__/
 *.log
 *.DS_Store
 
-# optional: model caches (kept local)
 .cache/
