@@ -1,0 +1,16 @@
+# build artifacts and outputs
+artifacts/
+results/
+
+# raw/local data (do NOT commit big files)
+Adrian/data/
+medquad.csv
+
+# caches & temp
+__pycache__/
+.ipynb_checkpoints/
+*.log
+*.DS_Store
+
+# optional: model caches (kept local)
+.cache/
