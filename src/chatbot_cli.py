@@ -5,6 +5,7 @@ chatbot_cli.py
 
 from rag_pipeline import build_rag_pipeline
 
+
 def run_chatbot():
     qa = build_rag_pipeline()
     print("Medical RAG Chatbot (type 'exit' to quit)")
@@ -15,6 +16,7 @@ def run_chatbot():
             break
         response = qa.invoke(query)
         print("Bot:", response)
+
 
 if __name__ == "__main__":
     run_chatbot()

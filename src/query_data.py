@@ -1,14 +1,17 @@
-import requests, pathlib, sys, os, argparse
+import config
+import requests
+import pathlib
+import sys
+import os
+import argparse
 from xml.etree import ElementTree as ET
 import sys
 import os
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-import config
 
-
-def fetch_pmc_ids(term: str = "cancer", limit: int =1) -> list[str]:
+def fetch_pmc_ids(term: str = "cancer", limit: int = 1) -> list[str]:
     """
     Use NCBI ESearch to get PMC IDs for a query term.
     Returns a list like ['PMC12345', ...] up to `limit`.
@@ -31,6 +34,7 @@ def fetch_pmc_ids(term: str = "cancer", limit: int =1) -> list[str]:
     pmcids = ["PMC" + rid for rid in raw_ids]
     return pmcids
 
+
 def fetch_xml(pmcid: str) -> str:
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
     params = {
@@ -46,6 +50,7 @@ def fetch_xml(pmcid: str) -> str:
     r.raise_for_status()
     return r.text
 
+
 def pretty_print_xml(xml_text: str) -> str:
     # Pretty-print with stdlib (fast + no extra deps)
     # Remove DOCTYPE first (ElementTree can choke on it)
@@ -57,6 +62,7 @@ def pretty_print_xml(xml_text: str) -> str:
     # insert a newline between close><open to avoid mega-lines
     pretty = rough.replace("><", ">\n<")
     return pretty
+
 
 def extract_plain_text(xml_text: str,
                        lower: bool = False,
@@ -120,7 +126,8 @@ def extract_plain_text(xml_text: str,
                     paras.append(txt)
             elif child.tag == "sec":
                 sec_title = child.find("./title")
-                sec_head = text_of(sec_title).strip() if sec_title is not None else ""
+                sec_head = text_of(sec_title).strip(
+                ) if sec_title is not None else ""
                 sec_paras = [text_of(p).strip() for p in child.findall("./p")]
                 sec_paras = [p for p in sec_paras if p]
                 if sec_paras:
@@ -198,6 +205,7 @@ def extract_plain_text(xml_text: str,
 
     return text.strip()
 
+
 def main():
     outdir = pathlib.Path(config.OUT_DIR)
     outdir.mkdir(parents=True, exist_ok=True)
@@ -251,6 +259,7 @@ def main():
         print(f"  - raw XML   → {last_raw}")
         print(f"  - pretty XML→ {last_pretty}")
         print(f"  - plain text→ {last_plain}")
+
 
 if __name__ == "__main__":
     try:
