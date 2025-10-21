@@ -11,3 +11,6 @@ wheels/
 
 # Environment variables
 .env
+
+# Poetry
+poetry.lock

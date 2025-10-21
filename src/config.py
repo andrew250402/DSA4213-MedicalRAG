@@ -7,5 +7,11 @@ TERM = "cancer"
 LIMIT = 50
 OUT_DIR = BASE_DIR / "data"
 
-ENABLE_RAG = False
+# Rag Pipeline
+ENABLE_RAG = True
 K = 3
+RETRIEVER_TYPE = "faiss"   # Options: "faiss" or "bm25"
+
+# Paths to vector stores
+FAISS_PATH = "store/faiss/openai-text-embedding-3-small"
+BM25_PATH = "store/bm25"
