@@ -1,0 +1,324 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">JCO Clin Cancer Inform</journal-id>
+<journal-id journal-id-type="iso-abbrev">JCO Clin Cancer Inform</journal-id>
+<journal-id journal-id-type="pmc-domain-id">3703</journal-id>
+<journal-id journal-id-type="pmc-domain">jcocci</journal-id>
+<journal-id journal-id-type="publisher-id">CCI</journal-id>
+<journal-title-group>
+<journal-title>JCO Clinical Cancer Informatics</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2473-4276</issn>
+<publisher>
+<publisher-name>American Society of Clinical Oncology</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC7444638</article-id>
+<article-id pub-id-type="pmcid-ver">PMC7444638.1</article-id>
+<article-id pub-id-type="pmcaid">7444638</article-id>
+<article-id pub-id-type="pmcaiid">7444638</article-id>
+<article-id pub-id-type="pmid">32716647</article-id>
+<article-id pub-id-type="doi">10.1200/CCI.20.00068</article-id>
+<article-id pub-id-type="publisher-id">2000068</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="subjects">
+<compound-subject>
+<compound-subject-part content-type="code">00</compound-subject-part>
+<compound-subject-part content-type="label">Health System and Administration Informatics: Clinical Management and Operations</compound-subject-part>
+</compound-subject>
+<compound-subject>
+<compound-subject-part content-type="code">00</compound-subject-part>
+<compound-subject-part content-type="label">Health System and Administration Informatics: Data Systems that Support Care Delivery</compound-subject-part>
+</compound-subject>
+<compound-subject>
+<compound-subject-part content-type="code">00</compound-subject-part>
+<compound-subject-part content-type="label">Health System and Administration Informatics: Electronic Health Records</compound-subject-part>
+</compound-subject>
+<compound-subject>
+<compound-subject-part content-type="code">00</compound-subject-part>
+<compound-subject-part content-type="label">Health System and Administration Informatics: How to Integrate Information Systems into Clinical Care</compound-subject-part>
+</compound-subject>
+<compound-subject>
+<compound-subject-part content-type="code">COVID-19</compound-subject-part>
+<compound-subject-part content-type="label">coronavirus</compound-subject-part>
+</compound-subject>
+</subj-group>
+<subj-group subj-group-type="heading">
+<subject>Original Reports</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Effects of the COVID-19 Pandemic on Cancer-Related Patient Encounters</article-title>
+<alt-title alt-title-type="short">COVID-19 Pandemic Effects on Cancer-Related Patient Encounters</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>London</surname>
+<given-names initials="JW">Jack W.</given-names>
+</name>
+<degrees>PhD</degrees>
+<xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Fazio-Eynullayeva</surname>
+<given-names initials="E">Elnara</given-names>
+</name>
+<degrees>MA</degrees>
+<xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Palchuk</surname>
+<given-names initials="MB">Matvey B.</given-names>
+</name>
+<degrees>MD, MS</degrees>
+<xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Sankey</surname>
+<given-names initials="P">Peter</given-names>
+</name>
+<degrees>MBChB</degrees>
+<xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>McNair</surname>
+<given-names initials="C">Christopher</given-names>
+</name>
+<degrees>PhD</degrees>
+<xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+<xref ref-type="corresp" rid="cor1" />
+</contrib>
+<aff id="aff1">
+<label>
+<sup>1</sup>
+</label>Department of Cancer Biology, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA</aff>
+<aff id="aff2">
+<label>
+<sup>2</sup>
+</label>TriNetX, Cambridge, MA</aff>
+<aff id="aff3">
+<label>
+<sup>3</sup>
+</label>University Hospitals Plymouth NHS Trust, Plymouth, United Kingdom</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1">Christopher McNair, PhD, Sidney Kimmel Cancer Center, Thomas Jefferson University, BLSB 504, 233 S 10th St, Philadelphia, PA 19107; e-mail: <email>Christopher.McNair@jefferson.edu</email>.</corresp>
+</author-notes>
+<pub-date pub-type="collection">
+<year>2020</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>27</day>
+<month>7</month>
+<year>2020</year>
+</pub-date>
+<volume>4</volume>
+<issue-id pub-id-type="pmc-issue-id">351470</issue-id>
+<elocation-id>CCI.20.00068</elocation-id>
+<history>
+<date date-type="accepted">
+<day>29</day>
+<month>6</month>
+<year>2020</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>27</day>
+<month>07</month>
+<year>2021</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>27</day>
+<month>07</month>
+<year>2021</year>
+</date>
+</event>
+<event event-type="pmc-released-under-embargo">
+<date>
+<day>24</day>
+<month>09</month>
+<year>2020</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2022-02-10 00:53:33.887">
+<day>10</day>
+<month>02</month>
+<year>2022</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2020 by American Society of Clinical Oncology</copyright-statement>
+<copyright-year>2020</copyright-year>
+<copyright-holder>American Society of Clinical Oncology</copyright-holder>
+</permissions>
+<self-uri content-type="pmc-pdf" ns0:href="CCI.20.00068.pdf" />
+<self-uri content-type="pdf" ns0:title="pdf" ns0:href="CCI.20.00068.pdf" />
+<abstract>
+<sec>
+<title>PURPOSE</title>
+<p>While there are studies under way to characterize the direct effects of the COVID-19 pandemic on the care of patients with cancer, there have been few quantitative reports of the impact that efforts to control the pandemic have had on the normal course of cancer diagnosis and treatment encounters.</p>
+</sec>
+<sec>
+<title>METHODS</title>
+<p>We used the TriNetX platform to analyze 20 health care institutions that have relevant, up-to-date encounter data. Using this COVID and Cancer Research Network (CCRN), we compared cancer cohorts identified by querying encounter data pre-COVID (January 2019-April 2019) and current (January 2020-April 2020). Cohorts were generated for all patients with neoplasms (malignant, benign, in situ, and of unspecified behavior), with new incidence neoplasms (first encounter), with exclusively malignant neoplasms, and with new incidence malignant neoplasms. Data from a UK institution were similarly analyzed. Additional analyses were performed on patients with selected cancers, as well as on those having had cancer screening.</p>
+</sec>
+<sec>
+<title>RESULTS</title>
+<p>Clear trends were identified that suggest a significant decline in all current cohorts explored, with April 2020 displaying the largest decrease in the number of patients with cancer having encounters. Of the cancer types analyzed, lung, colorectal, and hematologic cancer cohorts exhibited smaller decreases in size in April 2020 versus 2019 (−39.1%, −39.9%, −39.1%, respectively) compared with cohort size decreases for breast cancer, prostate cancer, and melanoma (−47.7%, −49.1%, −51.8%, respectively). In addition, cancer screenings declined drastically, with breast cancer screenings dropping by −89.2% and colorectal cancer screenings by −84.5%.</p>
+</sec>
+<sec>
+<title>CONCLUSION</title>
+<p>Trends seen in the CCRN clearly suggest a significant decrease in all cancer-related patient encounters as a result of the pandemic. The steep decreases in cancer screening and patients with a new incidence of cancer suggest the possibility of a future increase in patients with later-stage cancer being seen initially as well as an increased demand for cancer screening procedures as delayed tests are rescheduled.</p>
+</sec>
+</abstract>
+<kwd-group kwd-group-type="subject_thes">
+<compound-kwd>
+<compound-kwd-part content-type="term">613-135-4642-282-153-212</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">Screening</compound-kwd-part>
+<compound-kwd-part content-type="hits">32</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">613-135-444</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">Cancer incidence</compound-kwd-part>
+<compound-kwd-part content-type="hits">25</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">613-3267-3990-10899-10867</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">COVID 19</compound-kwd-part>
+<compound-kwd-part content-type="hits">20</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">283-232</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">Melanoma</compound-kwd-part>
+<compound-kwd-part content-type="hits">7</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">613-135-4642-282-153-212</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">Screening</compound-kwd-part>
+<compound-kwd-part content-type="hits">6</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">329-475-488-3649</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">University hospitals</compound-kwd-part>
+<compound-kwd-part content-type="hits">6</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">283-197</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">Lung cancer</compound-kwd-part>
+<compound-kwd-part content-type="hits">6</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">283-183-180</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">Prostate cancer</compound-kwd-part>
+<compound-kwd-part content-type="hits">5</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">613-135-444</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">Cancer incidence</compound-kwd-part>
+<compound-kwd-part content-type="hits">4</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="term">283-237-255</compound-kwd-part>
+<compound-kwd-part content-type="thesTerm">Colorectal cancer</compound-kwd-part>
+<compound-kwd-part content-type="hits">3</compound-kwd-part>
+</compound-kwd>
+</kwd-group>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name> SJS Export </meta-name>
+<meta-value>v1</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+</article>
+</pmc-articleset>

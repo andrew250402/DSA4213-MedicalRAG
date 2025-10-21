@@ -1,0 +1,10 @@
+Subsequent malignant neoplasms in the Childhood Cancer Survivor Study: Occurrence of cancer types where human papillomavirus is an established etiologic risk factor Abstract
+Background:
+Human papillomavirus-associated subsequent malignant neoplasms (SMNHPV) in childhood cancer survivors are poorly understood.
+Methods:
+SMNHPV cumulative risk was assessed among 24,363 Childhood Cancer Survivor Study participants. Standardized incidence ratios (SIRs) and absolute excess risk (AER) were calculated using age-, sex- and calendar year rates from the Surveillance, Epidemiology and End Results (SEER) program. Poisson regression models identified SMNHPV risk factors, evaluating relative SIRs (rSIR) and 95% Confidence Intervals (95% CI).
+Results:
+46 survivors developed an SMNHPV (median age of 31 years [range: 10-56], median time from primary cancer of 21 years [range: 9-35]). SMNHPV locations included oropharynx (N=44), anorectum (N=6), uterine cervix (N=2), vulva (N=2). Thirty-year cumulative incidence was 0.3% (95% CI: 0.2%-0.4%) and SIR was nearly three-fold the general population (SIR=2.86, 95% CI 2.05-4.00). Female survivors were not at increased risk of cervical or vulvar cancers compared to the general population. All survivors had an elevated risk of oropharyngeal (Males SIR=4.06, 95% CI 2.37-6.97; Females SIR=8.44, 95% CI 4.88-14.61) and anorectal (Males SIR=13.56, 95% CI 5.09-36.13; Females SIR=9.15, 95% CI 2.29-36.61) SMNHPV. Males (vs. females, rSIR=1.99, CI 1.00-3.94), head/neck/pelvic RT dose >3000 cGy (vs none, rSIR=2.35, CI 1.11-4.97), and cisplatin-equivalent dose >400 mg/m2 (vs none, rSIR=4.51, CI: 1.78-11.43) were associated with increased SMNHPV SIRs in multivariable analysis.
+Conclusion:
+Childhood cancer survivors are at increased risk for SMN in locations susceptible to HPV-associated malignancies. Further research examining HPV in the etiology of SMN and the promotion of HPV vaccination and surveillance guidelines for SMNHPV in cancer survivors is warranted. Precis
+Childhood cancer survivors are at increased risk for secondary malignant neoplasms in locations associated with HPV infection.

@@ -1,0 +1,3007 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.niso.org/schemas/ali/1.0/">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">JAMA Netw Open</journal-id>
+<journal-id journal-id-type="iso-abbrev">JAMA Netw Open</journal-id>
+<journal-id journal-id-type="pmc-domain-id">3211</journal-id>
+<journal-id journal-id-type="pmc-domain">jamasd</journal-id>
+<journal-title-group>
+<journal-title>JAMA Network Open</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2574-3805</issn>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-is-collection-domain</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-collection-title</meta-name>
+<meta-value>JAMA Network</meta-value>
+</custom-meta>
+</custom-meta-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC6563559</article-id>
+<article-id pub-id-type="pmcid-ver">PMC6563559.1</article-id>
+<article-id pub-id-type="pmcaid">6563559</article-id>
+<article-id pub-id-type="pmcaiid">6563559</article-id>
+<article-id pub-id-type="pmid">31173129</article-id>
+<article-id pub-id-type="doi">10.1001/jamanetworkopen.2019.5536</article-id>
+<article-id pub-id-type="publisher-id">zoi190226</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="category" specific-use="electronic">
+<subject>Research</subject>
+</subj-group>
+<subj-group subj-group-type="heading">
+<subject>Original Investigation</subject>
+</subj-group>
+<subj-group subj-group-type="online-only">
+<subject>Online Only</subject>
+</subj-group>
+<subj-group subj-group-type="subject-area">
+<subject>Oncology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Incidence, Risk Factors, and Mortality Associated With Second Malignant Neoplasms Among Survivors of Adolescent and Young Adult Cancer</article-title>
+<alt-title alt-title-type="headline">Second Malignant Neoplasms Among Survivors of Adolescent and Young Adult Cancer</alt-title>
+<alt-title alt-title-type="running-head">Second Malignant Neoplasms Among Survivors of Adolescent and Young Adult Cancer</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Chao</surname>
+<given-names initials="C">Chun</given-names>
+</name>
+<degrees>PhD</degrees>
+<xref ref-type="aff" rid="zoi190226aff1">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Bhatia</surname>
+<given-names initials="S">Smita</given-names>
+</name>
+<degrees>MD</degrees>
+<xref ref-type="aff" rid="zoi190226aff2">
+<sup>2</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Xu</surname>
+<given-names initials="L">Lanfang</given-names>
+</name>
+<degrees>MS</degrees>
+<xref ref-type="aff" rid="zoi190226aff3">
+<sup>3</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Cannavale</surname>
+<given-names initials="KL">Kimberly L.</given-names>
+</name>
+<degrees>MS</degrees>
+<xref ref-type="aff" rid="zoi190226aff1">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Wong</surname>
+<given-names initials="FL">F. Lennie</given-names>
+</name>
+<degrees>PhD</degrees>
+<xref ref-type="aff" rid="zoi190226aff4">
+<sup>4</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Huang</surname>
+<given-names initials="PYS">Po-Yin Samuel</given-names>
+</name>
+<degrees>MD</degrees>
+<xref ref-type="aff" rid="zoi190226aff5">
+<sup>5</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Cooper</surname>
+<given-names initials="R">Robert</given-names>
+</name>
+<degrees>MD</degrees>
+<xref ref-type="aff" rid="zoi190226aff6">
+<sup>6</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Armenian</surname>
+<given-names initials="SH">Saro H.</given-names>
+</name>
+<degrees>MD</degrees>
+<xref ref-type="aff" rid="zoi190226aff4">
+<sup>4</sup>
+</xref>
+</contrib>
+</contrib-group>
+<aff id="zoi190226aff1">
+<label>1</label>Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena</aff>
+<aff id="zoi190226aff2">
+<label>2</label>Institute for Cancer Outcomes and Survivorship, School of Medicine, University of Alabama at Birmingham</aff>
+<aff id="zoi190226aff3">
+<label>3</label>MedHealth Statistical Consulting Inc, Solon, Ohio</aff>
+<aff id="zoi190226aff4">
+<label>4</label>Department of Population Sciences, City of Hope, Duarte, California</aff>
+<aff id="zoi190226aff5">
+<label>5</label>Department of Family Medicine, Los Angeles Medical Center, Kaiser Permanente Southern California, Los Angeles</aff>
+<aff id="zoi190226aff6">
+<label>6</label>Department of Pediatric Oncology, Los Angeles Medical Center, Kaiser Permanente Southern California, Los Angeles</aff>
+<author-notes>
+<title>Article Information</title>
+<p>
+<bold>Accepted for Publication:</bold> April 17, 2019.</p>
+<p content-type="published-online">
+<bold>Published:</bold> June 7, 2019. doi:<uri content-type="doi">10.1001/jamanetworkopen.2019.5536</uri>
+</p>
+<p content-type="open-access-note">
+<bold>Open Access:</bold> This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" ns0:href="https://jamanetwork.com/journals/jamanetworkopen/pages/instructions-for-authors#SecOpenAccess">CC-BY License</ext-link>. © 2019 Chao C et al. <italic toggle="yes">JAMA Network Open</italic>.</p>
+<corresp id="zoi190226cor1">
+<bold>Corresponding Author:</bold> Chun Chao, PhD, Department of Research and Evaluation, Kaiser Permanente Southern California, 100 S Los Robles Ave, Second Floor, Pasadena, CA 91101 (<email ns0:href="chun.r.chao@kp.org">chun.r.chao@kp.org</email>).</corresp>
+<p content-type="author-contributions">
+<bold>Author Contributions:</bold> Dr Chao had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</p>
+<p>
+<italic toggle="yes">Concept and design:</italic> Chao, Bhatia, Xu, Cooper, Armenian.</p>
+<p>
+<italic toggle="yes">Acquisition, analysis, or interpretation of data:</italic> Chao, Xu, Cannavale, Wong, Huang, Armenian.</p>
+<p>
+<italic toggle="yes">Drafting of the manuscript:</italic> Chao, Xu.</p>
+<p>
+<italic toggle="yes">Critical revision of the manuscript for important intellectual content:</italic> Chao, Bhatia, Cannavale, Wong, Huang, Cooper, Armenian.</p>
+<p>
+<italic toggle="yes">Statistical analysis:</italic> Chao, Xu, Wong.</p>
+<p>
+<italic toggle="yes">Obtained funding:</italic> Chao.</p>
+<p>
+<italic toggle="yes">Administrative, technical, or material support:</italic> Chao, Cannavale, Huang.</p>
+<p>
+<italic toggle="yes">Supervision:</italic> Chao, Bhatia, Armenian.</p>
+<p content-type="COI-statement">
+<bold>Conflict of Interest Disclosures:</bold> None reported.</p>
+<p content-type="funding-statement">
+<bold>Funding/Support:</bold> This study was supported by American Cancer Society Research Scholar Grant RSG-15-016 CPHPS.</p>
+<p>
+<bold>Role of the Funder/Sponsor:</bold> The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.</p>
+<p>
+<bold>Additional Contributions:</bold> We thank the patients of Kaiser Permanente for helping us improve care through the use of information collected through our electronic health record systems.</p>
+</author-notes>
+<pub-date pub-type="epub" iso-8601-date="2019-06-07T10:00">
+<day>7</day>
+<month>6</month>
+<year>2019</year>
+</pub-date>
+<pub-date pub-type="collection">
+<month>6</month>
+<year>2019</year>
+</pub-date>
+<volume>2</volume>
+<issue>6</issue>
+<issue-id pub-id-type="pmc-issue-id">336218</issue-id>
+<elocation-id>e195536</elocation-id>
+<history>
+<date date-type="received">
+<day>26</day>
+<month>2</month>
+<year>2019</year>
+</date>
+<date date-type="accepted">
+<day>17</day>
+<month>4</month>
+<year>2019</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>07</day>
+<month>06</month>
+<year>2019</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>28</day>
+<month>06</month>
+<year>2019</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2019-06-29 00:16:48.967">
+<day>29</day>
+<month>06</month>
+<year>2019</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>Copyright 2019 Chao C et al. <italic toggle="yes">JAMA Network Open</italic>.</copyright-statement>
+<license license-type="open-access" ns0:href="http://creativecommons.org/licenses/by/4.0/">
+<ns1:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns1:license_ref>
+<license-p>This is an open access article distributed under the terms of the CC-BY License.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns0:href="jamanetwopen-2-e195536.pdf" />
+<self-uri content-type="pdf-version" ns0:href="jamanetwopen-2-e195536.pdf">jamanetwopen-2-e195536.pdf</self-uri>
+<self-uri content-type="silverchair" ns0:href="https://jamanetworkopen.jamanetwork.com/article.aspx?doi=10.1001/jamanetworkopen.2019.5536" />
+<abstract abstract-type="key-points">
+<title>Key Points</title>
+<sec id="ab-zoi190226-1">
+<title>Question</title>
+<p>What are the incidence patterns and risk factors for second malignant neoplasms (SMN) among survivors of adolescent and young adult cancer?</p>
+</sec>
+<sec id="ab-zoi190226-2">
+<title>Findings</title>
+<p>This cohort study of 10 574 survivors of adolescent and young adult cancer found that these individuals had a 2.6-fold greater risk of developing SMN compared with individuals with no history of cancer. Risk factors for SMN included demographic factors, stage at diagnosis, and radiation therapy and varied by first cancer type, with survivors of breast cancer, melanoma, and testicular cancer having substantially elevated risk for SMN of the same type.</p>
+</sec>
+<sec id="ab-zoi190226-3">
+<title>Meaning</title>
+<p>This study suggests that SMN risk is elevated in survivors of adolescent and young adult cancer and provides data that may be used to identify individuals at high risk and inform screening for SMN.</p>
+</sec>
+</abstract>
+<abstract abstract-type="teaser">
+<p>This cohort study estimates the incidence, mortality, and associated risk factors for the development of second malignant neoplasms in individuals who survived adolescent and young adult cancers.</p>
+</abstract>
+<abstract>
+<sec id="ab-zoi190226-4">
+<title>Importance</title>
+<p>Detailed data describing the epidemiology of second malignant neoplasms (SMN) are needed for survivors of adolescent and young adult (AYA) cancer to inform the development of age-appropriate survivorship care guidelines.</p>
+</sec>
+<sec id="ab-zoi190226-5">
+<title>Objective</title>
+<p>To describe the incidence, risk factors, and mortality for SMN in survivors of AYA cancer.</p>
+</sec>
+<sec id="ab-zoi190226-6">
+<title>Design, Setting, and Participants</title>
+<p>This retrospective matched cohort study included 10 574 two-year survivors diagnosed with cancer between January 1, 1990, and December 31, 2012, at age 15 to 39 years in an integrated health care delivery system in Southern California. A comparison cohort without a history of cancer was individually matched 13:1 to survivors of AYA cancer by age, sex, and calendar year. Data analysis was completed in July 2018.</p>
+</sec>
+<sec id="ab-zoi190226-7">
+<title>Exposures</title>
+<p>Secondary malignant neoplasm risk factors of interest included age, stage, and calendar year at first cancer diagnosis; sex; race/ethnicity; radiation therapy; and chemotherapy.</p>
+</sec>
+<sec id="ab-zoi190226-8">
+<title>Main Outcomes and Measures</title>
+<p>Diagnoses of SMN were ascertained using cancer registries from the National Cancer Institute Surveillance, Epidemiology, and End Results Program through December 31, 2014. Poisson regression was used to evaluate the association between cancer survivor status and developing SMN and risk factors for SMN, while risk of all-cause mortality by SMN status was examined in Cox regression.</p>
+</sec>
+<sec id="ab-zoi190226-9">
+<title>Results</title>
+<p>A total of 10 574 survivors of AYA cancer (6853 [64.8%] female; median [range] age, 33 [15-39] years; 622 with SMN) and 136 683 participants in the comparison cohort (88 513 [64.8%] female; median [range] age, 33 [15-39] years; 3437 with first cancer) were included. In survivors of AYA cancer, 20-year cumulative incidence of SMN was 12.5%. The incidence rate ratio (IRR) of developing SMN in survivors of AYA cancer was 2.6 (95% CI, 2.4-2.9) compared with the comparison cohort. Survivors of breast cancer, melanoma, and testicular cancer had substantially elevated risk for SMN of the same organ (IRR, 5.6 [95% CI, 4.6-6.8], 11.2 [95% CI, 7.3-17.2], and 16.2 [95% CI, 6.8-38.4], respectively). Among survivors of AYA cancer, older age (IRR for age 30-39 years, 1.79 [95% CI, 1.21-2.65]), female sex (IRR, 1.31 [95% CI, 1.09-1.57]), white race/ethnicity (IRR for Asian race, 0.61 [95% CI, 0.43-0.87]), advanced stage at first cancer diagnosis (IRR for stage II, 1.29 [95% CI, 1.11-1.65]), and use of radiotherapy (IRR, 1.50 [95% CI, 1.26-1.79]) were associated with increased risk of SMN. Survivors of AYA cancer who developed SMN had an all-cause mortality rate 7.2 (95% CI, 6.1-8.5) times greater than survivors without SMN.</p>
+</sec>
+<sec id="ab-zoi190226-10">
+<title>Conclusions and Relevance</title>
+<p>This study suggests that SMN risk is elevated in survivors of AYA cancer and varies across survivor subgroups. Survival following SMN may be significantly compromised. These data may form the basis for identifying individuals at high risk, as well as informing screening for SMN.</p>
+</sec>
+</abstract>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-license-ref</meta-name>
+<meta-value>CC BY</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="H1-1-ZOI190226">
+<title>Introduction</title>
+<p>Second malignant neoplasms (SMN) are among the most debilitating late effects in cancer survivors.<sup>
+<xref rid="zoi190226r1" ref-type="bibr">1</xref>,<xref rid="zoi190226r2" ref-type="bibr">2</xref>
+</sup> In survivors of childhood cancers, SMN is the most common cause of non–relapse-related mortality.<sup>
+<xref rid="zoi190226r3" ref-type="bibr">3</xref>
+</sup> In an analysis using the National Cancer Institute’s Surveillance, Epidemiology, and End Results (SEER) data, the majority of individuals with 2 primary cancers died of their SMN rather than their initial cancer.<sup>
+<xref rid="zoi190226r4" ref-type="bibr">4</xref>
+</sup> Therefore, prevention and early detection of SMN are critical for prolonging life for cancer survivors.<sup>
+<xref rid="zoi190226r5" ref-type="bibr">5</xref>,<xref rid="zoi190226r6" ref-type="bibr">6</xref>
+</sup>
+</p>
+<p>Extensive effort has been made to characterize SMN in survivors of childhood cancer.<sup>
+<xref rid="zoi190226r7" ref-type="bibr">7</xref>,<xref rid="zoi190226r8" ref-type="bibr">8</xref>,<xref rid="zoi190226r9" ref-type="bibr">9</xref>,<xref rid="zoi190226r10" ref-type="bibr">10</xref>,<xref rid="zoi190226r11" ref-type="bibr">11</xref>
+</sup> However, this knowledge may not be applicable to survivors of cancers diagnosed later in life. The risk and risk factors for SMN vary across age groups because of differences in primary cancers, treatment exposures, age at exposures, exposure to other etiological factors, and background incidence,<sup>
+<xref rid="zoi190226r12" ref-type="bibr">12</xref>
+</sup> necessitating age-specific approaches for managing SMN risk among cancer survivors.</p>
+<p>Adolescents and young adults (AYAs; defined as individuals aged 15-39 years) have been an understudied population for cancer survivorship. Several studies have evaluated SMN risk by age groups<sup>
+<xref rid="zoi190226r13" ref-type="bibr">13</xref>,<xref rid="zoi190226r14" ref-type="bibr">14</xref>,<xref rid="zoi190226r15" ref-type="bibr">15</xref>
+</sup> or in survivors of cancer types that are more common in AYAs.<sup>
+<xref rid="zoi190226r16" ref-type="bibr">16</xref>,<xref rid="zoi190226r17" ref-type="bibr">17</xref>,<xref rid="zoi190226r18" ref-type="bibr">18</xref>,<xref rid="zoi190226r19" ref-type="bibr">19</xref>,<xref rid="zoi190226r20" ref-type="bibr">20</xref>
+</sup> Most of these studies have examined data from large cancer registries such as SEER and used an external comparison group (eg, the general population) for evaluating the excess risk of SMN. However, using external comparison for causal inference is associated with several known limitations,<sup>
+<xref rid="zoi190226r21" ref-type="bibr">21</xref>
+</sup> including the inability to address potential incomparability between cancer survivors and the general population, such as insurance status and health care access.<sup>
+<xref rid="zoi190226r22" ref-type="bibr">22</xref>
+</sup> Information on therapeutic agents is also not typically available in these cancer registries. Furthermore, detailed characterization of timing and risk factors for SMN in survivors of AYA cancer remain largely incomplete in the literature.</p>
+<p>In the current study, we evaluated the development of SMN in survivors of AYA cancer who were members of Kaiser Permanente Southern California (KPSC) using a matched cohort design, providing an internal comparison with similar demographic characteristics, socioeconomic status, and access to health care. We used existing electronic medical records to examine the association between treatment exposures and SMN in survivors of AYA cancer. Our objective was to provide a comprehensive assessment of SMN risk in survivors of AYA cancer using study methods that minimized confounding to inform survivorship care planning for survivors of AYA cancer.</p>
+</sec>
+<sec id="H1-2-ZOI190226">
+<title>Methods</title>
+<sec id="H2-1-ZOI190226">
+<title>Study Setting and Study Population</title>
+<p>Kaiser Permanente Southern California is an integrated health care organization that provides comprehensive health services to more than 4.4 million racially/ethnically and socioeconomically diverse members (approximately 1% of the US population) who are broadly representative of residents in Southern California.<sup>
+<xref rid="zoi190226r23" ref-type="bibr">23</xref>,<xref rid="zoi190226r24" ref-type="bibr">24</xref>
+</sup> Members of KPSC who met the following criteria were included in the cohort of survivors of AYA cancer: (1) diagnosed with invasive cancer at age 15 to 39 years between 1990 and 2012 at KPSC; (2) survived for at least 2 years (index date) after cancer diagnosis; and (3) retained KPSC membership at index date. Among individuals who met the inclusion criteria, those diagnosed with another primary cancer before the index date were excluded, as we were mainly interested in SMN that occurred after completion of treatment to inform posttreatment surveillance strategies. We identified survivors of AYA cancer using KPSC’s SEER-affiliated cancer registry. Quality of the cancer registry data is assured by the SEER standard and is audited by SEER staff on a regular basis.<sup>
+<xref rid="zoi190226r25" ref-type="bibr">25</xref>
+</sup>
+</p>
+<p>Members of KPSC without a history of cancer were included as a reference group (referred to as the <italic toggle="yes">comparison cohort</italic> in this article) to survivors of AYA cancer. Participants in the comparison cohort were matched 13:1 to each individual cancer survivor by age (yearly), sex, and calendar year of the index date. They were identified from those who were KPSC members in the year of the corresponding cancer diagnosis for a cancer survivor and who survived and remained as a KSPC member 2 years after (ie, after the index date). This study was approved, and the requirement of informed consent waived, by KPSC’s institutional review board. This article follows the Strengthening the Reporting of Observational Studies in Epidemiology (<ext-link ext-link-type="uri" ns0:href="http://www.equator-network.org/reporting-guidelines/strobe/">STROBE</ext-link>) reporting guideline.<sup>
+<xref rid="zoi190226r26" ref-type="bibr">26</xref>
+</sup>
+</p>
+</sec>
+<sec id="H2-2-ZOI190226">
+<title>Identification of SMN</title>
+<p>All study participants were followed up from index date to death or end of 2014 (for SMN or first cancer) or end of 2015 (for mortality outcome), whichever came first. Diagnoses of malignant neoplasms, including those made outside of the KPSC system (eg, if a participant terminated KPSC membership during study follow-up), were identified using both KPSC’s cancer registry and the California State Cancer Registry. Both registries are SEER-affiliated and do not capture relapse or metastasis. As a result, a second cancer record for the same participant was considered SMN. For SMN of the same organ or type as the first cancer, SEER used a set of multiple primaries rules to distinguish SMN from recurrence.<sup>
+<xref rid="zoi190226r27" ref-type="bibr">27</xref>,<xref rid="zoi190226r28" ref-type="bibr">28</xref>
+</sup> These rules differ by cancer types. For solid tumors, the determining factors may involve histology, biology, or clinical presentation, among other factors, while for hematologic cancers, the rules were mainly based on histology. The SEER multiple primaries rules for the most common first cancer types in survivors of AYA cancer are illustrated in eTable 1 in the <xref ref-type="supplementary-material" rid="note-ZOI190226-1-s">Supplement</xref>. Nonmelanoma skin cancer was not included in this study as it was not consistently captured by the cancer registries.</p>
+</sec>
+<sec id="H2-3-ZOI190226">
+<title>Data Collection</title>
+<p>Covariates of interest included demographic characteristics, cancer characteristics, exposure to chemotherapy and radiation therapy, and death information. All data for this study were collected using KPSC’s electronic health records and cancer registries, except for information on death, which was also collected using outside claims, California State Death Files, and national Social Security death files. Specifically, race/ethnicity information was obtained from KPSC’s membership file and the cancer registry.</p>
+</sec>
+<sec id="H2-4-ZOI190226">
+<title>Statistical Analysis</title>
+<p>The distribution of demographic, cancer, and treatment characteristics and the incidence rate of subsequent cancer were calculated. The crude and the adjusted incidence rate ratios (IRRs) of SMN associated with being a survivor of AYA cancer compared with those in the comparison cohort were estimated using bivariate and multivariable Poisson regression adjusting for age, sex (except for breast, cervix, ovary, and testicular cancer), and race/ethnicity, for the overall study cohort and by patient characteristics, first cancer type, and SMN type. We also calculated IRRs for specific SMN among the most common first cancer types in survivors of AYA cancer (ie, breast, lymphoma, melanoma, and testicular cancer). For breast SMN among breast cancer survivors, a sensitivity analysis was performed including only breast second primary malignant neoplasms of different histology or laterality (about 70% of all identified breast SMN) from the first cancer. All testicular second primary malignant neoplasms identified in this study had different laterality from the first testicular cancer.</p>
+<p>The cumulative incidence of SMN over the study follow-up period was calculated using nonparametric methods accounting for competing risk and presented graphically for visual inspection, for the study cohort and by selected common first cancer type.<sup>
+<xref rid="zoi190226r29" ref-type="bibr">29</xref>
+</sup> Differences in cumulative incidence were tested using the Gray test.<sup>
+<xref rid="zoi190226r30" ref-type="bibr">30</xref>
+</sup>
+</p>
+<p>Among survivors of AYA cancer, multivariable Poisson regression was performed to evaluate the association of age, sex, race/ethnicity, first cancer type, TNM stage at diagnosis, and exposure to radiation therapy on risk of SMN, overall and separately with solid vs nonsolid SMN (defined as lymphomas, leukemias, and myelomas). The association of initial cancer type was evaluated in separate analyses restricted to the more prevalent cancer types, ie, breast cancer, lymphoma, testicular cancer, melanoma, and thyroid cancer. The associations of exposures to selected chemotherapy agents (alkylating agents, anthracycline, platinum, and epipodophyllotoxins) were evaluated in another analysis restricted to those diagnosed between 2000 and 2012, when chemotherapy data became accessible electronically.</p>
+<p>Risk factors for SMN were also evaluated separately for the most common first cancer types among survivors of AYA cancer. As sample size allowed, risk factor analyses were also conducted for breast SMN among breast cancer survivors and melanoma SMN among melanoma survivors.</p>
+<p>For the overall risk factor analyses, sensitivity analyses excluding breast SMN and, separately, melanoma SMN as outcomes were conducted to further understand whether these SMN might be driving the associations observed given that they were the 2 most common SMN types.</p>
+<p>The increase in all-cause mortality after a diagnosis of SMN in survivors of AYA cancer relative to that after the first cancer diagnosis in the comparison cohort was examined in bivariate and multivariable Cox models adjusting for age, sex, and race/ethnicity. Among survivors of AYA cancer, the risk of all-cause mortality associated with having an SMN was evaluated using a time-dependent Cox model to account for the time-varying nature of SMN diagnosis, adjusting for age, sex, race/ethnicity, stage at diagnosis, and cancer type. All analyses in this study were completed by July 2018 with SAS statistical software version 9.3 (SAS Institute Inc). A 2-sided <italic toggle="yes">P</italic> value less than .05 was considered statistically significant.</p>
+</sec>
+</sec>
+<sec id="H1-3-ZOI190226">
+<title>Results</title>
+<p>A total of 14 753 KPSC members between ages 15 and 39 years were diagnosed with invasive cancer during 1990 to 2012 at KPSC. Of these, 12 994 (88%) survived at least 2 years and were eligible for this study. After applying the exclusion criteria, 10 574 survivors of AYA cancer (6853 [64.8%] female; median [range] age, 33 [15-39] years; 622 with SMN) were included in the analyses with 136 683 participants (88 513 [64.8%] female; median [range] age, 33 [15-39] years; 3437 with first cancer) in the matched comparison cohort (eFigure 1 in the <xref ref-type="supplementary-material" rid="note-ZOI190226-1-s">Supplement</xref>). Among survivors of AYA cancer, 7% were aged 15 to 19 years; 24%, 20 to 29 years; and 68%, 30 to 39 years. Approximately 47% were non-Hispanic white. The most common first cancer diagnosis was breast cancer (17%), followed by thyroid cancer (14%), melanoma (11%), lymphomas (11%), and testicular cancer (9%). One-quarter (25%) of survivors of AYA cancer received external beam radiation therapy. In survivors of AYA cancer diagnosed in 2000 to 2012, exposure to selected chemotherapy agents ranged from 7% for epipodophyllotoxins to 24% for anthracyclines (<xref rid="zoi190226t1" ref-type="table">Table 1</xref>).</p>
+<table-wrap id="zoi190226t1" orientation="portrait" position="float">
+<label>Table 1. </label>
+<caption>
+<title>Distribution of Demographic and Cancer Characteristics of Study Participants</title>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="34.35%" span="1" />
+<col width="29.24%" span="1" />
+<col width="27.09%" span="1" />
+<col width="9.32%" span="1" />
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left" scope="col" colspan="1">Characteristic</th>
+<th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">No. (%)</th>
+<th rowspan="2" valign="top" align="left" scope="col" colspan="1">
+<italic toggle="yes">P</italic> Value</th>
+</tr>
+<tr>
+<th valign="top" colspan="1" align="left" scope="colgroup" rowspan="1">Survivors of AYA Cancer (n = 10 574)</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">Comparison Cohort (n = 136 683)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Age, y</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Median (range)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">33 (15-39)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">33 (15-39)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.96</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 15-19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">768 (7.3)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">9936 (7.3)</td>
+<td rowspan="3" valign="middle" align="left" colspan="1">&gt;.99</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 20-29</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2580 (24.4)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">33 337 (24.4)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 30-39</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7226 (68.3)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 410 (68.3)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1">Female </td>
+<td valign="top" align="left" rowspan="1" colspan="1">6853 (64.8)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">88 513 (64.8)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.91</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Race/ethnicity</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hispanic white</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4921 (46.5)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">40 035 (29.3)</td>
+<td rowspan="5" valign="middle" align="left" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Asian or Pacific Islander</td>
+<td valign="top" align="left" rowspan="1" colspan="1">972 (9.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">11 665 (8.5)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hispanic black</td>
+<td valign="top" align="left" rowspan="1" colspan="1">922 (8.7)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">13 550 (9.9)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Hispanic</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3717 (35.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">47 690 (34.9)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Other or unknown</td>
+<td valign="top" align="left" rowspan="1" colspan="1">42 (0.4)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">23 743 (17.4)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1">Length of membership at index, mean (SD), y</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.7 (6.4)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.4 (6.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Length of follow-up, y</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Mean (SD)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">8.8 (6.5)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.1 (6.5)</td>
+<td rowspan="2" valign="middle" align="left" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Median (range)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.7 (0-23.0)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">9.6 (0-23.0)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Years of diagnosis</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 1990-1999</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3796 (35.9)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td rowspan="2" valign="middle" align="left" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 2000-2012</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6778 (64.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Cancer type</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Anus or rectum</td>
+<td valign="top" align="left" rowspan="1" colspan="1">187 (1.8)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Bladder</td>
+<td valign="top" align="left" rowspan="1" colspan="1">30 (0.3)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Bones and joints</td>
+<td valign="top" align="left" rowspan="1" colspan="1">111 (1.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Brain and other nervous system</td>
+<td valign="top" align="left" rowspan="1" colspan="1">399 (3.8)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Breast<xref ref-type="table-fn" rid="zoi190226t1n1">
+<sup>a</sup>
+</xref>
+</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1810 (17.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Cervix</td>
+<td valign="top" align="left" rowspan="1" colspan="1">489 (4.6)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Colon</td>
+<td valign="top" align="left" rowspan="1" colspan="1">225 (2.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Ill-defined or unspecified</td>
+<td valign="top" align="left" rowspan="1" colspan="1">141 (1.3)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Kaposi sarcoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">127 (1.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Lymphocytic leukemia</td>
+<td valign="top" align="left" rowspan="1" colspan="1">120 (1.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Lymphoma </td>
+<td valign="top" align="left" rowspan="1" colspan="1">1124 (10.6)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hodgkin</td>
+<td valign="top" align="left" rowspan="1" colspan="1">510 (4.8)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Hodgkin</td>
+<td valign="top" align="left" rowspan="1" colspan="1">614 (5.8)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Melanoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1187 (11.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Multiple myeloma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">41 (0.4)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Myeloid leukemia</td>
+<td valign="top" align="left" rowspan="1" colspan="1">204 (1.9)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Oral cavity and pharynx</td>
+<td valign="top" align="left" rowspan="1" colspan="1">231 (2.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1"> Other</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Digestive system</td>
+<td valign="top" align="left" rowspan="1" colspan="1">153 (1.5)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Endocrine system</td>
+<td valign="top" align="left" rowspan="1" colspan="1">37 (0.4)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Female genital system</td>
+<td valign="top" align="left" rowspan="1" colspan="1">37 (0.4)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Leukemia</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7 (0.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Male genital system</td>
+<td valign="top" align="left" rowspan="1" colspan="1">24 (0.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Skin</td>
+<td valign="top" align="left" rowspan="1" colspan="1">166 (1.6)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Ovary</td>
+<td valign="top" align="left" rowspan="1" colspan="1">418 (4.0)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Respiratory system</td>
+<td valign="top" align="left" rowspan="1" colspan="1">117 (1.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Soft tissue, including heart</td>
+<td valign="top" align="left" rowspan="1" colspan="1">238 (2.3)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Testis</td>
+<td valign="top" align="left" rowspan="1" colspan="1">914 (8.6)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Thyroid</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1501 (14.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Urinary system</td>
+<td valign="top" align="left" rowspan="1" colspan="1">235 (2.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Uterus</td>
+<td valign="top" align="left" rowspan="1" colspan="1">301 (2.8)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">TNM stage</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> NA<xref ref-type="table-fn" rid="zoi190226t1n2">
+<sup>b</sup>
+</xref>
+</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1388 (13.1)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> I</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5165 (48.9)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> II</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2180 (20.6)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> III</td>
+<td valign="top" align="left" rowspan="1" colspan="1">999 (9.5)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> IV</td>
+<td valign="top" align="left" rowspan="1" colspan="1">446 (4.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Unknown</td>
+<td valign="top" align="left" rowspan="1" colspan="1">396 (3.8)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Radiation therapy</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Yes</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3620 (34.2)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Excluding thyroid cancer<xref ref-type="table-fn" rid="zoi190226t1n3">
+<sup>c</sup>
+</xref>
+</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2607 (24.7)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Chemotherapy in 2000-2012 (n = 6778 surviving patients)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1"> Any of the selected agents below</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Alkylating agents</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1414 (20.9)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Anthracyclines</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1623 (24.0)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Epipodophyllotoxin</td>
+<td valign="top" align="left" rowspan="1" colspan="1">504 (7.4)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Platinums</td>
+<td valign="top" align="left" rowspan="1" colspan="1">899 (13.3)</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<p>Abbreviations: AYA, adolescent and young adult; NA, not applicable.</p>
+<fn id="zoi190226t1n1">
+<label>
+<sup>a</sup>
+</label>
+<p>Includes male (n = 4) and female (n = 1806) breast cancer.</p>
+</fn>
+<fn id="zoi190226t1n2">
+<label>
+<sup>b</sup>
+</label>
+<p>TNM stage was NA for some cancer types, such as leukemia or brain cancer.</p>
+</fn>
+<fn id="zoi190226t1n3">
+<label>
+<sup>c</sup>
+</label>
+<p>Thyroid cancer was excluded because most patients with thyroid cancer who received radiotherapy received radioactive iodine instead of external beam radiation.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<sec id="H2-5-ZOI190226">
+<title>Risk of SMN</title>
+<p>The survivors of AYA cancer and the comparison cohort contributed 93 290 and 1 379 136 person-years of observation, respectively, through December 31, 2014. During the study period, 622 survivors of AYA cancer developed an SMN (6.7 per 1000 person-years). The 10- and 20-year cumulative incidence of SMN from index date was 5.6% and 12.5%, respectively. Of survivors of AYA cancer who developed SMN, the most common SMN types were breast cancer (32%), melanoma (14%), and ovarian cancer (5%). Ninety-three percent of the SMN were solid tumors (<xref rid="zoi190226t2" ref-type="table">Table 2</xref>). As a group, gastrointestinal cancers also constituted a substantial proportion (11%) of SMN (eTable 2 in the <xref ref-type="supplementary-material" rid="note-ZOI190226-1-s">Supplement</xref>). The median (range) follow-up time in survivors of AYA cancer was 7.7 (0-23.0) years from the index date, or 9.7 (2-25) years after initial cancer diagnosis.</p>
+<table-wrap id="zoi190226t2" orientation="portrait" position="float">
+<label>Table 2. </label>
+<caption>
+<title>Incidence and Adjusted IRR Comparing SMN Among Survivors of AYA Cancer and Matched Comparison Cohort</title>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="20.58%" span="1" />
+<col width="10.06%" span="1" />
+<col width="9.97%" span="1" />
+<col width="10.19%" span="1" />
+<col width="10.12%" span="1" />
+<col width="8.64%" span="1" />
+<col width="7.3%" span="1" />
+<col width="15.64%" span="1" />
+<col width="7.5%" span="1" />
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left" scope="col" colspan="1">Demographic and Cancer Characteristic</th>
+<th colspan="4" valign="top" align="left" scope="colgroup" rowspan="1">Survivors of AYA Cancer</th>
+<th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Comparison Cohort</th>
+<th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Multivariable Poisson Model<xref ref-type="table-fn" rid="zoi190226t2n1">
+<sup>a</sup>
+</xref>
+</th>
+</tr>
+<tr>
+<th valign="top" colspan="1" align="left" scope="colgroup" rowspan="1">Second Primary Cancer, No.</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">Cancer Survivors, No.</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">Person-Years</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">Incidence/1000 Person-Years</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">First Primary Cancer, No.</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">Incidence/1000 Person-Years</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">IRR (95% CI)</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1">Overall</td>
+<td valign="top" align="left" rowspan="1" colspan="1">622</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6.67</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3437</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.49</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.63 (2.42-2.87)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Age at first cancer diagnosis in cancer survivors, y</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 15-19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">29</td>
+<td valign="top" align="left" rowspan="1" colspan="1">768</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6801</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.26</td>
+<td valign="top" align="left" rowspan="1" colspan="1">56</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.57</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.50 (4.79-11.76)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 20-29</td>
+<td valign="top" align="left" rowspan="1" colspan="1">102</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2580</td>
+<td valign="top" align="left" rowspan="1" colspan="1">22 793</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.48</td>
+<td valign="top" align="left" rowspan="1" colspan="1">415</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.26</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.45 (2.78-4.29)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 30-39</td>
+<td valign="top" align="left" rowspan="1" colspan="1">491</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7226</td>
+<td valign="top" align="left" rowspan="1" colspan="1">63 697</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.71</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2966</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.12</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.42 (2.20-2.66)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Sex</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Male</td>
+<td valign="top" align="left" rowspan="1" colspan="1">184</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3721</td>
+<td valign="top" align="left" rowspan="1" colspan="1">33 146</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.55</td>
+<td valign="top" align="left" rowspan="1" colspan="1">734</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.50</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.57 (3.04-4.21)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Female</td>
+<td valign="top" align="left" rowspan="1" colspan="1">438</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6853</td>
+<td valign="top" align="left" rowspan="1" colspan="1">60 144</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2703</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.04</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.37 (2.14-2.62)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Race/ethnicity</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hispanic white</td>
+<td valign="top" align="left" rowspan="1" colspan="1">337</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4921</td>
+<td valign="top" align="left" rowspan="1" colspan="1">47 538</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.09</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1388</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.26 (2.01-2.55)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hispanic black</td>
+<td valign="top" align="left" rowspan="1" colspan="1">65</td>
+<td valign="top" align="left" rowspan="1" colspan="1">922</td>
+<td valign="top" align="left" rowspan="1" colspan="1">8210</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.92</td>
+<td valign="top" align="left" rowspan="1" colspan="1">442</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.02</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.67 (2.06-3.46)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Hispanic</td>
+<td valign="top" align="left" rowspan="1" colspan="1">181</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3717</td>
+<td valign="top" align="left" rowspan="1" colspan="1">29 220</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6.19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">896</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.18</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.96 (2.52-3.47)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Asian or Pacific Islander</td>
+<td valign="top" align="left" rowspan="1" colspan="1">37</td>
+<td valign="top" align="left" rowspan="1" colspan="1">972</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7900</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.68</td>
+<td valign="top" align="left" rowspan="1" colspan="1">325</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.26</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.41 (1.00-1.98)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.05</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">By first cancer type in survivors of AYA cancer</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Breast (female)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">181</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1806</td>
+<td valign="top" align="left" rowspan="1" colspan="1">14 889</td>
+<td valign="top" align="left" rowspan="1" colspan="1">12.16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">926</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.66</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.30 (2.81-3.87)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Hodgkin lymphoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">33</td>
+<td valign="top" align="left" rowspan="1" colspan="1">614</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5832</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.66</td>
+<td valign="top" align="left" rowspan="1" colspan="1">139</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.73</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.10 (2.12-4.55)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hodgkin lymphoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">26</td>
+<td valign="top" align="left" rowspan="1" colspan="1">510</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4348</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.98</td>
+<td valign="top" align="left" rowspan="1" colspan="1">119</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.85</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.17 (2.07-4.86)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Melanoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">101</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1187</td>
+<td valign="top" align="left" rowspan="1" colspan="1">12 468</td>
+<td valign="top" align="left" rowspan="1" colspan="1">8.10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">441</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.55</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.00 (2.38-3.79)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Testicular</td>
+<td valign="top" align="left" rowspan="1" colspan="1">31</td>
+<td valign="top" align="left" rowspan="1" colspan="1">914</td>
+<td valign="top" align="left" rowspan="1" colspan="1">9035</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.43</td>
+<td valign="top" align="left" rowspan="1" colspan="1">166</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.39</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.38 (1.61-3.51)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Thyroid</td>
+<td valign="top" align="left" rowspan="1" colspan="1">39</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1501</td>
+<td valign="top" align="left" rowspan="1" colspan="1">13 146</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.97</td>
+<td valign="top" align="left" rowspan="1" colspan="1">409</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.39</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.23 (0.88-1.71)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.22</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Brain</td>
+<td valign="top" align="left" rowspan="1" colspan="1">12</td>
+<td valign="top" align="left" rowspan="1" colspan="1">346</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2391</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.02</td>
+<td valign="top" align="left" rowspan="1" colspan="1">77</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.77</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.76 (1.49-5.08)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Cervix</td>
+<td valign="top" align="left" rowspan="1" colspan="1">21</td>
+<td valign="top" align="left" rowspan="1" colspan="1">489</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4957</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.24</td>
+<td valign="top" align="left" rowspan="1" colspan="1">200</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.84</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.48 (0.94-2.32)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.09</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Ovary</td>
+<td valign="top" align="left" rowspan="1" colspan="1">19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">418</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3858</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.92</td>
+<td valign="top" align="left" rowspan="1" colspan="1">146</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.63</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.80 (1.12-2.91)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.02</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">By SMN type<xref ref-type="table-fn" rid="zoi190226t2n2">
+<sup>b</sup>
+</xref>
+</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Solid SMN</td>
+<td valign="top" align="left" rowspan="1" colspan="1">578</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6.20</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3216</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.33</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.61 (2.39-2.85)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Nonsolid SMN</td>
+<td valign="top" align="left" rowspan="1" colspan="1">44</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.47</td>
+<td valign="top" align="left" rowspan="1" colspan="1">221</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.02 (2.18-4.18)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Breast (female)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">198</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6853</td>
+<td valign="top" align="left" rowspan="1" colspan="1">60 144</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.29</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1115</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.25</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.61 (2.24-3.04)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Melanoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">85</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.91</td>
+<td valign="top" align="left" rowspan="1" colspan="1">301</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.22</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.20 (2.51-4.07)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Lymphoma<xref ref-type="table-fn" rid="zoi190226t2n3">
+<sup>c</sup>
+</xref>
+</td>
+<td valign="top" align="left" rowspan="1" colspan="1">28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.30</td>
+<td valign="top" align="left" rowspan="1" colspan="1">139</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.05 (2.03-4.58)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Leukemia</td>
+<td valign="top" align="left" rowspan="1" colspan="1">14</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.15</td>
+<td valign="top" align="left" rowspan="1" colspan="1">60</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.04</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.55 (1.98-6.37)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Central nervous system</td>
+<td valign="top" align="left" rowspan="1" colspan="1">15</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">136</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.64 (0.96-2.79)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.07</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Gastrointestinal</td>
+<td valign="top" align="left" rowspan="1" colspan="1">70</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.75</td>
+<td valign="top" align="left" rowspan="1" colspan="1">386</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.75 (2.13-3.54)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Bladder</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.05</td>
+<td valign="top" align="left" rowspan="1" colspan="1">28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.02</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.60 (1.00-6.77)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.05</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Bone</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.08</td>
+<td valign="top" align="left" rowspan="1" colspan="1">9</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.01</td>
+<td valign="top" align="left" rowspan="1" colspan="1">11.41 (4.25-30.65)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Cervix</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6853</td>
+<td valign="top" align="left" rowspan="1" colspan="1">60 144</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.95 (0.42-2.18)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.91</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Ovary</td>
+<td valign="top" align="left" rowspan="1" colspan="1">28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6853</td>
+<td valign="top" align="left" rowspan="1" colspan="1">60 144</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.47</td>
+<td valign="top" align="left" rowspan="1" colspan="1">96</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.11</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.24 (2.78-6.47)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Uterus</td>
+<td valign="top" align="left" rowspan="1" colspan="1">15</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6853</td>
+<td valign="top" align="left" rowspan="1" colspan="1">60 144</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.25</td>
+<td valign="top" align="left" rowspan="1" colspan="1">164</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.18</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.35 (0.79-2.29)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.27</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Other female genital</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6853</td>
+<td valign="top" align="left" rowspan="1" colspan="1">60 144</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.17</td>
+<td valign="top" align="left" rowspan="1" colspan="1">39</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.04</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.81 (1.90-7.64)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Lung</td>
+<td valign="top" align="left" rowspan="1" colspan="1">12</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.13</td>
+<td valign="top" align="left" rowspan="1" colspan="1">85</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.06</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.02 (1.10-3.71)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.02</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Oropharynx</td>
+<td valign="top" align="left" rowspan="1" colspan="1">18</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">68</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.05</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.54 (2.10-5.97)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Testis</td>
+<td valign="top" align="left" rowspan="1" colspan="1">17</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3721</td>
+<td valign="top" align="left" rowspan="1" colspan="1">33 146</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.51</td>
+<td valign="top" align="left" rowspan="1" colspan="1">36</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.07</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6.41 (3.57-11.49)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Prostate</td>
+<td valign="top" align="left" rowspan="1" colspan="1">16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3721</td>
+<td valign="top" align="left" rowspan="1" colspan="1">33 146</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.48</td>
+<td valign="top" align="left" rowspan="1" colspan="1">119</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.24</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.10 (1.24-3.55)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.01</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Renal</td>
+<td valign="top" align="left" rowspan="1" colspan="1">19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.20</td>
+<td valign="top" align="left" rowspan="1" colspan="1">101</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.07</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.84 (1.74-4.65)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Soft tissue</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.11</td>
+<td valign="top" align="left" rowspan="1" colspan="1">27</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.02</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.44 (2.62-11.31)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Thyroid</td>
+<td valign="top" align="left" rowspan="1" colspan="1">23</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.25</td>
+<td valign="top" align="left" rowspan="1" colspan="1">218</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.52 (0.99-2.34)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.06</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Other</td>
+<td valign="top" align="left" rowspan="1" colspan="1">26</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10 574</td>
+<td valign="top" align="left" rowspan="1" colspan="1">93 290</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">215</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.88 (1.25-2.82)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.002</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<p>Abbreviations: AYA, adolescent and young adult; IRR, incidence rate ratio; SMN, second malignant neoplasm.</p>
+<fn id="zoi190226t2n1">
+<label>
+<sup>a</sup>
+</label>
+<p>Adjusted for age, sex (if applicable), and race/ethnicity.</p>
+</fn>
+<fn id="zoi190226t2n2">
+<label>
+<sup>b</sup>
+</label>
+<p>The SMN type applies to SMN for survivors of AYA cancer and to the first cancer developed in the comparison cohort.</p>
+</fn>
+<fn id="zoi190226t2n3">
+<label>
+<sup>c</sup>
+</label>
+<p>Includes patients with Hodgkin lymphoma and 24 patients with non-Hodgkin lymphoma.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="H2-6-ZOI190226">
+<title>Excess Risk of SMN in Survivors of AYA Cancer</title>
+<p>Survivors of AYA cancer had a 2.6-fold (95% CI, 2.4-2.9) increased risk of subsequent malignant neoplasm compared with the comparison cohort (<xref rid="zoi190226t2" ref-type="table">Table 2</xref>). The IRR was significantly elevated for all demographic subgroups and was greatest for those aged between 15 and 19 years at first cancer diagnosis (adjusted IRR [aIRR], 7.5 [95% CI, 4.8-11.8]). The aIRR for SMN was significantly elevated for all primary cancer types, except for thyroid and cervical cancer. The aIRR for SMN was also significantly elevated for most SMN cancer types, except for cancer of the cervix, uterus, central nervous system, and thyroid. Risk for SMN was highest for bone SMN (aIRR, 11.4 [95% CI, 4.3-30.7]).</p>
+<p>The IRR for specific pairs of first and second cancer showed unique SMN patterns across different first cancer types (<xref rid="zoi190226t3" ref-type="table">Table 3</xref>). Survivors of breast cancer, melanoma, and testicular cancer had 5.62 (95% CI, 4.63-6.83), 11.22 (95% CI, 7.34-17.16), and 16.17 (95% CI, 6.80-38.43) times greater risk of developing another breast cancer, melanoma, and testicular cancer, respectively, compared with the comparison cohort. In the sensitivity analysis, aIRR for developing another breast cancer of different histology or laterality among breast cancer survivors was 4.3 (95% CI, 3.5-5.4). Breast cancer survivors also had elevated risk for subsequent ovarian cancer (aIRR, 5.3 [95% CI, 2.7-10.4]) and melanoma (aIRR, 2.95 [95% CI, 1.45-6.00]). Risk for developing a breast SMN was elevated in lymphoma and melanoma survivors (aIRR, 2.31 [95% CI, 1.18-4.51] and aIRR, 1.80 [95% CI, 1.04-3.12], respectively). Survivors of testicular cancer were also at increased risk of subsequent prostate cancer (aIRR, 2.9 [95% CI, 1.2-7.2]).</p>
+<table-wrap id="zoi190226t3" orientation="portrait" position="float">
+<label>Table 3. </label>
+<caption>
+<title>Incidence and Adjusted IRR Comparing Subsequent Cancer Among Survivors of AYA Cancer and Matched Comparison Group</title>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="23.87%" span="1" />
+<col width="6.92%" span="1" />
+<col width="9.59%" span="1" />
+<col width="14.86%" span="1" />
+<col width="10.42%" span="1" />
+<col width="12.51%" span="1" />
+<col width="15.79%" span="1" />
+<col width="6.04%" span="1" />
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left" scope="col" colspan="1">First Cancer Type in Survivors of AYA Cancer</th>
+<th colspan="3" valign="top" align="left" scope="colgroup" rowspan="1">Survivors of AYA Cancer</th>
+<th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Comparison Cohort</th>
+<th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Multivariable Poisson Model</th>
+</tr>
+<tr>
+<th valign="top" colspan="1" align="left" scope="colgroup" rowspan="1">SMN, No.</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">Incidence/1000 Person-Years</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">Time From First Cancer to SMN Diagnosis</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">First Cancer, No.<xref ref-type="table-fn" rid="zoi190226t3n1">
+<sup>a</sup>
+</xref>
+</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">Incidence/1000 Person-Years</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">IRR (95% CI)</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="8" valign="top" align="left" scope="col" rowspan="1">
+<bold>Breast Cancer</bold>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Subsequent cancer type during study follow-up</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Solid tumor</td>
+<td valign="top" align="left" rowspan="1" colspan="1">174</td>
+<td valign="top" align="left" rowspan="1" colspan="1">11.69</td>
+<td valign="top" align="left" rowspan="1" colspan="1">8.82 (2.01-23.83)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">885</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.50</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.32 (2.82-3.91)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Nonsolid tumor</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.47</td>
+<td valign="top" align="left" rowspan="1" colspan="1">12.38 (2.24-23.07)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">41</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.88 (1.29-6.42)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.01</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Breast</td>
+<td valign="top" align="left" rowspan="1" colspan="1">135</td>
+<td valign="top" align="left" rowspan="1" colspan="1">9.07</td>
+<td valign="top" align="left" rowspan="1" colspan="1">8.88 (2.01-23.83)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">406</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.60</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.62 (4.63-6.83)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Breast of different histology or laterality</td>
+<td valign="top" align="left" rowspan="1" colspan="1">105</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6.99</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.94 (2.01-23.84)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">406</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.60</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.34 (3.50-5.38)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Melanoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">9</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.60</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.78 (2.49-15.41)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">49</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.95 (1.45-6.00)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.003</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Ovary</td>
+<td valign="top" align="left" rowspan="1" colspan="1">11</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.74</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10.33 (4.31-21.52)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">35</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.14</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.28 (2.68-10.39)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td colspan="8" valign="top" align="left" scope="col" rowspan="1">
+<bold>Lymphoma</bold>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Subsequent cancer type during study follow-up</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Solid tumor</td>
+<td valign="top" align="left" rowspan="1" colspan="1">46</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.52</td>
+<td valign="top" align="left" rowspan="1" colspan="1">11.80 (2.29-23.06)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">240</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.66</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.61 (1.90-3.58)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Nonsolid tumor</td>
+<td valign="top" align="left" rowspan="1" colspan="1">13</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">8.49 (2.39-16.66)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">18</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.12</td>
+<td valign="top" align="left" rowspan="1" colspan="1">11.20 (5.47-22.91)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Breast</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.04</td>
+<td valign="top" align="left" rowspan="1" colspan="1">15.45 (2.29-22.96)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">62</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.91</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.31 (1.18-4.51)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.01</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hodgkin lymphoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">10</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.98</td>
+<td valign="top" align="left" rowspan="1" colspan="1">8.07 (2.59-16.66)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.05</td>
+<td valign="top" align="left" rowspan="1" colspan="1">22.57 (8.57-59.43)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td colspan="8" valign="top" align="left" scope="col" rowspan="1">
+<bold>Melanoma</bold>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Subsequent cancer type during study follow-up</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Solid tumor</td>
+<td valign="top" align="left" rowspan="1" colspan="1">96</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.70</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.65 (2.07-24.06)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">413</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.39</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.03 (2.39-3.85)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Nonsolid tumor</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.40</td>
+<td valign="top" align="left" rowspan="1" colspan="1">7.12 (3.59-16.92)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">28</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.53 (0.91-6.99)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.07</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Breast</td>
+<td valign="top" align="left" rowspan="1" colspan="1">16</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.09</td>
+<td valign="top" align="left" rowspan="1" colspan="1">15.36 (2.36-24.06)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">124</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.80 (1.04-3.12)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.03</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Melanoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">59</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.73</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6.13 (2.07-21.72)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">41</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.24</td>
+<td valign="top" align="left" rowspan="1" colspan="1">11.22 (7.34-17.16)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td colspan="8" valign="top" align="left" scope="col" rowspan="1">
+<bold>Testicular Cancer</bold>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Subsequent cancer type during study follow-up</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Solid tumor</td>
+<td valign="top" align="left" rowspan="1" colspan="1">31</td>
+<td valign="top" align="left" rowspan="1" colspan="1">3.43</td>
+<td valign="top" align="left" rowspan="1" colspan="1">8.80 (2.19-22.64)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">148</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.24</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.66 (1.80-3.94)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Nonsolid tumor</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0</td>
+<td valign="top" align="left" rowspan="1" colspan="1">NA</td>
+<td valign="top" align="left" rowspan="1" colspan="1">18</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.15</td>
+<td valign="top" align="left" rowspan="1" colspan="1">NA</td>
+<td valign="top" align="left" rowspan="1" colspan="1">NA</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Prostate</td>
+<td valign="top" align="left" rowspan="1" colspan="1">6</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.66</td>
+<td valign="top" align="left" rowspan="1" colspan="1">18.98 (12.13-21.35)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">26</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.22</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.90 (1.16-7.21)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.02</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Testis<xref ref-type="table-fn" rid="zoi190226t3n2">
+<sup>b</sup>
+</xref>
+</td>
+<td valign="top" align="left" rowspan="1" colspan="1">13</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.44</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.75 (2.19-14.15)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">9</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.08</td>
+<td valign="top" align="left" rowspan="1" colspan="1">16.17 (6.80-38.43)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<p>Abbreviations: AYA, adolescent and young adult; IRR, incidence rate ratio; NA, not applicable; SMN, second malignant neoplasm.</p>
+<fn id="zoi190226t3n1">
+<label>
+<sup>a</sup>
+</label>
+<p>This column shows the number of first cancers in the comparison cohort that were of the same cancer type as those presented as SMN in survivors of AYA cancer.</p>
+</fn>
+<fn id="zoi190226t3n2">
+<label>
+<sup>b</sup>
+</label>
+<p>All testicular SMN as identified by the Surveillance, Epidemiology, and End Results multiple primary rules in this study were of different laterality.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="H2-7-ZOI190226">
+<title>Cumulative Incidence Function of SMN</title>
+<p>The trajectory of overall SMN cumulative incidence functions varied by first cancer type (eFigure 2 in the <xref ref-type="supplementary-material" rid="note-ZOI190226-1-s">Supplement</xref>). In breast cancer survivors, cumulative incidence increased steadily over the follow-up period. By contrast, a steeper increase in incidence was observed 18 to 20 years after diagnosis in lymphoma, melanoma, and testis cancer survivors.</p>
+<p>The <xref ref-type="fig" rid="zoi190226f1">Figure</xref> shows the cumulative incidence functions by specific pairs of first (breast, melanoma, testis) and second cancer. Increased risk of SMN of the same type as the first cancer, but not for other SMN types examined, was apparent immediately after index date (eg, melanoma SMN among melanoma survivors, shown in <xref ref-type="fig" rid="zoi190226f1">Figure</xref>, C).</p>
+<fig id="zoi190226f1" fig-type="figure" orientation="portrait" position="float">
+<label>Figure. </label>
+<caption>
+<title>Cumulative Incidence Function Considering Competing Risk Among Survivors of Adolescent and Young Adult Cancer by Second Malignant Neoplasm (SMN) and First Cancer Type</title>
+<p>The<italic toggle="yes"> P</italic> value compares SMN incidence by cancer survivor status using the Fine and Gray method. A different scale for the y axis is used in panel B to allow the visual distinction of curves.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns0:href="jamanetwopen-2-e195536-g001.jpg" />
+</fig>
+</sec>
+<sec id="H2-8-ZOI190226">
+<title>Risk Factors for SMN</title>
+<p>Among survivors of AYA cancer, older age at diagnosis (IRR for age 30-39 years, 2.09 [95% CI, 1.35-3.25]), female sex (IRR, 1.38 [95% CI, 1.14-1.67]), advanced stage at diagnosis (IRR for stage II, 1.31 [95% CI, 1.07-1.60]), and exposure to radiation therapy (IRR, 1.56 [95% CI, 1.30-1.87]) were independently associated with greater risk of solid SMN (<xref rid="zoi190226t4" ref-type="table">Table 4</xref>). On the other hand, Asian race/ethnicity (IRR compared with non-Hispanic white, 0.60 [95% CI, 0.41-0.86]), and more recent calendar period of diagnosis (IRR for diagnosis in 2003-2014 compared with 1990-2002, 0.81 [95% CI, 0.67-0.97]) were associated with lower risk of solid SMN. For nonsolid SMN, Hispanic race/ethnicity (IRR, 1.99 [95% CI, 1.01-3.95]) advanced stages at diagnosis (IRR for stage II, 2.58 [95% CI, 1.04-6.43]; IRR for stage III/IV, 4.41 [95% CI, 1.77-11.00]), and cancers for which TMN stage were not applicable (IRR, 5.17 [95% CI, 2.13-12.56]) were associated with higher risk. In sensitivity analysis excluding breast SMN as an outcome, female sex was no longer associated with increased SMN risk (IRR, 0.77 [95% CI, 0.63-0.94]). In sensitivity analyses excluding melanoma SMN, Asian race/ethnicity was no longer associated with reduced risk of solid SMN (IRR, 0.79 [95% CI, 0.55-1.13]).</p>
+<table-wrap id="zoi190226t4" orientation="portrait" position="float">
+<label>Table 4. </label>
+<caption>
+<title>Multivariable Poisson Model of Potential Risk Factors for Second Primary Cancer Among Survivors of AYA Cancer</title>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="31.85%" span="1" />
+<col width="13.92%" span="1" />
+<col width="8.5%" span="1" />
+<col width="13.93%" span="1" />
+<col width="8.5%" span="1" />
+<col width="14.8%" span="1" />
+<col width="8.5%" span="1" />
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left" scope="col" colspan="1">Characteristic</th>
+<th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Any SMN</th>
+<th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Solid SMN</th>
+<th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Nonsolid SMN</th>
+</tr>
+<tr>
+<th valign="top" colspan="1" align="left" scope="colgroup" rowspan="1">IRR (95% CI)</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> Value</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">IRR (95% CI)</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> Value</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">IRR (95% CI)</th>
+<th valign="top" align="left" scope="col" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic> Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="7" valign="top" align="left" scope="col" rowspan="1">
+<bold>All Cancer Survivors Diagnosed 1990-2012</bold>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Age at diagnosis, y</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 15-19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 20-29</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.08 (0.70-1.66)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.73</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.27 (0.79-2.05)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.32</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.38 (0.12-1.19)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.10</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 30-39</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.79 (1.21-2.65)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.09 (1.35-3.25)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.70 (0.29-1.71)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.44</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Sex</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Male</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Female</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.31 (1.09-1.57)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.38 (1.14-1.67)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.70 (0.37-1.33)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.28</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Race/ethnicity</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hispanic white</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non-Hispanic black</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.00 (0.76-1.32)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&gt;.99</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.96 (0.72-1.28)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.79</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.73 (0.62-4.82)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.29</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Hispanic</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.90 (0.75-1.08)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.26</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.84 (0.69-1.02)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.08</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.99 (1.01-3.95)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.05</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Asian or Pacific Islander</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.61 (0.43-0.87)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.01</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.60 (0.41-0.86)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.01</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.89 (0.20-3.91)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.87</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">TNM stage at diagnosis</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> I</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> NA</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.40 (1.08-1.82)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.01</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.24 (0.94-1.65)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.13</td>
+<td valign="top" align="left" rowspan="1" colspan="1">5.17 (2.13-12.56)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> II</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.35 (1.11-1.65)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.003</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.31 (1.07-1.60)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.01</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.58 (1.04-6.43)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.04</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> III/IV</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.29 (1.00-1.67)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.05</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.17 (0.90-1.54)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.24</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.41 (1.77-11.00)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.002</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Calendar period of diagnosis</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 1990-2002</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 2003-2014</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.80 (0.67-0.96)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.02</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.81 (0.67-0.97)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.02</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.78 (0.40-1.51)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.45</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1">Radiation (yes vs no)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.50 (1.26-1.79)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.56 (1.30-1.87)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.95 (0.46-1.96)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.89</td>
+</tr>
+<tr>
+<td colspan="7" valign="top" align="left" scope="col" rowspan="1">
+<bold>Selected 5 Cancer Type Diagnosed 1990-2012</bold>
+<xref ref-type="table-fn" rid="zoi190226t4n1">
+<sup>a</sup>
+</xref>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Type of first cancer</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Thyroid</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1">1 [Reference]</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Breast</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.81 (1.88-4.21)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.80 (1.84-4.26)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.01 (0.43-9.40)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.37</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Lymphoma (Hodgkin and non-Hodgkin)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.65 (1.04-2.62)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.03</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.38 (0.84-2.27)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.20</td>
+<td valign="top" align="left" rowspan="1" colspan="1">4.43 (1.06-18.51)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.04</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Melanoma</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.65 (1.79-3.93)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.67 (1.78-4.02)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">&lt;.001</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.54 (0.55-11.80)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.23</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Testis</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.11 (0.64-1.94)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.71</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.31 (0.74-2.34)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.36</td>
+<td valign="top" align="left" rowspan="1" colspan="1">Not calculated<xref ref-type="table-fn" rid="zoi190226t4n2">
+<sup>b</sup>
+</xref>
+</td>
+<td valign="top" align="left" rowspan="1" colspan="1">NA</td>
+</tr>
+<tr>
+<td colspan="7" valign="top" align="left" scope="col" rowspan="1">
+<bold>All Cancer Survivors Diagnosed 2000-2012</bold>
+<xref ref-type="table-fn" rid="zoi190226t4n3">
+<sup>c</sup>
+</xref>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col" rowspan="1" colspan="1">Treatment exposure</td>
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+<td valign="top" align="left" rowspan="1" colspan="1" />
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Radiation (yes vs no)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.14 (0.81-1.59)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.46</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.20 (0.84-1.70)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.31</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.56 (0.14-2.18)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.40</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Alkylating agents (yes vs no)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.24 (0.75-2.07)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.41</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.43 (0.84-2.46)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.19</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.40 (0.08-1.97)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.26</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Anthracyclines (yes vs no)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.96 (0.57-1.63)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.89</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.83 (0.47-1.45)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.51</td>
+<td valign="top" align="left" rowspan="1" colspan="1">2.83 (0.61-13.02)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.18</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Epipodophyllotoxin (yes vs no)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.63 (0.27-1.49)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.29</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.61 (0.25-1.52)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.29</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.94 (0.06-15.28)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.96</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Platinums (yes vs no)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.98 (0.53-1.83)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.96</td>
+<td valign="top" align="left" rowspan="1" colspan="1">1.01 (0.54-1.91)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.97</td>
+<td valign="top" align="left" rowspan="1" colspan="1">0.60 (0.04-10.00)</td>
+<td valign="top" align="left" rowspan="1" colspan="1">.72</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<p>Abbreviations: AYA, adolescent and young adult; IRR, incidence rate ratio; NA, not applicable; SMN, second malignant neoplasm.</p>
+<fn id="zoi190226t4n1">
+<label>
+<sup>a</sup>
+</label>
+<p>This regression analysis included survivors of the 5 cancer types only (thyroid cancer, breast cancer, lymphoma, melanoma, and testicular cancer).</p>
+</fn>
+<fn id="zoi190226t4n2">
+<label>
+<sup>b</sup>
+</label>
+<p>The IRR could not be estimated because of the small sample size in this subgroup.</p>
+</fn>
+<fn id="zoi190226t4n3">
+<label>
+<sup>c</sup>
+</label>
+<p>Adjusted for age, sex, race/ethnicity, stage at diagnosis, calendar period of diagnosis, and radiation therapy.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>In analyses restricted to the 5 most common first cancer types, survivors of breast cancer (aIRR, 2.80 [95% CI, 1.84-4.26]) and melanoma (aIRR, 2.67 [95% CI, 1.78-4.02]) had the greatest increased risk of solid SMN compared with thyroid cancer. Among those whose first cancer was diagnosed in 2000 to 2012, none of the chemotherapy agents examined were significantly associated with SMN, solid or nonsolid (<xref rid="zoi190226t4" ref-type="table">Table 4</xref>).</p>
+<p>Among breast cancer survivors, Asian individuals had lower risk of developing any SMN (aIRR, 0.50 [95% CI, 0.27-0.93]) or breast SMN, while radiotherapy was associated with increased risk of any SMN (aIRR, 1.52 [95% CI, 1.12-2.05]) or breast SMN (eTable 3 in the <xref ref-type="supplementary-material" rid="note-ZOI190226-1-s">Supplement</xref>). Among melanoma survivors, advanced stage at diagnosis was associated an almost 3-fold risk of any SMN (aIRR, 2.83 [95% CI, 1.40-5.71]) but not melanoma SMN. Among lymphoma survivors, black race and radiation therapy were associated with increased risk of SMN. Demographic characteristics, stage, and radiation therapy (for testicular cancer) were not associated with risk of SMN among testicular and thyroid cancer survivors (eTable 3 in the <xref ref-type="supplementary-material" rid="note-ZOI190226-1-s">Supplement</xref>).</p>
+</sec>
+<sec id="H2-9-ZOI190226">
+<title>Mortality Following SMN</title>
+<p>The 5-year overall mortality following an SMN diagnosis was 31.9% (128 of 401) for survivors of AYA cancer. Adjusted hazard ratio (aHR) for mortality after developing SMN was 1.90 (95% CI, 1.61-2.24) for survivors of AYA cancer compared with mortality after developing first cancer in the comparison group (eTable 4 in the <xref ref-type="supplementary-material" rid="note-ZOI190226-1-s">Supplement</xref>). Among survivors of AYA cancer, those with SMN were at 7-fold increased risk of dying compared with survivors who did not develop SMN (aHR, 7.17 [95% CI, 6.06-8.49]).</p>
+</sec>
+</sec>
+<sec id="H1-4-ZOI190226">
+<title>Discussion</title>
+<p>We observed a 3-fold SMN risk increase in survivors of AYA cancer compared with a demographically matched comparison cohort who did not have a history of cancer at the index date. This risk increase was primarily driven by solid SMN. Increased risk for SMN varied by patient characteristics, first cancer type, and SMN type. Among survivors with primary breast cancer, melanoma, and testicular cancer, a particularly elevated risk for SMN of the same organ was found. Overall, we observed several demographic, clinical, and treatment characteristics to be associated with SMN. Furthermore, risk factors for SMN appeared to differ by first cancer type. These findings have important implications for prevention and early detection strategies for SMN and could inform the development of cancer screening guidelines for survivors of AYA cancer.</p>
+<p>In general, an SMN risk increase of 4 to 6 times has been reported for childhood cancer survivors compared with the general population.<sup>
+<xref rid="zoi190226r8" ref-type="bibr">8</xref>,<xref rid="zoi190226r14" ref-type="bibr">14</xref>,<xref rid="zoi190226r31" ref-type="bibr">31</xref>
+</sup> However, survivors of AYA cancer bear a greater absolute burden of SMN.<sup>
+<xref rid="zoi190226r14" ref-type="bibr">14</xref>
+</sup> A few studies have specifically examined relative risk of SMN among survivors of AYA cancer, and all used an external group for comparison.<sup>
+<xref rid="zoi190226r13" ref-type="bibr">13</xref>,<xref rid="zoi190226r14" ref-type="bibr">14</xref>,<xref rid="zoi190226r15" ref-type="bibr">15</xref>,<xref rid="zoi190226r31" ref-type="bibr">31</xref>
+</sup> Although previous studies have used different methods, a moderately elevated risk of SMN has been consistently reported.</p>
+<p>For survivors of AYA breast cancer, melanoma, and testicular cancer, our data suggest a need for an early detection program for subsequent cancer of the same organ. We used the SEER multiple primary rules established by expert consensus to determine SMN of the same organ in this observational study. While potential misclassification of second primary vs recurrence is possible, a more conservative IRR estimate of developing breast SMN of different histology or laterality among breast cancer survivors resulted in a similar conclusion, suggesting that the implication of our findings for early surveillance is likely valid. The association observed between breast and ovarian cancer as well as between breast cancer and melanoma is consistent with patterns of a shared genetic predisposition (eg, <italic toggle="yes">BRCA1</italic> and/or <italic toggle="yes">BRCA2</italic>).<sup>
+<xref rid="zoi190226r32" ref-type="bibr">32</xref>,<xref rid="zoi190226r33" ref-type="bibr">33</xref>
+</sup> Increased risk of prostate cancer among testicular cancer survivors has not been commonly reported and should be further studied accounting for prostate cancer screening practices.</p>
+<p>In our study, female survivors were at greater risk of SMN compared with male survivors, likely because breast cancer was the most common SMN type in this age group. In fact, in a sensitivity analysis excluding breast SMN, female participants were at decreased risk of SMN. Similarly, lower risk in Asian participants for solid SMN could be partially due to the lower risk of melanoma in Asian populations,<sup>
+<xref rid="zoi190226r34" ref-type="bibr">34</xref>
+</sup> as, in the sensitivity analysis excluding melanoma SMN, Asian individuals were no longer at lower risk of SMN. Recent calendar period was associated with lower risk of solid SMN, which could be due to the longer latency of solid SMN. The potential reason for higher risk of nonsolid SMN in Hispanic participants is unclear. We did not observe an association with SMN risk, solid or nonsolid, for any of the chemotherapy categories examined. Although the follow-up time for the chemotherapy analysis was considered limited for evaluating risk of solid tumor SMN, it was reasonable for evaluating nonsolid SMN as most nonsolid malignancies linked to chemotherapy are expected to develop early.</p>
+<p>We found different risk factors for SMN by first cancer type, suggesting potentially varying pathogenic mechanisms of SMN by first cancer type. Among breast cancer survivors, despite generally increased breast cancer risk associated with advanced age, younger age at initial diagnosis was not associated with lower risk for subsequent SMN or breast SMN, arguing for a strong genetic predisposition for those diagnosed at young age. As expected, radiotherapy is a risk factor that should be considered for SMN surveillance. In melanoma survivors, advanced stage at diagnosis was associated with an almost 3-fold risk of developing nonmelanoma SMN. Black race and radiation were associated with SMN in lymphoma survivors. The underlying reasons for these observations (except for radiation) are not fully understood.</p>
+<p>Those with SMN were at 7-fold increased risk of dying compared with survivors who did not develop SMN. A recent study by Keegan and colleagues<sup>
+<xref rid="zoi190226r35" ref-type="bibr">35</xref>
+</sup> reported worse survival outcomes following SMN compared with those who develop first malignancy of the same type, and this difference was more profound in AYAs than in older adults. A study in breast cancer survivors showed that early detection of the second primary breast cancer was linked to improved relative survival by about 30% to 50%,<sup>
+<xref rid="zoi190226r5" ref-type="bibr">5</xref>
+</sup> supporting implementation of effective screening strategies. The role of traditional cancer risk factors and genetic testing for SMN prevention need to be addressed by future studies.<sup>
+<xref rid="zoi190226r36" ref-type="bibr">36</xref>,<xref rid="zoi190226r37" ref-type="bibr">37</xref>,<xref rid="zoi190226r38" ref-type="bibr">38</xref>
+</sup>
+</p>
+<sec id="H2-10-ZOI190226">
+<title>Limitations</title>
+<p>There are several limitations that should be considered. In addition to those we have described, cancers diagnosed among patients moving out of California would be missed. We were also unable to perform stratified analyses by more first cancer types or by SMN type owing to limited power. Furthermore, we did not examine the association with radiation field or dose-response relationships. The generalizability of our findings to those without insurance should also be confirmed. Despite the limitations, our study has several unique strengths. First, we used an internal comparison group with equal health care access, eliminating the potential concern of confounding due to differential access and insurance coverage in prior registry-based studies in the United States. Second, we characterized the pairwise relationship between specific first and second cancer type among the most common first cancer types in AYAs, which has implications for SMN prevention and screening. For example, counseling can be offered for female melanoma survivors about breast cancer risk and prevention. We were also among the first to evaluate the association between exposure to a specific class of chemotherapy agents and SMN risk in AYAs, which could not be done in registry-based studies.</p>
+</sec>
+</sec>
+<sec id="H1-5-ZOI190226">
+<title>Conclusions</title>
+<p>This study provided a detailed overview of SMN focusing on survivors of AYA cancers using an internal, individually matched comparison cohort without a history of cancer and characterized in detail the cumulative incidence function and risk factors for SMN among survivors of AYA cancer. Additional studies are needed to characterize SMN risk factors within specific pairs of first and second malignant neoplasm type to inform the development of tailored screening and prevention guidelines. Given the challenge of long-term follow-up of survivors of AYA cancer in a traditional cohort setting,<sup>
+<xref rid="zoi190226r39" ref-type="bibr">39</xref>
+</sup> retrospective analysis of members from integrated health systems with access to information on detailed treatment history, lifestyle, and genetic risk factors via electronic medical records may be one of the most promising approaches to further understand the role of treatment and other cancer risk factors in SMN development, especially when enhanced with linkage with large-scale registries or surveys.</p>
+</sec>
+</body>
+<back>
+<ref-list id="REF-ZOI190226">
+<title>References</title>
+<ref id="zoi190226r1">
+<label>1</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Travis</surname>
+<given-names>LB</given-names>
+</name>, <name name-style="western">
+<surname>Ng</surname>
+<given-names>AK</given-names>
+</name>, <name name-style="western">
+<surname>Allan</surname>
+<given-names>JM</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Second malignant neoplasms and cardiovascular disease following radiotherapy</article-title>. <source>J Natl Cancer Inst</source>. <year>2012</year>;<volume>104</volume>(<issue>5</issue>):-. doi:<pub-id pub-id-type="doi">10.1093/jnci/djr533</pub-id>
+<pub-id pub-id-type="pmid">22312134</pub-id>
+<pub-id pub-id-type="pmcid">PMC3295744</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r2">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Wood</surname>
+<given-names>ME</given-names>
+</name>, <name name-style="western">
+<surname>Vogel</surname>
+<given-names>V</given-names>
+</name>, <name name-style="western">
+<surname>Ng</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Foxhall</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Goodwin</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Travis</surname>
+<given-names>LB</given-names>
+</name>
+</person-group>
+<article-title>Second malignant neoplasms: assessment and strategies for risk reduction</article-title>. <source>J Clin Oncol</source>. <year>2012</year>;<volume>30</volume>(<issue>30</issue>):<fpage>3734</fpage>-<lpage>3745</lpage>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2012.41.8681</pub-id>
+<pub-id pub-id-type="pmid">23008293</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r3">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Armstrong</surname>
+<given-names>GT</given-names>
+</name>, <name name-style="western">
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</name>, <name name-style="western">
+<surname>Yasui</surname>
+<given-names>Y</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Late mortality among 5-year survivors of childhood cancer: a summary from the Childhood Cancer Survivor Study</article-title>. <source>J Clin Oncol</source>. <year>2009</year>;<volume>27</volume>(<issue>14</issue>):<fpage>2328</fpage>-<lpage>2338</lpage>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2008.21.1425</pub-id>
+<pub-id pub-id-type="pmid">19332714</pub-id>
+<pub-id pub-id-type="pmcid">PMC2677921</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r4">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Donin</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Filson</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Drakaki</surname>
+<given-names>A</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Risk of second primary malignancies among cancer survivors in the United States, 1992 through 2008</article-title>. <source>Cancer</source>. <year>2016</year>;<volume>122</volume>(<issue>19</issue>):<fpage>3075</fpage>-<lpage>3086</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cncr.30164</pub-id>
+<pub-id pub-id-type="pmid">27377470</pub-id>
+<pub-id pub-id-type="pmcid">PMC6192520</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r5">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Houssami</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Ciatto</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Martinelli</surname>
+<given-names>F</given-names>
+</name>, <name name-style="western">
+<surname>Bonardi</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Duffy</surname>
+<given-names>SW</given-names>
+</name>
+</person-group>
+<article-title>Early detection of second breast cancers improves prognosis in breast cancer survivors</article-title>. <source>Ann Oncol</source>. <year>2009</year>;<volume>20</volume>(<issue>9</issue>):<fpage>1505</fpage>-<lpage>1510</lpage>. doi:<pub-id pub-id-type="doi">10.1093/annonc/mdp037</pub-id>
+<pub-id pub-id-type="pmid">19297316</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r6">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Houssami</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Cho</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Screening women with a personal history of breast cancer: overview of the evidence on breast imaging surveillance</article-title>. <source>Ultrasonography</source>. <year>2018</year>;<volume>37</volume>(<issue>4</issue>):<fpage>277</fpage>-<lpage>287</lpage>. doi:<pub-id pub-id-type="doi">10.14366/usg.18017</pub-id>
+<pub-id pub-id-type="pmid">30056638</pub-id>
+<pub-id pub-id-type="pmcid">PMC6177686</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r7">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Armstrong</surname>
+<given-names>GT</given-names>
+</name>, <name name-style="western">
+<surname>Liu</surname>
+<given-names>W</given-names>
+</name>, <name name-style="western">
+<surname>Leisenring</surname>
+<given-names>W</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Occurrence of multiple subsequent neoplasms in long-term survivors of childhood cancer: a report from the childhood cancer survivor study</article-title>. <source>J Clin Oncol</source>. <year>2011</year>;<volume>29</volume>(<issue>22</issue>):<fpage>3056</fpage>-<lpage>3064</lpage>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2011.34.6585</pub-id>
+<pub-id pub-id-type="pmid">21709189</pub-id>
+<pub-id pub-id-type="pmcid">PMC3157966</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r8">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Friedman</surname>
+<given-names>DL</given-names>
+</name>, <name name-style="western">
+<surname>Whitton</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Leisenring</surname>
+<given-names>W</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Subsequent neoplasms in 5-year survivors of childhood cancer: the Childhood Cancer Survivor Study</article-title>. <source>J Natl Cancer Inst</source>. <year>2010</year>;<volume>102</volume>(<issue>14</issue>):<fpage>1083</fpage>-<lpage>1095</lpage>. doi:<pub-id pub-id-type="doi">10.1093/jnci/djq238</pub-id>
+<pub-id pub-id-type="pmid">20634481</pub-id>
+<pub-id pub-id-type="pmcid">PMC2907408</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r9">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Bassal</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Mertens</surname>
+<given-names>AC</given-names>
+</name>, <name name-style="western">
+<surname>Taylor</surname>
+<given-names>L</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Risk of selected subsequent carcinomas in survivors of childhood cancer: a report from the Childhood Cancer Survivor Study</article-title>. <source>J Clin Oncol</source>. <year>2006</year>;<volume>24</volume>(<issue>3</issue>):<fpage>476</fpage>-<lpage>483</lpage>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2005.02.7235</pub-id>
+<pub-id pub-id-type="pmid">16421424</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r10">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Choi</surname>
+<given-names>DK</given-names>
+</name>, <name name-style="western">
+<surname>Helenowski</surname>
+<given-names>I</given-names>
+</name>, <name name-style="western">
+<surname>Hijiya</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Secondary malignancies in pediatric cancer survivors: perspectives and review of the literature</article-title>. <source>Int J Cancer</source>. <year>2014</year>;<volume>135</volume>(<issue>8</issue>):<fpage>1764</fpage>-<lpage>1773</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ijc.28991</pub-id>
+<pub-id pub-id-type="pmid">24945137</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r11">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Turcotte</surname>
+<given-names>LM</given-names>
+</name>, <name name-style="western">
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</name>, <name name-style="western">
+<surname>Yasui</surname>
+<given-names>Y</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Temporal trends in treatment and subsequent neoplasm risk among 5-year survivors of childhood cancer, 1970-2015</article-title>. <source>JAMA</source>. <year>2017</year>;<volume>317</volume>(<issue>8</issue>):<fpage>814</fpage>-<lpage>824</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2017.0693</pub-id>
+<pub-id pub-id-type="pmid">28245323</pub-id>
+<pub-id pub-id-type="pmcid">PMC5473951</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r12">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Woodward</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Jessop</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Glaser</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Stark</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Late effects in survivors of teenage and young adult cancer: does age matter?</article-title>
+<source>Ann Oncol</source>. <year>2011</year>;<volume>22</volume>(<issue>12</issue>):<fpage>2561</fpage>-<lpage>2568</lpage>. doi:<pub-id pub-id-type="doi">10.1093/annonc/mdr044</pub-id>
+<pub-id pub-id-type="pmid">21427066</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r13">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Goddard</surname>
+<given-names>K</given-names>
+</name>, <name name-style="western">
+<surname>Spinelli</surname>
+<given-names>JJ</given-names>
+</name>, <name name-style="western">
+<surname>Gotay</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>McBride</surname>
+<given-names>ML</given-names>
+</name>
+</person-group>
+<article-title>Risk of late mortality and second malignant neoplasms among 5-year survivors of young adult cancer: a report of the Childhood, Adolescent, and Young Adult Cancer Survivors Research Program</article-title>. <source>J Cancer Epidemiol</source>. <year>2012</year>;<volume>2012</volume>:<fpage>103032</fpage>. doi:<pub-id pub-id-type="doi">10.1155/2012/103032</pub-id>
+<pub-id pub-id-type="pmid">23008713</pub-id>
+<pub-id pub-id-type="pmcid">PMC3447326</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r14">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>JS</given-names>
+</name>, <name name-style="western">
+<surname>DuBois</surname>
+<given-names>SG</given-names>
+</name>, <name name-style="western">
+<surname>Coccia</surname>
+<given-names>PF</given-names>
+</name>, <name name-style="western">
+<surname>Bleyer</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Olin</surname>
+<given-names>RL</given-names>
+</name>, <name name-style="western">
+<surname>Goldsby</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title>Increased risk of second malignant neoplasms in adolescents and young adults with cancer</article-title>. <source>Cancer</source>. <year>2016</year>;<volume>122</volume>(<issue>1</issue>):<fpage>116</fpage>-<lpage>123</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cncr.29685</pub-id>
+<pub-id pub-id-type="pmid">26441212</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r15">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Aben</surname>
+<given-names>KK</given-names>
+</name>, <name name-style="western">
+<surname>van Gaal</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>van Gils</surname>
+<given-names>NA</given-names>
+</name>, <name name-style="western">
+<surname>van der Graaf</surname>
+<given-names>WT</given-names>
+</name>, <name name-style="western">
+<surname>Zielhuis</surname>
+<given-names>GA</given-names>
+</name>
+</person-group>
+<article-title>Cancer in adolescents and young adults (15-29 years): a population-based study in the Netherlands 1989-2009</article-title>. <source>Acta Oncol</source>. <year>2012</year>;<volume>51</volume>(<issue>7</issue>):<fpage>922</fpage>-<lpage>933</lpage>. doi:<pub-id pub-id-type="doi">10.3109/0284186X.2012.705891</pub-id>
+<pub-id pub-id-type="pmid">22934554</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r16">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Travis</surname>
+<given-names>LB</given-names>
+</name>, <name name-style="western">
+<surname>Curtis</surname>
+<given-names>RE</given-names>
+</name>, <name name-style="western">
+<surname>Storm</surname>
+<given-names>H</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Risk of second malignant neoplasms among long-term survivors of testicular cancer</article-title>. <source>J Natl Cancer Inst</source>. <year>1997</year>;<volume>89</volume>(<issue>19</issue>):<fpage>1429</fpage>-<lpage>1439</lpage>. doi:<pub-id pub-id-type="doi">10.1093/jnci/89.19.1429</pub-id>
+<pub-id pub-id-type="pmid">9326912</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r17">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Swerdlow</surname>
+<given-names>AJ</given-names>
+</name>, <name name-style="western">
+<surname>Barber</surname>
+<given-names>JA</given-names>
+</name>, <name name-style="western">
+<surname>Hudson</surname>
+<given-names>GV</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Risk of second malignancy after Hodgkin’s disease in a collaborative British cohort: the relation to age at treatment</article-title>. <source>J Clin Oncol</source>. <year>2000</year>;<volume>18</volume>(<issue>3</issue>):<fpage>498</fpage>-<lpage>509</lpage>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2000.18.3.498</pub-id>
+<pub-id pub-id-type="pmid">10653865</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r18">
+<label>18</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Kirova</surname>
+<given-names>YM</given-names>
+</name>, <name name-style="western">
+<surname>De Rycke</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Gambotti</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Pierga</surname>
+<given-names>JY</given-names>
+</name>, <name name-style="western">
+<surname>Asselain</surname>
+<given-names>B</given-names>
+</name>, <name name-style="western">
+<surname>Fourquet</surname>
+<given-names>A</given-names>
+</name>; <collab>Institut Curie Breast Cancer Study Group</collab>
+</person-group>
+<article-title>Second malignancies after breast cancer: the impact of different treatment modalities</article-title>. <source>Br J Cancer</source>. <year>2008</year>;<volume>98</volume>(<issue>5</issue>):<fpage>870</fpage>-<lpage>874</lpage>. doi:<pub-id pub-id-type="doi">10.1038/sj.bjc.6604241</pub-id>
+<pub-id pub-id-type="pmid">18268495</pub-id>
+<pub-id pub-id-type="pmcid">PMC2266852</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r19">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Cho</surname>
+<given-names>YY</given-names>
+</name>, <name name-style="western">
+<surname>Lim</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Oh</surname>
+<given-names>CM</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Elevated risks of subsequent primary malignancies in patients with thyroid cancer: a nationwide, population-based study in Korea</article-title>. <source>Cancer</source>. <year>2015</year>;<volume>121</volume>(<issue>2</issue>):<fpage>259</fpage>-<lpage>268</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cncr.29025</pub-id>
+<pub-id pub-id-type="pmid">25223713</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r20">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Caini</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Boniol</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Botteri</surname>
+<given-names>E</given-names>
+</name>, <etal />
+</person-group>
+<article-title>The risk of developing a second primary cancer in melanoma patients: a comprehensive review of the literature and meta-analysis</article-title>. <source>J Dermatol Sci</source>. <year>2014</year>;<volume>75</volume>(<issue>1</issue>):<fpage>3</fpage>-<lpage>9</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jdermsci.2014.02.007</pub-id>
+<pub-id pub-id-type="pmid">24680127</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r21">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Court</surname>
+<given-names>BV</given-names>
+</name>, <name name-style="western">
+<surname>Cheng</surname>
+<given-names>KK</given-names>
+</name>
+</person-group>
+<article-title>Pros and cons of standardised mortality ratios</article-title>. <source>Lancet</source>. <year>1995</year>;<volume>346</volume>(<issue>8987</issue>):<fpage>1432</fpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(95)92449-3</pub-id>
+<pub-id pub-id-type="pmid">7475851</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r22">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Park</surname>
+<given-names>ER</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>FP</given-names>
+</name>, <name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</name>, <etal />; <collab>Childhood Cancer Survivor Study</collab>
+</person-group>
+<article-title>Health insurance coverage in survivors of childhood cancer: the Childhood Cancer Survivor Study</article-title>. <source>J Clin Oncol</source>. <year>2005</year>;<volume>23</volume>(<issue>36</issue>):<fpage>9187</fpage>-<lpage>9197</lpage>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2005.01.7418</pub-id>
+<pub-id pub-id-type="pmid">16361621</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r23">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Koebnick</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Langer-Gould</surname>
+<given-names>AM</given-names>
+</name>, <name name-style="western">
+<surname>Gould</surname>
+<given-names>MK</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Sociodemographic characteristics of members of a large, integrated health care system: comparison with US Census Bureau data</article-title>. <source>Perm J</source>. <year>2012</year>;<volume>16</volume>(<issue>3</issue>):<fpage>37</fpage>-<lpage>41</lpage>. doi:<pub-id pub-id-type="doi">10.7812/TPP/12-031</pub-id>
+<pub-id pub-id-type="pmid">23012597</pub-id>
+<pub-id pub-id-type="pmcid">PMC3442759</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r24">
+<label>24</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Chao</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Chiu</surname>
+<given-names>V</given-names>
+</name>, <name name-style="western">
+<surname>Mueller</surname>
+<given-names>LA</given-names>
+</name>, <name name-style="western">
+<surname>Cooper</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Exploring the feasibility of establishing a retrospective cohort of survivors of adolescent and young adult cancer to study long-term health outcomes in an integrated managed care environment</article-title>. <source>J Adolesc Young Adult Oncol</source>. <year>2013</year>;<volume>2</volume>(<issue>2</issue>):<fpage>59</fpage>-<lpage>65</lpage>. doi:<pub-id pub-id-type="doi">10.1089/jayao.2012.0024</pub-id>
+<pub-id pub-id-type="pmid">23781402</pub-id>
+<pub-id pub-id-type="pmcid">PMC3684137</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r25">
+<label>25</label>
+<mixed-citation publication-type="web">
+<person-group>
+<collab>California Cancer Registry</collab>
+</person-group> About data from the CCR. Accessed December 2015. <ext-link ext-link-type="uri" ns0:href="http://www.ccrcal.org/Data_and_Statistics/About_Data_from_the_CCR.shtml">http://www.ccrcal.org/Data_and_Statistics/About_Data_from_the_CCR.shtml</ext-link>, California Department of Public Health.</mixed-citation>
+</ref>
+<ref id="zoi190226r26">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>von Elm</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</name>, <name name-style="western">
+<surname>Egger</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</name>, <name name-style="western">
+<surname>Gøtzsche</surname>
+<given-names>PC</given-names>
+</name>, <name name-style="western">
+<surname>Vandenbroucke</surname>
+<given-names>JP</given-names>
+</name>; <collab>STROBE Initiative</collab>
+</person-group>
+<article-title>The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies</article-title>. <source>Epidemiology</source>. <year>2007</year>;<volume>18</volume>(<issue>6</issue>):<fpage>800</fpage>-<lpage>804</lpage>. doi:<pub-id pub-id-type="doi">10.1097/EDE.0b013e3181577654</pub-id>
+<pub-id pub-id-type="pmid">18049194</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r27">
+<label>27</label>
+<mixed-citation publication-type="book">
+<person-group>
+<name name-style="western">
+<surname>Johnson</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Peace</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Adamo</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Fritz</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Percy-Laurry</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Edwards</surname>
+<given-names>BK</given-names>
+</name>
+</person-group>
+<source>The 2007 Multiple Primary and Histology Coding Rules</source>. <publisher-loc>Bethesda, MD</publisher-loc>: <publisher-name>National Cancer Institute Surveillance Epidemiology and End Results Program</publisher-name>; <year>2007</year>.</mixed-citation>
+</ref>
+<ref id="zoi190226r28">
+<label>28</label>
+<mixed-citation publication-type="web">
+<person-group>
+<collab>National Cancer Institute Surveillance Epidemiology and End Results Program</collab>
+</person-group> Definitions of single and subsequent primaries for hematologic malignancies based on ICD-O-3 reportable malignancies, effective with diagnoses 01/01/<year>2001</year> and after. <ext-link ext-link-type="uri" ns0:href="https://seer.cancer.gov/archive/icd-o-3/hematopoietic_primaries.d03152001.pdf">https://seer.cancer.gov/archive/icd-o-3/hematopoietic_primaries.d03152001.pdf</ext-link>. Accessed April 2018.</mixed-citation>
+</ref>
+<ref id="zoi190226r29">
+<label>29</label>
+<mixed-citation publication-type="web">
+<person-group>
+<name name-style="western">
+<surname>Lin</surname>
+<given-names>G</given-names>
+</name>, <name name-style="western">
+<surname>So</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Johnston</surname>
+<given-names>G</given-names>
+</name>
+</person-group> Analyzing survival data with competing risks using SAS® software. Cary NC, SAS Institute Inc. <ext-link ext-link-type="uri" ns0:href="https://support.sas.com/resources/papers/proceedings12/344-2012.pdf">https://support.sas.com/resources/papers/proceedings12/344-2012.pdf</ext-link>. Accessed March 2018.</mixed-citation>
+</ref>
+<ref id="zoi190226r30">
+<label>30</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Gary</surname>
+<given-names>RJ</given-names>
+</name>
+</person-group>
+<article-title>A class of K-sample tests for comparing the cumulative incidence of a competing risk</article-title>. <source>Ann Stat</source>. <year>1988</year>;<volume>16</volume>:<fpage>1141</fpage>-<lpage>1154</lpage>. doi:<pub-id pub-id-type="doi">10.1214/aos/1176350951</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r31">
+<label>31</label>
+<mixed-citation publication-type="book">
+<person-group>
+<name name-style="western">
+<surname>Curtis</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Freedman</surname>
+<given-names>D</given-names>
+</name>, <name name-style="western">
+<surname>Ron</surname>
+<given-names>E</given-names>
+</name>, <etal />
+</person-group>
+<source>New Malignancies Among Cancer Survivors: SEER Cancer Registries, 1973-2000</source>. <publisher-loc>Bethesda, MD</publisher-loc>: <publisher-name>National Cancer Institute</publisher-name>; <year>2006</year>.</mixed-citation>
+</ref>
+<ref id="zoi190226r32">
+<label>32</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Cybulski</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Nazarali</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Narod</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Multiple primary cancers as a guide to heritability</article-title>. <source>Int J Cancer</source>. <year>2014</year>;<volume>135</volume>(<issue>8</issue>):<fpage>1756</fpage>-<lpage>1763</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ijc.28988</pub-id>
+<pub-id pub-id-type="pmid">24945890</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r33">
+<label>33</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</name>
+</person-group>
+<article-title>Cancer predisposition genes: molecular mechanisms and clinical impact on personalized cancer care: examples of Lynch and HBOC syndromes</article-title>. <source>Acta Pharmacol Sin</source>. <year>2016</year>;<volume>37</volume>(<issue>2</issue>):<fpage>143</fpage>-<lpage>149</lpage>. doi:<pub-id pub-id-type="doi">10.1038/aps.2015.89</pub-id>
+<pub-id pub-id-type="pmid">26616728</pub-id>
+<pub-id pub-id-type="pmcid">PMC4753377</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r34">
+<label>34</label>
+<mixed-citation publication-type="book">
+<person-group>
+<name name-style="western">
+<surname>Howlader</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Noone</surname>
+<given-names>AM</given-names>
+</name>, <name name-style="western">
+<surname>Krapcho</surname>
+<given-names>M</given-names>
+</name>, <etal />
+</person-group>, eds. <source>SEER Cancer Statistics Review, 1975-2014</source>. <publisher-loc>Bethesda, MD</publisher-loc>: <publisher-name>National Cancer Institute</publisher-name>; <year>2017</year>.</mixed-citation>
+</ref>
+<ref id="zoi190226r35">
+<label>35</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Keegan</surname>
+<given-names>THM</given-names>
+</name>, <name name-style="western">
+<surname>Bleyer</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Rosenberg</surname>
+<given-names>AS</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>Q</given-names>
+</name>, <name name-style="western">
+<surname>Goldfarb</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Second primary malignant neoplasms and survival in adolescent and young adult cancer survivors</article-title>. <source>JAMA Oncol</source>. <year>2017</year>;<volume>3</volume>(<issue>11</issue>):<fpage>1554</fpage>-<lpage>1557</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaoncol.2017.0465</pub-id>
+<pub-id pub-id-type="pmid">28426850</pub-id>
+<pub-id pub-id-type="pmcid">PMC5824209</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r36">
+<label>36</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Mork</surname>
+<given-names>ME</given-names>
+</name>, <name name-style="western">
+<surname>You</surname>
+<given-names>YN</given-names>
+</name>, <name name-style="western">
+<surname>Ying</surname>
+<given-names>J</given-names>
+</name>, <etal />
+</person-group>
+<article-title>High prevalence of hereditary cancer syndromes in adolescents and young adults with colorectal cancer</article-title>. <source>J Clin Oncol</source>. <year>2015</year>;<volume>33</volume>(<issue>31</issue>):<fpage>3544</fpage>-<lpage>3549</lpage>. doi:<pub-id pub-id-type="doi">10.1200/JCO.2015.61.4503</pub-id>
+<pub-id pub-id-type="pmid">26195711</pub-id>
+<pub-id pub-id-type="pmcid">PMC4979241</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r37">
+<label>37</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>D’Orazio</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Inherited cancer syndromes in children and young adults</article-title>. <source>J Pediatr Hematol Oncol</source>. <year>2010</year>;<volume>32</volume>(<issue>3</issue>):<fpage>195</fpage>-<lpage>228</lpage>. doi:<pub-id pub-id-type="doi">10.1097/MPH.0b013e3181ced34c</pub-id>
+<pub-id pub-id-type="pmid">20186103</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r38">
+<label>38</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Berrington de Gonzalez</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Curtis</surname>
+<given-names>RE</given-names>
+</name>, <name name-style="western">
+<surname>Kry</surname>
+<given-names>SF</given-names>
+</name>, <etal />
+</person-group>
+<article-title>Proportion of second cancers attributable to radiotherapy treatment in adults: a cohort study in the US SEER cancer registries</article-title>. <source>Lancet Oncol</source>. <year>2011</year>;<volume>12</volume>(<issue>4</issue>):<fpage>353</fpage>-<lpage>360</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1470-2045(11)70061-4</pub-id>
+<pub-id pub-id-type="pmid">21454129</pub-id>
+<pub-id pub-id-type="pmcid">PMC3086738</pub-id>
+</mixed-citation>
+</ref>
+<ref id="zoi190226r39">
+<label>39</label>
+<mixed-citation publication-type="journal">
+<person-group>
+<name name-style="western">
+<surname>Harlan</surname>
+<given-names>LC</given-names>
+</name>, <name name-style="western">
+<surname>Lynch</surname>
+<given-names>CF</given-names>
+</name>, <name name-style="western">
+<surname>Keegan</surname>
+<given-names>TH</given-names>
+</name>, <etal />; <collab>AYA HOPE Study Collaborative Group</collab>
+</person-group>
+<article-title>Recruitment and follow-up of adolescent and young adult cancer survivors: the AYA HOPE Study</article-title>. <source>J Cancer Surviv</source>. <year>2011</year>;<volume>5</volume>(<issue>3</issue>):<fpage>305</fpage>-<lpage>314</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11764-011-0173-y</pub-id>
+<pub-id pub-id-type="pmid">21274648</pub-id>
+<pub-id pub-id-type="pmcid">PMC3159756</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+<notes notes-type="supplementary-material" id="note-ZOI190226-1">
+<supplementary-material content-type="local-data" id="note-ZOI190226-1-s" position="float" orientation="portrait">
+<label>Supplement.</label>
+<caption>
+<p>
+<bold>eTable 1.</bold> Summary of Algorithms for Determining Multiple Primaries for Breast Cancer, Lymphoma, Melanoma and Testicular Cancer Based on the SEER Multiple Primary Rules</p>
+<p>
+<bold>eTable 2.</bold> Distribution of Types of Second Malignant Neoplasm Among Cancer Survivors and First Primary Cancer Among the Comparison Cohort Diagnosed During the Study Follow-up Period</p>
+<p>
+<bold>eTable 3.</bold> Risk Factors for SMN Among Survivors of AYA Cancer of the Five Most Common First Cancer Type—Multivariable Poisson Regression</p>
+<p>
+<bold>eTable 4.</bold> Hazard Ratio of Mortality Risk After Developing SMN in Cancer Survivors Compared With Mortality After Developing First Cancer in the Comparison Cohort</p>
+<p>
+<bold>eFigure 1.</bold> Study Population Flowchart</p>
+<p>
+<bold>eFigure 2.</bold> Cumulative Incidence Function of SMN Considering Competing Risk by First Cancer Type</p>
+</caption>
+<media ns0:href="jamanetwopen-2-e195536-s001.pdf" position="float" orientation="portrait">
+<caption>
+<p>Click here for additional data file.</p>
+</caption>
+</media>
+</supplementary-material>
+</notes>
+</back>
+</article>
+</pmc-articleset>

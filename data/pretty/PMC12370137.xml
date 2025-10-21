@@ -1,0 +1,2449 @@
+<pmc-articleset xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS One</journal-id>
+<journal-id journal-id-type="iso-abbrev">PLoS One</journal-id>
+<journal-id journal-id-type="pmc-domain-id">440</journal-id>
+<journal-id journal-id-type="pmc-domain">plosone</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-title-group>
+<journal-title>PLOS One</journal-title>
+</journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>PLOS</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC12370137</article-id>
+<article-id pub-id-type="pmcid-ver">PMC12370137.1</article-id>
+<article-id pub-id-type="pmcaid">12370137</article-id>
+<article-id pub-id-type="pmcaiid">12370137</article-id>
+<article-id pub-id-type="pmid">40839628</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0330259</article-id>
+<article-id pub-id-type="publisher-id">PONE-D-25-26586</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research Article</subject>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Oncology</subject>
+<subj-group>
+<subject>Cancers and Neoplasms</subject>
+<subj-group>
+<subject>Gastrointestinal Tumors</subject>
+<subj-group>
+<subject>Esophageal Cancer</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Oncology</subject>
+<subj-group>
+<subject>Cancers and Neoplasms</subject>
+<subj-group>
+<subject>Gastrointestinal Tumors</subject>
+<subj-group>
+<subject>Gastric Cancer</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Oncology</subject>
+<subj-group>
+<subject>Cancers and Neoplasms</subject>
+<subj-group>
+<subject>Gastrointestinal Tumors</subject>
+<subj-group>
+<subject>Pancreatic Cancer</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Oncology</subject>
+<subj-group>
+<subject>Cancers and Neoplasms</subject>
+<subj-group>
+<subject>Carcinoma</subject>
+<subj-group>
+<subject>Hepatocellular Carcinoma</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Oncology</subject>
+<subj-group>
+<subject>Cancers and Neoplasms</subject>
+<subj-group>
+<subject>Gastrointestinal Tumors</subject>
+<subj-group>
+<subject>Hepatocellular Carcinoma</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Gastroenterology and Hepatology</subject>
+<subj-group>
+<subject>Liver Diseases</subject>
+<subj-group>
+<subject>Hepatocellular Carcinoma</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Oncology</subject>
+<subj-group>
+<subject>Cancers and Neoplasms</subject>
+<subj-group>
+<subject>Gastrointestinal Tumors</subject>
+<subj-group>
+<subject>Gallbladder Cancer</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Oncology</subject>
+<subj-group>
+<subject>Cancers and Neoplasms</subject>
+<subj-group>
+<subject>Gastrointestinal Tumors</subject>
+<subj-group>
+<subject>Rectal Cancer</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Biology and Life Sciences</subject>
+<subj-group>
+<subject>Population Biology</subject>
+<subj-group>
+<subject>Population Metrics</subject>
+<subj-group>
+<subject>Death Rates</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Biology and Life Sciences</subject>
+<subj-group>
+<subject>Anatomy</subject>
+<subj-group>
+<subject>Digestive System</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+<subj-group subj-group-type="Discipline-v3">
+<subject>Medicine and Health Sciences</subject>
+<subj-group>
+<subject>Anatomy</subject>
+<subj-group>
+<subject>Digestive System</subject>
+</subj-group>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Burden of digestive system neoplasms in middle-aged and elderly adults: Temporal trends and geographic disparities (1990–2021)</article-title>
+<alt-title alt-title-type="running-head">Global burden of digestive system neoplasms (1990–2021)</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Chai</surname>
+<given-names initials="Y">Yinying</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+<xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref>
+<xref rid="fn001" ref-type="author-notes">
+<sup>☯</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Xu</surname>
+<given-names initials="T">Tinghui</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+<xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref>
+<xref rid="fn001" ref-type="author-notes">
+<sup>☯</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Chen</surname>
+<given-names initials="B">Bihua</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Wu</surname>
+<given-names initials="Y">Yi</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>He</surname>
+<given-names initials="Y">Yibo</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref>
+<xref rid="econtrib001" ref-type="author-notes">
+<sup>‡</sup>
+</xref>
+<xref rid="cor001" ref-type="corresp">*</xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-4538-594X</contrib-id>
+<name name-style="western">
+<surname>Qiu</surname>
+<given-names initials="S">Shengliang</given-names>
+</name>
+<role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+<role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+<xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref>
+<xref rid="econtrib001" ref-type="author-notes">
+<sup>‡</sup>
+</xref>
+<xref rid="cor001" ref-type="corresp">*</xref>
+</contrib>
+</contrib-group>
+<aff id="aff001">
+<label>1</label>
+<addr-line>The First School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, Zhejiang, China</addr-line>
+</aff>
+<aff id="aff002">
+<label>2</label>
+<addr-line>The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, Zhejiang, China</addr-line>
+</aff>
+<contrib-group>
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Wang</surname>
+<given-names initials="J">Jincheng</given-names>
+</name>
+<role>Editor</role>
+<xref rid="edit1" ref-type="aff" />
+</contrib>
+</contrib-group>
+<aff id="edit1">
+<addr-line>Hokkaido University: Hokkaido Daigaku, JAPAN</addr-line>
+</aff>
+<author-notes>
+<corresp id="cor001">* E-mail: <email>shengliang.qiu@zcmu.edu.cn</email> (SQ); <email>20173626@zcmu.edu.cn</email> (YH)</corresp>
+<fn fn-type="COI-statement" id="coi001">
+<p>
+<bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p>
+</fn>
+<fn fn-type="other" id="fn001">
+<p>☯ These authors contributed equally to this work and share first authorship.</p>
+</fn>
+<fn fn-type="other" id="econtrib001">
+<p>‡ YH and SQ also contributed equally to this work and share correspondence authorship.</p>
+</fn>
+</author-notes>
+<pub-date pub-type="epub">
+<day>21</day>
+<month>8</month>
+<year>2025</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2025</year>
+</pub-date>
+<volume>20</volume>
+<issue>8</issue>
+<issue-id pub-id-type="pmc-issue-id">494261</issue-id>
+<elocation-id>e0330259</elocation-id>
+<history>
+<date date-type="received">
+<day>20</day>
+<month>5</month>
+<year>2025</year>
+</date>
+<date date-type="accepted">
+<day>29</day>
+<month>7</month>
+<year>2025</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>21</day>
+<month>08</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>22</day>
+<month>08</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2025-08-22 10:25:47.697">
+<day>22</day>
+<month>08</month>
+<year>2025</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2025 Chai et al</copyright-statement>
+<copyright-year>2025</copyright-year>
+<copyright-holder>Chai et al</copyright-holder>
+<license>
+<ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref>
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns1:href="pone.0330259.pdf" />
+<self-uri content-type="pdf" ns1:href="pone.0330259.pdf" />
+<abstract>
+<sec id="sec001">
+<title>Objective</title>
+<p>This study aims to comprehensively analyze the temporal trends and geographic disparities in the burden of seven digestive system neoplasms—esophageal cancer, stomach cancer, colon and rectum cancer, liver cancer, gallbladder and biliary tract cancer, pancreatic cancer, and benign and in situ intestinal neoplasms—among middle-aged and elderly populations from 1990 to 2021, and to project future trends through 2035.</p>
+</sec>
+<sec id="sec002">
+<title>Methods</title>
+<p>This study utilized data from the Global Burden of Disease (GBD) 2021 database to analyze the burden of seven digestive system neoplasms among middle-aged and elderly adults across 204 countries and territories from 1990 to 2021. Estimates of incidence, mortality, and disability-adjusted life years (DALYs) were extracted and stratified by year, sex, age group, region, and Socio-Demographic Index (SDI). Trends were evaluated using estimated annual percentage change (EAPC), and risk factors were analyzed using the GBD comparative risk assessment framework.</p>
+</sec>
+<sec id="sec003">
+<title>Results</title>
+<p>In 2021, colon and rectum cancer dominated the global burden of digestive system neoplasms. Trends from 1990 to 2021 revealed a clear split: the incidence of colon and rectum cancer (EAPC = 0.26, 95% CI 0.19 to 0.33), liver cancer (EAPC = 0.25, 95% CI 0.82 to 1.38), pancreatic cancer (EAPC = 0.55, 95% CI 0.53 to 0.57), and benign intestinal neoplasms (EAPC = 1.1, 95% CI 0.82 to 1.38) rose globally, while esophageal (EAPC = −0.92, 95% CI −1.06 to −0.79), stomach (EAPC = −1.63, 95% CI −1.71 to −1.55), and gallbladder/biliary tract cancers (EAPC = −0.28, 95% CI −0.31 to −0.25) declined. Regional hotspots for burden were East Asia and High-income Asia Pacific. Males generally faced higher burdens, except for gallbladder and biliary tract cancer. Key risk factors included smoking, alcohol consumption, dietary patterns, and metabolic factors such as high BMI and elevated fasting plasma glucose.</p>
+</sec>
+<sec id="sec004">
+<title>Conclusions</title>
+<p>The burden of digestive system neoplasms remains substantial in middle-aged and elderly adults, with significant regional differences. With the growing aging population, efforts should prioritize high-risk populations and invest in healthcare infrastructure in middle- and low-SDI regions to control established cancers. Additionally, implementing robust global prevention policies, such as expanding disease screening, raising public health awareness, and managing metabolic disorders, is essential to mitigate the rising tide of digestive system neoplasms.</p>
+</sec>
+</abstract>
+<funding-group>
+<award-group id="award001">
+<funding-source>
+<institution>Zhejiang Province Traditional Chinese Medicine Science and Technology Project</institution>
+</funding-source>
+<award-id>No. 2024ZR015</award-id>
+<principal-award-recipient>
+<name name-style="western">
+<surname>He</surname>
+<given-names>Yibo</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<award-group id="award002">
+<funding-source>
+<institution>Zhejiang Province Traditional Chinese Medicine Science and Technology Project </institution>
+</funding-source>
+<award-id>No. 2022ZA056</award-id>
+<principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-4538-594X</contrib-id>
+<name name-style="western">
+<surname>Qiu</surname>
+<given-names>Shengliang</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<award-group id="award003">
+<funding-source>
+<institution>Zhejiang Province Medical and Health Science and Technology Project</institution>
+</funding-source>
+<award-id>No. 2024KY1201</award-id>
+<principal-award-recipient>
+<name name-style="western">
+<surname>He</surname>
+<given-names>Yibo</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<award-group id="award004">
+<funding-source>
+<institution-wrap>
+<institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100004731</institution-id>
+<institution>Natural Science Foundation of Zhejiang Province</institution>
+</institution-wrap>
+</funding-source>
+<award-id>No. QN25H270030</award-id>
+<principal-award-recipient>
+<name name-style="western">
+<surname>He</surname>
+<given-names>Yibo</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<funding-statement>The author(s) declare that financial support was received for the research, authorship, and/or publication of this article. The study design, data collection, data analysis, manuscript preparation, and publication decisions of this work were supported by Zhejiang Province Traditional Chinese Medicine Science and Technology Project (No. 2024ZR015 by YH and No. 2022ZA056 by SQ), Zhejiang Province Medical and Health Science and Technology Project (No. 2024KY1201 by YH), and the Natural Science Foundation of Zhejiang Province (No. QN25H270030 by YH).</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="6" />
+<table-count count="1" />
+<page-count count="22" />
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta id="data-availability">
+<meta-name>Data Availability</meta-name>
+<meta-value>The data underlying the results presented in the study are available from <ext-link ns1:href="https://vizhub.healthdata.org/gbd-results" ext-link-type="uri">https://vizhub.healthdata.org/gbd-results</ext-link>.</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+<notes>
+<title>Data Availability</title>
+<p>The data underlying the results presented in the study are available from <ext-link ns1:href="https://vizhub.healthdata.org/gbd-results" ext-link-type="uri">https://vizhub.healthdata.org/gbd-results</ext-link>.</p>
+</notes>
+</front>
+<body>
+<sec sec-type="intro" id="sec005">
+<title>1. Introduction</title>
+<p>Digestive system neoplasms, encompassing esophageal cancer, stomach cancer, colorectal cancer, liver cancer, gallbladder and biliary tract cancer, pancreatic cancer, as well as benign and in situ intestinal neoplasms, are among the most pressing health concerns globally [<xref rid="pone.0330259.ref001" ref-type="bibr">1</xref>,<xref rid="pone.0330259.ref002" ref-type="bibr">2</xref>]. Digestive cancers account for approximately 26% of the global cancer incidence and 35% of cancer-related deaths each year, posing significant challenges to public health [<xref rid="pone.0330259.ref003" ref-type="bibr">3</xref>]. These neoplasms not only substantially reduce patients’ quality of life, shorten their life expectancy, but also impose considerable economic burdens on patients, their families, and healthcare systems [<xref rid="pone.0330259.ref004" ref-type="bibr">4</xref>].</p>
+<p>Geographic disparities in the incidence, mortality, and burden of digestive system neoplasms are particularly pronounced. In 2020, the incidence of gastrointestinal cancers in East Asia accounted for 48.4% of the global total, underscoring the region’s disproportionately high burden of these diseases, with particularly high rates of stomach, liver, esophageal, and gallbladder cancers compared to other regions [<xref rid="pone.0330259.ref005" ref-type="bibr">5</xref>]. Contributing factors include distinct dietary patterns, lifestyle behaviors, and the higher prevalence of infectious etiologies in this region [<xref rid="pone.0330259.ref006" ref-type="bibr">6</xref>]. On the contrary, high-income regions such as North America have reported increasing incidences of colorectal and pancreatic cancers, which are largely associated with lifestyle factors including obesity and metabolic disorders [<xref rid="pone.0330259.ref007" ref-type="bibr">7</xref>,<xref rid="pone.0330259.ref008" ref-type="bibr">8</xref>]. At the sex level, men bear a disproportionately higher burden of digestive system neoplasms. Worldwide, distinct male-to-female incidence ratios are observed across specific subtypes of esophageal and gastric cancers, with males significantly outnumbering females in all subtypes, and the highest ratio observed for esophageal adenocarcinoma (EAC) at 6.7:1 [<xref rid="pone.0330259.ref009" ref-type="bibr">9</xref>]. For colorectal cancer, the incidence of colon cancer is approximately 41.2 per 100,000 person-years in men, compared to 32.4 in women, while rectal cancer incidence is 22.8 versus 12.6, respectively [<xref rid="pone.0330259.ref010" ref-type="bibr">10</xref>].</p>
+<p>Epidemiological studies consistently demonstrate that the incidence and mortality of digestive system neoplasms increase with age [<xref rid="pone.0330259.ref011" ref-type="bibr">11</xref>,<xref rid="pone.0330259.ref012" ref-type="bibr">12</xref>]. For example, the incidence of colorectal cancer is concentrated in the age group of 50–69 years globally [<xref rid="pone.0330259.ref013" ref-type="bibr">13</xref>]. Similarly, pancreatic cancer incidence rates are relatively higher in individuals aged over 65 years, with an upward trend observed, and the average age at diagnosis ranges from 60 to 65 years [<xref rid="pone.0330259.ref014" ref-type="bibr">14</xref>]. And between 2000 and 2019, 81.82% of gastric cancer cases occurred in individuals aged 55 years or older [<xref rid="pone.0330259.ref015" ref-type="bibr">15</xref>]. Additionally, gastrointestinal cancers are often diagnosed at an advanced stages in elderly patients due to misinterpretation of symptoms [<xref rid="pone.0330259.ref016" ref-type="bibr">16</xref>]. Furthermore, the fact that these elderly patients often suffer from multiple chronic comorbidities, such as hypertension and diabetes, which further exacerbates the difficulties in diagnosis and treatment [<xref rid="pone.0330259.ref017" ref-type="bibr">17</xref>].</p>
+<p>Although previous studies have systematically analyzed the global burden of digestive system neoplasms, research focusing specifically on middle-aged and elderly populations remains limited and has paid insufficient attention to benign and in situ intestinal neoplasms [<xref rid="pone.0330259.ref003" ref-type="bibr">3</xref>,<xref rid="pone.0330259.ref018" ref-type="bibr">18</xref>]. Additionally, elderly patients are underrepresented in clinical trials, meaning that existing treatment strategies may not fully meet their special needs. As the global population continues to age, the prevalence and burden of these diseases are expected to escalate further [<xref rid="pone.0330259.ref019" ref-type="bibr">19</xref>]. This study, using data from the Global Burden of Disease (GBD) 2021 database and advanced statistical methods, seeks to enhance the understanding of this field by focusing on the burden of seven digestive system neoplasms in middle-aged and elderly adults, exploring temporal trends and geographic disparities. By doing so, our study aims to provide tailored insights to inform targeted public health interventions and enhance healthcare strategies for aging populations.</p>
+</sec>
+<sec sec-type="materials|methods" id="sec006">
+<title>2. Materials and methods</title>
+<sec id="sec007">
+<title>2.1 Data sources</title>
+<p>The study utilizes the Global Burden of Disease (GBD) 2021 data retrieved from the GBD Results Tool (<ext-link ns1:href="https://vizhub.healthdata.org/gbd-results" ext-link-type="uri">https://vizhub.healthdata.org/gbd-results</ext-link>), which encompassed 371 diseases and injuries and 88 risk factors across 204 countries and regions [<xref rid="pone.0330259.ref020" ref-type="bibr">20</xref>]. The dataset provided estimates of incidence, mortality, and disability-adjusted life years (DALYs) across times, sex, age group, and SDI. Our study includes all countries and regions from the GBD database for the period 1990–2021, focusing on individuals aged 55 and older, both male and female, diagnosed with digestive system neoplasms. These neoplasms include esophageal cancer, stomach cancer, colon and rectum cancer, liver cancer, gallbladder and biliary tract cancer, pancreatic cancer, and benign and in situ intestinal neoplasms. This systematic characterization of disparities in the burden of digestive neoplasms across regions and populations provides evidence-based insights to inform precision prevention strategies and healthcare prioritization.</p>
+<p>This study quantifies the disease burden of digestive system cancers, including digestive tract cancers (esophageal cancer, stomach cancer, and colon and rectum cancer) and digestive support system cancers (liver cancer, gallbladder and biliary tract cancer, and pancreatic cancer), along with benign and in situ intestinal neoplasms, using indicators like incidence, mortality, and DALYs. Notably, DALYs are calculated as the sum of two components: years of life lost (YLLs) and years lived with disability (YLDs), with detailed definitions available in the <xref rid="pone.0330259.s009" ref-type="supplementary-material">S1 Table</xref>. Benign and in situ intestinal neoplasms are analyzed separately from malignant cancers due to their chronic, non-lethal nature and minimal impact on patients’ quality of life. Therefore, their associated DALYs and deaths are reported as 0 in the GBD study. In GBD 2021, the definitions of seven digestive system neoplasms are mapped to both the International Classification of Diseases (ICD)-10 and ICD-9 codes. The specific ICD codes corresponding to each disease are provided in the <xref rid="pone.0330259.s010" ref-type="supplementary-material">S2 Table</xref> [<xref rid="pone.0330259.ref020" ref-type="bibr">20</xref>].</p>
+<p>The Socio-Demographic Index (SDI) serves as a comprehensive indicator of a country’s overall development status, incorporating multiple socio-economic parameters such as income per capita, average years of education, and fertility rates in younger females [<xref rid="pone.0330259.ref020" ref-type="bibr">20</xref>]. The SDI scale ranges from 0 to 1, with higher values indicating higher levels of socio-economic development. To classify countries according to their development levels, SDI values are divided into five categories based on quartiles: Low SDI (0–0.454743), Low-middle SDI (0.454743–0.607679), Middle SDI (0.607679–0.689504), High-middle SDI (0.689504–0.805129), and High SDI (0.805129–1).</p>
+</sec>
+<sec id="sec008">
+<title>2.2 Attributable risk factors</title>
+<p>The comparative risk assessment framework employed in the GBD Study is designed to estimate the burden attributable to various risk factors, which are categorized into a four-level hierarchical structure. This study specifically focused on analyzing the most granular risk levels, namely levels 2 and 3, for each risk factor associated with digestive system neoplasms. In GBD 2021, the process of estimating risk factor burden involved a series of interconnected methodological steps. First, the relative risk (RR) for health outcomes was calculated based on exposure to specific risk factors. Next, exposure data were gathered and analyzed using Bayesian statistical methods to assess the distribution of risk factors. Theoretical Minimum Risk Exposure Levels (TMRELs) were then established based on the available epidemiological evidence, aiming to identify optimal exposure thresholds. Subsequently, population-attributable fractions (PAFs) were computed for each risk-outcome pair to quantify potential health improvements if exposure were reduced to the TMREL. Age-specific exposure values (SEVs) were also calculated to reflect exposure prevalence, with adjustments made for age-related risk factors. To refine these estimates, mediation factors were applied to account for indirect relationships between risk factors and outcomes. Finally, attributable burden was estimated by multiplying PAFs with the disease burden, measured in DALYs. These results were stratified by SDI quintiles and presented as counts, age-standardized rates, and rankings [<xref rid="pone.0330259.ref021" ref-type="bibr">21</xref>].</p>
+<p>In our study, esophageal cancer is found to be associated with high alcohol use, smoking, chewing tobacco, and a diet low in vegetables in individuals aged 55 and older. High alcohol use is defined as alcohol consumption exceeding the TMREL, with in GBD 2021 is estimated based on region, age, sex, and year to tailor estimates to specific populations. Alcohol exposure was measured in grams of pure alcohol consumed per day. Smoking and chewing tobacco are defined as the current use of any smoked tobacco product or the use of chewing tobacco, including local products like betel quid with tobacco, in the past 30 days or according to the closest survey definition, regardless of frequency. A diet low in vegetables is defined as consuming fewer than 306–372 g/day of vegetables. Stomach cancer is linked to a diet high in sodium and smoking. High sodium intake is defined by 24-hour urinary sodium excretion levels of 1–5 g/day. Turning to colon and rectum cancer, a broader range of risk factors are identified. This included diet low in whole grains, high alcohol use, high fasting plasma glucose (FPG), smoking, diet high in red meat, diet low in calcium, diet low in fiber, diet low in milk, low physical activity, diet high in processed meat, and high body-mass index (BMI). For example, low whole grain consumption is defined as average daily consumption of fewer than 160–210 grams, while high BMI is defined as greater than 23 kg/m² for individuals aged 55 and above. Moreover, high FPG is categorized as levels above 4.88–5.30 mmol/L, and low physical activity is quantified as less than 3600–4400 MET-minutes per week. High red meat and processed meat consumption are defined as daily consumption of up to 200 grams of unprocessed red meat or any amount of processed meat. Other dietary factors, including low calcium, fiber, and milk intake, were similarly defined based on GBD 2021 thresholds (<xref rid="pone.0330259.s011" ref-type="supplementary-material">S3 Table</xref>) [<xref rid="pone.0330259.ref021" ref-type="bibr">21</xref>].</p>
+<p>For liver cancer, the risk factors included smoking, high alcohol use, high FPG, drug use, and high BMI. Drug use is defined as the current use of illicit drugs, including opioids, amphetamines, and cocaine. Gallbladder and biliary tract cancer and pancreatic cancer are found to be influenced by high BMI, and pancreatic cancer is also associated with high FPG and smoking [<xref rid="pone.0330259.ref021" ref-type="bibr">21</xref>].</p>
+</sec>
+<sec id="sec009">
+<title>2.3 Statistical analysis</title>
+<p>This study evaluated the disease burden of digestive system neoplasms among middle-aged and elderly adults, stratified by age group, sex, year, and geographical location. Temporal trends were quantified using estimated annual percentage change (EAPC) with 95% confidence intervals (CIs). Trend interpretation followed three criteria: (1) Increasing if both the EAPC and its lower CI bound exceeded 0; (2) Decreasing if both the EAPC and its upper CI bound were below 0; (3) Stable if the CI included 0. Additionally, we examined the relationship between disease-related DALY rates and SDI for each region.</p>
+<p>To disentangle age, period, and cohort effects on epidemiological patterns, we employed the Bayesian Age-Period-Cohort (BAPC) model. This model incorporates random walk priors to smooth temporal variations while accounting for population structural changes. The model was implemented via integrated nested Laplace approximation (INLA), a computationally efficient Bayesian framework that treats parameters as random variables with specified prior distributions [<xref rid="pone.0330259.ref022" ref-type="bibr">22</xref>]. Compared to other methods, the BAPC model exhibits superior robustness in handling sparse data and projecting age-standardized trends.</p>
+<p>Data analysis and visualization were conducted using R software (version 4.4.1), with the following packages employed for data manipulation, statistical analysis, and visualization: “tidyverse”, “dplyr”, “ggplot2”, “ggmap”, “sf”, “BAPC”, and “INLA”.</p>
+</sec>
+</sec>
+<sec sec-type="results" id="sec010">
+<title>3. Results</title>
+<sec id="sec011">
+<title>3.1 Digestive system neoplasms in middle-aged and elderly adults: Global trends</title>
+<p>In 2021, the global incidence was estimated at approximately 488 thousand people (95% uncertainty interval [UI] 429–548) for esophageal cancer, 1,020 thousand people (95% UI 868–1,161) for stomach cancer, and 1.83 million people (95%UI 1.66 to 1.96) for colon and rectum cancer (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). Colon and rectum cancer had the highest incidence rate at 123.13 per 100,000 (95%UI 111.87 to 132.19). From 1990 to 2021, colon and rectum cancer (EAPC = 0.26, 95% CI 0.19 to 0.33) showed an increasing trend. Conversely, both esophageal cancer (EAPC = −0.92, 95% CI-1.06 to −0.79), and stomach cancer (EAPC = −1.63, 95% CI −1.71 to −1.55) experienced a decline in incidence rates (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). In the same year, the global incidence was estimated to be around 401 thousand people (95%UI 365–444) for liver cancer, 192 thousand people (95%UI 163–217) for gallbladder and biliary tract cancer, and 448 thousand people (95%UI 405–483) for pancreatic cancer (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). From 1990 to 2021, gallbladder and biliary tract cancer (EAPC = −0.28, 95% CI-0.31 to −0.25) incidence showed a decreasing trend, while liver cancer (EAPC = 0.25, 95% CI 0.82 to 1.38) and pancreatic cancer (EAPC = 0.55, 95% CI 0.53 to 0.57) displayed increasing trends (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>).</p>
+<table-wrap position="float" id="pone.0330259.t001" orientation="portrait">
+<object-id pub-id-type="doi">10.1371/journal.pone.0330259.t001</object-id>
+<label>Table 1</label>
+<caption>
+<title>Global incidence, mortality, and DALYs of digestive system neoplasms in middle-aged and elderly adults in 1990/2021 and their temporal trends.</title>
+</caption>
+<alternatives>
+<graphic id="pone.0330259.t001g" position="float" orientation="portrait" ns1:href="pone.0330259.t001.jpg" />
+<table frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+<col align="left" valign="middle" span="1" />
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1" />
+<th align="left" colspan="2" rowspan="1">1990</th>
+<th align="left" colspan="2" rowspan="1">2021</th>
+<th align="left" rowspan="1" colspan="1">1990–2021 EAPC<break />(95%CI)</th>
+</tr>
+<tr>
+<th align="left" rowspan="1" colspan="1" />
+<th align="left" rowspan="1" colspan="1">Counts<break />(95%UI)</th>
+<th align="left" rowspan="1" colspan="1">Rate<break />(95%UI)</th>
+<th align="left" rowspan="1" colspan="1">Counts<break />(95%UI)</th>
+<th align="left" rowspan="1" colspan="1">Rate<break />(95%UI)</th>
+<th align="left" rowspan="1" colspan="1" />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="6" rowspan="1">
+<bold>Incidence</bold>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Esophageal cancer</td>
+<td align="left" rowspan="1" colspan="1">276819<break />(246623-303205)</td>
+<td align="left" rowspan="1" colspan="1">41.23<break />(36.73-45.16)</td>
+<td align="left" rowspan="1" colspan="1">487973<break />(429298-548485)</td>
+<td align="left" rowspan="1" colspan="1">32.84<break />(28.89-36.91)</td>
+<td align="left" rowspan="1" colspan="1">−0.92<break />(−1.06 to −0.79)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Stomach cancer</td>
+<td align="left" rowspan="1" colspan="1">748262<break />(685876-820446)</td>
+<td align="left" rowspan="1" colspan="1">111.44<break />(102.15-122.19)</td>
+<td align="left" rowspan="1" colspan="1">1019630<break />(868077-1160558)</td>
+<td align="left" rowspan="1" colspan="1">68.62<break />(58.42-78.1)</td>
+<td align="left" rowspan="1" colspan="1">−1.63<break />(−1.71 to −1.55)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Colon and rectum cancer</td>
+<td align="left" rowspan="1" colspan="1">744710<break />(700000-772875)</td>
+<td align="left" rowspan="1" colspan="1">110.91<break />(104.26-115.11)</td>
+<td align="left" rowspan="1" colspan="1">1829732<break />(1662320-1964373)</td>
+<td align="left" rowspan="1" colspan="1">123.13<break />(111.87-132.19)</td>
+<td align="left" rowspan="1" colspan="1">0.26<break />(0.19 to 0.33)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Liver cancer</td>
+<td align="left" rowspan="1" colspan="1">161130<break />(148984-176801)</td>
+<td align="left" rowspan="1" colspan="1">24<break />(22.19-26.33)</td>
+<td align="left" rowspan="1" colspan="1">401168<break />(364558-443755)</td>
+<td align="left" rowspan="1" colspan="1">27<break />(24.53-29.86)</td>
+<td align="left" rowspan="1" colspan="1">0.25<break />(0.12 to 0.38)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Gallbladder and biliary tract cancer</td>
+<td align="left" rowspan="1" colspan="1">92729<break />(83666-100988)</td>
+<td align="left" rowspan="1" colspan="1">13.81<break />(12.46-15.04)</td>
+<td align="left" rowspan="1" colspan="1">192028<break />(163007-216508)</td>
+<td align="left" rowspan="1" colspan="1">12.92<break />(10.97-14.57)</td>
+<td align="left" rowspan="1" colspan="1">−0.28<break />(−0.31 to −0.25)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Pancreatic cancer</td>
+<td align="left" rowspan="1" colspan="1">173675<break />(164223-181689)</td>
+<td align="left" rowspan="1" colspan="1">25.87<break />(24.46-27.06)</td>
+<td align="left" rowspan="1" colspan="1">448383<break />(404923-482978)</td>
+<td align="left" rowspan="1" colspan="1">30.17<break />(27.25-32.5)</td>
+<td align="left" rowspan="1" colspan="1">0.55<break />(0.53 to 0.57)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Benign and in situ intestinal neoplasms</td>
+<td align="left" rowspan="1" colspan="1">336899<break />(236325-484143)</td>
+<td align="left" rowspan="1" colspan="1">50.18<break />(35.2-72.11)</td>
+<td align="left" rowspan="1" colspan="1">1038322<break />(744431.77-1431781)</td>
+<td align="left" rowspan="1" colspan="1">69.87<break />(50.1-96.35)</td>
+<td align="left" rowspan="1" colspan="1">1.1<break />(0.82 to 1.38)</td>
+</tr>
+<tr>
+<td align="left" colspan="6" rowspan="1">
+<bold>Mortality</bold>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Esophageal cancer</td>
+<td align="left" rowspan="1" colspan="1">286544<break />(255217-313422)</td>
+<td align="left" rowspan="1" colspan="1">42.68<break />(38.01-46.68)</td>
+<td align="left" rowspan="1" colspan="1">467907<break />(412193-525086)</td>
+<td align="left" rowspan="1" colspan="1">31.49<break />(27.74-35.34)</td>
+<td align="left" rowspan="1" colspan="1">−1.2<break />(−1.35 to −1.05)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Stomach cancer</td>
+<td align="left" rowspan="1" colspan="1">675865<break />(618067-748598)</td>
+<td align="left" rowspan="1" colspan="1">100.66<break />(92.05-111.49)</td>
+<td align="left" rowspan="1" colspan="1">816991<break />(698480-925626)</td>
+<td align="left" rowspan="1" colspan="1">54.98<break />(47-62.29)</td>
+<td align="left" rowspan="1" colspan="1">−2.05<break />(−2.15 to −1.95)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Colon and rectum cancer</td>
+<td align="left" rowspan="1" colspan="1">475987<break />(445350-497536)</td>
+<td align="left" rowspan="1" colspan="1">70.89<break />(66.33-74.1)</td>
+<td align="left" rowspan="1" colspan="1">908497<break />(820975-975994)</td>
+<td align="left" rowspan="1" colspan="1">61.14<break />(55.25-65.68)</td>
+<td align="left" rowspan="1" colspan="1">−0.57<break />(−0.62 to −0.51)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Liver cancer</td>
+<td align="left" rowspan="1" colspan="1">165023<break />(152295-181899)</td>
+<td align="left" rowspan="1" colspan="1">24.58<break />(22.68-27.09)</td>
+<td align="left" rowspan="1" colspan="1">383399<break />(349408-423450)</td>
+<td align="left" rowspan="1" colspan="1">25.8<break />(23.51-28.5)</td>
+<td align="left" rowspan="1" colspan="1">0.06<break />(−0.07 to 0.19)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Gallbladder and biliary tract cancer</td>
+<td align="left" rowspan="1" colspan="1">86386<break />(77436-95544)</td>
+<td align="left" rowspan="1" colspan="1">12.87<break />(11.53-14.23)</td>
+<td align="left" rowspan="1" colspan="1">155077<break />(129703-174512)</td>
+<td align="left" rowspan="1" colspan="1">10.44<break />(8.73-11.74)</td>
+<td align="left" rowspan="1" colspan="1">−0.77<break />(−0.81 to −0.73)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Pancreatic cancer</td>
+<td align="left" rowspan="1" colspan="1">180634.91<break />(170685-189026)</td>
+<td align="left" rowspan="1" colspan="1">26.9<break />(25.42-28.15)</td>
+<td align="left" rowspan="1" colspan="1">453010<break />(409091-487561)</td>
+<td align="left" rowspan="1" colspan="1">30.49<break />(27.53-32.81)</td>
+<td align="left" rowspan="1" colspan="1">0.44<break />(0.42 to 0.46)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Benign and in situ intestinal neoplasms</td>
+<td align="left" rowspan="1" colspan="1">NA</td>
+<td align="left" rowspan="1" colspan="1">NA</td>
+<td align="left" rowspan="1" colspan="1">NA</td>
+<td align="left" rowspan="1" colspan="1">NA</td>
+<td align="left" rowspan="1" colspan="1">NA</td>
+</tr>
+<tr>
+<td align="left" colspan="6" rowspan="1">
+<bold>DALYs</bold>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Esophageal cancer</td>
+<td align="left" rowspan="1" colspan="1">6735509<break />(5994877-7409223)</td>
+<td align="left" rowspan="1" colspan="1">1003.17<break />(892.86-1103.51)</td>
+<td align="left" rowspan="1" colspan="1">9991156<break />(8805232-11251749)</td>
+<td align="left" rowspan="1" colspan="1">672.36<break />(592.55-757.19)</td>
+<td align="left" rowspan="1" colspan="1">−1.5<break />(−1.63 to −1.37)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Stomach cancer</td>
+<td align="left" rowspan="1" colspan="1">15165828<break />(13733880-16789771)</td>
+<td align="left" rowspan="1" colspan="1">2258.75<break />(2045.48-2500.62)</td>
+<td align="left" rowspan="1" colspan="1">16668809<break />(14297014-19121976)</td>
+<td align="left" rowspan="1" colspan="1">1121.73<break />(962.12-1286.82)</td>
+<td align="left" rowspan="1" colspan="1">−2.37<break />(−2.46 to −2.29)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Colon and rectum cancer</td>
+<td align="left" rowspan="1" colspan="1">9999397<break />(9452012-10456034)</td>
+<td align="left" rowspan="1" colspan="1">1489.28<break />(1407.75-1557.29)</td>
+<td align="left" rowspan="1" colspan="1">18176256<break />(16712440-19425789)</td>
+<td align="left" rowspan="1" colspan="1">1223.18<break />(1124.67-1307.27)</td>
+<td align="left" rowspan="1" colspan="1">−0.74<break />(−0.79 to −0.69)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Liver cancer</td>
+<td align="left" rowspan="1" colspan="1">3908185<break />(3603136-4308069)</td>
+<td align="left" rowspan="1" colspan="1">582.07<break />(536.64-641.63)</td>
+<td align="left" rowspan="1" colspan="1">8260582<break />(7548135-9176565)</td>
+<td align="left" rowspan="1" colspan="1">555.9<break />(507.95-617.54)</td>
+<td align="left" rowspan="1" colspan="1">−0.26<break />(−0.37 to −0.15)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Gallbladder and biliary tract cancer</td>
+<td align="left" rowspan="1" colspan="1">1787213<break />(1617188-1980946)</td>
+<td align="left" rowspan="1" colspan="1">266.18<break />(240.86-295.04)</td>
+<td align="left" rowspan="1" colspan="1">2999189<break />(2489403-3445819)</td>
+<td align="left" rowspan="1" colspan="1">201.83<break />(167.53-231.89)</td>
+<td align="left" rowspan="1" colspan="1">−1.01<break />(−1.05 to −0.96)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Pancreatic cancer</td>
+<td align="left" rowspan="1" colspan="1">3848534<break />(3667147-4026315)</td>
+<td align="left" rowspan="1" colspan="1">573.19<break />(546.17-599.67)</td>
+<td align="left" rowspan="1" colspan="1">9042586<break />(8338981-9697828)</td>
+<td align="left" rowspan="1" colspan="1">608.52<break />(561.17-652.62)</td>
+<td align="left" rowspan="1" colspan="1">0.22<break />(0.2 to 0.24)</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"> Benign and in situ intestinal neoplasms</td>
+<td align="left" rowspan="1" colspan="1">0<break />(0−0)</td>
+<td align="left" rowspan="1" colspan="1">0<break />(0−0)</td>
+<td align="left" rowspan="1" colspan="1">0<break />(0−0)</td>
+<td align="left" rowspan="1" colspan="1">0<break />(0−0)</td>
+<td align="left" rowspan="1" colspan="1">NA</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t001fn001">
+<p>DALYs, disability-adjusted life years; EAPC, estimated annual percentage change; UI, uncertainty Interval; CI, confidence interval.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>In terms of mortality in 2021, esophageal cancer accounted for roughly 468 thousand people (95%UI 412–525), stomach cancer for 817 thousand people (95%UI 698–926), and colon and rectum cancer for 908 thousand people (95%UI 821–976) (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). Notably, all three digestive tract cancers demonstrated declining mortality trends from 1990 to 2021, with stomach cancer (EAPC = −2.05, 95% CI −2.15 to −1.95) showing the most pronounced decrease (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). Pancreatic cancer had the highest mortality rate in 2021 at 30.49 per 100,000 (95%UI 27.53 to 32.81) compared to the other two types of digestive support system cancers (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). Over the course of 32 years, pancreatic cancer (EAPC = 0.44, 95% CI 0.42 to 0.46) showed upward mortality trends, whereas liver cancer (EAPC = 0.06, 95% CI −0.07 to 0.19) mortality remained relatively stable, and a decreasing trend was observed for gallbladder and biliary tract cancer (EAPC = −0.77, 95% CI −0.81 to −0.73)(<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>).</p>
+<p>In 2021, colon and rectum cancer accounted for the highest number of DALYs among digestive system neoplasms globally, at about 18.18 million people (95%UI 16.71 to 19.43) (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). From 1990 to 2021, the DALY rate for esophageal cancer (EAPC = −1.5, 95% CI −1.63 to −1.37) showed a declining trend, as did stomach cancer (EAPC = −2.37, 95% CI −2.46 to −2.29) and colon and rectum cancer (EAPC = −0.74, 95% CI −0.79 to −0.69)(<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). Among digestive support system cancers, pancreatic cancer had the highest DALY rate in 2021, at 608.52 (561.17 to 652.62) (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>). Furthermore, from 1990 to 2021, pancreatic cancer (EAPC = 0.22, 95% CI 0.2 to 0.24) experienced an increase in DALYs, while liver cancer (EAPC = −0.26, 95% CI −0.37 to −0.15) and gallbladder and biliary tract cancer (EAPC = −1.01, 95% CI −1.05 to −0.96) showed decreasing trends (<xref rid="pone.0330259.t001" ref-type="table">Table 1</xref>).</p>
+</sec>
+<sec id="sec012">
+<title>3.2 Digestive system neoplasms in middle-aged and elderly adults: Regional level</title>
+<p>When analyzed by geographic region in 2021, East Asia experienced the greatest burden in terms of incidence, mortality, and DALYs across most digestive tract cancers. The incidence rate of esophageal cancer was highest in East Asia (72.13 per 100,000, 95%UI 58.14 to 88.08) and lowest in Northern Africa (4.28 per 100,000, 95%UI 3.57 to 5.05), representing an 18-fold difference. The greatest incidence rates for stomach cancer (162.52 per 100,000, 95%UI 139.61 to 176.03) and colon and rectum cancer (269.48 per 100,000, 95%UI 230.76 to 291.57) were observed in the High-income Asia Pacific (<xref rid="pone.0330259.s012" ref-type="supplementary-material">S4 Table</xref>). The mortality rates for esophageal cancer (68.69 per 100,000, 95%UI 55.37 to 83.30), stomach cancer (105.48 per 100,000, 95%UI 85.5 to 129.07), and colon and rectum cancer (131.12 per 100,000, 95%UI 120.28 to 140.73) peaked in East Asia, Andean Latin America, and Central Europe, respectively (<xref rid="pone.0330259.s013" ref-type="supplementary-material">S5 Table</xref>). As for DALYs, East Asia reported the highest rates for esophageal cancer (1448.42 per 100,000, 95% UI 1159.59 to 1776.84) and stomach cancer (2102.28 per 100,000, 95% UI 1625.85 to 2617.69). The corresponding lowest rates were found in Northern Africa (103.15 per 100,000, 95% UI 84.99 to 122.23) and North America (289.23 per 100,000, 95% UI 269.07 to 303.79), while the highest rates in East Asia were nearly 14 and 7 times higher. Meanwhile, Central Europe had the highest DALY rate for colon and rectum cancer (2546.30 per 100,000, 95% UI 2347.63 to 2735.28) (<xref rid="pone.0330259.s009" ref-type="supplementary-material">S1 Table</xref>).</p>
+<p>From 1990 to 2021, the burden of esophageal cancer decreased in most GBD regions, especially in Central Asia, while Western Sub-Saharan Africa showed significant rises for incidence, mortality, and DALY rates (<xref rid="pone.0330259.g001" ref-type="fig">Figs 1</xref>[incidence], <xref rid="pone.0330259.s009" ref-type="supplementary-material">S1</xref>[death] and <xref rid="pone.0330259.s010" ref-type="supplementary-material">S2</xref>[DALY]). Notably, stomach cancer demonstrated decreasing trends in the rates of incidence, mortality and DALY across all GBD regions, particularly pronounced in Eastern Europe (<xref rid="pone.0330259.g001" ref-type="fig">Figs 1</xref>, <xref rid="pone.0330259.s009" ref-type="supplementary-material">S1</xref> and <xref rid="pone.0330259.s010" ref-type="supplementary-material">S2</xref>). Colon and rectum cancer saw an increase in incidence and death rates in most regions, especially in Central Latin America. However, the DALY rates have decreased in more than half of the regions, with the largest reductions observed in Australasia (<xref rid="pone.0330259.g001" ref-type="fig">Figs 1</xref>, <xref rid="pone.0330259.s009" ref-type="supplementary-material">S1</xref> and <xref rid="pone.0330259.s010" ref-type="supplementary-material">S2</xref>).</p>
+<fig position="float" id="pone.0330259.g001" orientation="portrait">
+<object-id pub-id-type="doi">10.1371/journal.pone.0330259.g001</object-id>
+<label>Fig 1</label>
+<caption>
+<title>EAPC of incidence rates for digestive system neoplasms in global and regional populations of middle-aged and elderly adults (1990–2021).</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Colon and rectum cancer. (D) Liver cancer. (E) Gallbladder and biliary tract cancer. (F) Pancreatic cancer. (G) Benign and in situ intestinal neoplasms.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="pone.0330259.g001.jpg" />
+</fig>
+<p>In contrast to digestive tract cancers, the High-income Asia Pacific exhibited the highest incidence, mortality, and DALY rates for most digestive support system cancers, with the exception of pancreatic cancer, whose DALY rate peaked in Central Europe. Detailed estimates are provided in <xref rid="pone.0330259.s009" ref-type="supplementary-material">S1</xref>–<xref rid="pone.0330259.s011" ref-type="supplementary-material">S3 Tables</xref>. By comparison, the lowest incidence (8.43 per 100,000, 95% UI 7.31 to 9.57), mortality (9.19 per 100,000, 95% UI 8.03 to 10.42), and DALY rate (194.85 per 100,000, 95% UI 168.95 to 223.35) for liver cancer were observed in the Caribbean. The lowest incidence (0.24 per 100,000, 95% UI 0.16 to 0.29) and mortality (0.26 per 100,000, 95% UI 0.18 to 0.32) rates of gallbladder and biliary tract cancer were both observed in Western Africa, representing over 210-fold and nearly 150-fold differences compared to the corresponding rates in the High-income Asia Pacific. Remarkably, the lowest incidence (6.76 per 100,000, 95% UI 6.02 to 7.47), mortality (7.29 per 100,000, 95% UI 6.51 to 8.04), and DALY (164.09 per 100,000, 95% UI 146.52 to 181.14) rates of pancreatic cancer in 2021 were all found in South Asia (<xref rid="pone.0330259.s009" ref-type="supplementary-material">S1</xref>–<xref rid="pone.0330259.s011" ref-type="supplementary-material">S3 Tables</xref>).</p>
+<p>From 1990 to 2021, there was a remarkable rise in rates of incidence and mortality for liver cancer across numerous regions, particularly pronounced in Southern Latin America, and Australasia. Conversely, a decline was observed for DALY rate in over half of regions, with the most significant reductions occurring in High income Asia Pacific (<xref rid="pone.0330259.g001" ref-type="fig">Figs 1</xref>, <xref rid="pone.0330259.s009" ref-type="supplementary-material">S1</xref> and <xref rid="pone.0330259.s010" ref-type="supplementary-material">S2</xref>). The incidence, mortality, and DALY rates for gallbladder and biliary tract cancer have declined over time in most regions, particularly in Central Latin America (<xref rid="pone.0330259.g001" ref-type="fig">Figs 1</xref>, <xref rid="pone.0330259.s009" ref-type="supplementary-material">S1</xref> and <xref rid="pone.0330259.s010" ref-type="supplementary-material">S2</xref>). Pancreatic cancer demonstrated increasing trends at all rates across the vast majority of regions, with Western Sub to Saharan Africa experiencing the most significant increases in pancreatic cancer burden (<xref rid="pone.0330259.g001" ref-type="fig">Figs 1</xref>, <xref rid="pone.0330259.s009" ref-type="supplementary-material">S1</xref> and <xref rid="pone.0330259.s010" ref-type="supplementary-material">S2</xref>).</p>
+</sec>
+<sec id="sec013">
+<title>3.3 Digestive system neoplasms in middle-aged and elderly adults: National trends</title>
+<p>In 2021, digestive tract cancers exhibited substantial geographic disparities across countries. For esophageal cancer, Malawi recorded the highest incidence (117.11 per 100,000, 95% UI 93.27 to 145.03), mortality (125.11 per 100,000, 95% UI 99.78 to 155.33), and DALY rate (3018.62 per 100,000, 95% UI 2387.41 to 3771.59), while Algeria reported the lowest (<xref rid="pone.0330259.g002" ref-type="fig">Figs 2</xref>[incidence], <xref rid="pone.0330259.s011" ref-type="supplementary-material">S3</xref>[death] and <xref rid="pone.0330259.s012" ref-type="supplementary-material">S4</xref>[DALY]). In stomach cancer, the highest incidence was observed in Japan (179.93 per 100,000, 95% UI 153.67 to 194.68), whereas Mongolia showed the highest mortality (154.55 per 100,000, 95% UI 120.76 to 189.65) and DALY (3664.72 per 100,000, 95% UI 2886.72 to 4535.68) rates. Conversely, Nigeria had the lowest incidence, and Kuwait reported the lowest mortality and DALY rates (<xref rid="pone.0330259.g002" ref-type="fig">Figs 2</xref>, <xref rid="pone.0330259.s011" ref-type="supplementary-material">S3</xref> and <xref rid="pone.0330259.s012" ref-type="supplementary-material">S4</xref>). For colon and rectum cancer, the Netherlands had the highest incidence (382.80 per 100,000, 95% UI 337.82 to 424.41), Uruguay had the highest mortality rate (169.05 per 100,000, 95% UI 147.97 to 191.13), and Hungary had the highest DALY rate (3051.51 per 100,000, 95% UI 2584.24 to 3644.17). The lowest incidence and DALY rates were seen in Gambia, while Papua New Guinea had the lowest mortality (<xref rid="pone.0330259.g002" ref-type="fig">Figs 2</xref>, <xref rid="pone.0330259.s011" ref-type="supplementary-material">S3</xref> and <xref rid="pone.0330259.s012" ref-type="supplementary-material">S4</xref>).</p>
+<fig position="float" id="pone.0330259.g002" orientation="portrait">
+<object-id pub-id-type="doi">10.1371/journal.pone.0330259.g002</object-id>
+<label>Fig 2</label>
+<caption>
+<title>Incidence rates of digestive system neoplasms in middle-aged and elderly adults per 100,000 population for both sexes in 204 countries, in 2021.</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Colon and rectum cancer. (D) Liver cancer. (E) Gallbladder and biliary tract cancer. (F) Pancreatic cancer. (G) Benign and in situ intestinal neoplasms.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="pone.0330259.g002.jpg" />
+</fig>
+<p>Mongolia ranked highest for liver cancer in all three measures: incidence (322.02 per 100,000, 95% UI 242.07 to 410.10), mortality (347.24 per 100,000, 95% UI 261.30 to 442.38), and DALYs (8345.79 per 100,000, 95% UI 6281.83 to 10643.69), whereas Morocco had the lowest burden (<xref rid="pone.0330259.g002" ref-type="fig">Figs 2</xref>, <xref rid="pone.0330259.s003" ref-type="supplementary-material">S3</xref> and <xref rid="pone.0330259.s004" ref-type="supplementary-material">S4</xref>). In gallbladder and biliary tract cancer, Japan reported the highest incidence (54.33 per 100,000, 95% UI 44.02 to 60.38) and mortality (41.73 per 100,000, 95% UI 33.88 to 46.32), while Chile had the highest DALY rate (805.37 per 100,000, 95% UI 736.10 to 827.70); Gambia recorded the lowest values for all three metrics (<xref rid="pone.0330259.g002" ref-type="fig">Figs 2</xref>, <xref rid="pone.0330259.s003" ref-type="supplementary-material">S3</xref> and <xref rid="pone.0330259.s004" ref-type="supplementary-material">S4</xref>). For pancreatic cancer, the highest incidence, mortality, and DALY rates were observed in Japan (85.74 per 100,000, 95% UI 71.50 to 93.80), Monaco (84.82 per 100,000, 95% UI 55.82 to 123.73), and Greenland (1617.54 per 100,000, 95% UI 1303.61 to 1975.32), while Mozambique showed the lowest rates across all indicators (<xref rid="pone.0330259.g002" ref-type="fig">Figs 2</xref>, <xref rid="pone.0330259.s003" ref-type="supplementary-material">S3</xref> and <xref rid="pone.0330259.s004" ref-type="supplementary-material">S4</xref>).</p>
+</sec>
+<sec id="sec014">
+<title>3.4 Digestive system neoplasms in middle-aged and elderly adults: Age and sex patterns</title>
+<p>In 2021, esophageal cancer showed a significant sex gap in the cases of incidence, deaths, and DALYs started from the 55–79 years. Globally, males had significantly higher incidence, mortality, and DALY rates than females. The highest incidence, mortality, and DALYs of stomach cancer were concentrated in individuals aged between 65–74 years, with males exhibiting higher rates across all age groups above 55. In colon and rectum cancer, females had higher numbers of cases, deaths, and DALYs than males over the age of 85. For males, the incidence and deaths in males were predominantly observed in the 70–74 age group, while the DALYs were concentrated in the 65–69 age group. The highest rates of incidence, mortality and DALY were recorded in the 85–89 and 90–94 age groups for males. Additionally, in both stomach cancer and colon and rectum cancer, these rates increased progressively with age in females (<xref rid="pone.0330259.g003" ref-type="fig">Figs 3</xref>[incidence], <xref rid="pone.0330259.s005" ref-type="supplementary-material">S5</xref>[death] and <xref rid="pone.0330259.s006" ref-type="supplementary-material">S6</xref>[DALY]).</p>
+<fig position="float" id="pone.0330259.g003" orientation="portrait">
+<object-id pub-id-type="doi">10.1371/journal.pone.0330259.g003</object-id>
+<label>Fig 3</label>
+<caption>
+<title>Global counts and incidence rates of digestive system neoplasms in middle-aged and elderly adults by age and sex, 2021.</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Colon and rectum cancer. (D) Liver cancer. (E) Gallbladder and biliary tract cancer. (F) Pancreatic cancer. (G) Benign and in situ intestinal neoplasms.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="pone.0330259.g003.jpg" />
+</fig>
+<p>In 2021, liver cancer incidence, deaths, and DALYs are most concentrated in the 65–69 age group, although the DALYs for males declines with age. Males’ rates of incidence, mortality, and DALYs peaked in the 85–89, 90–94, and 65–69 age groups, respectively, while females’ corresponding maxima were in the 85–89, ≥ 95, and 90–94 age groups. Females constituted the primary demographic affected by gallbladder and biliary tract cancer with higher incidence, deaths and DALYs compared to males. While the incidence, mortality, and DALY rates for females increased with advancing age, males had the highest rates in the 90–94 age group. The incidence and mortality of pancreatic cancer for both males and females were concentrated in the 70–74 age group, whereas the DALY numbers were primarily in the 65–69 age group. The peak incidence of pancreatic cancer occurred in the 90–94 age group. Males had the highest mortality and DALY rates in the 90–94 and 85–89 age groups, while females experienced a steady increase in these rates with age (<xref rid="pone.0330259.g003" ref-type="fig">Figs 3</xref>, <xref rid="pone.0330259.s005" ref-type="supplementary-material">S5</xref> and <xref rid="pone.0330259.s006" ref-type="supplementary-material">S6</xref>).</p>
+</sec>
+<sec id="sec015">
+<title>3.5 Burden of digestive system neoplasms in middle-aged and elderly adults by SDI</title>
+<p>In 2021, DALY rates for Digestive System Neoplasms exhibited distinct patterns across the SDI spectrum. The high and high-middle SDI quintile levels exhibited higher DALY rates of esophageal cancer (878.07 per 100,000, 95%UI 725.17 to 1065.11), stomach cancer (1525.78 per 100,000, 95%UI 1267.50 to 1792.53) and colon and rectum cancer (1637.44 per 100,000, 95%UI 1488.96 to 1735.87) (<xref rid="pone.0330259.s009" ref-type="supplementary-material">S1 Table</xref>). For esophageal cancer, DALY rates generally declined as SDI increased, with the sharpest drop observed in East Asia. Stomach cancer displayed an initial rise in DALY rates with increasing SDI, followed by a decline in higher-SDI regions. In particular, East Asia, Andean Latin America, Eastern Europe and High-income Asia Pacific had stomach cancer burdens exceeding SDI-based expectations. For colon and rectum cancer, the DALY rates initially decreased with rising SDI, then increased and peaked at a middle-to-high SDI level, followed by a renewed decline as SDI continued to rise (<xref rid="pone.0330259.g004" ref-type="fig">Fig 4</xref>). From 1990 to 2021, DALY rates for esophageal cancer declined most in middle SDI, while the largest reductions for stomach cancer and colon and rectum cancer were observed in high SDI (<xref rid="pone.0330259.s002" ref-type="supplementary-material">S2 Fig</xref>).</p>
+<fig position="float" id="pone.0330259.g004" orientation="portrait">
+<object-id pub-id-type="doi">10.1371/journal.pone.0330259.g004</object-id>
+<label>Fig 4</label>
+<caption>
+<title>DALY rates for digestive system neoplasms in middle-aged and elderly adults for 21 global burden of disease regions from 1990 to 2021 by SDI.</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Colon and rectum cancer. (D) Liver cancer. (E) Gallbladder and biliary tract cancer. (F) Pancreatic cancer.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="pone.0330259.g004.jpg" />
+</fig>
+<p>Liver cancer (598.67 per 100,000, 95%UI 553.10 to 633.69), gallbladder and biliary tract cancer (238.21 per 100,000, 95%UI 208.79 to 260.77), and pancreatic cancer (1031.69 per 100,000, 95%UI 945.24 to 1094.24) showed higher rates in the high SDI quintile levels (<xref rid="pone.0330259.s012" ref-type="supplementary-material">S4 Table</xref>). In the case of liver cancer, a U-shaped trend was observed, where both high- and low-SDI regions experienced elevated DALY rates, with High-income Asia Pacific bearing the highest burden. For gallbladder and biliary tract cancer, DALY rates increased with SDI, although regions such as High-income Asia Pacific and Southern Latin America showed markedly declining trends. Pancreatic cancer demonstrated a steady rise in DALY rates with increasing SDI. Central Europe and Southern Latin America showing higher values than SDI-based expectations, whereas South Asia consistently remained below expectations (<xref rid="pone.0330259.g004" ref-type="fig">Fig 4</xref>). From 1990 to 2021, DALY rates for liver cancer declined most notably in low SDI, while gallbladder and biliary tract cancer showed the greatest reductions in high SDI. In contrast, pancreatic cancer exhibited a more pronounced upward trend in low-middle SDI (<xref rid="pone.0330259.s002" ref-type="supplementary-material">S2 Fig</xref>).</p>
+<p>The results of the global, regional, and national trends, as well as the age and sex patterns of benign and in situ intestinal neoplasms, are detailed in <xref rid="pone.0330259.s014" ref-type="supplementary-material">S1 File</xref>.</p>
+</sec>
+<sec id="sec016">
+<title>3.6 Risk factors of digestive system neoplasms in middle-aged and elderly adults</title>
+<p>Previous research has explored the association between risk factors and digestive system neoplasms, with consistent and region-specific findings. A pooled analysis of data from 10 case–control studies on EAC revealed that smoking doubled the risk of this malignancy [<xref rid="pone.0330259.ref023" ref-type="bibr">23</xref>]. Consistent with this, our results identified smoking as the leading global risk factor for esophageal cancer, with particularly high proportional contributions in East Asia and High-income North America. Notably, in South Asia, chewing tobacco emerged as a significant risk factor for esophageal cancer. For gastric cancer, a 2020 meta-analysis encompassing 232 studies found that current smoking increased the odds of developing gastric cancer by 61% [<xref rid="pone.0330259.ref024" ref-type="bibr">24</xref>]. Our study further confirmed that smoking and a high-sodium diet were the most critical global risk factors for gastric cancer, with more pronounced impacts observed in East Asia and High-income North America. In the case of colon and rectum cancer, dietary factors were particularly prominent. Low intake of whole grains, milk, and calcium, coupled with high red meat consumption, were major global contributors to the disease burden. Additionally, BMI and FPG exerted substantial impacts, especially in High-income North America and Central Latin America.</p>
+<p>Liver cancer showed a strong association with alcohol use, with the highest proportional contribution observed in Central Europe. For gallbladder and biliary tract cancer, high BMI was the most influential factor across regions, with North Africa and the Middle East experiencing the highest burdens. A meta-analysis of 14 cohort studies confirmed that overweight individuals had a 1.10-fold higher relative risk of gallbladder cancer (95% CI: 1.02–1.18), and obesity was associated with a 1.69-fold increased risk (95% CI: 1.54–1.86), showing a dose-response relationship [<xref rid="pone.0330259.ref025" ref-type="bibr">25</xref>]. For pancreatic cancer, high fasting plasma glucose, smoking, and high BMI emerged as three key risk factors worldwide. Interestingly, high BMI appeared to act as a protective factor in some regions. Specifically, in South Asia, Southeast Asia, and High-income Asia Pacific, the attributable DALYs were −9.20 × 10 ⁻ ⁴(95% UI: −9.88 × 10 ⁻ ³ to 1.31 × 10 ⁻ ²), −1.51 × 10 ⁻ ³ (95% UI: −1.14 × 10 ⁻ ² to 1.45 × 10 ⁻ ²), and −8.83 × 10 ⁻ ³ (95% UI: −2.02 × 10 ⁻ ² to 7.38 × 10 ⁻ ³), respectively. However, since the uncertainty intervals crossed zero, the significance of this protective effect remains questionable (<xref rid="pone.0330259.g005" ref-type="fig">Fig 5</xref>).</p>
+<fig position="float" id="pone.0330259.g005" orientation="portrait">
+<object-id pub-id-type="doi">10.1371/journal.pone.0330259.g005</object-id>
+<label>Fig 5</label>
+<caption>
+<title>Percentage of digestive system neoplasms in middle-aged and elderly adults DALYs attributable to risk factors.</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Gallbladder and biliary tract cancer. (D) Colon and rectum cancer. (E) Liver cancer. (F) Pancreatic cancer.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="pone.0330259.g005.jpg" />
+</fig>
+</sec>
+<sec id="sec017">
+<title>3.7 Predictions of digestive system neoplasms in middle-aged and elderly adults from 2020 to 2035</title>
+<p>We projected global age-standardized incidence rate (ASIR), age-standardized death rate (ASDR) and age-standardized DALY rate for digestive system neoplasms in middle-aged and elderly adults from 2020 to 2035 by using the BAPC model. From 2020 to 2035, ASIR of most digestive system neoplasms are projected to decline (<xref rid="pone.0330259.s007" ref-type="supplementary-material">S7 Fig</xref>). However, esophageal cancer stands out with a continued upward trend in ASIR during the prediction period, in contrast to the other neoplasms. Benign and in situ intestinal neoplasms demonstrated the most pronounced decrease in ASIR, reversing the rapid growth seen in previous decades. ASDR for all six major digestive system cancers demonstrated consistent declines (<xref rid="pone.0330259.s008" ref-type="supplementary-material">S8 Fig</xref>). Among these, stomach cancer and colon and rectum cancer exhibited the most substantial mortality decreases. Similarly, the age-standardized DALY rates showed declining trends across all digestive system neoplasms, while esophageal and liver cancers displayed slower declines in disease burden (<xref rid="pone.0330259.g006" ref-type="fig">Fig 6</xref>).</p>
+<fig position="float" id="pone.0330259.g006" orientation="portrait">
+<object-id pub-id-type="doi">10.1371/journal.pone.0330259.g006</object-id>
+<label>Fig 6</label>
+<caption>
+<title>Temporal trends of age-standardized DALY rates for digestive system neoplasms in middle-aged and elderly adults (1990–2035).</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Colon and rectum cancer. (D) Liver cancer. (E) Gallbladder and biliary tract cancer. (F) Pancreatic cancer.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="pone.0330259.g006.jpg" />
+</fig>
+</sec>
+</sec>
+<sec sec-type="conclusions" id="sec018">
+<title>4. Discussion</title>
+<p>This study comprehensively analyzes the global burden and temporal trends of seven major digestive system neoplasms among middle-aged and elderly populations from 1990 to 2021. The findings highlight distinct patterns in disease distribution, risk factor impacts, and evolving trends, with critical implications for public health strategies.</p>
+<p>In 2021, the majority of cases, deaths, and DALYs associated with these cancers were concentrated in individuals aged 65–74, with incidence rates generally increasing with age. This age-related trend may be partially linked to immunosenescence, long-term cumulative exposure to risk factors, and the accumulation of chronic inflammation [<xref rid="pone.0330259.ref026" ref-type="bibr">26</xref>,<xref rid="pone.0330259.ref027" ref-type="bibr">27</xref>].</p>
+<p>Males consistently exhibited higher incidence, mortality, and DALY burdens for most digestive system neoplasms, particularly esophageal, stomach, and liver cancers. This disparity was likely associated with the higher prevalence of high-risk behaviors among males, such as tobacco use, alcohol consumption, unhealthy dietary patterns, and insufficient physical activity [<xref rid="pone.0330259.ref028" ref-type="bibr">28</xref>]. Moreover, higher concentrations of sex hormone-binding globulin (SHBG) and testosterone have been linked to increased gastric and liver cancer risks in men [<xref rid="pone.0330259.ref029" ref-type="bibr">29</xref>]. In contrast, females exhibited higher rates of gallbladder and biliary tract cancers, which may partly be attributed to the higher occurrence of gallstones, a recognized risk factor for gallbladder cancer [<xref rid="pone.0330259.ref030" ref-type="bibr">30</xref>,<xref rid="pone.0330259.ref031" ref-type="bibr">31</xref>]. Furthermore, some studies suggest that reproductive and menstrual factors may be linked to gallbladder cancer, highlighting the potential role of female hormones in its etiology. However, the findings remain inconsistent, necessitating further research to clarify the specific mechanisms underlying their role [<xref rid="pone.0330259.ref032" ref-type="bibr">32</xref>,<xref rid="pone.0330259.ref033" ref-type="bibr">33</xref>]. These sex-specific disparities in digestive system cancers necessitate sex-responsive prevention and intervention strategies. For males, public health policies should prioritize primary prevention, such as intensifying tobacco and alcohol control measures and encouraging regular physical activity. For females, more proactive screening and monitoring of gallbladder and biliary tract diseases are essential, particularly for individuals with gallstones or relevant reproductive histories. Such tailored approaches are crucial to improving the precision and effectiveness of efforts to control digestive system neoplasms.</p>
+<p>Tobacco use, alcohol consumption, dietary patterns, and elevated FPG are major global risk factors for digestive system neoplasms, with their impact and distribution varying significantly across different SDI levels. Smoking, a leading risk factor for esophageal cancer, exerts carcinogenic effects through mechanisms such as inducing genetic mutations in esophageal cells, promoting chronic inflammation-mediated epithelial remodeling, and hurting the immune system [<xref rid="pone.0330259.ref034" ref-type="bibr">34</xref>,<xref rid="pone.0330259.ref035" ref-type="bibr">35</xref>]. In East Asia, persistently high male smoking rates likely sustain the region’s elevated esophageal cancer burden despite global declines [<xref rid="pone.0330259.ref036" ref-type="bibr">36</xref>]. In addition, the use of betel nut-tobacco mixtures remained prevalent in certain South Asian countries, resulting in persistent direct contact between carcinogens the esophageal mucosa [<xref rid="pone.0330259.ref037" ref-type="bibr">37</xref>]. These compounds may synergistically increase the risk of esophageal cancer through mechanisms such as hypermethylation of tumor suppressor gene promoters like p16 and genetic mutations in genes such as p53 [<xref rid="pone.0330259.ref038" ref-type="bibr">38</xref>]. Additionally, our results indicate that lifestyle factors, particularly a high-sodium diet, contribute significantly to the burden of stomach cancer in middle-aged and elderly populations, especially in East Asian countries. Reducing the intake of high-salt foods has been proposed as one strategy to address the stomach cancer issue in high-risk Asian countries [<xref rid="pone.0330259.ref039" ref-type="bibr">39</xref>].</p>
+<p>Dietary factors play a central role in colorectal cancer (CRC), particularly a low intake of whole grains and a high intake of red and processed meats. This has been confirmed by the National Institutes of Health and American Association of Retired Persons (NIH-AARP) Diet and Health Study, which found that whole grain consumption, but not dietary fiber from other sources, is inversely associated with CRC risk [<xref rid="pone.0330259.ref040" ref-type="bibr">40</xref>]. Additionally, a high intake of red and processed meats has been shown to increase CRC risk through mechanisms such as gut microbiota imbalance and oxidative stress [<xref rid="pone.0330259.ref041" ref-type="bibr">41</xref>]. Therefore, promoting healthy diets rich in whole grains, low in processed foods, and implementing stronger regulations on processed meat products could play a crucial role in reducing the burden of colorectal cancer. As the elderly population experiences a rising incidence of obesity, high BMI has become a key contributor to the growing burden of gallbladder and biliary tract cancers. Health promotion initiatives, including educational campaigns and community empowerment, are crucial for changing lifestyle and dietary habits to prevent obesity [<xref rid="pone.0330259.ref042" ref-type="bibr">42</xref>]. Elevated FPG and smoking are recognized as major risk factors for pancreatic cancer, but their interactive effects remain unclear. A large nationwide cohort study in Korea, involving over 9 million adults, found that current smokers with diabetes or prediabetes had a synergistically increased risk of pancreatic cancer (HR = 2.72) compared to never-smokers with normoglycemia [<xref rid="pone.0330259.ref043" ref-type="bibr">43</xref>]. In contrast, a 10-year prospective cohort study of 446,407 Korean men confirmed that smoking and elevated fasting glucose act as independent risk factors for pancreatic cancer [<xref rid="pone.0330259.ref043" ref-type="bibr">43</xref>].</p>
+<p>From 1990 to 2021, the global burden of esophageal cancer, stomach cancer, gallbladder cancer, and biliary tract cancer exhibited a declining trend. This positive change resulted from the combined effects of global public health interventions, risk factor control, and improvements in medical care. In particular, the eradication of Helicobacter pylori infection and the implementation of early endoscopic screening played crucial roles in reducing the burden of stomach and esophageal cancers [<xref rid="pone.0330259.ref027" ref-type="bibr">27</xref>,<xref rid="pone.0330259.ref044" ref-type="bibr">44</xref>,<xref rid="pone.0330259.ref045" ref-type="bibr">45</xref>]. Conversely, the global burden of pancreatic cancer rose steadily, with both incidence and mortality increasing, largely driven by population aging [<xref rid="pone.0330259.ref046" ref-type="bibr">46</xref>]. Moreover, due to the lack of effective early screening methods and the disease’s high fatality rate, both direct medical costs and indirect economic losses associated with pancreatic cancer steadily increased [<xref rid="pone.0330259.ref047" ref-type="bibr">47</xref>]. It was suggested that preventive strategies should prioritize primary prevention, focus on modifiable risk factors, such as reducing smoking and controlling obesity and diabetes, to mitigate the burden of disease [<xref rid="pone.0330259.ref048" ref-type="bibr">48</xref>,<xref rid="pone.0330259.ref049" ref-type="bibr">49</xref>].</p>
+<p>For colon and rectum cancer, screening plays a dual role in driving the paradox of rising incidence and falling mortality. On one hand, the widespread adoption of fecal occult blood testing (FOBT) and colonoscopy in Western countries has significantly enhanced the detection of early lesions [<xref rid="pone.0330259.ref050" ref-type="bibr">50</xref>,<xref rid="pone.0330259.ref051" ref-type="bibr">51</xref>]. On the other hand, screening directly reduces mortality. Colonoscopy allows for the removal of precancerous polyps lower the risk of post-procedure colorectal cancer by blocking the disease at precancerous or early stages [<xref rid="pone.0330259.ref052" ref-type="bibr">52</xref>]. Additionally, optimized 5-fluorouracil-based adjuvant chemotherapy further improves outcomes in advanced cases [<xref rid="pone.0330259.ref053" ref-type="bibr">53</xref>]. Regarding liver cancer, the decline in mortality from virus-related hepatocellular carcinoma was largely attributed to hepatitis B vaccination programs, antiviral therapies, and improvements in chronic liver disease management [<xref rid="pone.0330259.ref054" ref-type="bibr">54</xref>]. However, with the rising prevalence of metabolic-associated fatty liver disease, the overall incidence of liver cancer continued to increase [<xref rid="pone.0330259.ref055" ref-type="bibr">55</xref>]. It was also noteworthy that the incidence of benign and in situ intestinal neoplasms rose sharply, predominantly in high-SDI countries. This trend reflected expanded screening coverage and increased public health awareness, leading to earlier detection of asymptomatic lesions. For example, in the Netherlands’ nationwide colon and rectum cancer screening program, numerous inflammatory polyps and early-stage tumors were detected [<xref rid="pone.0330259.ref056" ref-type="bibr">56</xref>,<xref rid="pone.0330259.ref057" ref-type="bibr">57</xref>].</p>
+<p>High-SDI countries have made significant strides in reducing mortality from digestive system neoplasms, driven by comprehensive cancer screening, early diagnosis, and well-developed treatment systems [<xref rid="pone.0330259.ref018" ref-type="bibr">18</xref>]. In contrast, middle and low-SDI countries face persistent challenges due to limited screening coverage, inadequate chronic disease management, and constrained healthcare resources, leading to higher rates of late-stage diagnoses and sustained disease burden [<xref rid="pone.0330259.ref058" ref-type="bibr">58</xref>,<xref rid="pone.0330259.ref059" ref-type="bibr">59</xref>]. To alleviate the global burden of digestive system neoplasms in Middle-Aged and Elderly Adults, targeted policy and practical measures should be prioritized. First, cost-effective, population-based screening programs, such as FOBT for colorectal cancer or endoscopic screening for gastric cancer, should be tailored to local contexts, with an emphasis on expanding coverage for high-risk middle-aged and elderly populations in resource-limited settings. Second, primary prevention must be strengthened through public health policies promoting physical activity, scaling up tobacco cessation programs, and regulating harmful products like sugar-sweetened beverages to address metabolic risk factors such as obesity and hyperglycemia [<xref rid="pone.0330259.ref060" ref-type="bibr">60</xref>]. Third, healthcare capacity in low and middle-SDI regions must be strengthened by investing in diagnostic and treatment infrastructure, training healthcare professionals, and utilizing telemedicine to ensure timely access to care for elderly populations [<xref rid="pone.0330259.ref061" ref-type="bibr">61</xref>]. Finally, collaboration between academia, healthcare providers, and industry should be fostered to accelerate advances in early detection and precision medicine, exemplified by initiatives like the U.S. “Cancer Moonshot” [<xref rid="pone.0330259.ref062" ref-type="bibr">62</xref>]. By integrating these strategies, global efforts can address the burden of digestive system neoplasms in middle-aged and elderly populations, while also tackling the underlying metabolic drivers, leading to more equitable health outcomes.</p>
+<p>This study, based on data from the GBD Study 2021, systematically assesses the global burden of digestive system neoplasms among middle-aged and elderly populations. Nevertheless, several limitations warrant consideration. First, in certain low- and middle-income countries, the limited availability of high-quality epidemiological data may compromise model-based estimates due to data gaps and diagnostic biases. Second, the GBD applies standardized disease definitions, which may not fully capture histological diversity or borderline cases, potentially leading to an underestimation of the true disease burden. Furthermore, the attribution of risk factors relies on literature reviews and theoretical minimum risk exposure levels, which may not encompass all relevant exposures or adequately reflect long-term, population-specific variations. Third, this study does not account for subnational heterogeneity, thereby limiting the generalizability of the findings to regional policy planning Future research should prioritize the integration of real-world data and longitudinal cohort studies to better characterize disease heterogeneity and population-specific features, ultimately informing the development of more targeted and effective prevention strategies.</p>
+</sec>
+<sec sec-type="conclusions" id="sec019">
+<title>5. Conclusions</title>
+<p>In conclusion, digestive system neoplasms remain a major global public health issue among middle-aged and elderly populations, with clear temporal trends and regional disparities observed between 1990 and 2021. Despite significant progress in early screening and treatment, the mortality rates for colorectal cancer, liver cancer, and pancreatic cancer have declined, while the incidence of these cancers, along with pancreatic cancer and benign tumors, continues to rise. This trend is primarily attributed to changes in lifestyle and the increasing prevalence of metabolic risk factors. In contrast, the burden of esophageal cancer, gastric cancer, and gallbladder/biliary tract cancer has decreased, reflecting the effectiveness of public health interventions. With the aging global population, the burden of digestive system neoplasms is likely to increase further. Therefore, it is essential to strengthen early screening, health education, and risk factor management, as well as promote advances in precision medicine, particularly in low- and middle-SDI regions. Enhancing public health infrastructure and healthcare access is critical to mitigating this growing health burden.</p>
+</sec>
+<sec id="sec020" sec-type="supplementary-material">
+<title>Supporting information</title>
+<supplementary-material id="pone.0330259.s001" position="float" content-type="local-data" orientation="portrait">
+<label>S1 Fig</label>
+<caption>
+<title>EAPC of death rates for digestive system neoplasms in global and regional populations of middle-aged and elderly adults (1990–2021).</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Gallbladder and biliary tract cancer. (D) Colon and rectum cancer. (E) Liver cancer. (F) Pancreatic cancer.</p>
+<p>(TIF)</p>
+</caption>
+<media ns1:href="pone.0330259.s001.tif" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s002" position="float" content-type="local-data" orientation="portrait">
+<label>S2 Fig</label>
+<caption>
+<title>EAPC of DALY rates for digestive system neoplasms in global and regional populations of middle-aged and elderly adults (1990–2021).</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Gallbladder and biliary tract cancer. (D) Colon and rectum cancer. (E) Liver cancer. (F) Pancreatic cancer.</p>
+<p>(TIF)</p>
+</caption>
+<media ns1:href="pone.0330259.s002.tif" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s003" position="float" content-type="local-data" orientation="portrait">
+<label>S3 Fig</label>
+<caption>
+<title>Death rates of digestive system neoplasms in middle-aged and elderly adults per 100,000 population for both sexes in 204 countries, in 2021.</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Gallbladder and biliary tract cancer. (D) Colon and rectum cancer. (E) Liver cancer. (F) Pancreatic cancer.</p>
+<p>(TIF)</p>
+</caption>
+<media ns1:href="pone.0330259.s003.tif" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s004" position="float" content-type="local-data" orientation="portrait">
+<label>S4 Fig</label>
+<caption>
+<title>DALY rates of digestive system neoplasms in middle-aged and elderly adults per 100,000 population for both sexes in 204 countries, in 2021.</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Gallbladder and biliary tract cancer. (D) Colon and rectum cancer. (E) Liver cancer. (F) Pancreatic cancer.</p>
+<p>(TIF)</p>
+</caption>
+<media ns1:href="pone.0330259.s004.tif" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s005" position="float" content-type="local-data" orientation="portrait">
+<label>S5 Fig</label>
+<caption>
+<title>Global counts and death rates of digestive system neoplasms in middle-aged and elderly adults by age and sex, 2021.</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Gallbladder and biliary tract cancer. (D) Colon and rectum cancer. (E) Liver cancer. (F) Pancreatic cancer.</p>
+<p>(TIF)</p>
+</caption>
+<media ns1:href="pone.0330259.s005.tif" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s006" position="float" content-type="local-data" orientation="portrait">
+<label>S6 Fig</label>
+<caption>
+<title>Global counts and DALY rates of digestive system neoplasms in middle-aged and elderly adults by age and sex, 2021.</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Gallbladder and biliary tract cancer. (D) Colon and rectum cancer. (E) Liver cancer. (F) Pancreatic cancer.</p>
+<p>(TIF)</p>
+</caption>
+<media ns1:href="pone.0330259.s006.tif" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s007" position="float" content-type="local-data" orientation="portrait">
+<label>S7 Fig</label>
+<caption>
+<title>Temporal trends of age-standardized incidence rates for digestive system neoplasms in middle-aged and elderly adults (1990–2035).</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Colon and rectum cancer. (D) Liver cancer. (E) Gallbladder and biliary tract cancer. (F) Pancreatic cancer. (G) Benign and in situ intestinal neoplasms.</p>
+<p>(TIF)</p>
+</caption>
+<media ns1:href="pone.0330259.s007.tif" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s008" position="float" content-type="local-data" orientation="portrait">
+<label>S8 Fig</label>
+<caption>
+<title>Temporal trends of age-standardized death rates for digestive system neoplasms in middle-aged and elderly adults (1990–2035).</title>
+<p>(A) Esophageal cancer. (B) Stomach cancer. (C) Gallbladder and biliary tract cancer. (D) Colon and rectum cancer. (E) Liver cancer. (F) Pancreatic cancer.</p>
+<p>(TIF)</p>
+</caption>
+<media ns1:href="pone.0330259.s008.tif" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s009" position="float" content-type="local-data" orientation="portrait">
+<label>S1 Table</label>
+<caption>
+<title>The DALY counts and rates for digestive system neoplasms in global and regional populations of middle-aged and elderly adults in 2021, and the definition of DALY.</title>
+<p>(XLSX)</p>
+</caption>
+<media ns1:href="pone.0330259.s009.xlsx" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s010" position="float" content-type="local-data" orientation="portrait">
+<label>S2 Table</label>
+<caption>
+<title>ICD-10 and ICD-9 codes mapped to seven digestive system neoplasms for death and non-fatal causes.</title>
+<p>(XLSX)</p>
+</caption>
+<media ns1:href="pone.0330259.s010.xlsx" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s011" position="float" content-type="local-data" orientation="portrait">
+<label>S3 Table</label>
+<caption>
+<title>Definitions of risk factors associated with seven digestive system neoplasms and their TMREL.</title>
+<p>(XLSX)</p>
+</caption>
+<media ns1:href="pone.0330259.s011.xlsx" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s012" position="float" content-type="local-data" orientation="portrait">
+<label>S4 Table</label>
+<caption>
+<title>The incidence counts and rates for digestive system neoplasms in global and regional populations of middle-aged and elderly adults, in 2021.</title>
+<p>(XLSX)</p>
+</caption>
+<media ns1:href="pone.0330259.s012.xlsx" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s013" position="float" content-type="local-data" orientation="portrait">
+<label>S5 Table</label>
+<caption>
+<title>The mortality counts and rates for digestive system neoplasms in global and regional populations of middle-aged and elderly adults, in 2021.</title>
+<p>(XLSX)</p>
+</caption>
+<media ns1:href="pone.0330259.s013.xlsx" position="float" orientation="portrait" />
+</supplementary-material>
+<supplementary-material id="pone.0330259.s014" position="float" content-type="local-data" orientation="portrait">
+<label>S1 File</label>
+<caption>
+<title>The results of the global, regional, and national trends, as well as the age and sex patterns of benign and in situ intestinal neoplasms.</title>
+<p>(DOCX)</p>
+</caption>
+<media ns1:href="pone.0330259.s014.docx" position="float" orientation="portrait" />
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We extend our sincere appreciation to all individuals and institutions whose contributions made the Global Burden of Disease Study 2021 possible. Their efforts in data collection, analysis, and methodological development have been indispensable to the present research.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0330259.ref001">
+<label>1</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Nagtegaal</surname>
+<given-names>ID</given-names>
+</name>, <name name-style="western">
+<surname>Odze</surname>
+<given-names>RD</given-names>
+</name>, <name name-style="western">
+<surname>Klimstra</surname>
+<given-names>D</given-names>
+</name>, <name name-style="western">
+<surname>Paradis</surname>
+<given-names>V</given-names>
+</name>, <name name-style="western">
+<surname>Rugge</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Schirmacher</surname>
+<given-names>P</given-names>
+</name>, <etal>et al</etal>. <article-title>The 2019 WHO classification of tumours of the digestive system</article-title>. <source>Histopathology</source>. <year>2020</year>;<volume>76</volume>(<issue>2</issue>):<fpage>182</fpage>–<lpage>8</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1111/his.13975</pub-id>
+<pub-id pub-id-type="pmid">31433515</pub-id>
+<pub-id pub-id-type="pmcid">PMC7003895</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref002">
+<label>2</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Zhan</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Betge</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Schulte</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Dreikhausen</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Hirth</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</name>, <etal>et al</etal>. <article-title>Digestive cancers: mechanisms, therapeutics and management</article-title>. <source>Signal Transduct Target Ther</source>. <year>2025</year>;<volume>10</volume>(<issue>1</issue>):<fpage>24</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1038/s41392-024-02097-4</pub-id>
+<pub-id pub-id-type="pmid">39809756</pub-id>
+<pub-id pub-id-type="pmcid">PMC11733248</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref003">
+<label>3</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Arnold</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Abnet</surname>
+<given-names>CC</given-names>
+</name>, <name name-style="western">
+<surname>Neale</surname>
+<given-names>RE</given-names>
+</name>, <name name-style="western">
+<surname>Vignat</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>EL</given-names>
+</name>, <name name-style="western">
+<surname>McGlynn</surname>
+<given-names>KA</given-names>
+</name>, <etal>et al</etal>. <article-title>Global burden of 5 major types of gastrointestinal cancer</article-title>. <source>Gastroenterology</source>. <year>2020</year>;<volume>159</volume>(<issue>1</issue>):335-349.e15. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1053/j.gastro.2020.02.068</pub-id>
+<pub-id pub-id-type="pmid">32247694</pub-id>
+<pub-id pub-id-type="pmcid">PMC8630546</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref004">
+<label>4</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Rose</surname>
+<given-names>TC</given-names>
+</name>, <name name-style="western">
+<surname>Pennington</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Kypridemos</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Chen</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Subhani</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Hanefeld</surname>
+<given-names>J</given-names>
+</name>, <etal>et al</etal>. <article-title>Analysis of the burden and economic impact of digestive diseases and investigation of research gaps and priorities in the field of digestive health in the European Region-White Book 2: executive summary</article-title>. <source>United European Gastroenterol J</source>. <year>2022</year>;<volume>10</volume>(<issue>7</issue>):<fpage>657</fpage>–<lpage>62</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1002/ueg2.12298</pub-id>
+<pub-id pub-id-type="pmid">36093599</pub-id>
+<pub-id pub-id-type="pmcid">PMC9486501</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref005">
+<label>5</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Huang</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Lucero-Prisno</surname>
+<given-names>DE</given-names>
+<suffix>3rd</suffix>
+</name>, <name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Xu</surname>
+<given-names>W</given-names>
+</name>, <name name-style="western">
+<surname>Wong</surname>
+<given-names>SH</given-names>
+</name>, <name name-style="western">
+<surname>Ng</surname>
+<given-names>SC</given-names>
+</name>, <etal>et al</etal>. <article-title>Updated epidemiology of gastrointestinal cancers in East Asia</article-title>. <source>Nat Rev Gastroenterol Hepatol</source>. <year>2023</year>;<volume>20</volume>(<issue>5</issue>):<fpage>271</fpage>–<lpage>87</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1038/s41575-022-00726-3</pub-id>
+<pub-id pub-id-type="pmid">36631716</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref006">
+<label>6</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Hong</surname>
+<given-names>M-Z</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>J-M</given-names>
+</name>, <name name-style="western">
+<surname>Chen</surname>
+<given-names>Z-J</given-names>
+</name>, <name name-style="western">
+<surname>Lin</surname>
+<given-names>X-Y</given-names>
+</name>, <name name-style="western">
+<surname>Pan</surname>
+<given-names>J-S</given-names>
+</name>, <name name-style="western">
+<surname>Gong</surname>
+<given-names>L-L</given-names>
+</name>. <article-title>Global burden of major gastrointestinal cancers and its association with socioeconomics, 1990-2019</article-title>. <source>Front Oncol</source>. <year>2022</year>;<volume>12</volume>:<fpage>942035</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.3389/fonc.2022.942035</pub-id>
+<pub-id pub-id-type="pmid">36387124</pub-id>
+<pub-id pub-id-type="pmcid">PMC9664003</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref007">
+<label>7</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Morgan</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Arnold</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Gini</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Lorenzoni</surname>
+<given-names>V</given-names>
+</name>, <name name-style="western">
+<surname>Cabasag</surname>
+<given-names>CJ</given-names>
+</name>, <name name-style="western">
+<surname>Laversanne</surname>
+<given-names>M</given-names>
+</name>, <etal>et al</etal>. <article-title>Global burden of colorectal cancer in 2020 and 2040: incidence and mortality estimates from GLOBOCAN</article-title>. <source>Gut</source>. <year>2023</year>;<volume>72</volume>(<issue>2</issue>):<fpage>338</fpage>–<lpage>44</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1136/gutjnl-2022-327736</pub-id>
+<pub-id pub-id-type="pmid">36604116</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref008">
+<label>8</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Li</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Lin</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</name>. <article-title>Global, regional, and national burden of pancreatic cancer from 1990 to 2021, its attributable risk factors, and projections to 2050: a systematic analysis of the global burden of disease study 2021</article-title>. <source>BMC Cancer</source>. <year>2025</year>;<volume>25</volume>(<issue>1</issue>):<fpage>189</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1186/s12885-025-13597-z</pub-id>
+<pub-id pub-id-type="pmid">39901108</pub-id>
+<pub-id pub-id-type="pmcid">PMC11789343</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref009">
+<label>9</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Zheng</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Arnold</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Abnet</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Zeng</surname>
+<given-names>H</given-names>
+</name>, <name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</name>, <etal>et al</etal>. <article-title>Global and national trends in the age-specific sex ratio of esophageal cancer and gastric cancer by subtype</article-title>. <source>Int J Cancer</source>. <year>2022</year>;<volume>151</volume>(<issue>9</issue>):<fpage>1447</fpage>–<lpage>61</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1002/ijc.34158</pub-id>
+<pub-id pub-id-type="pmid">35678331</pub-id>
+<pub-id pub-id-type="pmcid">PMC9541383</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref010">
+<label>10</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>van Erning</surname>
+<given-names>FN</given-names>
+</name>, <name name-style="western">
+<surname>Greidanus</surname>
+<given-names>NEM</given-names>
+</name>, <name name-style="western">
+<surname>Verhoeven</surname>
+<given-names>RHA</given-names>
+</name>, <name name-style="western">
+<surname>Buijsen</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>de Wilt</surname>
+<given-names>HW</given-names>
+</name>, <name name-style="western">
+<surname>Wagner</surname>
+<given-names>D</given-names>
+</name>, <etal>et al</etal>. <article-title>Gender differences in tumor characteristics, treatment and survival of colorectal cancer: a population-based study</article-title>. <source>Cancer Epidemiol</source>. <year>2023</year>;<volume>86</volume>:<fpage>102441</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/j.canep.2023.102441</pub-id>
+<pub-id pub-id-type="pmid">37633058</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref011">
+<label>11</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</name>, <name name-style="western">
+<surname>Miller</surname>
+<given-names>KD</given-names>
+</name>, <name name-style="western">
+<surname>Wagle</surname>
+<given-names>NS</given-names>
+</name>, <name name-style="western">
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</name>. <article-title>Cancer statistics, 2023</article-title>. <source>CA Cancer J Clin</source>. <year>2023</year>;<volume>73</volume>(<issue>1</issue>):<fpage>17</fpage>–<lpage>48</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.3322/caac.21763</pub-id>
+<pub-id pub-id-type="pmid">36633525</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref012">
+<label>12</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Bray</surname>
+<given-names>F</given-names>
+</name>, <name name-style="western">
+<surname>Laversanne</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Sung</surname>
+<given-names>H</given-names>
+</name>, <name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</name>, <name name-style="western">
+<surname>Soerjomataram</surname>
+<given-names>I</given-names>
+</name>, <etal>et al</etal>. <article-title>Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</article-title>. <source>CA Cancer J Clin</source>. <year>2024</year>;<volume>74</volume>(<issue>3</issue>):<fpage>229</fpage>–<lpage>63</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.3322/caac.21834</pub-id>
+<pub-id pub-id-type="pmid">38572751</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref013">
+<label>13</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Zhang</surname>
+<given-names>X-B</given-names>
+</name>, <name name-style="western">
+<surname>Ding</surname>
+<given-names>Y-W</given-names>
+</name>, <name name-style="western">
+<surname>Kong</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Zhu</surname>
+<given-names>X-F</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>P-H</given-names>
+</name>, <etal>et al</etal>. <article-title>Distinct time trends in colorectal cancer incidence in countries with SDI levels from 1990 to 2019: an age-period-cohort analysis for the Global Burden of Disease 2019 study</article-title>. <source>Front Public Health</source>. <year>2024</year>;<volume>12</volume>:<fpage>1370282</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.3389/fpubh.2024.1370282</pub-id>
+<pub-id pub-id-type="pmid">38841678</pub-id>
+<pub-id pub-id-type="pmcid">PMC11150799</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref014">
+<label>14</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Ghimire</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Acharya</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Kandel</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Abdu</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Alexander</surname>
+<given-names>D</given-names>
+</name>, <name name-style="western">
+<surname>Jankowski</surname>
+<given-names>M</given-names>
+</name>, <etal>et al</etal>. <article-title>S43 The incidence rate of pancreatic cancer for ages 50-years and above—SEER Based study—Should we start screening for pancreatic cancer?</article-title>
+<source>Am J Gastroenterol</source>. <year>2023</year>;<volume>118</volume>(10S):S33–<lpage>4</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.14309/01.ajg.0000949812.88765.e2</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref015">
+<label>15</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Aslani</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Soheili</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Mousavi</surname>
+<given-names>SE</given-names>
+</name>, <name name-style="western">
+<surname>Ebrahimi</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Antar</surname>
+<given-names>RM</given-names>
+</name>, <name name-style="western">
+<surname>Yekta</surname>
+<given-names>Z</given-names>
+</name>, <etal>et al</etal>. <article-title>Incidence trends of gastric cancer in the United States over 2000-2020: a population-based analysis</article-title>. <source>PLoS One</source>. <year>2024</year>;<volume>19</volume>(<issue>9</issue>):e0310040. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0310040</pub-id>
+<pub-id pub-id-type="pmid">39321169</pub-id>
+<pub-id pub-id-type="pmcid">PMC11423999</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref016">
+<label>16</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Sial</surname>
+<given-names>SH</given-names>
+</name>, <name name-style="western">
+<surname>Catalano</surname>
+<given-names>MF</given-names>
+</name>. <article-title>Gastrointestinal tract cancer in the elderly</article-title>. <source>Gastroenterol Clin North Am</source>. <year>2001</year>;<volume>30</volume>(<issue>2</issue>):<fpage>565</fpage>–<lpage>90</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/s0889-8553(05)70196-5</pub-id>
+<pub-id pub-id-type="pmid">11432306</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref017">
+<label>17</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Hashimoto</surname>
+<given-names>H</given-names>
+</name>, <name name-style="western">
+<surname>Nojiri</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Takeda</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Urasaki</surname>
+<given-names>W</given-names>
+</name>, <name name-style="western">
+<surname>Nishizaki</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Nagahara</surname>
+<given-names>A</given-names>
+</name>, <etal>et al</etal>. <article-title>Examining associations of digestive system cancer with hypertension and diabetes using network analysis in older patients</article-title>. <source>Sci Rep</source>. <year>2025</year>;<volume>15</volume>(<issue>1</issue>):<fpage>6458</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1038/s41598-025-90734-5</pub-id>
+<pub-id pub-id-type="pmid">39987328</pub-id>
+<pub-id pub-id-type="pmcid">PMC11846871</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref018">
+<label>18</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Danpanichkul</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Suparan</surname>
+<given-names>K</given-names>
+</name>, <name name-style="western">
+<surname>Tothanarungroj</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Dejvajara</surname>
+<given-names>D</given-names>
+</name>, <name name-style="western">
+<surname>Rakwong</surname>
+<given-names>K</given-names>
+</name>, <name name-style="western">
+<surname>Pang</surname>
+<given-names>Y</given-names>
+</name>, <etal>et al</etal>. <article-title>Epidemiology of gastrointestinal cancers: a systematic analysis from the Global Burden of Disease Study 2021</article-title>. <source>Gut</source>. <year>2024</year>;<volume>74</volume>(<issue>1</issue>):<fpage>26</fpage>–<lpage>34</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1136/gutjnl-2024-333227</pub-id>
+<pub-id pub-id-type="pmid">39242191</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref019">
+<label>19</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Gallo</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Pellegrino</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Pero</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Agnitelli</surname>
+<given-names>MC</given-names>
+</name>, <name name-style="western">
+<surname>Parlangeli</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Landi</surname>
+<given-names>F</given-names>
+</name>, <etal>et al</etal>. <article-title>Main disorders of gastrointestinal tract in older people: an overview</article-title>. <source>Gastrointest Disord</source>. <year>2024</year>;<volume>6</volume>(<issue>1</issue>):<fpage>313</fpage>–<lpage>36</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.3390/gidisord6010022</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref020">
+<label>20</label>
+<mixed-citation publication-type="journal">
+<collab>GBD 2021 Diseases and Injuries Collaborators</collab>. <article-title>Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021</article-title>. <source>Lancet</source>. <year>2024</year>;<volume>403</volume>(<issue>10440</issue>):<fpage>2133</fpage>–<lpage>61</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(24)00757-8</pub-id>
+<pub-id pub-id-type="pmid">38642570</pub-id>
+<pub-id pub-id-type="pmcid">PMC11122111</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref021">
+<label>21</label>
+<mixed-citation publication-type="journal">
+<collab>GBD 2021 Risk Factors Collaborators</collab>. <article-title>Global burden and strength of evidence for 88 risk factors in 204 countries and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021</article-title>. <source>Lancet</source>. <year>2024</year>;<volume>403</volume>(<issue>10440</issue>):<fpage>2162</fpage>–<lpage>203</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(24)00933-4</pub-id>
+<pub-id pub-id-type="pmid">38762324</pub-id>
+<pub-id pub-id-type="pmcid">PMC11120204</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref022">
+<label>22</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Rue</surname>
+<given-names>H</given-names>
+</name>, <name name-style="western">
+<surname>Martino</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Chopin</surname>
+<given-names>N</given-names>
+</name>. <article-title>Approximate Bayesian inference for latent gaussian models by using integrated nested Laplace approximations</article-title>. <source>J R Stat Soc Ser B: Stat Methodol</source>. <year>2009</year>;<volume>71</volume>(<issue>2</issue>):<fpage>319</fpage>–<lpage>92</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1111/j.1467-9868.2008.00700.x</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref023">
+<label>23</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Cook</surname>
+<given-names>MB</given-names>
+</name>, <name name-style="western">
+<surname>Kamangar</surname>
+<given-names>F</given-names>
+</name>, <name name-style="western">
+<surname>Whiteman</surname>
+<given-names>DC</given-names>
+</name>, <name name-style="western">
+<surname>Freedman</surname>
+<given-names>ND</given-names>
+</name>, <name name-style="western">
+<surname>Gammon</surname>
+<given-names>MD</given-names>
+</name>, <name name-style="western">
+<surname>Bernstein</surname>
+<given-names>L</given-names>
+</name>, <etal>et al</etal>. <article-title>Cigarette smoking and adenocarcinomas of the esophagus and esophagogastric junction: a pooled analysis from the international BEACON consortium</article-title>. <source>J Natl Cancer Inst</source>. <year>2010</year>;<volume>102</volume>(<issue>17</issue>):<fpage>1344</fpage>–<lpage>53</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1093/jnci/djq289</pub-id>
+<pub-id pub-id-type="pmid">20716718</pub-id>
+<pub-id pub-id-type="pmcid">PMC2935475</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref024">
+<label>24</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Poorolajal</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Moradi</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Mohammadi</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Cheraghi</surname>
+<given-names>Z</given-names>
+</name>, <name name-style="western">
+<surname>Gohari-Ensaf</surname>
+<given-names>F</given-names>
+</name>. <article-title>Risk factors for stomach cancer: a systematic review and meta-analysis</article-title>. <source>Epidemiol Health</source>. <year>2020</year>;<volume>42</volume>:e2020004. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.4178/epih.e2020004</pub-id>
+<pub-id pub-id-type="pmid">32023777</pub-id>
+<pub-id pub-id-type="pmcid">PMC7056944</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref025">
+<label>25</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>H</given-names>
+</name>, <name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Ai</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Jin</surname>
+<given-names>B</given-names>
+</name>, <name name-style="western">
+<surname>Teng</surname>
+<given-names>Z</given-names>
+</name>, <etal>et al</etal>. <article-title>Body mass index can increase the risk of gallbladder cancer: a meta-analysis of 14 cohort studies</article-title>. <source>Med Sci Monit Basic Res</source>. <year>2016</year>;<volume>22</volume>:<fpage>146</fpage>–<lpage>55</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.12659/msmbr.901651</pub-id>
+<pub-id pub-id-type="pmid">27899789</pub-id>
+<pub-id pub-id-type="pmcid">PMC5134363</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref026">
+<label>26</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Cheng</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</name>, <name name-style="western">
+<surname>Du</surname>
+<given-names>X</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>C</given-names>
+</name>, <etal>et al</etal>. <article-title>Increased expression of programmed cell death protein 1 on NK cells inhibits NK-cell-mediated anti-tumor function and indicates poor prognosis in digestive cancers</article-title>. <source>Oncogene</source>. <year>2017</year>;<volume>36</volume>(<issue>44</issue>):<fpage>6143</fpage>–<lpage>53</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1038/onc.2017.209</pub-id>
+<pub-id pub-id-type="pmid">28692048</pub-id>
+<pub-id pub-id-type="pmcid">PMC5671935</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref027">
+<label>27</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Săftoiu</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Hassan</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Areia</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Bhutani</surname>
+<given-names>MS</given-names>
+</name>, <name name-style="western">
+<surname>Bisschops</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Bories</surname>
+<given-names>E</given-names>
+</name>, <etal>et al</etal>. <article-title>Role of gastrointestinal endoscopy in the screening of digestive tract cancers in Europe: European Society of Gastrointestinal Endoscopy (ESGE) Position Statement</article-title>. <source>Endoscopy</source>. <year>2020</year>;<volume>52</volume>(<issue>4</issue>):<fpage>293</fpage>–<lpage>304</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1055/a-1104-5245</pub-id>
+<pub-id pub-id-type="pmid">32052404</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref028">
+<label>28</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Conti</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Del Cornò</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Gessani</surname>
+<given-names>S</given-names>
+</name>. <article-title>Revisiting the impact of lifestyle on colorectal cancer risk in a gender perspective</article-title>. <source>Crit Rev Oncol Hematol</source>. <year>2020</year>;<volume>145</volume>:<fpage>102834</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/j.critrevonc.2019.102834</pub-id>
+<pub-id pub-id-type="pmid">31790930</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref029">
+<label>29</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>, <name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Lagergren</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Zhou</surname>
+<given-names>Z</given-names>
+</name>, <etal>et al</etal>. <article-title>Circulating sex hormone levels and risk of gastrointestinal cancer: systematic review and meta-analysis of prospective studies</article-title>. <source>Cancer Epidemiol Biomarkers Prev</source>. <year>2023</year>;<volume>32</volume>(<issue>7</issue>):<fpage>936</fpage>–<lpage>46</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1158/1055-9965.EPI-23-0039</pub-id>
+<pub-id pub-id-type="pmid">37104672</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref030">
+<label>30</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>, <name name-style="western">
+<surname>Yu</surname>
+<given-names>W</given-names>
+</name>, <name name-style="western">
+<surname>Jiang</surname>
+<given-names>G</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Xie</surname>
+<given-names>L</given-names>
+</name>, <etal>et al</etal>. <article-title>Global epidemiology of gallstones in the 21st century: a systematic review and meta-analysis</article-title>. <source>Clin Gastroenterol Hepatol</source>. <year>2024</year>;<volume>22</volume>(<issue>8</issue>):<fpage>1586</fpage>–<lpage>95</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/j.cgh.2024.01.051</pub-id>
+<pub-id pub-id-type="pmid">38382725</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref031">
+<label>31</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Ryu</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Chang</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Yun</surname>
+<given-names>KE</given-names>
+</name>, <name name-style="western">
+<surname>Jung</surname>
+<given-names>H-S</given-names>
+</name>, <name name-style="western">
+<surname>Shin</surname>
+<given-names>JH</given-names>
+</name>, <name name-style="western">
+<surname>Shin</surname>
+<given-names>H</given-names>
+</name>. <article-title>Gallstones and the risk of gallbladder cancer mortality: a cohort study</article-title>. <source>Am J Gastroenterol</source>. <year>2016</year>;<volume>111</volume>(<issue>10</issue>):<fpage>1476</fpage>–<lpage>87</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1038/ajg.2016.345</pub-id>
+<pub-id pub-id-type="pmid">27575712</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref032">
+<label>32</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Shin</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Song</surname>
+<given-names>Y-M</given-names>
+</name>, <name name-style="western">
+<surname>Yoo</surname>
+<given-names>K-Y</given-names>
+</name>, <name name-style="western">
+<surname>Sung</surname>
+<given-names>J</given-names>
+</name>. <article-title>Menstrual factors and cancer risk among Korean women</article-title>. <source>Int J Epidemiol</source>. <year>2011</year>;<volume>40</volume>(<issue>5</issue>):<fpage>1261</fpage>–<lpage>8</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1093/ije/dyr121</pub-id>
+<pub-id pub-id-type="pmid">21841186</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref033">
+<label>33</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Makiuchi</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Sobue</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Kitamura</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Sawada</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Iwasaki</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Sasazuki</surname>
+<given-names>S</given-names>
+</name>, <etal>et al</etal>. <article-title>Reproductive factors and gallbladder/bile duct cancer: a population-based cohort study in Japan</article-title>. <source>Eur J Cancer Prev</source>. <year>2017</year>;<volume>26</volume>(<issue>4</issue>):<fpage>292</fpage>–<lpage>300</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1097/CEJ.0000000000000260</pub-id>
+<pub-id pub-id-type="pmid">27164185</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref034">
+<label>34</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Ba</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Gu</surname>
+<given-names>X</given-names>
+</name>. <article-title>Using single-cell RNA sequencing and bulk RNA sequencing data to reveal a correlation between smoking and neutrophil activation in esophageal carcinoma patients</article-title>. <source>Environ Toxicol</source>. <year>2024</year>;<volume>39</volume>(<issue>10</issue>):<fpage>4689</fpage>–<lpage>99</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1002/tox.24312</pub-id>
+<pub-id pub-id-type="pmid">38700434</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref035">
+<label>35</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Khan</surname>
+<given-names>AA</given-names>
+</name>, <name name-style="western">
+<surname>Patel</surname>
+<given-names>K</given-names>
+</name>, <name name-style="western">
+<surname>Patil</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Babu</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Mangalaparthi</surname>
+<given-names>KK</given-names>
+</name>, <name name-style="western">
+<surname>Solanki</surname>
+<given-names>HS</given-names>
+</name>, <etal>et al</etal>. <article-title>Multi-omics analysis to characterize cigarette smoke induced molecular alterations in esophageal cells</article-title>. <source>Front Oncol</source>. <year>2020</year>;<volume>10</volume>:<fpage>1666</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.3389/fonc.2020.01666</pub-id>
+<pub-id pub-id-type="pmid">33251127</pub-id>
+<pub-id pub-id-type="pmcid">PMC7675040</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref036">
+<label>36</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Yang</surname>
+<given-names>B-Y</given-names>
+</name>, <name name-style="western">
+<surname>Dong</surname>
+<given-names>G-H</given-names>
+</name>. <article-title>Tobacco smoking in Asia-a public health threat</article-title>. <source>JAMA Netw Open</source>. <year>2019</year>;<volume>2</volume>(<issue>3</issue>):e191471. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2019.1471</pub-id>
+<pub-id pub-id-type="pmid">30924888</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref037">
+<label>37</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Gil</surname>
+<given-names>GF</given-names>
+</name>, <name name-style="western">
+<surname>Anderson</surname>
+<given-names>JA</given-names>
+</name>, <name name-style="western">
+<surname>Aravkin</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Bhangdia</surname>
+<given-names>K</given-names>
+</name>, <name name-style="western">
+<surname>Carr</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Dai</surname>
+<given-names>X</given-names>
+</name>, <etal>et al</etal>. <article-title>Health effects associated with chewing tobacco: a Burden of Proof study</article-title>. <source>Nat Commun</source>. <year>2024</year>;<volume>15</volume>(<issue>1</issue>):<fpage>1082</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1038/s41467-024-45074-9</pub-id>
+<pub-id pub-id-type="pmid">38316758</pub-id>
+<pub-id pub-id-type="pmcid">PMC10844244</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref038">
+<label>38</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Talukdar</surname>
+<given-names>FR</given-names>
+</name>, <name name-style="western">
+<surname>Ghosh</surname>
+<given-names>SK</given-names>
+</name>, <name name-style="western">
+<surname>Laskar</surname>
+<given-names>RS</given-names>
+</name>, <name name-style="western">
+<surname>Mondal</surname>
+<given-names>R</given-names>
+</name>. <article-title>Epigenetic, genetic and environmental interactions in esophageal squamous cell carcinoma from northeast India</article-title>. <source>PLoS One</source>. <year>2013</year>;<volume>8</volume>(<issue>4</issue>):e60996. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0060996</pub-id>
+<pub-id pub-id-type="pmid">23596512</pub-id>
+<pub-id pub-id-type="pmcid">PMC3626640</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref039">
+<label>39</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Fock</surname>
+<given-names>KM</given-names>
+</name>, <name name-style="western">
+<surname>Talley</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Moayyedi</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Hunt</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Azuma</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Sugano</surname>
+<given-names>K</given-names>
+</name>, <etal>et al</etal>. <article-title>Asia-Pacific consensus guidelines on gastric cancer prevention</article-title>. <source>J Gastroenterol Hepatol</source>. <year>2008</year>;<volume>23</volume>(<issue>3</issue>):<fpage>351</fpage>–<lpage>65</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1111/j.1440-1746.2008.05314.x</pub-id>
+<pub-id pub-id-type="pmid">18318820</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref040">
+<label>40</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Hullings</surname>
+<given-names>AG</given-names>
+</name>, <name name-style="western">
+<surname>Sinha</surname>
+<given-names>R</given-names>
+</name>, <name name-style="western">
+<surname>Liao</surname>
+<given-names>LM</given-names>
+</name>, <name name-style="western">
+<surname>Freedman</surname>
+<given-names>ND</given-names>
+</name>, <name name-style="western">
+<surname>Graubard</surname>
+<given-names>BI</given-names>
+</name>, <name name-style="western">
+<surname>Loftfield</surname>
+<given-names>E</given-names>
+</name>. <article-title>Whole grain and dietary fiber intake and risk of colorectal cancer in the NIH-AARP Diet and Health Study cohort</article-title>. <source>Am J Clin Nutr</source>. <year>2020</year>;<volume>112</volume>(<issue>3</issue>):<fpage>603</fpage>–<lpage>12</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1093/ajcn/nqaa161</pub-id>
+<pub-id pub-id-type="pmid">32619213</pub-id>
+<pub-id pub-id-type="pmcid">PMC7458778</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref041">
+<label>41</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Vernia</surname>
+<given-names>F</given-names>
+</name>, <name name-style="western">
+<surname>Longo</surname>
+<given-names>S</given-names>
+</name>, <name name-style="western">
+<surname>Stefanelli</surname>
+<given-names>G</given-names>
+</name>, <name name-style="western">
+<surname>Viscido</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Latella</surname>
+<given-names>G</given-names>
+</name>. <article-title>Dietary factors modulating colorectal carcinogenesis</article-title>. <source>Nutrients</source>. <year>2021</year>;<volume>13</volume>(<issue>1</issue>):<fpage>143</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.3390/nu13010143</pub-id>
+<pub-id pub-id-type="pmid">33401525</pub-id>
+<pub-id pub-id-type="pmcid">PMC7824178</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref042">
+<label>42</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Salsabila</surname>
+<given-names>MG</given-names>
+</name>, <name name-style="western">
+<surname>Ernawaty</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Fauziah</surname>
+<given-names>IB</given-names>
+</name>. <article-title>Prevention of obesity in the elderly through health promotion interventions: literature review</article-title>. <source>Preventia</source>. <year>2024</year>;<volume>9</volume>(<issue>2</issue>):<fpage>47</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.17977/um044v9i22024p47-57</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref043">
+<label>43</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Park</surname>
+<given-names>J-H</given-names>
+</name>, <name name-style="western">
+<surname>Hong</surname>
+<given-names>JY</given-names>
+</name>, <name name-style="western">
+<surname>Shen</surname>
+<given-names>JJ</given-names>
+</name>, <name name-style="western">
+<surname>Han</surname>
+<given-names>K</given-names>
+</name>, <name name-style="western">
+<surname>Park</surname>
+<given-names>YS</given-names>
+</name>, <name name-style="western">
+<surname>Park</surname>
+<given-names>JO</given-names>
+</name>. <article-title>Smoking Cessation and Pancreatic Cancer risk in individuals with prediabetes and diabetes: a Nationwide Cohort Study</article-title>. <source>J Natl Compr Canc Netw</source>. <year>2023</year>;<volume>21</volume>(<issue>11</issue>):1149-1155.e3. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.6004/jnccn.2023.7060</pub-id>
+<pub-id pub-id-type="pmid">37935099</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref044">
+<label>44</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Liou</surname>
+<given-names>J-M</given-names>
+</name>, <name name-style="western">
+<surname>Malfertheiner</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Lee</surname>
+<given-names>Y-C</given-names>
+</name>, <name name-style="western">
+<surname>Sheu</surname>
+<given-names>B-S</given-names>
+</name>, <name name-style="western">
+<surname>Sugano</surname>
+<given-names>K</given-names>
+</name>, <name name-style="western">
+<surname>Cheng</surname>
+<given-names>H-C</given-names>
+</name>, <etal>et al</etal>. <article-title>Screening and eradication of Helicobacter pylori for gastric cancer prevention: the Taipei global consensus</article-title>. <source>Gut</source>. <year>2020</year>;<volume>69</volume>(<issue>12</issue>):<fpage>2093</fpage>–<lpage>112</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1136/gutjnl-2020-322368</pub-id>
+<pub-id pub-id-type="pmid">33004546</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref045">
+<label>45</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Yang</surname>
+<given-names>W</given-names>
+</name>, <name name-style="western">
+<surname>Guo</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>, <name name-style="western">
+<surname>Li</surname>
+<given-names>F</given-names>
+</name>, <name name-style="western">
+<surname>Liu</surname>
+<given-names>A</given-names>
+</name>, <etal>et al</etal>. <article-title>Effectiveness of endoscopic screening on esophageal cancer incidence and mortality: a 9-year report of the Endoscopic Screening for Esophageal Cancer in China (ESECC) randomized trial</article-title>. <source>J Clin Oncol</source>. <year>2024</year>;<volume>42</volume>(<issue>14</issue>):<fpage>1655</fpage>–<lpage>64</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1200/JCO.23.01284</pub-id>
+<pub-id pub-id-type="pmid">38457759</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref046">
+<label>46</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Klein</surname>
+<given-names>AP</given-names>
+</name>. <article-title>Pancreatic cancer: a growing burden</article-title>. <source>Lancet Gastroenterol Hepatol</source>. <year>2019</year>;<volume>4</volume>(<issue>12</issue>):<fpage>895</fpage>–<lpage>6</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/S2468-1253(19)30323-1</pub-id>
+<pub-id pub-id-type="pmid">31648975</pub-id>
+<pub-id pub-id-type="pmcid">PMC7376745</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref047">
+<label>47</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Cipora</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Partyka</surname>
+<given-names>O</given-names>
+</name>, <name name-style="western">
+<surname>Pajewska</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Czerw</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Sygit</surname>
+<given-names>K</given-names>
+</name>, <name name-style="western">
+<surname>Sygit</surname>
+<given-names>M</given-names>
+</name>, <etal>et al</etal>. <article-title>Treatment costs and social burden of pancreatic cancer</article-title>. <source>Cancers (Basel)</source>. <year>2023</year>;<volume>15</volume>(<issue>6</issue>):<fpage>1911</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.3390/cancers15061911</pub-id>
+<pub-id pub-id-type="pmid">36980796</pub-id>
+<pub-id pub-id-type="pmcid">PMC10047484</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref048">
+<label>48</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Cabasag</surname>
+<given-names>CJ</given-names>
+</name>, <name name-style="western">
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Laversanne</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Vignat</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Weber</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Soerjomataram</surname>
+<given-names>I</given-names>
+</name>, <etal>et al</etal>. <article-title>Pancreatic cancer: an increasing global public health concern</article-title>. <source>Gut</source>. <year>2022</year>;<volume>71</volume>(<issue>8</issue>):<fpage>1686</fpage>–<lpage>7</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1136/gutjnl-2021-326311</pub-id>
+<pub-id pub-id-type="pmid">34686577</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref049">
+<label>49</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Huang</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Lok</surname>
+<given-names>V</given-names>
+</name>, <name name-style="western">
+<surname>Ngai</surname>
+<given-names>CH</given-names>
+</name>, <name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Yuan</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Lao</surname>
+<given-names>XQ</given-names>
+</name>, <etal>et al</etal>. <article-title>Worldwide burden of, risk factors for, and trends in pancreatic cancer</article-title>. <source>Gastroenterology</source>. <year>2021</year>;<volume>160</volume>(<issue>3</issue>):<fpage>744</fpage>–<lpage>54</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1053/j.gastro.2020.10.007</pub-id>
+<pub-id pub-id-type="pmid">33058868</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref050">
+<label>50</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Castanon</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Parmar</surname>
+<given-names>D</given-names>
+</name>, <name name-style="western">
+<surname>Massat</surname>
+<given-names>NJ</given-names>
+</name>, <name name-style="western">
+<surname>Sasieni</surname>
+<given-names>P</given-names>
+</name>, <name name-style="western">
+<surname>Duffy</surname>
+<given-names>SW</given-names>
+</name>. <article-title>Benefit of biennial fecal occult blood screening on colorectal cancer in England: a population-based case-control study</article-title>. <source>J Natl Cancer Inst</source>. <year>2022</year>;<volume>114</volume>(<issue>9</issue>):<fpage>1262</fpage>–<lpage>9</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1093/jnci/djac100</pub-id>
+<pub-id pub-id-type="pmid">35575409</pub-id>
+<pub-id pub-id-type="pmcid">PMC9468279</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref051">
+<label>51</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Libby</surname>
+<given-names>G</given-names>
+</name>, <name name-style="western">
+<surname>Brewster</surname>
+<given-names>DH</given-names>
+</name>, <name name-style="western">
+<surname>McClements</surname>
+<given-names>PL</given-names>
+</name>, <name name-style="western">
+<surname>Carey</surname>
+<given-names>FA</given-names>
+</name>, <name name-style="western">
+<surname>Black</surname>
+<given-names>RJ</given-names>
+</name>, <name name-style="western">
+<surname>Birrell</surname>
+<given-names>J</given-names>
+</name>, <etal>et al</etal>. <article-title>The impact of population-based faecal occult blood test screening on colorectal cancer mortality: a matched cohort study</article-title>. <source>Br J Cancer</source>. <year>2012</year>;<volume>107</volume>(<issue>2</issue>):<fpage>255</fpage>–<lpage>9</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1038/bjc.2012.277</pub-id>
+<pub-id pub-id-type="pmid">22735907</pub-id>
+<pub-id pub-id-type="pmcid">PMC3394992</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref052">
+<label>52</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Zauber</surname>
+<given-names>AG</given-names>
+</name>, <name name-style="western">
+<surname>Winawer</surname>
+<given-names>SJ</given-names>
+</name>, <name name-style="western">
+<surname>O’Brien</surname>
+<given-names>MJ</given-names>
+</name>, <name name-style="western">
+<surname>Lansdorp-Vogelaar</surname>
+<given-names>I</given-names>
+</name>, <name name-style="western">
+<surname>van Ballegooijen</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Hankey</surname>
+<given-names>BF</given-names>
+</name>, <etal>et al</etal>. <article-title>Colonoscopic polypectomy and long-term prevention of colorectal-cancer deaths</article-title>. <source>N Engl J Med</source>. <year>2012</year>;<volume>366</volume>(<issue>8</issue>):<fpage>687</fpage>–<lpage>96</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1056/NEJMoa1100370</pub-id>
+<pub-id pub-id-type="pmid">22356322</pub-id>
+<pub-id pub-id-type="pmcid">PMC3322371</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref053">
+<label>53</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>André</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Boni</surname>
+<given-names>C</given-names>
+</name>, <name name-style="western">
+<surname>Mounedji-Boudiaf</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Navarro</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Tabernero</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Hickish</surname>
+<given-names>T</given-names>
+</name>, <etal>et al</etal>. <article-title>Oxaliplatin, fluorouracil, and leucovorin as adjuvant treatment for colon cancer</article-title>. <source>N Engl J Med</source>. <year>2004</year>;<volume>350</volume>(<issue>23</issue>):<fpage>2343</fpage>–<lpage>51</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1056/NEJMoa032709</pub-id>
+<pub-id pub-id-type="pmid">15175436</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref054">
+<label>54</label>
+<mixed-citation publication-type="journal">
+<collab>GBD 2019 Hepatitis B Collaborators</collab>. <article-title>Global, regional, and national burden of hepatitis B, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019</article-title>. <source>Lancet Gastroenterol Hepatol</source>. <year>2022</year>;<volume>7</volume>(<issue>9</issue>):<fpage>796</fpage>–<lpage>829</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/S2468-1253(22)00124-8</pub-id>
+<pub-id pub-id-type="pmid">35738290</pub-id>
+<pub-id pub-id-type="pmcid">PMC9349325</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref055">
+<label>55</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Zou</surname>
+<given-names>B</given-names>
+</name>, <name name-style="western">
+<surname>Yeo</surname>
+<given-names>YH</given-names>
+</name>, <name name-style="western">
+<surname>Feng</surname>
+<given-names>Y</given-names>
+</name>, <name name-style="western">
+<surname>Xie</surname>
+<given-names>X</given-names>
+</name>, <name name-style="western">
+<surname>Lee</surname>
+<given-names>DH</given-names>
+</name>, <etal>et al</etal>. <article-title>Prevalence, incidence, and outcome of non-alcoholic fatty liver disease in Asia, 1999-2019: a systematic review and meta-analysis</article-title>. <source>Lancet Gastroenterol Hepatol</source>. <year>2019</year>;<volume>4</volume>(<issue>5</issue>):<fpage>389</fpage>–<lpage>98</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/S2468-1253(19)30039-1</pub-id>
+<pub-id pub-id-type="pmid">30902670</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref056">
+<label>56</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Krul</surname>
+<given-names>MF</given-names>
+</name>, <name name-style="western">
+<surname>Elferink</surname>
+<given-names>MAG</given-names>
+</name>, <name name-style="western">
+<surname>Kok</surname>
+<given-names>NFM</given-names>
+</name>, <name name-style="western">
+<surname>Dekker</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Lansdorp-Vogelaar</surname>
+<given-names>I</given-names>
+</name>, <name name-style="western">
+<surname>Meijer</surname>
+<given-names>GA</given-names>
+</name>, <etal>et al</etal>. <article-title>Initial impact of national CRC screening on incidence and advanced colorectal cancer</article-title>. <source>Clin Gastroenterol Hepatol</source>. <year>2023</year>;<volume>21</volume>(<issue>3</issue>):797-807.e3. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/j.cgh.2022.08.046</pub-id>
+<pub-id pub-id-type="pmid">36116753</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref057">
+<label>57</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Nagtegaal</surname>
+<given-names>ID</given-names>
+</name>, <name name-style="western">
+<surname>Vink-Börger</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Kuijpers</surname>
+<given-names>CCHJ</given-names>
+</name>, <name name-style="western">
+<surname>Dekker</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Shepherd</surname>
+<given-names>NA</given-names>
+</name>. <article-title>Incidental findings in the bowel cancer population screening program: other polyps and malignancies - a nationwide study</article-title>. <source>Histopathology</source>. <year>2023</year>;<volume>82</volume>(<issue>2</issue>):<fpage>254</fpage>–<lpage>63</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1111/his.14805</pub-id>
+<pub-id pub-id-type="pmid">36156277</pub-id>
+<pub-id pub-id-type="pmcid">PMC10092619</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref058">
+<label>58</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Feng</surname>
+<given-names>RM</given-names>
+</name>, <name name-style="western">
+<surname>Zong</surname>
+<given-names>YN</given-names>
+</name>, <name name-style="western">
+<surname>Cao</surname>
+<given-names>SM</given-names>
+</name>, <name name-style="western">
+<surname>Xu</surname>
+<given-names>RH</given-names>
+</name>. <article-title>Current cancer situation in China: good or bad news from the 2018 Global Cancer Statistics?</article-title>
+<source>Cancer Commun (Lond)</source>. <year>2019</year>;<volume>39</volume>(<issue>1</issue>):<fpage>22</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1186/s40880-019-0368-6</pub-id>
+<pub-id pub-id-type="pmid">31030667</pub-id>
+<pub-id pub-id-type="pmcid">PMC6487510</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref059">
+<label>59</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Morgan</surname>
+<given-names>E</given-names>
+</name>, <name name-style="western">
+<surname>Arnold</surname>
+<given-names>M</given-names>
+</name>, <name name-style="western">
+<surname>Camargo</surname>
+<given-names>MC</given-names>
+</name>, <name name-style="western">
+<surname>Gini</surname>
+<given-names>A</given-names>
+</name>, <name name-style="western">
+<surname>Kunzmann</surname>
+<given-names>AT</given-names>
+</name>, <name name-style="western">
+<surname>Matsuda</surname>
+<given-names>T</given-names>
+</name>, <etal>et al</etal>. <article-title>The current and future incidence and mortality of gastric cancer in 185 countries, 2020-40: a population-based modelling study</article-title>. <source>EClinicalMedicine</source>. <year>2022</year>;<volume>47</volume>:<fpage>101404</fpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1016/j.eclinm.2022.101404</pub-id>
+<pub-id pub-id-type="pmid">35497064</pub-id>
+<pub-id pub-id-type="pmcid">PMC9046108</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref060">
+<label>60</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Madsen</surname>
+<given-names>KA</given-names>
+</name>, <name name-style="western">
+<surname>Krieger</surname>
+<given-names>J</given-names>
+</name>, <name name-style="western">
+<surname>Morales</surname>
+<given-names>X</given-names>
+</name>. <article-title>Sugar-sweetened beverage taxes: emerging evidence on a new public health policy</article-title>. <source>JAMA</source>. <year>2019</year>;<volume>321</volume>(<issue>18</issue>):<fpage>1777</fpage>–<lpage>9</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1001/jama.2019.5344</pub-id>
+<pub-id pub-id-type="pmid">31087009</pub-id>
+<pub-id pub-id-type="pmcid">PMC6822675</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref061">
+<label>61</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Jones-Esan</surname>
+<given-names>L</given-names>
+</name>, <name name-style="western">
+<surname>Somasiri</surname>
+<given-names>N</given-names>
+</name>, <name name-style="western">
+<surname>Lorne</surname>
+<given-names>K</given-names>
+</name>. <source>Enhancing healthcare delivery through digital health interventions: a systematic review on telemedicine and mobile health applications in Low and Middle-Income Countries (LMICs)</source>; <year>2024</year>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.21203/rs.3.rs-5189203/v1</pub-id>
+</mixed-citation>
+</ref>
+<ref id="pone.0330259.ref062">
+<label>62</label>
+<mixed-citation publication-type="journal">
+<name name-style="western">
+<surname>Singer</surname>
+<given-names>DS</given-names>
+</name>, <name name-style="western">
+<surname>Jacks</surname>
+<given-names>T</given-names>
+</name>, <name name-style="western">
+<surname>Jaffee</surname>
+<given-names>E</given-names>
+</name>. <article-title>A U.S. “Cancer Moonshot” to accelerate cancer research</article-title>. <source>Science</source>. <year>2016</year>;<volume>353</volume>(<issue>6304</issue>):<fpage>1105</fpage>–<lpage>6</lpage>. <comment>doi: </comment>
+<pub-id pub-id-type="doi">10.1126/science.aai7862</pub-id>
+<pub-id pub-id-type="pmid">27605537</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>
+</pmc-articleset>

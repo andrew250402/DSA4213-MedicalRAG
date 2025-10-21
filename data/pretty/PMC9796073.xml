@@ -1,0 +1,2738 @@
+<pmc-articleset xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink">
+<article id="vco12827" xml:lang="en" article-type="review-article" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Vet Comp Oncol</journal-id>
+<journal-id journal-id-type="iso-abbrev">Vet Comp Oncol</journal-id>
+<journal-id journal-id-type="pmc-domain-id">379</journal-id>
+<journal-id journal-id-type="pmc-domain">blackwellopen</journal-id>
+<journal-id journal-id-type="publisher-id">VCO</journal-id>
+<journal-title-group>
+<journal-title>Veterinary and Comparative Oncology</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1476-5810</issn>
+<issn pub-type="epub">1476-5829</issn>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-is-collection-domain</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-collection-title</meta-name>
+<meta-value>Wiley Open Access Collection</meta-value>
+</custom-meta>
+</custom-meta-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC9796073</article-id>
+<article-id pub-id-type="pmcid-ver">PMC9796073.1</article-id>
+<article-id pub-id-type="pmcaid">9796073</article-id>
+<article-id pub-id-type="pmcaiid">9796073</article-id>
+<article-id pub-id-type="pmid">35522017</article-id>
+<article-id pub-id-type="doi">10.1111/vco.12827</article-id>
+<article-id pub-id-type="publisher-id">VCO12827</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="overline">
+<subject>Review</subject>
+</subj-group>
+<subj-group subj-group-type="heading">
+<subject>Reviews</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Diagnosis and histopathologic prognostication of canine melanocytic neoplasms: A consensus of the Oncology‐Pathology Working Group</article-title>
+<alt-title alt-title-type="left-running-head">Smedley et al.</alt-title>
+</title-group>
+<contrib-group>
+<contrib id="vco12827-cr-0001" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Smedley</surname>
+<given-names initials="RC">Rebecca C.</given-names>
+</name>
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5704-2664</contrib-id>
+<xref rid="vco12827-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+<address>
+<email>smedley1@msu.edu</email>
+</address>
+</contrib>
+<contrib id="vco12827-cr-0002" contrib-type="author">
+<name name-style="western">
+<surname>Bongiovanni</surname>
+<given-names initials="L">Laura</given-names>
+</name>
+<xref rid="vco12827-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+<xref rid="vco12827-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0003" contrib-type="author">
+<name name-style="western">
+<surname>Bacmeister</surname>
+<given-names initials="C">Cynthia</given-names>
+</name>
+<xref rid="vco12827-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0004" contrib-type="author">
+<name name-style="western">
+<surname>Clifford</surname>
+<given-names initials="CA">Craig A.</given-names>
+</name>
+<xref rid="vco12827-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0005" contrib-type="author">
+<name name-style="western">
+<surname>Christensen</surname>
+<given-names initials="N">Neil</given-names>
+</name>
+<xref rid="vco12827-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref>
+<xref rid="vco12827-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0006" contrib-type="author">
+<name name-style="western">
+<surname>Dreyfus</surname>
+<given-names initials="JM">Jennifer M.</given-names>
+</name>
+<xref rid="vco12827-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref>
+<xref rid="vco12827-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0007" contrib-type="author">
+<name name-style="western">
+<surname>Gary</surname>
+<given-names initials="JM">Joy M.</given-names>
+</name>
+<xref rid="vco12827-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref>
+<xref rid="vco12827-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0008" contrib-type="author">
+<name name-style="western">
+<surname>Pavuk</surname>
+<given-names initials="A">Alana</given-names>
+</name>
+<xref rid="vco12827-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0009" contrib-type="author">
+<name name-style="western">
+<surname>Rowland</surname>
+<given-names initials="PH">Peter H.</given-names>
+</name>
+<xref rid="vco12827-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0010" contrib-type="author">
+<name name-style="western">
+<surname>Swanson</surname>
+<given-names initials="C">Christine</given-names>
+</name>
+<xref rid="vco12827-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0011" contrib-type="author">
+<name name-style="western">
+<surname>Tripp</surname>
+<given-names initials="C">Chelsea</given-names>
+</name>
+<xref rid="vco12827-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0012" contrib-type="author">
+<name name-style="western">
+<surname>Woods</surname>
+<given-names initials="JP">J. Paul</given-names>
+</name>
+<xref rid="vco12827-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref>
+</contrib>
+<contrib id="vco12827-cr-0013" contrib-type="author">
+<name name-style="western">
+<surname>Bergman</surname>
+<given-names initials="PJ">Philip J.</given-names>
+</name>
+<xref rid="vco12827-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref>
+</contrib>
+</contrib-group>
+<aff id="vco12827-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Veterinary Diagnostic Laboratory</named-content>
+<institution>Michigan State University</institution>
+<city>Lansing</city>
+<named-content content-type="country-part">Michigan</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Veterinary Medicine</named-content>
+<institution>University of Teramo</institution>
+<named-content content-type="country-part">Teramo</named-content>
+<country country="IT">Italy</country>
+</aff>
+<aff id="vco12827-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Veterinary Medicine, Department of Biomolecular Sciences</named-content>
+<institution>Utrecht University</institution>
+<city>Utrecht</city>
+<country country="NL">The Netherlands</country>
+</aff>
+<aff id="vco12827-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Anatomic Pathology</named-content>
+<institution>Antech Diagnostics</institution>
+<city>Fountain Valley</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Oncology Service</named-content>
+<institution>Hope Veterinary Specialists/BluePearl</institution>
+<city>Malvern</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Oncology Service</named-content>
+<institution>Veterinary Specialty Hospital Hong Kong</institution>
+<city>Wan Chai</city>
+<country country="HK">Hong Kong</country>
+</aff>
+<aff id="vco12827-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Veterinary Medical Teaching Hospital</named-content>
+<institution>University of Wisconsin</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Anatomic Pathology</named-content>
+<institution>Dreyfus Veterinary Pathology Consulting</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">School of Veterinary Medicine</named-content>
+<institution>University of Wisconsin</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Neuropathology</named-content>
+<institution>StageBio</institution>
+<city>Frederick</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Comparative Biomedical Training Program, Molecular Pathology Unit</named-content>
+<institution>NCI, NIH</institution>
+<city>Bethesda</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Anatomic Pathology</named-content>
+<institution>Antech Diagnostics</institution>
+<city>Durham</city>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Biopsy Service</named-content>
+<institution>Histopath Consulting</institution>
+<city>Worcester</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Oncology Service</named-content>
+<institution>BluePearl Specialty and Emergency Pet Hospital</institution>
+<city>Grand Rapids</city>
+<named-content content-type="country-part">Michigan</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Oncology Service</named-content>
+<institution>Bridge Animal Referral Center</institution>
+<city>Edmonds</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff>
+<aff id="vco12827-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Studies, Ontario Veterinary College</named-content>
+<institution>University of Guelph</institution>
+<city>Guelph</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff>
+<aff id="vco12827-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Studies</named-content>
+<institution>VCA</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff>
+<author-notes>
+<corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break />
+Rebecca C. Smedley, Veterinary Diagnostic Laboratory, Michigan State University, Lansing, MI 48910, USA.<break />
+Email: <email>smedley1@msu.edu</email>
+<break />
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>04</day>
+<month>7</month>
+<year>2022</year>
+</pub-date>
+<pub-date pub-type="ppub">
+<month>12</month>
+<year>2022</year>
+</pub-date>
+<volume>20</volume>
+<issue seq="30">4</issue>
+<issue-id pub-id-type="pmc-issue-id">424638</issue-id>
+<issue-id pub-id-type="doi">10.1111/vco.v20.4</issue-id>
+<fpage>739</fpage>
+<lpage>751</lpage>
+<history>
+<date date-type="rev-recd">
+<day>26</day>
+<month>4</month>
+<year>2022</year>
+</date>
+<date date-type="received">
+<day>03</day>
+<month>3</month>
+<year>2022</year>
+</date>
+<date date-type="accepted">
+<day>03</day>
+<month>5</month>
+<year>2022</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>28</day>
+<month>12</month>
+<year>2022</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>28</day>
+<month>12</month>
+<year>2022</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2022-12-29 05:11:31.443">
+<day>29</day>
+<month>12</month>
+<year>2022</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Veterinary and Comparative Oncology</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+<license>
+<ns0:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ns0:license_ref>
+<license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns1:href="VCO-20-739.pdf" />
+<self-uri content-type="pdf" ns1:href="file:VCO-20-739.pdf" />
+<abstract>
+<title>Abstract</title>
+<p>One of the primary objectives of the Oncology Pathology Working Group (OPWG) is for oncologists and pathologists to collaboratively generate consensus documents to standardize aspects of and provide guidelines for veterinary oncologic pathology. Consensus is established through review of relevant peer‐reviewed literature relative to a subgroup's particular focus. In this article, the authors provide a critical review of the current literature for the diagnosis of, and histopathologic prognostication for, canine cutaneous and oral/lip melanocytic neoplasms, suggest guidelines for reporting, provide recommendations for clinical interpretation, and discuss future directions. This document represents the opinions of the working group and the authors and does not constitute a formal endorsement by the American College of Veterinary Pathologists, American College of Veterinary Internal Medicine or the Veterinary Cancer Society.</p>
+</abstract>
+<kwd-group kwd-group-type="author-generated">
+<kwd id="vco12827-kwd-0001">cancer</kwd>
+<kwd id="vco12827-kwd-0002">dogs</kwd>
+<kwd id="vco12827-kwd-0003">melanoma</kwd>
+<kwd id="vco12827-kwd-0004">oncology</kwd>
+<kwd id="vco12827-kwd-0005">pathology</kwd>
+<kwd id="vco12827-kwd-0006">prognosis</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0" />
+<table-count count="4" />
+<page-count count="13" />
+<word-count count="10999" />
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-license-ref</meta-name>
+<meta-value>CC BY-NC-ND</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>source-schema-version-number</meta-name>
+<meta-value>2.0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>cover-date</meta-name>
+<meta-value>December 2022</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>details-of-publishers-convertor</meta-name>
+<meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:28.12.2022</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+<notes>
+<p content-type="self-citation">
+<mixed-citation publication-type="journal" id="vco12827-cit-9001">
+<string-name name-style="western">
+<surname>Smedley</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bongiovanni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bacmeister</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Diagnosis and histopathologic prognostication of canine melanocytic neoplasms: A consensus of the Oncology‐Pathology Working Group</article-title>. <source>Vet Comp Oncol</source>. <year>2022</year>;<volume>20</volume>(<issue>4</issue>):<fpage>739</fpage>‐<lpage>751</lpage>. doi:<pub-id pub-id-type="doi">10.1111/vco.12827</pub-id>
+<pub-id pub-id-type="pmid">35522017</pub-id>
+<pub-id pub-id-type="pmcid">PMC9796073</pub-id>
+</mixed-citation>
+</p>
+</notes>
+</front>
+<body id="vco12827-body-0001">
+<sec id="vco12827-sec-0001">
+<label>1</label>
+<title>INTRODUCTION</title>
+<p>In 2011, Smedley et al., published “Prognostic Markers for Canine Melanocytic Neoplasms: A Comparative Review of the Literature and Goals for Future Investigation”, a critical review of canine melanocytic neoplasm studies published prior to February 2011, as an initiative of the American College of Veterinary Pathologists' (ACVP) Oncology Committee.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The authors based that review on the criteria described in the consensus by Webster et al. “Recommended Guidelines for the Conduct and Evaluation of Prognostic Studies in Veterinary Oncology”.<xref rid="vco12827-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The main goal of the 2011 review was to report which published parameters “had the most statistically supported validity for prognostic use in canine melanocytic neoplasia.”<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Similarly, as an update of the 2011 review, this current manuscript provides a critical consensus review of canine melanocytic neoplasm diagnostic and prognostic pathology studies that have been published from 2011 to 2021 based on the same guidelines published by Webster et al.<xref rid="vco12827-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> This consensus is based on the work of the canine melanoma subgroup as part of the Oncology Pathology Working Group (OPWG), a joint initiative of the Veterinary Cancer Society and the ACVP that was formed from the ACVP Oncology Committee. We provide recommendations for the diagnosis, and histopathologic prognostication, of canine cutaneous and oral/lip melanocytic neoplasms in a diagnostic setting, suggest guidelines for reporting, provide recommendations for clinical interpretation, and discuss future directions. This document represents the opinions of the working group and the authors and does not constitute a formal endorsement by the ACVP or the Veterinary Cancer Society.</p>
+</sec>
+<sec sec-type="methods" id="vco12827-sec-0002">
+<label>2</label>
+<title>METHODS</title>
+<sec id="vco12827-sec-0003">
+<label>2.1</label>
+<title>Development of the consensus report</title>
+<p>The canine melanoma subgroup of the OPWG, which includes all coauthors of this article, reviewed recent canine melanocytic literature. The canine melanoma subgroup includes 6 board‐certified veterinary oncologists (PJB, CS, CT, CAC, NC, PW) and 7 board‐certified veterinary pathologists (RCS, LB, CB, JG, PR, JD, AP). The chairs (PJB and RCS) initially selected the articles for review, which included the 2011 review paper by Smedley et al.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> and subsequent diagnostic or prognostic articles from February 2011 to December 2017.<xref rid="vco12827-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="vco12827-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="vco12827-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="vco12827-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="vco12827-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="vco12827-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="vco12827-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="vco12827-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="vco12827-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="vco12827-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="vco12827-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="vco12827-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="vco12827-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="vco12827-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="vco12827-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="vco12827-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="vco12827-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Articles were searched in <ext-link ns1:href="https://pubmed.ncbi.nlm.nih.gov/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/</ext-link> using the phrase “canine melanoma”. The abstracts were then evaluated to determine whether or not the paper addressed any diagnostic or prognostic markers. If it was uncertain, the chairs (PJB and RCS) scanned the articles to determine if any previous or new diagnostic or prognostic parameters were evaluated as a minor portion of the study. Articles related to treatment or prognostic clinical criteria of canine cutaneous and oral/lip melanocytic tumours were not included in this review but were saved for a subsequent consensus report. The focus of this consensus statement is on the histological features of, and molecular markers for, cutaneous and oral/lip melanocytic neoplasms. Three subgroup members were assigned to each article for critical review, avoiding assignment of articles they authored. Each member used an Excel table template that was the same as the one used by Smedley et al.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> and was based on the standards outlined by Webster et al.<xref rid="vco12827-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> This table provided a summary of the objective/hypothesis, study design, materials and methods, statistical soundness, conclusions by the article's authors, and conclusions of the reviewing subgroup member, in addition to other criteria. The co‐chair (RCS) then combined the reviews from each author into one review per article in the same Excel table format. To expedite review of an additional 6 articles, including one published in 2012<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and 5 published from July 2017 to March 2019,<xref rid="vco12827-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="vco12827-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="vco12827-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="vco12827-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> the co‐chair (RCS) completed the review of these articles and distributed the reviews to the subgroup for comments and discussion. Next, the co‐chair (RCS) summarized and condensed the reviews and drafted the initial consensus report. Additional articles were referenced in the report as needed but were not critically reviewed.<xref rid="vco12827-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="vco12827-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="vco12827-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="vco12827-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="vco12827-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> The reviews and the consensus report were distributed to all subgroup members for edits, discussion and comments and then submitted to the OPWG Executive Committee for review. The consensus was made available to OPWG membership at large, which approved the report by popular vote, and then it was made available online on the OPWG webpage (<ext-link ns1:href="http://vetcancersociety.org/vcs-members/vcs-groups/oncology-pathology-working-group/" ext-link-type="uri">http://vetcancersociety.org/vcs-members/vcs-groups/oncology-pathology-working-group/</ext-link>) in August 2020. While preparing the current manuscript, 14 additional articles<xref rid="vco12827-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="vco12827-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="vco12827-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="vco12827-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="vco12827-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="vco12827-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="vco12827-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="vco12827-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="vco12827-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="vco12827-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="vco12827-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="vco12827-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="vco12827-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="vco12827-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> were identified that were published from November 2019 to August 2021. Again, to expedite review of these 15 additional articles, the co‐chair (RCS) completed the reviews and distributed them to the subgroup for comments and discussion. All authors agreed on inclusion of these references here, but they were not present in the OPWG consensus statement and, therefore, were not voted on by the OPWG membership.</p>
+</sec>
+<sec id="vco12827-sec-0004">
+<label>2.2</label>
+<title>Review of the literature</title>
+<p>Since 2011, there have been few published studies that have identified novel diagnostic or prognostic markers for canine melanocytic neoplasms that have enough statistical soundness, and that can easily be used in a diagnostic setting. The conclusions in most of these studies still require further validation via additional corollary studies. Unfortunately, there have only been rare published prospective prognostic studies for canine melanocytic neoplasms and those particular studies have not yielded established prognostic markers at this point.<xref rid="vco12827-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> While not the major goal, some of the new studies do provide further support for the use of the parameters recommended in the 2011 review.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The studies that provide the most potentially useful data, support previous recommendations, and have future utility are discussed below.</p>
+</sec>
+</sec>
+<sec sec-type="results" id="vco12827-sec-0005">
+<label>3</label>
+<title>RESULTS</title>
+<p>A total of 37 articles were originally selected, of which 24 contained prognostic criteria suitable for the consensus document. A total of 23 additional articles were identified after the consensus document was published online. Of these, 14 contained prognostic criteria that were deemed important to include here.</p>
+<sec id="vco12827-sec-0006">
+<label>3.1</label>
+<title>Diagnostic markers for melanocytic neoplasms</title>
+<p>The first step in prognostication, and to decide the correct therapeutic approach, is to obtain an accurate diagnosis. This should also be the first step when performing and reviewing prognostic studies. If melanocytic origin has not been definitively confirmed for every neoplasm in a study population, the results of that study cannot be interpreted accurately. Diagnosis is based on specific histologic features of cutaneous and mucosal melanocytic tumours. However, when histologic features alone are not confirmatory of melanocytic origin, demonstration of immunohistochemical (IHC) labelling for specific melanocytic markers is needed (Table <xref rid="vco12827-tbl-0001" ref-type="table">1</xref>).</p>
+<table-wrap position="float" id="vco12827-tbl-0001" content-type="TABLE" orientation="portrait">
+<label>TABLE 1</label>
+<caption>
+<p>Diagnostic molecular markers for canine melanocytic tumours</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="left" span="1" />
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom" rowspan="1" colspan="1">Marker(s)</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">Samples<xref rid="vco12827-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>‐tumour location<xref rid="vco12827-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">Methods<xref rid="vco12827-note-0003" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">Application utility</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">References</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td rowspan="2" align="left" valign="top" colspan="1">Melan‐A</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM and OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Confirm melanocytic origin</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0034" ref-type="bibr">34</xref>, <xref rid="vco12827-bib-0046" ref-type="bibr">46</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">ICC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Confirm melanocytic origin</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0016" ref-type="bibr">16</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">PNL2</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Confirm melanocytic origin</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0034" ref-type="bibr">34</xref>, <xref rid="vco12827-bib-0046" ref-type="bibr">46</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">TRP‐1 and TRP‐2</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Confirm melanocytic origin</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0034" ref-type="bibr">34</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">SOX‐10</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Differentiate from soft tissue sarcomas (90% specificity)</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0046" ref-type="bibr">46</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">TYR, CD34 and CALD1</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM (spindloid amelanotic)</td>
+<td align="left" valign="top" rowspan="1" colspan="1">RT‐qPCR</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Differentiate from soft tissue sarcomas</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0046" ref-type="bibr">46</xref>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="left" valign="top" colspan="1">MITF</td>
+<td rowspan="2" align="left" valign="top" colspan="1">T‐CM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IF</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Confirm melanocytic origin</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0004" ref-type="bibr">4</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">89.8% sensitivity but only 30% specificity when used to differentiate from soft tissue sarcomas</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0034" ref-type="bibr">34</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">Metabolite profile<xref rid="vco12827-note-0004" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td>
+<td align="left" valign="top" rowspan="1" colspan="1">P‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">GC–MS</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Distinguish dogs with melanomas from healthy control dogs</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0013" ref-type="bibr">13</xref>
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot id="vco12827-ntgp-0001">
+<fn id="vco12827-note-0001">
+<label>
+<sup>a</sup>
+</label>
+<p>Samples: T, tissue; P, plasma.</p>
+</fn>
+<fn id="vco12827-note-0002">
+<label>
+<sup>b</sup>
+</label>
+<p>Tumour location: CM, cutaneous melanoma; OM, oral melanoma.</p>
+</fn>
+<fn id="vco12827-note-0003">
+<label>
+<sup>c</sup>
+</label>
+<p>Methods: IHC, immunohistochemistry; ICC, immunocytochemistry; IF, immunofluorescence; RT‐qPCR, quantitative reverse transcription PCR; GC–MS, gas chromatography–mass spectrometry.</p>
+</fn>
+<fn id="vco12827-note-0004">
+<label>
+<sup>d</sup>
+</label>
+<p>Metabolite profile: Citric acid, lactic acid, oleic acid, linoleic acid, palmitoleic acid, octadecenoic acid and glycerol.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Melanocytic neoplasms in veterinary species have been shown to label for several different IHC markers, but each marker has different sensitivities and specificities among species, including humans, thereby limiting the use of a single antibody for diagnosing amelanotic melanocytic neoplasms. The most sensitive and specific markers to detect melanocytic neoplasms in veterinary species are still Melan‐A and PNL2,<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="vco12827-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> which are antigens that are found on melanocytes. In dogs, antibodies against tyrosinase‐related proteins 1 and 2 (TRP‐1 and TRP‐2) have also been shown to be highly sensitive and specific.<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> A diagnostic melanoma cocktail that contains antibodies against Melan‐A, PNL2, TRP‐1 and TRP‐2 has been shown to have 100% specificity and 93.9% sensitivity in detecting canine oral melanocytic neoplasms compared to soft tissue sarcomas in one study, and is commercially available.<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> This cocktail has been shown to have a sensitivity that is greater than the individual sensitivities of each individual antibody and to result in a greater labelling intensity.<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Thus, this cocktail makes it easier to identify labelling in small samples and in tumours that only exhibit a small amount of labelling with the individual markers and it is considered to be the current gold standard for diagnosing canine amelanotic malignant melanomas (MM).<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="vco12827-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> The most common cells to label with melanocytic markers are intraepithelial neoplastic cells, which are the most differentiated of the neoplastic cells, as the growth of the neoplasm begins in the epithelium.<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Thus, it is extremely important for clinicians to submit non‐ulcerated portions of the mass, as well as wide lateral margins that include intact lateral flanking epithelium, in order to increase the likelihood of identifying intraepithelial nests of neoplastic melanocytes and to improve likelihood of complete excision. Small nests can sometimes be difficult to discern with routine histology, but they are easily identified with IHC labelling.</p>
+<p>IHC for S‐100 and for microphthalmia‐associated transcription factor (MITF) have also been explored.<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> These markers showed 81.6% and 89.8% sensitivity respectively, but only showed 20% and 30% specificity, respectively, in differentiating melanocytic tumours from soft tissue sarcomas.<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Campagne et al. used immunofluorescent labelling for MITF to identify neoplastic and non‐neoplastic melanocytes.<xref rid="vco12827-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> In that study, the immunofluorescent method showed 100% sensitivity and 100% specificity. In contrast, the authors stated that IHC labelling for MITF did not identify tumuoral cells in all of the samples.<xref rid="vco12827-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p>
+<p>SOX‐10 is a marker that has been used to diagnose melanocytic neoplasms in humans<xref rid="vco12827-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="vco12827-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> but until recently, there had been no published studies of its use in dogs. In humans, it is not specific to melanocytes and has been shown to be consistently expressed in benign Schwann cell tumours of soft tissue and the gastrointestinal tract and to be variably present in malignant peripheral nerve sheath tumours.<xref rid="vco12827-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> It has also been shown to label myoepithelial cell origin tumours, granular cell tumours, histiocytes, occasional alveolar rhabdomyosarcomas and some epithelial tumours, including rare squamous cell carcinomas of the head and neck and pulmonary small cell carcinomas.<xref rid="vco12827-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="vco12827-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="vco12827-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="vco12827-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> In addition, SOX‐10 can be expressed in entrapped non‐neoplastic Schwann cells or melanocytes in various neoplasms and this has to be considered when diagnosing SOX‐10‐positive tumours.<xref rid="vco12827-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> In humans, soft tissue sarcomas are uncommon and often are not a differential for a melanoma. In contrast, soft tissue sarcomas, including peripheral nerve sheath tumours, in dogs are very common and are the primary differential for a spindloid melanoma.</p>
+<p>The diagnostic melanoma cocktail has the lowest sensitivity in spindloid variants of amelanotic MM.<xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Thus, a recent study examined additional IHC markers and gene expression patterns in these tumours to improve the ability to differentiate between oral amelanotic spindloid MMs and oral soft tissue sarcomas.<xref rid="vco12827-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> IHC labelling for SOX‐10 was also examined in that study. Tsoi et al. examined 20 oral MMs and 20 soft tissue sarcomas for SOX‐10 immunoexpression and found that all 20 oral MMs and 2 out of 20 soft tissue sarcomas labelled for SOX‐10, resulting in 100% sensitivity but only 90% specificity for that antibody.<xref rid="vco12827-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> In addition, the authors examined various gene expression patterns and determined that mRNA levels of TYR, CD34, and CALD1 can be used to differentiate between canine oral spindloid amelanotic MMs and soft tissue sarcomas that are negative for specific melanocytic markers (Melan‐A, PNL2, TRP‐1 and TRP‐2) with 100% specificity and 65%, 95% and 60% sensitivity, respectively.<xref rid="vco12827-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Availability of gene expression analysis for canine melanomas in a diagnostic setting would greatly improve a pathologist's ability to more confidently distinguish between these two tumour types.</p>
+<p>Cytologic +/− immunocytochemical (ICC) examination of potential melanocytic neoplasms should not be forgotten as a potential useful preoperative diagnostic tool.<xref rid="vco12827-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> In one study, the authors found that ICC using anti‐Melan‐A, anti‐Vimentin, and anti‐cytokeratin improved the ability to diagnose canine amelanotic oral melanomas with cytology. The diagnosis reached with ICC matched the histologic diagnosis.<xref rid="vco12827-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The study also showed that ICC for Melan‐A can correctly identify metastatic amelanotic melanoma in regional lymph nodes, especially when they are in low numbers or have a round cell morphology.<xref rid="vco12827-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> It still may be difficult to differentiate between metastatic neoplastic melanocytes and draining melanocytes, however.</p>
+</sec>
+<sec id="vco12827-sec-0007">
+<label>3.2</label>
+<title>Prognostication of melanocytic neoplasms</title>
+<p>An accurate prognosis is critical for appropriate recommendations for primary and/or adjunct therapy. Assessment of a combination of highly reliable parameters will provide the most accurate prediction of prognosis. In terms of prognostication of canine melanocytic neoplasms, the recommendations in the review paper by Smedley et al.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> were judged to still be the most diagnostically and prognostically useful, with the addition of assessing tumour thickness for non‐oral cutaneous melanocytic neoplasms.</p>
+<sec id="vco12827-sec-0008">
+<label>3.2.1</label>
+<title>
+Tumour location of cutaneous, oral and lip melanocytic neoplasms
+</title>
+<p>Historically, canine oral melanocytic tumours have been regarded as malignant and cutaneous melanocytic tumours have been regarded as benign. While, in general, digital/subungual and lip tumours have been shown to have increased recurrence and metastasis compared to tumours at other cutaneous sites.<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Other studies have shown that this is not always the case and that location alone cannot predict prognosis.<xref rid="vco12827-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> In one study, 92% of oral and 74% of feet &amp; lip melanocytic neoplasms were originally classified as malignant but only 59% of oral and 38% of feet &amp; lip neoplasms showed malignant behaviour, and a subset of cutaneous melanocytic neoplasms showed malignant behaviour that would have been predicted to be benign based on location and current microscopic criteria for prognostication.<xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Recently, a significant correlation between histologic diagnosis of cutaneous melanocytic neoplasms and location was found when the diagnostic criteria described by Smedley et al.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> were used.<xref rid="vco12827-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Similar to Spangler and Kass,<xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> these authors found that cutaneous MMs were more likely to be on the digit compared to melanocytomas. They also found that there were fewer MMs than melanocytomas on the abdomen.<xref rid="vco12827-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+</p>
+<p>Overall, the challenge is to identify benign oral/lip melanocytic neoplasms and malignant cutaneous ones. At this time, histologic criteria and Ki67 labelling, by use of commercially available antibodies, are evaluated for this purpose.</p>
+</sec>
+<sec id="vco12827-sec-0009">
+<label>3.2.2</label>
+<title>
+Histological criteria
+</title>
+<p>In terms of histologic criteria, nuclear atypia, mitotic count (MC), degree of pigmentation, level of infiltration/invasion, and vascular invasion have been shown to be statistically relevant for predicting prognosis of cutaneous and oral melanocytic neoplasms in dogs in studies prior to and after 2011.<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="vco12827-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="vco12827-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="vco12827-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="vco12827-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="vco12827-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Histologically evaluated ulceration<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> and macroscopically assessed tumour thickness<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> are only predictive of prognosis for cutaneous tumours.</p>
+<p>While assessment of nuclear atypia can result in significant interobserver variation, this parameter continues to show statistical relevance when correctly applied. Only one paper reported a lack of association between nuclear atypia and survival in dogs with oral MMs.<xref rid="vco12827-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Nuclear atypia should be assessed according to the strict criteria outlined by Spangler and Kass.<xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Using those criteria, a threshold value of 20% atypical nuclei for cutaneous melanocytic neoplasms and a threshold of 30% atypical nuclei for canine oral/lip melanocytic neoplasms have shown statistical significance for predicting survival times.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="vco12827-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> The most accurate way to determine the percentage of atypical nuclei is to count the number of atypical nuclei among 200 cells.</p>
+<p>Despite the inter‐ and intraobserver variation of MC, it has still shown statistical relevance in several studies of melanocytic neoplasms at various locations, including cutaneous studies published since 2011, and is more objective than nuclear atypia.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="vco12827-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="vco12827-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="vco12827-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="vco12827-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> It should be noted that most veterinary studies incorrectly refer to MC as mitotic index. Mitotic index is the number of mitotic figures/total number of cells in a defined area or volume of tumour and this has never been done in veterinary pathology. MC is the number of mitotic figures in a defined square mm area. The area 2.37 mm<sup>2</sup> was proposed for animal tumours because this is the area in 10 fields of view with a 40× objective and a 10× ocular that has field number (FN) of 22 engraved in the eyepiece.<xref rid="vco12827-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> An ocular with an FN 22 is the most common ocular manufactured by commercial sources for pathologists. For this consensus statement we have defined the MC as the number of mitoses in 10 fields at 400× magnification/40× objective (which we will refer to as hpf throughout this text) because that is how earlier studies performed the MC. Therefore, these terms and definition will be used throughout this report, regardless of how it is stated in the cited reference.</p>
+<p>The MC threshold for cutaneous melanocytic tumours was established by counting mitoses in 10 random high power fields.<xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> However, in order to decrease the rate of underestimation of malignant neoplasms, MC should be determined in the area of highest mitotic activity, similar to how the threshold for oral/lip melanocytic neoplasms was determined. Therefore, first scan the neoplasm at 100× magnification/10× objective to locate areas of potentially high mitotic activity. Locate a field containing one or more mitotic figures, if possible, and begin counting mitoses in that area at 400× magnification/40× objective. Count mitotic figures in 10 consecutive hpf. Avoid areas of ulceration, necrosis, and inflammation when counting mitoses. For heavily pigmented neoplasms bleaching may be needed to better assess the MC. Ideally, MCs should now be reported per 2.37 mm<sup>2</sup>. For cutaneous neoplasms, an MC of 3 or greater in 10 hpf has been associated with more aggressive behaviour and shorter survival times.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Neoplasms with less than 3 mitoses in 10 hpf generally exhibit benign behaviour. One study showed that 50% of dogs with neoplasms with an MC of ≥3 in 10 random hpf were alive for &lt;7 months while 90% of dogs with neoplasms with an MC &lt;3 in 10 random hpf were still alive at 2 years.<xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> For oral/lip melanocytic neoplasms, a cut‐off of 4 mitoses per 10 hpf is a statistically determined threshold value for MC, with dogs having tumours with ≥4 mitoses showing shorter survival times.<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> A marked difference in survival at 1 year between the two groups created by this cut‐off value has been demonstrated with a sensitivity of 90% and a specificity of 84% in one oral/lip study.<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p>
+<p>For pigmentation, it is difficult to measure objectively with validated cutoff points, but a high degree of pigmentation does suggest a favourable clinical outcome for cutaneous and oral/lip melanocytic neoplasms.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="vco12827-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Oral/lip neoplasms with ≥50% of pigmented cells have been shown to have longer survival times.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> However, outcome is not predictable in oral/lip or cutaneous neoplasms with moderate, low, or no pigmentation.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Pigmentation should be evaluated but should not be used as a sole predicting factor.</p>
+<p>In addition, ulceration is another prognostic marker that can be used for cutaneous melanocytic neoplasms. Ulceration of cutaneous melanocytic neoplasms has been associated with significantly shorter survival times and was shown to be an independent prognostic factor in two studies.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</p>
+</sec>
+<sec id="vco12827-sec-0010">
+<label>3.2.3</label>
+<title>
+Molecular markers
+</title>
+<p>Several molecular markers have been investigated for their potential as prognostic markers for canine melanocytic neoplasms (Table <xref rid="vco12827-tbl-0002" ref-type="table">2</xref>). Currently, immunohistochemical evaluation of Ki67, as the Ki67 index or Ki67 count, is the only established prognostic molecular marker, and it has been shown to be highly predictive of behaviour for both oral and cutaneous melanocytic tumours in dogs in multiple studies, including four that were published after 2011.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="vco12827-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="vco12827-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> Whereas MC only accounts for cells in the M phase of the cell cycle, Ki67 is a nuclear protein that is expressed in all phases of the cell cycle, except the resting phase; therefore, it is a measure of growth fraction. The level of Ki67 expression is much more objective and has been shown to have a similar or higher predictive value as traditional histologic criteria for both cutaneous and oral/lip melanocytic neoplasms.<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Some neoplasms with histological criteria of malignancy, but a low level of Ki67 expression have longer survival times than expected by histology.<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> It is also much easier to identify the areas with the most proliferation by looking for red nuclear labelling than it is to identify an area of high mitotic activity when scanning a tumour. Thus, this marker is more objective than MC. Nuclei with weak to strong diffuse labelling and nuclei with only nucleolar labelling are counted while avoiding areas of ulceration and inflammation. For heavily pigmented neoplasms, bleaching the sections after immunohistochemical labelling may be needed to better assess Ki67 labelling. If sections are bleached before immunohistochemistry, Ki67 labelling does not work. In cutaneous melanocytic neoplasms, the Ki67 index is determined as a percentage of positive nuclei in 500 cells.<xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Thus, the number of cells evaluated is standardized. Assistance of a 1 cm<sup>2</sup> optical grid reticle is very helpful. The grid reticle simply helps the pathologist keep track of which cells have been counted already. For oral/lip melanocytic neoplasms, the Ki67 count is determined as the average number of positively labelled neoplastic cell nuclei per area of a 1 cm<sup>2</sup> optical grid reticle at 400x magnification/40x objective (5 grid areas counted) in the highest labelling area.<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> This grid method standardizes the area assessed so that it is the same no matter what microscope is used. It should be noted that previous references refer to this method for oral/lip melanocytic tumours as “Ki67 index”. However, similar to the incorrect use of the term “mitotic index”, it may be more accurate to refer to this method of evaluating Ki67 labelling for oral/lip melanocytic tumours as “Ki67 count”, as it is not reported as a percentage of cells. A threshold value of 19.5 was statistically determined using a receiver operator characteristic (ROC) curve.<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Kaplan–Meier survival analysis showed that the survival curves for dogs with a Ki67 count &lt;19.5 and dogs with a Ki67 count ≥19.5 are significantly different based on a one‐year survival period (<italic toggle="yes">P &lt;</italic> .0001).<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> In cutaneous melanocytic neoplasms, a threshold value of 15% had been previously empirically determined and has been evaluated in regard to survival with Kaplan–Meier survival curves.<xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Statistically significant lower survival rates were reported for dogs with neoplasms with a Ki67 index ≥15% in that study, as well as in a more recent study.<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> In one study, none of the behaviourally benign cutaneous melanocytic neoplasms had a Ki67 index greater than or equal to 15%.<xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> The percentage of correctly classified neoplasms using the Ki67 index (97%) was higher than that of MC (91%) and histological criteria (93%) in one study.<xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Thus, a threshold of 15% should be used to predict prognosis of cutaneous melanocytic neoplasms.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Assessment of Ki67 value is especially helpful for melanocytic neoplasms that exhibit both prognostically favourable and poor histological parameters, or so called “grey zone” cases, but it is never wrong to perform Ki67 immunolabelling for added confidence.</p>
+<table-wrap position="float" id="vco12827-tbl-0002" content-type="TABLE" orientation="portrait">
+<label>TABLE 2</label>
+<caption>
+<p>Prognostic molecular markers for canine melanocytic tumours</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="left" span="1" />
+<col align="left" span="1" />
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom" rowspan="1" colspan="1">Marker(s)</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">Samples<xref rid="vco12827-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>‐tumour location<xref rid="vco12827-note-0006" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">Methods<xref rid="vco12827-note-0007" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">Type of cells marked</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">Prognostic significance<xref rid="vco12827-note-0008" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</th>
+<th align="left" valign="bottom" rowspan="1" colspan="1">References</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">Ki67 (Ki67 index and Ki67 count)</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Proliferating tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Strong</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0001" ref-type="bibr">1</xref>, <xref rid="vco12827-bib-0004" ref-type="bibr">4</xref>, <xref rid="vco12827-bib-0012" ref-type="bibr">12</xref>, <xref rid="vco12827-bib-0020" ref-type="bibr">20</xref>, <xref rid="vco12827-bib-0027" ref-type="bibr">27</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">31</xref>, <xref rid="vco12827-bib-0037" ref-type="bibr">37</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">Survivin</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC, RT‐qPCR</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Proliferating/resisting to apoptosis tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0003" ref-type="bibr">3</xref>, <xref rid="vco12827-bib-0037" ref-type="bibr">37</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">H2AFZ</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">RT‐qPCR</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Proliferating tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0037" ref-type="bibr">37</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">RACK1</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, melanocytoma</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0004" ref-type="bibr">4</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">FoxP3, IDO, and CTLA‐4</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC, flow cytometry</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T<sub>reg</sub> (regulatory T cells)</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0024" ref-type="bibr">24</xref>, <xref rid="vco12827-bib-0041" ref-type="bibr">41</xref>, <xref rid="vco12827-bib-0048" ref-type="bibr">48</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">CD20+</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">TILs (B cells)</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0040" ref-type="bibr">40</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">KIT, c‐Kit</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC, mutation status</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Absent</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0008" ref-type="bibr">8</xref>, <xref rid="vco12827-bib-0010" ref-type="bibr">10</xref>, <xref rid="vco12827-bib-0014" ref-type="bibr">14</xref>, <xref rid="vco12827-bib-0018" ref-type="bibr">18</xref>, <xref rid="vco12827-bib-0036" ref-type="bibr">36</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">S100A4</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Absent</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0009" ref-type="bibr">9</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<p>E‐cadherin</p>
+<p>β‐catenin</p>
+</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC, RT‐qPCR</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0003" ref-type="bibr">3</xref>, <xref rid="vco12827-bib-0011" ref-type="bibr">11</xref>, <xref rid="vco12827-bib-0043" ref-type="bibr">43</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">COX‐1 and COX‐2</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM, OcM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0015" ref-type="bibr">15</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">P‐glycoprotein 1</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1" />
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0005" ref-type="bibr">5</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">PDGFR‐α and ‐β</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0012" ref-type="bibr">12</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">KMO, STAT3, pSTAT3</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐CM, OM, OcM, DM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0039" ref-type="bibr">39</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">Somatic focal amplification of chromosome 30(CFA 30)</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">qPCR</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0042" ref-type="bibr">42</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">PCNA and Connexins (Cx26 and Cx43)</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM (melanotic &amp; amelanotic variant)</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC, IF, RT‐qPCR, &amp; Western blot</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">To be confirmed</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0019" ref-type="bibr">19</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">MCAM/CD146</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM, CM, OcM, AM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Absent</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0021" ref-type="bibr">21</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">activation of the MAPK and PI3K/AKT pathways</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Micro‐array &amp; mutational analysis</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Not a prognostic study</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0006" ref-type="bibr">6</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">nBAP1</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Absent</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0022" ref-type="bibr">22</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">Cyclin D1</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Proliferating tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Possible</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0049" ref-type="bibr">49</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">Galectin‐3</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells resistant to apoptosis</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Possible</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0047" ref-type="bibr">47</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">BCL‐2</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells resistant to apoptosis</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Absent</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0047" ref-type="bibr">47</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">Caspase 3</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour apoptotic cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Absent</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0047" ref-type="bibr">47</xref>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">MAGE‐A</td>
+<td align="left" valign="top" rowspan="1" colspan="1">T‐OM</td>
+<td align="left" valign="top" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Tumour cells</td>
+<td align="left" valign="top" rowspan="1" colspan="1">Absent</td>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="vco12827-bib-0038" ref-type="bibr">38</xref>
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot id="vco12827-ntgp-0002">
+<fn id="vco12827-note-0005">
+<label>
+<sup>a</sup>
+</label>
+<p>Samples: T, tissue.</p>
+</fn>
+<fn id="vco12827-note-0006">
+<label>
+<sup>b</sup>
+</label>
+<p>Tumour location: CM, cutaneous melanoma; OM, oral melanoma; OcM, ocular melanoma; AM, anal melanoma; DM, digit melanoma.</p>
+</fn>
+<fn id="vco12827-note-0007">
+<label>
+<sup>c</sup>
+</label>
+<p>Methods: IHC, immunohistochemistry; ICC, immunocytochemistry; IF, immunofluorescence; RT‐qPCR, quantitative reverse transcription PCR; qPCR, quantitative PCR.</p>
+</fn>
+<fn id="vco12827-note-0008">
+<label>
+<sup>d</sup>
+</label>
+<p>Prognostic significance: Strong: several studies demonstrated the correlation with the levels of expression of the marker with main prognostic factors (clinical and pathological). To be confirmed: authors show a statistically significant association of the marker with more than one (clinical and pathological) factor. Possible: the authors observed a significant correlation of the marker's expression with one (clinical or pathological) parameter or a tendency towards the association (closer to the statistical significance). Absent: no (statistically significant) correlation of the levels of expression of the marker has been reported by more than one author.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="vco12827-sec-0011">
+<label>3.2.4</label>
+<title>
+Newly examined prognostic parameters for canine cutaneous melanocytic neoplasms
+</title>
+<p>Recently, tumour thickness has been shown to be a useful prognostic marker for cutaneous melanocytic neoplasms in two studies, although the authors of those studies state that additional studies with larger case numbers are needed to further support its use as an independent prognostic marker.<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Nonetheless, the study by Silvestri et al. 2019 provides convincing statistical evidence that a greater tumour thickness is associated with shorter overall survival and disease‐free time and provides an easy method to measure tumour thickness with established cut‐off values that can be used in a diagnostic setting.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> ROC curve analysis and Youden Index identified cutoffs of 0.95 and 0.75 cm which were associated with a higher hazard for an unfavourable outcome and to develop recurrence/metastasis, respectively.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Kaplan–Meier survival curves and log‐rank tests were used to compare overall survival according to diagnosis.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Via univariate analysis, dogs with greater tumour thickness had an approximately 10 times higher hazard of death and a greater than 5 times higher hazard to develop recurrence/metastasis than dogs with thinner tumours.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> The cutoff of 0.95 cm discriminated between favourable and unfavourable (tumour‐related death) clinical outcomes (sensitivity = 100%, specificity = 86%; ROC curve analysis, AUC = 0.886; 95%CI, 0.795–0.977; <italic toggle="yes">P =</italic> .005). A shorter overall survival time was seen for dogs with tumours that were &gt;0.95 cm thick compared to those with a tumour thickness ≤0.95 cm (<italic toggle="yes">P &lt;</italic> .001).<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In this study, none of the dogs with a tumour thickness ≤0.95 cm died; thus, the 1‐year estimated survival probability was 100% ± 0%, while it was only 45.0% ± 18.8% for dogs with tumour thickness &gt;0.95 cm.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> To predict which tumours would be more likely to develop recurrence/metastasis, a thickness cutoff of 0.75 cm was determined (sensitivity = 86%, specificity = 81%; ROC curve analysis, AUC = 0.886; 95% CI, 0.795–0.977; <italic toggle="yes">P =</italic> .005).<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Those that were &gt;0.75 cm were associated with a shorter disease‐free time than those that were ≤0.75 (<italic toggle="yes">P &lt;</italic> .001).<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Dogs with tumours that were &gt;0.75 cm thick had a 1‐year estimated probability of not developing recurrence/metastasis that was 54.7% ± 15.4%, whereas it was 97.2% ± 2.7% for dogs with tumours that were ≤0.75 cm.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> One must remember that false positives and false negatives can still occur with these thresholds for individual cases, and the prognostic significance of tumour thickness was not able to be confirmed with multivariable analysis in this study, nor was it compared to Ki67 index.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In addition, the tumour thickness cutoff of 0.45 cm was determined by ROC curve analysis to distinguish cutaneous MMs from melanocytomas as defined by histopathology with a sensitivity of 87% and a specificity of 64%.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> However, the authors stated that these values are not optimal due to the possibility of false‐positive results. The authors used both an ocular micrometre as well as a standard ruler to measure tumour thickness and found that these two methods had excellent agreement. Thus, it is recommended for routine diagnostics to measure tumour thickness by simply applying a ruler to the surface of a glass slide perpendicularly to the epidermis and measuring the largest thickness of the tumour.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> This study also examined the usefulness of a modified Clark level measurement for predicting prognosis; however, this measurement was not associated with clinical outcome or presence of recurrence/metastasis and did not show prognostic significance.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Studies that compare tumour thickness to other established parameters, such as Ki67 index, are still needed to further evaluate this parameter and to determine if this parameter adds value to the other parameters.<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In conjunction with the other described prognostic parameters, pathologists should begin to report tumour thickness for cutaneous melanocytic neoplasms and use the cut‐offs of 0.95 and 0.75 cm as one means of predicting survival times and risk of recurrence/metastasis, respectively. This will allow for greater data collection regarding this parameter. Tumour symmetry and growth pattern (expansive vs. infiltrative) are two additional parameters that have shown prognostic significance in one study but still require further evaluation with larger case numbers.<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</p>
+<p>A few studies have evaluated various molecular markers as potential prognostic markers for cutaneous melanocytic neoplasms and some may hold future promise. However, most have low sample sizes, limited or no follow‐up, or other limitations that prevent them from being used in a diagnostic setting at this time. One such marker that requires further investigation is survivin. In one study, nuclear survivin expression was significantly greater in malignant cutaneous melanomas compared to melanocytomas, and increased expression (≥8% of neoplastic cells) was related to the presence of metastasis and death of the animal due to melanoma.<xref rid="vco12827-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> In a recent study, survivin gene expression from formalin fixed‐paraffin embedded (FFPE) tumour tissue was assessed in both cutaneous and oral melanocytic tumours, and confirmed a correlation of this marker with tumour related death and Ki67 index.<xref rid="vco12827-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> In the same study, gene expression from FFPE tissue of another marker, H2AFZ, showed promising results as a new prognostic marker, being correlated with MC, Ki67 index, presence of metastasis, and death due to melanoma.<xref rid="vco12827-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+</p>
+<p>RACK1 is another marker that has been investigated as a potential diagnostic, as well as a potential prognostic, marker.<xref rid="vco12827-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> In one study, RACK1 distribution differed between benign and malignant canine melanocytic neoplasms and a RACK1 homogeneous labelling pattern was highly correlated with other criteria such as classic histologic features of malignancy, Ki‐67 index and MC.<xref rid="vco12827-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> However, sample size was very small and included both cutaneous and mucosal neoplasms, and there was a lack of follow‐up data in this study; thus, additional testing is needed before this marker can be used in a diagnostic setting. Even then, evaluation of this marker in a diagnostic setting may prove to be too complicated and it has not been shown to add additional value over Ki67 index and MC. In addition, other neoplasms can also label for RACK 1, so this marker cannot be used as a standalone marker for diagnosis of melanocytic origin.</p>
+<p>Several papers have been published in recent years on the prognostic significance of tumour infiltrating lymphocytes (TILs) in canine melanocytic neoplasms. Several markers used to identify different TIL subtypes, such as regulatory T cells (T<sub>reg</sub>) or B cells, have been investigated. FoxP3, IDO and CTLA‐4 expression, markers of T<sub>reg</sub>, have been shown to hold promise as prognostic markers for canine cutaneous and oral melanocytic neoplasms, but also require further evaluation with larger sample sizes, with comparisons to other established prognostic markers, besides MC, and by separating cutaneous from oral melanomas.<xref rid="vco12827-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="vco12827-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Ideally, this should be done with a prospective study.</p>
+<p>A high number of CD20+ TILs (B cells) has been shown to be associated with tumour‐related death, presence of metastasis/recurrence, shorter overall and disease‐free survival, increased hazard of death, and of developing recurrence/metastasis.<xref rid="vco12827-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> No associations were found related to infiltrating CD3+ TILs (T cells). This study compared the degree of CD20+ TILs with other histologic parameters including MC, tumour thickness and modified Clark level for cutaneous tumours, nuclear atypia, pigmentation, ulceration, necrosis, and cellular pleomorphism. There was a statistically significant association between the quantity of CD20+ TILs and the MC. Tumour size was significantly lower in tumours that lacked CD20+ TILs compared to those with mild, moderate, or severe infiltrates, in terms of quantity. An association was also seen between the quantity of CD20+ TILs and the percent pigmentation or the cellular pleomorphism. Based on these results, a high quantity of CD20+ TILs appears to be a new potential negative prognostic factor for both oral and cutaneous melanocytic tumours. However, the authors state that they need to be confirmed using larger case numbers and by studying cutaneous and oral melanocytic tumours separately.<xref rid="vco12827-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+</p>
+<p>A few studies have evaluated the role of <italic toggle="yes">c‐Kit</italic> in canine cutaneous, as well as oral, melanocytic neoplasms but no significant association between KIT labelling and survival time has been demonstrated.<xref rid="vco12827-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="vco12827-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="vco12827-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="vco12827-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="vco12827-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Gomes et al. demonstrated decreased expression of KIT protein in cutaneous MMs compared to cutaneous melanocytomas.<xref rid="vco12827-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The decreased number of cells labelled in malignant versus benign tumours may give some insight into the role of <italic toggle="yes">c‐Kit</italic> in melanocytic tumour progression, but the lack of correlation of either labelling extension or intensity with other morphologic grading factors does not suggest this will be an important prognostic marker or diagnostic tool. The Gramer et al. study only included three melanomas and two of the three showed KIT expression.<xref rid="vco12827-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> One of these tumours had a missense, or non‐synonymous, mutation, but this was not a prognostic study and the sample size was too small to draw any significant conclusions.<xref rid="vco12827-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p>
+<p>Other studies that included canine cutaneous melanocytic neoplasms could not demonstrate prognostic utility for the markers they evaluated, may have found promising statistical significance but were too preliminary to make any significant conclusions, were not designed as prognostic studies or only used melanoma cell lines.<xref rid="vco12827-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="vco12827-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="vco12827-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="vco12827-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="vco12827-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="vco12827-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="vco12827-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="vco12827-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> These included expression of: S100A4, E‐cadherin/β‐catenin, COX‐1 and COX‐2, P‐glycoprotein 1, and MCAM/CD146.<xref rid="vco12827-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="vco12827-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="vco12827-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="vco12827-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="vco12827-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="vco12827-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="vco12827-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="vco12827-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+</p>
+</sec>
+<sec id="vco12827-sec-0012">
+<label>3.2.5</label>
+<title>
+Newly examined prognostic parameters for canine oral/lip mucosal melanocytic neoplasms
+</title>
+<p>There are a few new prognostic markers that have been investigated for canine oral melanocytic neoplasms since 2011 and a few of them show potential usefulness. For example, Iussich et al.<xref rid="vco12827-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> provides good statistical support for considering platelet‐derived growth factor receptors (PDGFR)‐α and ‐β as prognostic markers in oral MM of dogs. The purpose of this study was to evaluate the expression of PDGFR‐α and ‐β in stage II and III canine oral MMs and to correlate it with prognosis. The neoplasms in this study were confirmed as melanocytic in origin via IHC labelling for PNL‐2 and pathologists recorded nuclear atypia, MC, pigmentation and Ki67 values for each tumour.<xref rid="vco12827-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> This study suggests that PDGFRs may play a role in the pathogenesis of oral canine MM and the co‐expression of both PDGFRs‐α and ‐β should be considered as a negative prognostic marker. In addition, despite an unclear methodology for determining the Ki67 value that is not consistent with the published method by Bergin et al. (2011),<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> statistical analysis showed that co‐expression of PDGFRs and Ki67 values were both associated with worse prognosis, further supporting the prognostic importance of Ki67 assessment. PDGFRs were detected not only in tumour tissue but also in the stroma, suggesting a potential role in matrix remodelling and tumour invasion.<xref rid="vco12827-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> The authors stated that further prospective studies on a greater number of cases are warranted to confirm these findings before they are used in a diagnostic setting.<xref rid="vco12827-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p>
+<p>Higher protein expressions of Kynurenine 3‐monooxygenase (KMO), signal transducer and activator of transcription 3 (STAT3), and STAT3/phosphorylated (pSTAT3) have recently been shown to be associated with reduced survival times in canine melanoma patients in one study by Liu et al.<xref rid="vco12827-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> The authors used IHC to evaluate expression of these proteins in 85 cases of canine melanoma that included mostly oral tumours (58 oral, 4 lip, 8 skin, 7 digit, and 8 other sites). KMO expression was more common in oral tumours than tumours at other sites. The authors also found a correlation between high MC (≥4 mitoses per 10hpf) and oral location, metastatic cases, those that were &gt;2 cm, and higher stage. KMO, STAT3 and pSTAT3 expressions were all significantly higher in tumours with an MC ≥4 mitoses per 10 hpf. A combination of MC and KMO had a sensitivity of 74.4%, a specificity of 63%, and a diagnostic accuracy of 68.2%. A combination of MC and STAT3 had a sensitivity of 94.9%, a specificity of 43.5%, and a diagnostic accuracy of 67.1%.<xref rid="vco12827-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+</p>
+<p>Another group demonstrated that somatic focal amplification of chromosome (<italic toggle="yes">Canis familiaris</italic> [CFA]) 30, but not CFA10, was significantly associated with an amelanotic phenotype, a high MC, and shorter survival times in a set of 73 canine oral MM.<xref rid="vco12827-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+</p>
+<p>Thus, like KMO, STAT3 and pSTAT3, these parameters may prove to be useful prognostic parameters in the future, but they first should be compared to other established prognostic parameters, such as Ki67 and nuclear atypia, to see if they add value.</p>
+<p>The presence of TILs and the levels of expression of their markers in the tumour tissue has been suggested to have a prognostic significance in oral melanomas as well. The expression of the markers RACK1, FoxP3, and IDO<xref rid="vco12827-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> and the quantity of CD20+ TILs<xref rid="vco12827-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> have been examined in both cutaneous and oral melanocytic neoplasms and discussed above under cutaneous melanocytic neoplasms. Furthermore, the presence and distribution of TILs, including the frequency of CD8<sup>+</sup> T cells, CD4<sup>+</sup> T cells, and T<sub>reg</sub> cells by histopathology and flow cytometry have been investigated in a retrospective study of 50 canine oral MMs, confirming their potential utility as prognostic markers.<xref rid="vco12827-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Higher survival rates were seen in dogs that had higher TIL scores, specific TIL patterns termed “brisk” and “nonbrisk” (compared to those with no TILs), and an increased frequency of CD8<sup>+</sup> T lymphocytes infiltrating the tumour.<xref rid="vco12827-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Evaluation of TILs is emerging as a potential prognostication method for canine melanocytic tumours and further evaluation is warranted.</p>
+<p>Also discussed above under cutaneous melanocytic neoplasms was the role of <italic toggle="yes">c‐Kit</italic>. Murakami et al. evaluated KIT labelling in canine oral MMs and found no association with overall survival or WHO stage.<xref rid="vco12827-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> In addition, no significant mutations were identified in exon 11 of <italic toggle="yes">c‐Kit</italic>.<xref rid="vco12827-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> While this study did have some limitations, such as relatively low sample size, lack of complete detail regarding diagnosis and follow‐up times, and the inclusion of only MMs, this study concluded that KIT expression does not appear to be a prognostic factor for canine melanoma.<xref rid="vco12827-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Brocca et al. similarly did not find a correlation between KIT protein expression and mutation status, as they did not find any mutations in 14 canine oral melanocytic neoplasms.<xref rid="vco12827-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Another recent study by Smedley et al, completely sequenced the <italic toggle="yes">c‐Kit</italic> gene in canine oral melanocytic neoplasms. The authors identified nine nonsynonymous mutations that resulted in amino acid changes predicted to affect protein function. These mutations were more common in MMs than in those of low malignant potential but the authors did not find any correlation between mutation status, KIT labelling or histologic features.<xref rid="vco12827-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Both of the above studies concluded that there are no current documented indications, in regards to <italic toggle="yes">c‐Kit</italic> mutation status or KIT labelling, to suggest tyrosine kinase inhibitors (TKIs) would be beneficial for these tumours.<xref rid="vco12827-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="vco12827-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> However, a recent single case report described a dog with a gingival MM that had a novel deletion mutation c.1725_1733del within KIT, which was considered to be an oncogenic driver mutation.<xref rid="vco12827-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+</p>
+<p>Other oral melanocytic neoplasm studies that were reviewed could not demonstrate prognostic utility for the markers that they evaluated, may have found promising statistical significance but were too preliminary to make any significant conclusions, were not designed as prognostic studies, or only used melanoma cell lines.<xref rid="vco12827-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="vco12827-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="vco12827-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="vco12827-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="vco12827-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="vco12827-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="vco12827-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="vco12827-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="vco12827-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="vco12827-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="vco12827-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="vco12827-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="vco12827-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="vco12827-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> These markers included: a metabolite profile that included citric acid, lactic acid, oleic acid, linoleic acid, palmitoleic acid, octadecenoic acid, and glycerol; E‐cadherin/β‐catenin expression; COX‐1 and COX‐2 expression; P‐glycoprotein 1 expression; expression of MCAM/CD146; activation of the MAPK and PI3K/AKT pathways; the expression pattern of Cx26 and Cx43; nBAP1 protein expression; E‐cadherin expression; Cyclin D1 index; expression of Galectin‐3; expression of B‐cell lymphoma (BCL) 2 and caspase (CASP) 3; and expression of MAGE‐A.<xref rid="vco12827-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="vco12827-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="vco12827-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="vco12827-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="vco12827-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="vco12827-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="vco12827-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="vco12827-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="vco12827-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="vco12827-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="vco12827-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="vco12827-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="vco12827-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="vco12827-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+</p>
+</sec>
+</sec>
+<sec id="vco12827-sec-0013">
+<label>3.3</label>
+<title>Recommendations for prognostication</title>
+<p>Tables <xref rid="vco12827-tbl-0003" ref-type="table">3</xref> and <xref rid="vco12827-tbl-0004" ref-type="table">4</xref> can be used as guides for prognostication. For each of the evaluated parameters, a favourable prognosis relates to expected survival times longer than 1 year and a poor prognosis relates to an expected death due to melanocytic neoplasia within less than 1‐year post‐diagnosis for all melanocytic neoplasms. These predictions are based solely on publications that met our strict criteria for inclusion for each single parameter. These predictions do not take into account stage of disease or treatment strategies.</p>
+<table-wrap position="float" id="vco12827-tbl-0003" content-type="TABLE" orientation="portrait">
+<label>TABLE 3</label>
+<caption>
+<p>Prognostication of canine cutaneous and oral/lip melanocytic neoplasms (modified from Smedley et al<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>)</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col align="left" span="1" />
+<tbody valign="top">
+<tr style="border-bottom:solid 1px #000000">
+<td align="left" valign="top" rowspan="1" colspan="1">
+<inline-graphic ns1:title="image" ns1:href="VCO-20-739-g001.jpg" />
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot id="vco12827-ntgp-0101">
+<fn id="vco12827-note-0101">
+<label>
+<sup>†</sup>
+</label>
+<p>Parameter was not specifically examined for neoplasms of the digit.</p>
+</fn>
+<fn id="vco12827-note-0102">
+<label>
+<sup>‡</sup>
+</label>
+<p>For this consensus, the mitotic count (reported as mitotic index, in the literature reviewed) is obtained by counting the absolute number of mitoses in 10 high‐power fields (400× magnification/40× objective or, ideally, in an area of 2.37mm<sup>2</sup>) in the region with highest mitotic activity, as determined initially on a low power scan (100× magnification/10× objective) of the specimen.</p>
+</fn>
+<fn id="vco12827-note-0103">
+<label>
+<sup>§</sup>
+</label>
+<p>Parameter should be assessed in epithelioid predominant neoplasms and in spindloid neoplasms with sufficiently observable nuclear detail.</p>
+</fn>
+<fn id="vco12827-note-0104">
+<label>
+<sup>¶</sup>
+</label>
+<p>Tumor thickness is measured with a ruler by placing the ruler on the glass slide perpendicular to the epidermis or mucosal epithelial surface and measuring the largest thickness of the tumor.<xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p>
+</fn>
+<fn id="vco12827-note-0105">
+<label>
+<sup>¥</sup>
+</label>
+<p>A favorable prognosis relates to expected survival times longer than one year and a poor prognosis relates to an expected death due to melanocytic neoplasia within less than one‐year post‐diagnosis for all melanocytic neoplasms. These predictions are based solely on publications that met our strict criteria for inclusion for each single parameter. These predictions do not take in to account stage of disease or treatment strategies. When there are mixed results, results for each parameter should be reported, but Ki67 index should be used for final interpretation in most cases.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap position="float" id="vco12827-tbl-0004" content-type="TABLE" orientation="portrait">
+<label>TABLE 4</label>
+<caption>
+<p>Summary of recommendations for diagnosis and histopathologic prognostication of canine melanocytic neoplasms</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col align="left" span="1" />
+<thead valign="bottom">
+<tr style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom" rowspan="1" colspan="1">Summary of recommendations for diagnosis and histopathologic prognostication of canine melanocytic neoplasms</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">
+<list list-type="order" id="vco12827-list-0001">
+<list-item id="vco12827-li-0001">
+<p>Confirm melanocytic origin by identifying classic histologic features of melanocytic neoplasms or by demonstrating labelling of neoplastic cells in amelanotic neoplasms for melanocytic specific immunohistochemical (IHC) markers<list list-type="bullet" id="vco12827-list-0002">
+<list-item id="vco12827-li-0002">
+<p>Classic histologic features: intracytoplasmic melanin, variable cell morphology in the same tumour, junctional activity, pagetoid growth, presence of neoplastic cells at the mucosal‐submucosal (epidermal‐dermal) junction even in the absence of junctional activity, and finely stippled to vesiculate nuclei with a prominent central nucleolus (“owl's eye”).</p>
+</list-item>
+<list-item id="vco12827-li-0003">
+<p>If amelanotic or otherwise poorly differentiated, demonstrate IHC labelling for Melan‐A, PNL2, TRP‐1 or TRP‐2.</p>
+</list-item>
+</list>
+</p>
+</list-item>
+<list-item id="vco12827-li-0004">
+<p>Determine prognosis of cutaneous and lip/oral melanocytic neoplasms by evaluating the specific histologic and molecular parameters described in Table <xref rid="vco12827-tbl-0003" ref-type="table">3</xref>. For heavily pigmented neoplasms, bleaching may be necessary in order to accurately evaluate nuclear features and mitotic count (MC). To evaluate Ki67 labelling in heavily pigmented neoplasms, bleaching should be performed AFTER IHC labelling for Ki67.<list list-type="bullet" id="vco12827-list-0003">
+<list-item id="vco12827-li-0005">
+<p>For lip/oral melanocytic neoplasms:<list list-type="bullet" id="vco12827-list-0004">
+<list-item id="vco12827-li-0006">
+<p>If there is marked nuclear atypia (≥30% atypical nuclei), a high MC<xref rid="vco12827-note-0015" ref-type="table-fn">
+<sup>a</sup>
+</xref> (≥4/2.37 mm<sup>2</sup>), or evidence of vascular invasion or metastasis, the neoplasm is diagnosed as a malignant melanoma and evaluation of the Ki67 count is offered for further prognostication (pathologists may indicate that Ki67 count is not necessary for neoplasms that greatly surpass<xref rid="vco12827-note-0016" ref-type="table-fn">
+<sup>b</sup>
+</xref> the nuclear atypia and MC thresholds and/or show evidence of vascular invasion or metastasis).</p>
+</list-item>
+<list-item id="vco12827-li-0007">
+<p>If the histologic parameters give mixed results, are at or near the threshold values, or if all the histologic parameters indicate a favourable prognosis, evaluate the Ki67 count for further prognostication.</p>
+</list-item>
+<list-item id="vco12827-li-0008">
+<p>Ki67 count is the most useful parameter for prognostication due to high specificity and objectivity.</p>
+</list-item>
+<list-item id="vco12827-li-0009">
+<p>Provide the results of all parameters examined in the pathology report.</p>
+</list-item>
+</list>
+</p>
+</list-item>
+<list-item id="vco12827-li-0010">
+<p>For cutaneous melanocytic neoplasms:<list list-type="bullet" id="vco12827-list-0005">
+<list-item id="vco12827-li-0011">
+<p>If there is marked nuclear atypia (≥20% atypical nuclei), a high MC<xref rid="vco12827-note-0015" ref-type="table-fn">
+<sup>a</sup>
+</xref> (≥3/2.37 mm<sup>2</sup>), a tumour thickness &gt;0.95 cm, or evidence of vascular invasion or metastasis, the neoplasm is diagnosed as a malignant melanoma and evaluation of the Ki67 index is offered for further prognostication (pathologists may indicate that Ki67 index is not necessary for neoplasms that greatly surpass<xref rid="vco12827-note-0016" ref-type="table-fn">
+<sup>b</sup>
+</xref> the nuclear atypia and MC thresholds and/or show evidence of vascular invasion or metastasis).</p>
+</list-item>
+<list-item id="vco12827-li-0012">
+<p>If the histologic parameters give mixed results, are at or near the threshold values, or if all the histologic parameters indicate a favourable prognosis, evaluate the Ki67 index for further prognostication.</p>
+</list-item>
+<list-item id="vco12827-li-0013">
+<p>Ki67 index is the most useful parameter for prognostication due to high specificity and objectivity.</p>
+</list-item>
+<list-item id="vco12827-li-0014">
+<p>Provide the results of all parameters examined in the pathology report.</p>
+</list-item>
+</list>
+</p>
+</list-item>
+</list>
+</p>
+</list-item>
+<list-item id="vco12827-li-0015">
+<p>Some general rules for prognostication of melanocytic neoplasms:<list list-type="bullet" id="vco12827-list-0006">
+<list-item id="vco12827-li-0016">
+<p>It is impractical to accurately predict, on an individual basis, the biological behaviour of melanocytic neoplasms.</p>
+</list-item>
+<list-item id="vco12827-li-0017">
+<p>More than one parameter should be used to classify melanocytic neoplasms histologically as benign, of low malignant potential, or malignant because of the inherent subjectivity in histological evaluation.</p>
+</list-item>
+<list-item id="vco12827-li-0018">
+<p>If histologic prognostic factors conflict with one another, a neoplasm should be diagnosed as a melanocytic neoplasm and prognostic factors should be discussed.</p>
+</list-item>
+<list-item id="vco12827-li-0019">
+<p>Evaluation of nuclear atypia and MC in combination with Ki67 expression level and clinical features will maximize the correctly classified neoplasms.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+</p>
+</list-item>
+</list>
+</p>
+</list-item>
+</list>
+</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot id="vco12827-ntgp-0004">
+<fn id="vco12827-note-0015">
+<label>
+<sup>a</sup>
+</label>
+<p>For this consensus, the mitotic count (reported as mitotic index, in the literature reviewed) is obtained by counting the absolute number of mitoses in 10 high‐power fields (400× magnification/40× objective) in the region with highest mitotic activity, as determined initially on a low power scan (100× magnification/10× objective) of the specimen. Future studies which evaluate mitotic count as a prognostic parameter should also adopt this methodology, while also defining and standardizing the microscopic area evaluated to 2.37 mm<sup>2</sup>.</p>
+</fn>
+<fn id="vco12827-note-0016">
+<label>
+<sup>b</sup>
+</label>
+<p>There are no established values for “greatly surpassing” the cut‐offs, but pathologists will use their experience to subjectively make this recommendation. In general, the subgroup agrees that Ki67 count is not necessary for tumours with ≥50% atypical nuclei or oral/lip tumours with an MC ≥40/2.37 mm<sup>2</sup> and cutaneous tumours with an MC ≥30/2.37 mm<sup>2</sup>, which are 10 times higher than the respective threshold values.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Ideally, using the criteria in Table <xref rid="vco12827-tbl-0003" ref-type="table">3</xref>, a cutaneous melanocytic neoplasm should be categorized as a cutaneous melanocytoma (benign melanocytic tumour) or a cutaneous MM. Typically, a cutaneous melanocytoma is non‐ulcerated, often raised, generally small (&lt;2 cm diameter and ≤0.45 cm thickness), limited to the dermis, heavily pigmented, has very bland appearing nuclei, and has a low MC and very low Ki67 index.<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="vco12827-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> In some cases, a cutaneous MM may have several of the same features as a melanocytoma but may have only one or two parameters that suggest malignant behaviour, such as high nuclear atypia, a MC above the threshold value, a tumour thickness &gt;0.95 cm, extension beyond the dermis, or a Ki67 index above the threshold value. Clear‐cut cutaneous MMs are often ulcerated, poorly pigmented, exhibit marked nuclear atypia, have a high MC and a high Ki67 index, are &gt;0.95 cm thick, extend beyond the dermis, and may exhibit vascular invasion.<xref rid="vco12827-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="vco12827-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</p>
+<p>Ideally, using the criteria in Table <xref rid="vco12827-tbl-0003" ref-type="table">3</xref>, a mucosal lip or oral neoplasm should be able to be categorized as an oral MM or a histologically well‐differentiated melanocytic neoplasm (HWDM),<xref rid="vco12827-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> also known as a melanocytic neoplasm of low malignant potential.<xref rid="vco12827-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> The term melanocytoma should be avoided for oral and lip mucosal melanocytic neoplasms as the long term (&gt;2 years) behaviour of these neoplasms, if not excised, is still uncertain. Thus, they should be treated as neoplasms of low malignant potential. HWDMs are usually raised, non‐ulcerated, &lt;2 cm diameter, heavily pigmented, lack cellular atypia, do not invade bone, and have rare mitoses, a very low Ki67 index, and abundant collagenous stroma.<xref rid="vco12827-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="vco12827-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> They also often lack junctional activity and lateral surface epithelial spread which improves the chance of complete excision and likely plays a role in the longer survival time of these tumours.<xref rid="vco12827-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> A mean survival time of 23.4 months has been reported for HWDMs in one study.<xref rid="vco12827-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> These features are in strict contrast to oral MMs which often show junctional activity, lateral epithelial spread, poor pigmentation, bone invasion, and marked nuclear atypia and often have a very high MC and Ki67 index.<xref rid="vco12827-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="vco12827-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</p>
+<p>When there are mixed results, results for each parameter should be reported, but Ki67 index should be used for final interpretation in most cases.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> In cases that are still ambiguous, due to all parameters being at or very near the threshold values, a diagnosis of melanocytic neoplasm should be made and each parameter should be discussed.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+</p>
+</sec>
+</sec>
+<sec sec-type="discussion" id="vco12827-sec-0014">
+<label>4</label>
+<title>DISCUSSION</title>
+<sec id="vco12827-sec-0015">
+<label>4.1</label>
+<title>Future directions</title>
+<p>None of the published prognostic studies meet all of the standards defined by the Webster et al.<xref rid="vco12827-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> white paper but the recommendations in this consensus are based on the results of the studies that adhere to most of those standards. The first step in any prognostic study is to ensure an accurate diagnosis of melanocytic origin for each case in the study population. This involves the use of specific histologic criteria and IHC labelling for highly sensitive and specific markers, if those specific histologic criteria are lacking.<xref rid="vco12827-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="vco12827-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="vco12827-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Gene expression may also be used to differentiate between amelanotic spindloid MMs and soft tissue sarcomas in the near future.<xref rid="vco12827-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Once melanocytic origin is established, neoplasms should be classified based on location as well as established histomorphologic and molecular prognostic parameters.</p>
+<p>Another major requirement for a sound prognostic study is follow‐up data that includes disease free survival times, progression free survival times, overall survival, cause of death, and post‐mortem results. Collection of follow‐up data is one of the most challenging tasks in veterinary medical research studies and post‐mortem examination of a significant number of cases is often not possible. However, researchers should always have an initial study design, ideally prospective, that will allow for as much follow‐up data as possible.</p>
+<p>There are very few published studies that are true prognostic studies of canine melanocytic neoplasms and only one of these evaluated prognostic studies<xref rid="vco12827-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> is prospective. While prospective studies are very challenging studies to conduct in veterinary medicine, ideally an effort should be made to conduct such studies in order to verify the recommendations made by the referenced retrospective studies. Additionally, new potential prognostic markers should be evaluated in conjunction with, and compared to, the current statistically proven prognostic parameters, such as nuclear atypia, MC, and Ki67 index.</p>
+<p>Much of the recent literature has focused on the genetic features of canine melanocytic neoplasms, and this field holds promise for better diagnosis, prognostication and prediction of metastasis of these tumours, as well as for identification of potential targets for therapy. In the future, genetic analysis may prove to be the gold standard for diagnosis and prognostication but, at this point, the most accurate diagnostic methods are the immunohistochemical markers Melan‐A, PNL2, TRP‐1 and TRP‐2 and the most accurate predictors of prognosis include the histologic features described above and Ki67 index.</p>
+<p>Clinical parameters for prognostication, other than location (cutaneous versus oral/lip), are not addressed here, but are slated for future evaluation and consensus. It is hoped that a combination of histologic, molecular, and clinical parameters will further improve our ability to prognosticate these neoplasms, in order to better determine appropriate therapy for each case.</p>
+</sec>
+</sec>
+<sec sec-type="COI-statement" id="vco12827-sec-0017">
+<title>CONFLICT OF INTEREST</title>
+<p>Philip J. Bergman is a paid consultant and speaker for Boerhinger Ingelheim Animal Health and also receives a minority royalty stream payment for the Oncept melanoma vaccine.</p>
+</sec>
+</body>
+<back>
+<ack id="vco12827-sec-0016">
+<title>ACKNOWLEDGEMENTS</title>
+<p>The authors would like to thank the Oncology Pathology Working Group, the American College of Veterinary Pathologists and the Veterinary Cancer Society for overseeing this work.</p>
+</ack>
+<ref-list id="vco12827-bibl-0001" content-type="cited-references">
+<title>REFERENCES</title>
+<p>
+<sup>†</sup>References were critically reviewed by the subgroup members and included in the approved OPWG Consensus.</p>
+<p>
+<sup>‡</sup>References were not critically reviewed by the subgroup members but were included as a reference in the approved OPWG Consensus.</p>
+<p>
+<sup>§</sup>New literature critically reviewed by the subgroup co‐chair but not included in the approved OPWG Consensus.</p>
+<ref id="vco12827-bib-0001">
+<label>1</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0001">
+<string-name name-style="western">
+<surname>Smedley</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spangler</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esplin</surname>
+<given-names>DG</given-names>
+</string-name>, et al. <article-title>Prognostic markers for canine melanocytic neoplasms: a comparative review of the literature and goals for future investigation</article-title>. <source>Vet Pathol</source>. <year>2011</year>;<volume>48</volume>:<fpage>54</fpage>‐<lpage>72</lpage>. †.<pub-id pub-id-type="pmid">21266721</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985810390717</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0002">
+<label>2</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0002">
+<string-name name-style="western">
+<surname>Webster</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dennis</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dervisis</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Recommended guidelines for the conduct and evaluation of prognostic studies in veterinary oncology</article-title>. <source>Vet Pathol</source>. <year>2011</year>;<volume>48</volume>(<issue>1</issue>):<fpage>7</fpage>‐<lpage>18</lpage>. ‡.<pub-id pub-id-type="pmid">20664014</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985810377187</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0003">
+<label>3</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0003">
+<string-name name-style="western">
+<surname>Bongiovanni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Andrea</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porcellato</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Canine cutaneous melanocytic tumours: significance of β‐catenin and survivin immunohistochemical expression</article-title>. <source>Vet Dermatol</source>. <year>2015</year>;<volume>26</volume>(<issue>4</issue>):<fpage>270</fpage> †.<pub-id pub-id-type="pmid">25962968</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vde.12211</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0004">
+<label>4</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0004">
+<string-name name-style="western">
+<surname>Campagne</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Julé</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alleaume</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Canine melanoma diagnosis: RACK1 as a potential biological marker</article-title>. <source>Vet Pathol</source>. <year>2013</year>;<volume>50</volume>(<issue>6</issue>):<fpage>1083</fpage>‐<lpage>1090</lpage>. †.<pub-id pub-id-type="pmid">23735618</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985813490754</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0005">
+<label>5</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0005">
+<string-name name-style="western">
+<surname>Finotello</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monné Rodriguez</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vilafranca</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Immunohistochemical expression of MDR1‐Pgp 170 in canine cutaneous and oral melanomas: pattern of expression and association with tumour location and phenotype</article-title>. <source>Vet Comp Oncol</source>. <year>2017</year>;<volume>15</volume>(<issue>4</issue>):<fpage>1393</fpage>‐<lpage>1402</lpage>. †.<pub-id pub-id-type="pmid">27779366</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vco.12281</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0006">
+<label>6</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0006">
+<string-name name-style="western">
+<surname>Fowles</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Denton</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gustafson</surname>
+<given-names>DL</given-names>
+</string-name>. <article-title>Comparative analysis of MAPK and PI3k/AKT pathway activation and inhibition in human and canine melanoma</article-title>. <source>Vet Comp Oncol</source>. <year>2015</year>;<volume>13</volume>(<issue>3</issue>):<fpage>288</fpage>‐<lpage>304</lpage>. †.<pub-id pub-id-type="pmid">23745794</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vco.12044</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0007">
+<label>7</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0007">
+<string-name name-style="western">
+<surname>Gillard</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cadieu</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Brito</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Naturally occurring melanomas in dogs as models for non‐UV pathways of human melanomas</article-title>. <source>Cell Melanoma Res</source>. <year>2014</year>;<volume>27</volume>(<issue>1</issue>):<fpage>90</fpage>‐<lpage>102</lpage>. †.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/pcmr.12170</pub-id>
+<pub-id pub-id-type="pmid">24112648</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0008">
+<label>8</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0008">
+<string-name name-style="western">
+<surname>Gramer</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kessler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geyer</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Detection of novel polymorphisms in the c‐kit gene of canine lymphoma, melanoma, hemangiosarcoma and osteosarcoma</article-title>. <source>Vet Res Commun</source>. <year>2016</year>;<volume>40</volume>:<fpage>89</fpage>‐<lpage>95</lpage>. †.<pub-id pub-id-type="pmid">26971271</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11259-016-9653-x</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0009">
+<label>9</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0009">
+<string-name name-style="western">
+<surname>Grandi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rocha</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miot</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cogliati</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rocha</surname>
+<given-names>NS</given-names>
+</string-name>. <article-title>Immunoexpression of S100A4 in canine skin melanomas and correlation with histopathological parameters</article-title>. <source>Vet Q</source>. <year>2014</year>;<volume>34</volume>(<issue>2</issue>):<fpage>98</fpage>‐<lpage>104</lpage>. †.<pub-id pub-id-type="pmid">25023931</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/01652176.2014.936628</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0010">
+<label>10</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0010">
+<string-name name-style="western">
+<surname>Gomes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Queiroga</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prada</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pires</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Study of c‐kit immunoexpression in canine cutaneous melanocytic tumors</article-title>. <source>Melanoma Res</source>. <year>2012</year>;<volume>22</volume>(<issue>3</issue>):<fpage>195</fpage>‐<lpage>201</lpage>. †.<pub-id pub-id-type="pmid">22407004</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/CMR.0b013e32835273f9</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0011">
+<label>11</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0011">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Na</surname>
+<given-names>KJ</given-names>
+</string-name>. <article-title>Alteration in E‐cadherin/β‐catenin expression in canine melanotic tumors</article-title>. <source>Vet Pathol</source>. <year>2013</year>;<volume>50</volume>(<issue>2</issue>):<fpage>274</fpage>‐<lpage>280</lpage>. †.<pub-id pub-id-type="pmid">22895538</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985812457792</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0012">
+<label>12</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0012">
+<string-name name-style="western">
+<surname>Iussich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maniscalco</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DiSciuva</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>PDGFRs expression in dogs affected by malignant oral melanomas: correlation with prognosis</article-title>. <source>Vet Comp Oncol</source>. <year>2017</year>;<volume>15</volume>(<issue>2</issue>):<fpage>462</fpage>‐<lpage>469</lpage>. †.<pub-id pub-id-type="pmid">26833575</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vco.12190</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0013">
+<label>13</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0013">
+<string-name name-style="western">
+<surname>Kawabe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baba</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tamai</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Profiling of plasma metabolites in canine oral melanoma using gas chromatography‐mass spectrometry</article-title>. <source>J Vet Med Sci</source>. <year>2015</year>;<volume>77</volume>(<issue>8</issue>):<fpage>1025</fpage>‐<lpage>1028</lpage>. †.<pub-id pub-id-type="pmid">25843037</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1292/jvms.14-0641</pub-id>
+<pub-id pub-id-type="pmcid">PMC4565807</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0014">
+<label>14</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0014">
+<string-name name-style="western">
+<surname>Murakami</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakai</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Analysis of KIT expression and KIT exon 11 mutations in canine oral malignant melanomas</article-title>. <source>Vet Comp Oncol</source>. <year>2011</year>;<volume>9</volume>(<issue>3</issue>):<fpage>219</fpage>‐<lpage>224</lpage>. †.<pub-id pub-id-type="pmid">21848624</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1476-5829.2010.00253.x</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0015">
+<label>15</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0015">
+<string-name name-style="western">
+<surname>Pires</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prada</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Queiroga FL</surname>
+</string-name>. <article-title>COX‐1 and COX‐2 expression in canine cutaneous, oral and ocular melanocytic tumours</article-title>. <source>J Comp Pathol</source>. <year>2010</year>;<volume>143</volume>(<issue>2–3</issue>):<fpage>142</fpage>‐<lpage>149</lpage>. †.<pub-id pub-id-type="pmid">20207364</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcpa.2010.01.016</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0016">
+<label>16</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0016">
+<string-name name-style="western">
+<surname>Przezdziecki</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Czopowicz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sapierzynski</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Accuracy of routine cytology and immunocytochemistry in preoperative diagnosis of oral amelanotic melanomas in dogs</article-title>. <source>Vet Clin Pathol</source>. <year>2015</year>;<volume>44</volume>(<issue>4</issue>):<fpage>597</fpage>‐<lpage>604</lpage>. †.<pub-id pub-id-type="pmid">26398102</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vcp.12292</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0017">
+<label>17</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0017">
+<string-name name-style="western">
+<surname>Seo</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coh</surname>
+<given-names>YR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rebhun</surname>
+<given-names>RB</given-names>
+</string-name>, et al. <article-title>Antitumor effects of celecoxib in COX‐2 expressing and non‐expressing canine melanoma cell lines</article-title>. <source>Res Vet Sci</source>. <year>2014</year>;<volume>96</volume>:<fpage>482</fpage>‐<lpage>486</lpage>. †.<pub-id pub-id-type="pmid">24656746</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.rvsc.2014.03.003</pub-id>
+<pub-id pub-id-type="pmcid">PMC5021445</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0018">
+<label>18</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0018">
+<string-name name-style="western">
+<surname>Simpson</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bastian</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michael</surname>
+<given-names>HT</given-names>
+</string-name>, et al. <article-title>Sporadic naturally occurring melanoma in dogs as a preclinical model for human melanoma</article-title>. <source>Pigment Cell Melanoma Res</source>. <year>2014</year>;<volume>27</volume>(<issue>1</issue>):<fpage>37</fpage>‐<lpage>47</lpage>. †.<pub-id pub-id-type="pmid">24128326</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/pcmr.12185</pub-id>
+<pub-id pub-id-type="pmcid">PMC4066658</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0019">
+<label>19</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0019">
+<string-name name-style="western">
+<surname>Teixeira</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gentile</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>da Silva</surname>
+<given-names>TC</given-names>
+</string-name>, et al. <article-title>Cell proliferation and expression of connexins differ in melanotic and amelanotic canine oral melanomas</article-title>. <source>Vet Res Commun</source>. <year>2014</year>;<volume>38</volume>(<issue>1</issue>):<fpage>29</fpage>‐<lpage>38</lpage>. †.<pub-id pub-id-type="pmid">24126842</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11259-013-9580-z</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0020">
+<label>20</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0020">
+<string-name name-style="western">
+<surname>Lacroux</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raymond‐Letron</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bourges‐Abella</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Study of canine cutaneous melanocytic tumours: evaluation of histological and immunohistochemical prognostic criteria in 65 cases</article-title>. <source>Revue Méd Vét</source>. <year>2012</year>;<volume>163</volume>(<issue>8–9</issue>):<fpage>393</fpage>‐<lpage>401</lpage>. †.</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0021">
+<label>21</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0021">
+<string-name name-style="western">
+<surname>Abou Asa</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Immunohistochemical expression of MCAM/CD146 in canine melanoma</article-title>. <source>J Comp Oncol</source>. <year>2017</year>;<volume>157</volume>(<issue>1</issue>):<fpage>27</fpage>‐<lpage>33</lpage>. †.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcpa.2017.05.001</pub-id>
+<pub-id pub-id-type="pmid">28735667</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0022">
+<label>22</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0022">
+<string-name name-style="western">
+<surname>Jama</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farquhar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butt</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Altered nuclear expression of the deubiquitylase BAP1 cannot be used as a prognostic marker for canine melanoma</article-title>. <source>J Comp Pathol</source>. <year>2018</year>;<volume>162</volume>:<fpage>50</fpage>‐<lpage>58</lpage>. †.<pub-id pub-id-type="pmid">30060843</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcpa.2018.06.007</pub-id>
+<pub-id pub-id-type="pmcid">PMC6078709</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0023">
+<label>23</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0023">
+<string-name name-style="western">
+<surname>Laver</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feldhaeusser</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robat</surname>
+<given-names>CS</given-names>
+</string-name>, et al. <article-title>Post‐surgical outcome and prognostic factors in canine malignant melanomas of the haired skin: 87 cases (2003‐2015)</article-title>. <source>Can Vet J</source>. <year>2018</year>;<volume>59</volume>(<issue>9</issue>):<fpage>981</fpage>‐<lpage>987</lpage>. †.<pub-id pub-id-type="pmid">30197441</pub-id>
+<pub-id pub-id-type="pmcid">PMC6091115</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0024">
+<label>24</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0024">
+<string-name name-style="western">
+<surname>Porcellato</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brachelente</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Paolis</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>FoxP3 and IDO in canine melanocytic tumors</article-title>. <source>Vet Pathol</source>. <year>2019</year>;<volume>56</volume>(<issue>2</issue>):<fpage>189</fpage>‐<lpage>199</lpage>. †.<pub-id pub-id-type="pmid">30381008</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985818808530</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0025">
+<label>25</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0025">
+<string-name name-style="western">
+<surname>Silvestri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porcellato</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mechelli</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menchetti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rapastella</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brachelente</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Tumor thickness and modified Clark level in canine cutaneous melanocytic tumors</article-title>. <source>Vet Pathol</source>. <year>2019</year>;<volume>56</volume>(<issue>2</issue>):<fpage>180</fpage>‐<lpage>188</lpage>. †.<pub-id pub-id-type="pmid">30244658</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985818798094</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0026">
+<label>26</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0026">
+<string-name name-style="western">
+<surname>Behrens</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boothe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Silva</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walterscheid</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watkins</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarbox</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>SOX‐10 staining in dermal scars</article-title>. <source>J Cutan Pathol</source>. <year>2019</year>;<volume>46</volume>(<issue>8</issue>):<fpage>579</fpage>‐<lpage>585</lpage>. ‡.<pub-id pub-id-type="pmid">30950082</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/cup.13468</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0027">
+<label>27</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0027">
+<string-name name-style="western">
+<surname>Bergin</surname>
+<given-names>IL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smedley</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esplin</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spangler</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiupel</surname>
+<given-names>MK</given-names>
+</string-name>. <article-title>Prognostic evaluation of canine oral melanomas</article-title>. <source>Vet Pathol</source>. <year>2011</year>;<volume>48</volume>:<fpage>41</fpage>‐<lpage>53</lpage>. ‡.<pub-id pub-id-type="pmid">21123859</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985810388947</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0028">
+<label>28</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0028">
+<string-name name-style="western">
+<surname>Esplin</surname>
+<given-names>DG</given-names>
+</string-name>. <article-title>Survival of dogs following surgical excision of histologically well‐differentiated melanocytic neoplasms of the mucous membranes of the lips and oral cavity</article-title>. <source>Vet Pathol</source>. <year>2008</year>;<volume>45</volume>(<issue>6</issue>):<fpage>889</fpage>‐<lpage>896</lpage>. ‡.<pub-id pub-id-type="pmid">18984791</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1354/vp.45-6-889</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0029">
+<label>29</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0029">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>XZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>JG</given-names>
+</string-name>, et al. <article-title>Clinicopathological features and prognostic factors of primary pulmonary adenoid cystic carcinoma: a study of 59 cases</article-title>. <source>Zhonghua Bing Li Xue Za Zhi</source>. <year>2019</year>;<volume>48</volume>(<issue>3</issue>):<fpage>204</fpage>‐<lpage>208</lpage>. ‡.<pub-id pub-id-type="pmid">30831646</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3760/cma.j.issn.0529-5807.2019.03.007</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0030">
+<label>30</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0030">
+<string-name name-style="western">
+<surname>Karamchandani</surname>
+<given-names>JR</given-names>
+</string-name>, <collab collab-type="authors">Nielsen TO</collab>
+, <string-name name-style="western">
+<surname>van de Rijn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>West</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Sox10 and S100 in the diagnosis of soft‐tissue neoplasms</article-title>. <source>Appl Immunohistochem Mol Morphol</source>. <year>2012</year>;<volume>20</volume>(<issue>5</issue>):<fpage>445</fpage>‐<lpage>450</lpage>. ‡.<pub-id pub-id-type="pmid">22495377</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PAI.0b013e318244ff4b</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0031">
+<label>31</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0031">
+<string-name name-style="western">
+<surname>Laprie</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abadie</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amardeilh</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Net</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lagadic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delverdier</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>MIB‐1 immunoreactivity correlates with biologic behaviour in canine cutaneous melanoma</article-title>. <source>Vet Dermatol</source>. <year>2001</year>;<volume>12</volume>(<issue>3</issue>):<fpage>139</fpage>‐<lpage>147</lpage>. ‡.<pub-id pub-id-type="pmid">11420929</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1365-3164.2001.00236.x</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0032">
+<label>32</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0032">
+<string-name name-style="western">
+<surname>Meuten</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moore</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>George</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>Mitotic count and the field of view area: time to standardize</article-title>. <source>Vet Pathol</source>. <year>2016</year>;<volume>53</volume>(<issue>1</issue>):<fpage>7</fpage>‐<lpage>9</lpage>. ‡.<pub-id pub-id-type="pmid">26712813</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985815593349</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0033">
+<label>33</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0033">
+<string-name name-style="western">
+<surname>Miettinen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCue</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarlomo‐Rikala</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Sox10–a marker for not only schwannian and melanocytic neoplasms but also myoepithelial cell tumors of soft tissue: a systematic analysis of 5134 tumors</article-title>. <source>Am J Surg Pathol</source>. <year>2015</year>;<volume>39</volume>(<issue>6</issue>):<fpage>826</fpage>‐<lpage>835</lpage>. ‡.<pub-id pub-id-type="pmid">25724000</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PAS.0000000000000398</pub-id>
+<pub-id pub-id-type="pmcid">PMC4431945</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0034">
+<label>34</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0034">
+<string-name name-style="western">
+<surname>Smedley</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lamoureux</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sledge</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiupel</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Immunohistochemical diagnosis of canine oral amelanotic melanomas</article-title>. <source>Vet Pathol</source>. <year>2011</year>;<volume>48</volume>:<fpage>32</fpage>‐<lpage>40</lpage>.<pub-id pub-id-type="pmid">21078882</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985810387447</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0035">
+<label>35</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0035">
+<string-name name-style="western">
+<surname>Spangler</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kass</surname>
+<given-names>PH</given-names>
+</string-name>. <article-title>The histologic and epidemiologic basis for prognostic considerations in canine melanocytic neoplasia</article-title>. <source>Vet Pathol</source>. <year>2006</year>;<volume>43</volume>:<fpage>136</fpage>‐<lpage>142</lpage>. ‡.<pub-id pub-id-type="pmid">16537931</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1354/vp.43-2-136</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0036">
+<label>36</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0036">
+<string-name name-style="western">
+<surname>Brocca</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poncina</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sammarco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cavicchioli</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castagnaro</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>KIT somatic mutations and immunohistochemical expression in canine oral melanoma</article-title>. <source>Animals (Basel)</source>. <year>2020</year>;<volume>10</volume>(<issue>12</issue>):<elocation-id>2370</elocation-id> §.<pub-id pub-id-type="pmid">33321993</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ani10122370</pub-id>
+<pub-id pub-id-type="pmcid">PMC7764140</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0037">
+<label>37</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0037">
+<string-name name-style="western">
+<surname>Bongiovanni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andriessen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silvestri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porcellato</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brachelente</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Bruin</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>H2AFZ: a novel prognostic marker in canine melanoma and a predictive marker for resistance to CDK4/6 inhibitor treatment</article-title>. <source>Front Vet Sci</source>. <year>2021</year>;<volume>16</volume>(<issue>8</issue>):<elocation-id>705359</elocation-id> §.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fvets.2021.705359</pub-id>
+<pub-id pub-id-type="pmcid">PMC8415453</pub-id>
+<pub-id pub-id-type="pmid">34485433</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0038">
+<label>38</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0038">
+<string-name name-style="western">
+<surname>Guillén</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stiborova</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ressel</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Immunohistochemical expression and prognostic significance of MAGE‐A in canine oral malignant melanoma</article-title>. <source>Res Vet Sci</source>. <year>2021</year>;<volume>137</volume>:<fpage>226</fpage>‐<lpage>234</lpage>. §.<pub-id pub-id-type="pmid">34023546</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.rvsc.2021.05.009</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0039">
+<label>39</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0039">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>IL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>WH</given-names>
+</string-name>, et al. <article-title>Kynurenine 3‐monooxygenase (KMO), and signal transducer and activator of transcription 3 (STAT3) expression is involved in tumour proliferation and predicts poor survival in canine melanoma. Vet comp</article-title>. <source>Oncologia</source>. <year>2021</year>;<volume>19</volume>(<issue>1</issue>):<fpage>79</fpage>‐<lpage>91</lpage>. §.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vco.12641</pub-id>
+<pub-id pub-id-type="pmid">32720434</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0040">
+<label>40</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0040">
+<string-name name-style="western">
+<surname>Porcellato</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silvestri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menchetti</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Tumour‐infiltrating lymphocytes in canine melanocytic tumours: an investigation on the prognostic role of CD3+ and CD20+ lymphocytic populations</article-title>. <source>Vet Comp Oncol</source>. <year>2020</year>;<volume>18</volume>(<issue>3</issue>):<fpage>370</fpage>‐<lpage>380</lpage>. §.<pub-id pub-id-type="pmid">31750993</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vco.12556</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0041">
+<label>41</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0041">
+<string-name name-style="western">
+<surname>Porcellato</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brachelente</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cappelli</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>FoxP3, CTLA‐4, and IDO in canine melanocytic tumors</article-title>. <source>Vet Pathol</source>. <year>2021</year>;<volume>58</volume>(<issue>1</issue>):<fpage>42</fpage>‐<lpage>52</lpage>. §.<pub-id pub-id-type="pmid">33021155</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985820960131</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0042">
+<label>42</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0042">
+<string-name name-style="western">
+<surname>Prouteau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chocteau</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Brito</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Prognostic value of somatic focal amplifications on chromosome 30 in canine oral melanoma</article-title>. <source>Vet Comp Oncol</source>. <year>2020</year>;<volume>18</volume>(<issue>2</issue>):<fpage>214</fpage>‐<lpage>223</lpage>. §.<pub-id pub-id-type="pmid">31461207</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vco.12536</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0043">
+<label>43</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0043">
+<string-name name-style="western">
+<surname>Silvestri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porcellato</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mechelli</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>E‐cadherin expression in canine melanocytic tumors: histological, immunohistochemical, and survival analysis</article-title>. <source>Vet Pathol</source>. <year>2020</year>;<volume>57</volume>(<issue>5</issue>):<fpage>608</fpage>‐<lpage>619</lpage>. §.<pub-id pub-id-type="pmid">32578507</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985820934385</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0044">
+<label>44</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0044">
+<string-name name-style="western">
+<surname>Smedley</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thaiwong</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deeth</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiupel</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Correlation between KIT expression and c‐KIT mutations in 2 subtypes of canine oral melanocytic neoplasms</article-title>. <source>Vet Pathol</source>. <year>2021</year>;<volume>58</volume>(<issue>4</issue>):<fpage>683</fpage>‐<lpage>691</lpage>. §.<pub-id pub-id-type="pmid">33910439</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/03009858211009784</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0045">
+<label>45</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0045">
+<string-name name-style="western">
+<surname>Tani</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyamoto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noguchi</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>A canine case of malignant melanoma carrying a KIT c.1725_1733del mutation treated with toceranib: a case report and in vitro analysis</article-title>. <source>BMC Vet Res</source>. <year>2021</year>;<volume>17</volume>(<issue>1</issue>):<elocation-id>147</elocation-id> §.<pub-id pub-id-type="pmid">33827546</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12917-021-02864-3</pub-id>
+<pub-id pub-id-type="pmcid">PMC8028755</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0046">
+<label>46</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0046">
+<string-name name-style="western">
+<surname>Tsoi</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thaiwong</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smedley</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noland</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiupel</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Quantitative expression of TYR, CD34, and CALD1 discriminates between canine oral malignant melanomas and soft tissue sarcomas</article-title>. <source>Front Vet Sci</source>. <year>2021</year>;<volume>8</volume>:<elocation-id>701457</elocation-id> §.<pub-id pub-id-type="pmid">34422947</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fvets.2021.701457</pub-id>
+<pub-id pub-id-type="pmcid">PMC8377394</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0047">
+<label>47</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0047">
+<string-name name-style="western">
+<surname>Vargas</surname>
+<given-names>THM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pulz</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferro</surname>
+<given-names>DG</given-names>
+</string-name>, et al. <article-title>Galectin‐3 expression correlates with post‐surgical survival in canine oral melanomas</article-title>. <source>J Comp Pathol</source>. <year>2019</year>;<volume>173</volume>:<fpage>49</fpage>‐<lpage>57</lpage>. §.<pub-id pub-id-type="pmid">31812173</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcpa.2019.10.003</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0048">
+<label>48</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0048">
+<string-name name-style="western">
+<surname>Yasumaru</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xavier</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strefezzi</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salles‐Gomes</surname>
+<given-names>COM</given-names>
+</string-name>. <article-title>Intratumoral T‐lymphocyte subsets in canine oral melanoma and their association with clinical and histopathological parameters</article-title>. <source>Vet Pathol</source>. <year>2021</year>;<volume>58</volume>(<issue>3</issue>):<fpage>491</fpage>‐<lpage>502</lpage>. §.<pub-id pub-id-type="pmid">33764216</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0300985821999321</pub-id>
+</mixed-citation>
+</ref>
+<ref id="vco12827-bib-0049">
+<label>49</label>
+<mixed-citation publication-type="journal" id="vco12827-cit-0049">
+<string-name name-style="western">
+<surname>Zamboni</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brocca</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferraresso</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Cyclin D1 immunohistochemical expression and somatic mutations in canine oral melanoma</article-title>. <source>Vet Comp Oncol</source>. <year>2020</year>;<volume>18</volume>(<issue>2</issue>):<fpage>231</fpage>‐<lpage>238</lpage>. §.<pub-id pub-id-type="pmid">31503380</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/vco.12539</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>
+</pmc-articleset>

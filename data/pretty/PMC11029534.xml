@@ -1,0 +1,303 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Nat Med</journal-id>
+<journal-id journal-id-type="iso-abbrev">Nat Med</journal-id>
+<journal-id journal-id-type="pmc-domain-id">319</journal-id>
+<journal-id journal-id-type="pmc-domain">nihpa</journal-id>
+<journal-title-group>
+<journal-title>Nature medicine</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1078-8956</issn>
+<issn pub-type="epub">1546-170X</issn>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-is-collection-domain</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-collection-title</meta-name>
+<meta-value>NIHPA Author Manuscripts</meta-value>
+</custom-meta>
+</custom-meta-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC11029534</article-id>
+<article-id pub-id-type="pmcid-ver">PMC11029534.319</article-id>
+<article-id pub-id-type="pmcaid">11029534</article-id>
+<article-id pub-id-type="pmcaiid">11029534</article-id>
+<article-id pub-id-type="manuscript-id">NIHMS1975626</article-id>
+<article-id pub-id-type="pmid">38454124</article-id>
+<article-id pub-id-type="doi">10.1038/s41591-024-02837-7</article-id>
+<article-id pub-id-type="manuscript-id-alternative">NIHMS1975626</article-id>
+<article-id pub-id-type="manuscript-id-alternative">NIHPA1975626</article-id>
+<article-version article-version-type="pmc-version">319</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Polygenic risk scores, radiation treatment exposures and subsequent cancer risk in childhood cancer survivors</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Gibson</surname>
+<given-names initials="TM">Todd M.</given-names>
+</name>
+<xref rid="A1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Karyadi</surname>
+<given-names initials="DM">Danielle M.</given-names>
+</name>
+<xref rid="A1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hartley</surname>
+<given-names initials="SW">Stephen W.</given-names>
+</name>
+<xref rid="A1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Arnold</surname>
+<given-names initials="MA">Michael A.</given-names>
+</name>
+<xref rid="A2" ref-type="aff">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>de Gonzalez</surname>
+<given-names initials="AB">Amy Berrington</given-names>
+</name>
+<xref rid="A3" ref-type="aff">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Conces</surname>
+<given-names initials="MR">Miriam R.</given-names>
+</name>
+<xref rid="A4" ref-type="aff">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Howell</surname>
+<given-names initials="RM">Rebecca M.</given-names>
+</name>
+<xref rid="A5" ref-type="aff">5</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Kapoor</surname>
+<given-names initials="V">Vidushi</given-names>
+</name>
+<xref rid="A1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Leisenring</surname>
+<given-names initials="WM">Wendy M.</given-names>
+</name>
+<xref rid="A6" ref-type="aff">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Neglia</surname>
+<given-names initials="JP">Joseph P.</given-names>
+</name>
+<xref rid="A7" ref-type="aff">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Sampson</surname>
+<given-names initials="JN">Joshua N.</given-names>
+</name>
+<xref rid="A1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Turcotte</surname>
+<given-names initials="LM">Lucie M.</given-names>
+</name>
+<xref rid="A7" ref-type="aff">7</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Chanock</surname>
+<given-names initials="SJ">Stephen J.</given-names>
+</name>
+<xref rid="A1" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Armstrong</surname>
+<given-names initials="GT">Gregory T.</given-names>
+</name>
+<xref rid="A8" ref-type="aff">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Morton</surname>
+<given-names initials="LM">Lindsay M.</given-names>
+</name>
+<xref rid="A1" ref-type="aff">1</xref>
+</contrib>
+</contrib-group>
+<aff id="A1">
+<label>1.</label>Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Bethesda, MD</aff>
+<aff id="A2">
+<label>2.</label>Department of Pathology, Children’s Hospital of Colorado, University of Colorado, Denver, CO</aff>
+<aff id="A3">
+<label>3.</label>Division of Cancer Genetics and Epidemiology, The Institute of Cancer Research, London, UK</aff>
+<aff id="A4">
+<label>4.</label>Department of Pathology and Laboratory Medicine, Nationwide Children’s Hospital, Columbus, OH</aff>
+<aff id="A5">
+<label>5.</label>Radiation Physics, The University of Texas MD Anderson Cancer Center, Houston, TX</aff>
+<aff id="A6">
+<label>6.</label>Cancer Prevention and Clinical Statistics Programs, Fred Hutchinson Cancer Research Center, Seattle, WA</aff>
+<aff id="A7">
+<label>7.</label>Department of Pediatrics, University of Minnesota, Minneapolis, MN</aff>
+<aff id="A8">
+<label>8.</label>Department of Epidemiology and Cancer Control, St Jude Children’s Research Hospital, Memphis, TN</aff>
+<author-notes>
+<fn fn-type="con" id="FN1">
+<p id="P1">AUTHOR CONTRIBUTIONS STATEMENT</p>
+<p id="P2">T.G., D.K., S.C., and L.M. contributed to the conception and design of the study. M.A., M.C., R.H., W.L., J.N., L.T. and G.A. contributed to and/or provided support for data collection, exposure assessment and outcome ascertainment. T.G., D.K., S.H., V.K., J.S., and L.M. contributed to data analysis. T.G. and L.M. drafted the manuscript. All authors contributed to data interpretation and provided critical review and revision of the manuscript. All authors approved the final version of the manuscript for publication.</p>
+</fn>
+<corresp id="CR1">Corresponding author: Todd M. Gibson; <email>todd.gibson@nih.gov</email>
+</corresp>
+<fn fn-type="COI-statement" id="FN2">
+<p id="P58">COMPETING INTERESTS STATEMENT</p>
+<p id="P59">The authors declare no competing interests.</p>
+</fn>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>3</month>
+<year>2024</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>07</day>
+<month>3</month>
+<year>2024</year>
+</pub-date>
+<volume>30</volume>
+<issue>3</issue>
+<issue-id pub-id-type="pmc-issue-id">460252</issue-id>
+<fpage>690</fpage>
+<lpage>698</lpage>
+<pub-history>
+<event event-type="nihms-submitted">
+<date>
+<day>03</day>
+<month>04</month>
+<year>2024</year>
+</date>
+</event>
+<event event-type="pmc-release">
+<date>
+<day>07</day>
+<month>03</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>07</day>
+<month>03</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-released-under-embargo">
+<date>
+<day>20</day>
+<month>04</month>
+<year>2024</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2025-03-07 12:25:41.827">
+<day>07</day>
+<month>03</month>
+<year>2025</year>
+</date>
+</event>
+</pub-history>
+<self-uri content-type="pmc-pdf" ns0:href="nihms-1975626.pdf" />
+<abstract id="ABS1">
+<p id="P3">Survivors of childhood cancer are at increased risk for subsequent cancers attributable to late effects of radiotherapy and other treatment exposures, but further understanding of the impact of genetic predisposition on risk is needed. Combining genotype data for 11,220 five-year survivors from the Childhood Cancer Survivor Study and the St. Jude Lifetime Cohort we found that cancer-specific polygenic risk scores (PRSs) derived from general population GWAS cancer loci identified survivors of European ancestry at increased risk of subsequent basal cell carcinoma (BCC; odds ratio per PRS standard deviation 1.37, 95% CI 1.29–1.46), female breast cancer (1.42, 1.27–1.58), thyroid cancer (1.48, 1.31–1.67), squamous cell carcinoma (1.20, 1.00–1.44), and melanoma (1.60, 1.31–1.96), but the association for colorectal cancer was not significant (1.19, 0.94–1.52). Investigation of joint associations between PRS and radiotherapy found more-than-additive increased risks of BCC, breast, and thyroid cancers. For survivors with radiotherapy exposure, the cumulative incidence of subsequent cancer by age 50 years was increased for those with high versus low PRS. These findings suggest a degree of shared genetic etiology for these malignancy types in the general population and survivors that remains evident in the context of strong radiotherapy-related risk.</p>
+</abstract>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+</article>
+</pmc-articleset>

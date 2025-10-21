@@ -1,0 +1,3654 @@
+<pmc-articleset xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink">
+<article xml:lang="en" article-type="review-article" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Cancers (Basel)</journal-id>
+<journal-id journal-id-type="iso-abbrev">Cancers (Basel)</journal-id>
+<journal-id journal-id-type="pmc-domain-id">2105</journal-id>
+<journal-id journal-id-type="pmc-domain">cancers</journal-id>
+<journal-id journal-id-type="publisher-id">cancers</journal-id>
+<journal-title-group>
+<journal-title>Cancers</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2072-6694</issn>
+<publisher>
+<publisher-name>Multidisciplinary Digital Publishing Institute  (MDPI)</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC11852771</article-id>
+<article-id pub-id-type="pmcid-ver">PMC11852771.1</article-id>
+<article-id pub-id-type="pmcaid">11852771</article-id>
+<article-id pub-id-type="pmcaiid">11852771</article-id>
+<article-id pub-id-type="pmid">40002254</article-id>
+<article-id pub-id-type="doi">10.3390/cancers17040659</article-id>
+<article-id pub-id-type="publisher-id">cancers-17-00659</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Review</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Genetic Drivers in Sebaceous Neoplasms: A Review of Germline and Somatic Mutations and Their Role in Treatment and Management Strategies</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Fujii</surname>
+<given-names initials="C">Christina</given-names>
+</name>
+<xref rid="fn1-cancers-17-00659" ref-type="author-notes">†</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Mochizuki</surname>
+<given-names initials="A">Ashley</given-names>
+</name>
+<xref rid="fn1-cancers-17-00659" ref-type="author-notes">†</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Dreike</surname>
+<given-names initials="S">Sandra</given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Jeter</surname>
+<given-names initials="JM">Joanne M.</given-names>
+</name>
+<xref rid="c1-cancers-17-00659" ref-type="corresp">*</xref>
+</contrib>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>In</surname>
+<given-names initials="GK">Gino K.</given-names>
+</name>
+<role>Academic Editor</role>
+</contrib>
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Nallagangula</surname>
+<given-names initials="A">Aparna</given-names>
+</name>
+<role>Academic Editor</role>
+</contrib>
+</contrib-group>
+<aff id="af1-cancers-17-00659">City of Hope, Clinical Cancer Genomics, Center for Precision Medicine, Duarte, CA 91010, USA; <email>cfujii@coh.org</email> (C.F.); <email>amochizuki@coh.org</email> (A.M.); <email>sdreike@coh.org</email> (S.D.)</aff>
+<author-notes>
+<corresp id="c1-cancers-17-00659">
+<label>*</label>Correspondence: <email>jjeter@coh.org</email>; Tel.: +1-626-218-4324</corresp>
+<fn id="fn1-cancers-17-00659">
+<label>†</label>
+<p>These authors are contributed equally to the manuscript and are co-first authors.</p>
+</fn>
+</author-notes>
+<pub-date pub-type="epub">
+<day>15</day>
+<month>2</month>
+<year>2025</year>
+</pub-date>
+<pub-date pub-type="collection">
+<month>2</month>
+<year>2025</year>
+</pub-date>
+<volume>17</volume>
+<issue>4</issue>
+<issue-id pub-id-type="pmc-issue-id">482605</issue-id>
+<elocation-id>659</elocation-id>
+<history>
+<date date-type="received">
+<day>01</day>
+<month>1</month>
+<year>2025</year>
+</date>
+<date date-type="rev-recd">
+<day>09</day>
+<month>2</month>
+<year>2025</year>
+</date>
+<date date-type="accepted">
+<day>13</day>
+<month>2</month>
+<year>2025</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>15</day>
+<month>02</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>25</day>
+<month>02</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2025-02-28 13:25:17.873">
+<day>28</day>
+<month>02</month>
+<year>2025</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2025 by the authors.</copyright-statement>
+<copyright-year>2025</copyright-year>
+<license>
+<ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref>
+<license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns1:href="cancers-17-00659.pdf" />
+<abstract abstract-type="plain-language-summary">
+<title>Simple Summary</title>
+<p>Approximately 30% of individuals with a sebaceous neoplasm are identified to have a germline mutation. The aim of our review is to identify germline and somatic mutations in sebaceous neoplasms and the steps for workup to determine those at the highest risk for a germline mutation. Early detection of a germline mutation is important for cancer treatment and screening and has medical implications for the family members of affected patients. Personal and family history are key components in risk assessments and should be included in the evaluation of all individuals diagnosed with sebaceous neoplasm. Genetic counseling is a valuable resource for those at risk for a germline mutation to determine appropriate testing strategies and to guide referrals to specialists for management if a mutation is identified.</p>
+</abstract>
+<abstract>
+<title>Abstract</title>
+<p>
+<bold>Background</bold>: The efficacy of germline testing in colorectal cancer has been proven; however, germline testing in individuals with sebaceous neoplasms is less well defined. This review aims to summarize the literature on sebaceous neoplasms to date, describing the somatic tumor profiles, tumor screening methods, and personal and family history that are suspicious of a germline mutation. Sebaceous neoplasms can be attributed to a variety of etiologies, including UV exposure, immunodeficiency, germline mutations, or multifactorial influences associated with aging. Sebaceous tumors with abnormal microsatellite instability and mismatch repair deficiency are indicative of a germline mutation in 20–50% of cases, which is similar to rates found in colorectal tumors. Personal and familial history can also be suggestive of a germline etiology in these patients and should be assessed routinely, as approximately 30% of individuals with sebaceous neoplasms carry a germline mutation. We outline a strategy for the identification of individuals at risk for germline mutations, recommendations for the management of mutation carriers, and treatment options for individuals with sebaceous neoplasms. <bold>Conclusions</bold>: Sebaceous tumors are most often sporadic; however, evaluations of a germline etiology are prudent to effectively identify those at risk of additional malignancies as well as at-risk family members. Referral to genetic counseling and germline genetic testing for individuals at risk can significantly impact cancer treatment and screening in patients and their families.</p>
+</abstract>
+<kwd-group>
+<kwd>sebaceous neoplasm</kwd>
+<kwd>sebaceous carcinoma</kwd>
+<kwd>Muir–Torre syndrome</kwd>
+<kwd>Lynch syndrome</kwd>
+<kwd>
+<italic toggle="yes">MUTYH</italic>-associated polyposis</kwd>
+<kwd>microsatellite instability</kwd>
+<kwd>mismatch repair</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>This research received no external funding.</funding-statement>
+</funding-group>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-license-ref</meta-name>
+<meta-value>CC BY</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro" id="sec1-cancers-17-00659">
+<title>1. Introduction</title>
+<p>The term sebaceous neoplasms refers to a group of tumors with sebaceous differentiation, which includes sebaceous hyperplasia, sebaceomas, sebaceous adenomas, and sebaceous carcinomas [<xref rid="B1-cancers-17-00659" ref-type="bibr">1</xref>]. These tumors can be divided into two subcategories: periocular and extraocular. These tumors, although most often sporadic, can be associated with inherited cancer conditions, notably Muir–Torre syndrome (MTS), a subtype of Lynch syndrome involving sebaceous carcinomas [<xref rid="B1-cancers-17-00659" ref-type="bibr">1</xref>,<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>]. They have also been reported in individuals with <italic toggle="yes">MUTYH</italic>-associated polyposis (MAP), a genetic cancer predisposition syndrome that results in numerous colorectal polyps due to biallelic pathogenic variants in <italic toggle="yes">MUTYH</italic> [<xref rid="B3-cancers-17-00659" ref-type="bibr">3</xref>,<xref rid="B4-cancers-17-00659" ref-type="bibr">4</xref>]. In this review, we aim to describe sebaceous neoplasms and their associations with hereditary cancer syndromes, as well as the stratification and strength of these associations based on genes, tumor location, age of onset, and pathologic and familial features that may raise suspicion of these conditions.</p>
+</sec>
+<sec id="sec2-cancers-17-00659">
+<title>2. Dermatologic Findings Associated with Muir–Torre Syndrome</title>
+<sec id="sec2dot1-cancers-17-00659">
+<title>2.1. Types of Sebaceous Neoplasms</title>
+<sec id="sec2dot1dot1-cancers-17-00659">
+<title>2.1.1. Sebaceous Hyperplasia</title>
+<p>Sebaceous hyperplasia consists of benign skin lesions that occur when sebaceous glands in the skin collect an excess amount of sebum, forming small bumps on the skin at the base of hair follicles. About 1% of the population develops sebaceous hyperplasia in their lifetime, and it occurs more frequently in infants, the elderly, individuals who are immunosuppressed, and individuals with genetic predisposition to these neoplasms [<xref rid="B5-cancers-17-00659" ref-type="bibr">5</xref>]. They commonly appear on the face and chest and typically match the color of the surrounding skin or are yellow or brown.</p>
+</sec>
+<sec id="sec2dot1dot2-cancers-17-00659">
+<title>2.1.2. Sebaceoma</title>
+<p>Sebaceomas are benign cutaneous findings commonly found on the head and neck area of middle-aged to elderly individuals, with a median age of onset of about 70 years of age [<xref rid="B6-cancers-17-00659" ref-type="bibr">6</xref>]. They mostly occur as solitary nodules or papules whose coloring may be yellow or match the color of the surrounding skin. Sebaceomas share many similarities with sebaceous adenomas, such as location, appearance, and age of onset, leading to challenges in differentiation. Sebaceomas are also commonly mistaken for basal cell carcinoma or trichoblastoma, given their partial sebaceous and at least 50% basaloid germ cell population.</p>
+</sec>
+<sec id="sec2dot1dot3-cancers-17-00659">
+<title>2.1.3. Sebaceous Adenoma</title>
+<p>Sebaceous adenomas, compared to sebaceous hyperplasia, tend to be larger and often appear in clusters. Similarly to sebaceomas, they are benign neoplasms whose coloring may be yellow or match the color of the surrounding skin. They are typically located on the head and neck region, particularly the nose and cheeks. Middle-aged to elderly adults are more susceptible to these types of tumors. These benign tumors can be difficult to differentiate from other sebaceous neoplasms, particularly when the samples are small or the lesions are more superficial. Sebaceous adenomas are differentiated from sebaceomas in that the adenomas have a basaloid germinative cell population of less than 50% [<xref rid="B1-cancers-17-00659" ref-type="bibr">1</xref>].</p>
+</sec>
+<sec id="sec2dot1dot4-cancers-17-00659">
+<title>2.1.4. Sebaceous Carcinoma</title>
+<p>Sebaceous carcinoma is a rare skin cancer that arises from the sebaceous gland. The overall incidence in the United States between 2000 and 2016 was 2.4 cases per million [<xref rid="B7-cancers-17-00659" ref-type="bibr">7</xref>]. Another study found the incidence varies by race, with 0.5 cases per million in the Black population, one case per million in the Asian and Pacific Islander population, and two cases per million in the White population [<xref rid="B8-cancers-17-00659" ref-type="bibr">8</xref>]. In the United States, sebaceous carcinomas most commonly appear between the ages of 60 and 79, regardless of sex assigned at birth [<xref rid="B7-cancers-17-00659" ref-type="bibr">7</xref>,<xref rid="B8-cancers-17-00659" ref-type="bibr">8</xref>]. However, multiple studies have reported a higher incidence of sebaceous carcinoma, specifically of the eyelid, in individuals assigned female at birth compared to individuals assigned male at birth [<xref rid="B7-cancers-17-00659" ref-type="bibr">7</xref>,<xref rid="B9-cancers-17-00659" ref-type="bibr">9</xref>]. The diagnosis of sebaceous carcinomas can be challenging, but various pathologic features can aid in the exclusion of benign pathologies, such as sebaceomas and sebaceous adenomas [<xref rid="B1-cancers-17-00659" ref-type="bibr">1</xref>]. Tumors that display a more infiltrative growth pattern, atypical mitoses, highly variable nuclei, and necrotic cell death are more likely to be sebaceous carcinomas [<xref rid="B1-cancers-17-00659" ref-type="bibr">1</xref>]. Poorly differentiated sebaceous carcinomas can also be challenging to distinguish between basaloid squamous cell carcinomas, basal cell carcinomas, or Merkel cell carcinomas [<xref rid="B1-cancers-17-00659" ref-type="bibr">1</xref>].</p>
+<p>Sebaceous carcinomas are typically categorized as periocular or extraocular. Although 70–80% of sebaceous carcinomas occur on the head or neck, they can occur anywhere in the body where sebaceous glands are present [<xref rid="B8-cancers-17-00659" ref-type="bibr">8</xref>,<xref rid="B9-cancers-17-00659" ref-type="bibr">9</xref>]. The 5-year survival rate ranges between 70 and 97%, and the 10-year survival rate is approximately 79% [<xref rid="B7-cancers-17-00659" ref-type="bibr">7</xref>,<xref rid="B10-cancers-17-00659" ref-type="bibr">10</xref>]. One study found that periocular sebaceous carcinomas had a more favorable 5-year survival rate at 75% compared to extraocular occurrences at 68% [<xref rid="B8-cancers-17-00659" ref-type="bibr">8</xref>]. Factors that can increase the risk of sebaceous carcinomas include immunosuppression, ultraviolet (UV) exposure, radiation exposure, and MTS [<xref rid="B1-cancers-17-00659" ref-type="bibr">1</xref>].</p>
+<list list-type="alpha-lower">
+<list-item>
+<p>Periocular</p>
+</list-item>
+</list>
+<p>Periocular tumors arise on the eyelid skin, which is the most common location for sebaceous carcinomas. Ocular tumors confined to the conjunctiva are extremely rare [<xref rid="B11-cancers-17-00659" ref-type="bibr">11</xref>]. The upper eyelid is two to three times more frequently affected than the lower eyelid due to the high number of meibomian glands in this region. Women of Asian descent have been shown to be at greater risk for these neoplasms compared to other sebaceous neoplasms [<xref rid="B12-cancers-17-00659" ref-type="bibr">12</xref>]. On the eyelid, they can present as a firm, round, enlarging nodule with inflammation and thickening of the eyelid. The diagnosis of periocular sebaceous carcinomas can be delayed due to their similar appearance to chalazion, conjunctivitis, blepharitis, or other inflammatory conditions of the eye [<xref rid="B13-cancers-17-00659" ref-type="bibr">13</xref>,<xref rid="B14-cancers-17-00659" ref-type="bibr">14</xref>]. Local spread is common and can involve the conjunctiva and cornea; advanced disease may even involve the orbit and adjacent structures [<xref rid="B14-cancers-17-00659" ref-type="bibr">14</xref>]. Superficial biopsy should be performed for periocular tumors with dermatoscopic findings, including polymorphous atypical vessels, an underlying yellow background, and ulceration, which are consistent with sebaceous carcinomas [<xref rid="B15-cancers-17-00659" ref-type="bibr">15</xref>].
+</p>
+<list list-type="simple">
+<list-item>
+<label>b.</label>
+<p>Extraocular</p>
+</list-item>
+</list>
+<p>Extraocular sebaceous carcinomas account for only 25% of all sebaceous carcinomas [<xref rid="B16-cancers-17-00659" ref-type="bibr">16</xref>,<xref rid="B17-cancers-17-00659" ref-type="bibr">17</xref>]. Extraocular tumors arise outside of the ocular region, most commonly in the head and neck, but they can occur in the trunk and extremities. They present as a red-yellow nodule or papule, often with ulceration. Extraocular tumors with suspicion of sebaceous carcinoma, as previously described for periocular tumors, should prompt thorough dermatoscopic evaluation and a deep biopsy, including the dermis [<xref rid="B15-cancers-17-00659" ref-type="bibr">15</xref>].</p>
+</sec>
+</sec>
+<sec id="sec2dot2-cancers-17-00659">
+<title>2.2. Additional Skin Tumors Associated with MTS</title>
+<sec>
+<title>Keratoacanthoma</title>
+<p>Keratoacanthomas are benign, rapidly growing, dome-shaped skin tumors that begin in a hair follicle. They often occur on areas of the body that receive sun exposure, particularly the head, neck, arms, legs, and back of the hands. Clinically, they are almost indistinguishable when compared to squamous cell carcinomas and subsequently are often treated similarly. Keratoacanthomas are twice as likely to occur in males as opposed to females and are more common in individuals 60 years of age or older. Factors that can increase risk include immunocompromised status, hereditary cancer predisposition, such as MTS, UV radiation, exposure to carcinogenic chemicals, viral exposure, such as human papillomavirus (HPV), and trauma or surgery to the location [<xref rid="B18-cancers-17-00659" ref-type="bibr">18</xref>].</p>
+</sec>
+</sec>
+</sec>
+<sec id="sec3-cancers-17-00659">
+<title>3. Sporadic Etiologies and Molecular Profiles of Sebaceous Neoplasms</title>
+<p>The molecular profile of sebaceous carcinomas has not been well defined, as limited studies have explored somatic genetic testing in these tumors. Tetzlaff et al. [<xref rid="B19-cancers-17-00659" ref-type="bibr">19</xref>] performed whole exome next-generation sequencing on 27 sebaceous carcinomas (23 periocular and 4 extraocular) from 20 patients. The most common genes with somatic mutations identified in the periocular tumors were <italic toggle="yes">TP53 (n</italic> = 9), <italic toggle="yes">RB1</italic> (<italic toggle="yes">n</italic> = 6), <italic toggle="yes">PIK3CA</italic> (<italic toggle="yes">n</italic> = 2), <italic toggle="yes">PTEN</italic> (<italic toggle="yes">n</italic> = 2), <italic toggle="yes">ERBB2 (n</italic> = 2), and <italic toggle="yes">NF1</italic> (<italic toggle="yes">n</italic> = 2). Common mutations within the extraocular tumors were not easily defined due to the high tumor mutation burden attributed to microsatellite instability in three of the four tumors, but some of the genes with mutations identified in these tumors include the following: <italic toggle="yes">ALK</italic>, <italic toggle="yes">BTK, FGFR2</italic>, <italic toggle="yes">PTEN</italic>, <italic toggle="yes">PDGFRB</italic>, <italic toggle="yes">MET</italic>, <italic toggle="yes">TSC1</italic>, <italic toggle="yes">ERBB2</italic>, <italic toggle="yes">PIK3R2</italic>, <italic toggle="yes">CHEK2</italic>, <italic toggle="yes">ABL2</italic>, <italic toggle="yes">HRAS</italic>, <italic toggle="yes">NF1</italic>, and <italic toggle="yes">ABL1</italic>. Although the sample size of extraocular tumors was small in this study, Kruskal–Wallis testing identified a significant difference between the number of mutations in extraocular compared to ocular sebaceous carcinomas (<italic toggle="yes">p</italic> = 0.036), with more mutations detected in the extraocular lesions. A separate study in Korea examined 29 sebaceous carcinomas (20 periocular, 9 extraocular) and found similar results to Tetzlaff et al., where the most common genes with mutations in periocular tumors were <italic toggle="yes">TP53</italic> (<italic toggle="yes">n</italic> = 13) and <italic toggle="yes">RB1</italic> (<italic toggle="yes">n</italic> = 3) [<xref rid="B20-cancers-17-00659" ref-type="bibr">20</xref>]. The most common mutation in extraocular tumors was <italic toggle="yes">NOTCH1</italic> (<italic toggle="yes">n</italic> = 5), which was significantly enriched compared to periocular tumors (<italic toggle="yes">p</italic> = 0.001).</p>
+<p>Additional studies have investigated the somatic profiles of tumors in the setting of risk factors suspected to increase the risk of sebaceous carcinomas. Three categories of somatic profiles emerged: tumors associated with UV radiation, immunosuppression, and multifactorial influences. In the United States, 73% of sebaceous carcinoma cases occur on the head and neck, areas that are often exposed to the sun [<xref rid="B21-cancers-17-00659" ref-type="bibr">21</xref>]. In addition, 85% of these cases occur in White individuals, who have the increased risk factor of less photoprotective melanin pigment in their skin compared to other racial groups. When ambient UV radiation exposure was assessed via geographic location, there was an increased risk for sebaceous carcinoma both with and without MTS [<xref rid="B21-cancers-17-00659" ref-type="bibr">21</xref>]. These data support UV radiation as a potential etiology for sebaceous carcinomas. The somatic profile of these UV-related tumors differs from that of their mismatch repair counterparts. Sebaceous neoplasms associated with UV radiation have a higher tumor mutational burden, are more likely to be poorly differentiated and infiltrative, and have frequent <italic toggle="yes">TP53</italic>, <italic toggle="yes">NOTCH1/2</italic>, <italic toggle="yes">FAT3</italic>, <italic toggle="yes">RREB1</italic>, and <italic toggle="yes">KMT2D</italic> mutations, a profile resembling that of cutaneous squamous cell and basal cell carcinomas [<xref rid="B22-cancers-17-00659" ref-type="bibr">22</xref>].</p>
+<p>Immunosuppression has also been noted as a risk factor for sebaceous carcinomas. Lanoy et al. found that the risk of sebaceous carcinomas was 8-fold higher in individuals with acquired immunodeficiency syndrome [<xref rid="B23-cancers-17-00659" ref-type="bibr">23</xref>]. Similarly, individuals who are receiving immunosuppressive therapy for solid organ transplants have an estimated 25- to 34-fold increased risk compared to the general population [<xref rid="B24-cancers-17-00659" ref-type="bibr">24</xref>,<xref rid="B25-cancers-17-00659" ref-type="bibr">25</xref>]. Tumors in individuals with immunosuppression are less likely to have common driver mutations, as shown in a study of a group of 29 patients, in which 31% (<italic toggle="yes">n</italic> = 9/29) lacked mutations in <italic toggle="yes">TP53</italic>, <italic toggle="yes">RB1</italic>, or <italic toggle="yes">NOTCH1/2</italic> [<xref rid="B26-cancers-17-00659" ref-type="bibr">26</xref>]. In four of these nine tumors (44%), the patients were HPV-positive, and the age of onset tended to be younger and without local recurrence [<xref rid="B26-cancers-17-00659" ref-type="bibr">26</xref>].</p>
+<p>Lastly, there is a population of sebaceous neoplasms that have a low mutation burden, unlike those associated with UV radiation, that are likely attributed to multifactorial influences, such as aging. Cutaneous sebaceous carcinomas with a low mutational burden often occur on the head and neck, as is typical, but lack recurrent characteristic mutation profiles on somatic testing [<xref rid="B22-cancers-17-00659" ref-type="bibr">22</xref>]. Ocular sebaceous carcinomas with this low mutational burden often have <italic toggle="yes">ZNF750</italic> mutations, with some patients also having <italic toggle="yes">TP53</italic> or <italic toggle="yes">RB1</italic> driver somatic mutations, and other patients having an increased risk of developing these tumors due to immune deficiency [<xref rid="B22-cancers-17-00659" ref-type="bibr">22</xref>]. Overall, in addition to mismatch repair deficiency driving the formation and development of sebaceous neoplasms, which is described in greater detail within successive sections, there are alternative risk factors, including exposure to UV radiation, immunosuppression, and multifactorial influences in sporadic cases that should be considered when assessing the etiology of a sebaceous neoplasm. These alternative factors may aid in determining an etiology for a patient’s personal and/or family history of sebaceous neoplasias in the absence of an identifiable germline variant.</p>
+</sec>
+<sec id="sec4-cancers-17-00659">
+<title>4. Mismatch Repair Deficiency and Microsatellite Instability in Sebaceous Neoplasms</title>
+<sec id="sec4dot1-cancers-17-00659">
+<title>4.1. MMR Deficiency</title>
+<p>Mismatch repair (MMR) proteins associated with Lynch syndrome include <italic toggle="yes">MLH1</italic>, <italic toggle="yes">MSH2</italic>, <italic toggle="yes">MSH6</italic>, and <italic toggle="yes">PMS2</italic>—all of which are essential components in DNA repair. The MMR proteins interact as heterodimers that detect and repair mismatches in DNA, such as inaccurately paired bases and DNA abnormalities caused by insertions or deletions. The pairings of heterodimers are as follows: <italic toggle="yes">MLH1</italic> binds with <italic toggle="yes">PMS2</italic>, and <italic toggle="yes">MSH2</italic> binds with <italic toggle="yes">MSH6</italic>. <italic toggle="yes">MLH1</italic> and <italic toggle="yes">MSH2</italic> are key proteins within the heterodimer that can bind with other proteins to perform DNA mismatch repair. However, <italic toggle="yes">PMS2</italic> and <italic toggle="yes">MSH6</italic> proteins only dimerize with <italic toggle="yes">MLH1</italic> and <italic toggle="yes">MSH2</italic>, respectively. Therefore, the absence of <italic toggle="yes">MLH1</italic> or <italic toggle="yes">MSH2</italic> expression will also cause absent protein expression of the corresponding dimerized protein. This is an essential concept in interpreting MMR protein expression and the likelihood of a Lynch syndrome mutation. The expression of MMR proteins in a tumor is detected using immunohistochemistry (IHC) staining [<xref rid="B27-cancers-17-00659" ref-type="bibr">27</xref>]. Abnormal MMR protein function within a tumor, referred to as mismatch repair deficiency (dMMR), may lead to tumor microsatellite instability (MSI) due to the cell’s inability to perform DNA mismatch repair.</p>
+</sec>
+<sec id="sec4dot2-cancers-17-00659">
+<title>4.2. MSI</title>
+<p>Microsatellites are repetitive DNA sequences, typically made up of one to six base pairs, which may repeat up to 100 times throughout the genetic code. Highly repetitive sequences are prone to strand slippage during DNA replication, resulting in errors. Tumors with dMMR typically result in MSI due to the cell’s inability to repair errors. MSI in a tumor is detected using a methodology combining polymerase chain reaction with fluorescent primers and capillary electrophoresis [<xref rid="B28-cancers-17-00659" ref-type="bibr">28</xref>]. The standard approach to MSI testing utilizes a panel of microsatellite markers on the National Cancer Institute (NCI) microsatellite panel (two mononucleotide—BAT25/26; three dinucleotide markers—D2S123, D5S346, and D17S250) and compares these markers with a paired normal sample to identify high microsatellite instability (MSI-H) within the tumor [<xref rid="B29-cancers-17-00659" ref-type="bibr">29</xref>]. The presence of instability in at least two markers is considered MSI-H, instability in one marker is considered low microsatellite instability (MSI-L), and stability in all markers would indicate microsatellite stability (MSS) [<xref rid="B29-cancers-17-00659" ref-type="bibr">29</xref>]. Additional testing may be necessary to exclude MSI-L tumors, especially in the setting of only aberrant dinucleotide repeat mutations.</p>
+</sec>
+<sec id="sec4dot3-cancers-17-00659">
+<title>4.3. Tumor Screening with MMR-IHC and MSI</title>
+<p>Universal tumor screening with MMR-IHC and MSI is recommended for all colorectal tumors at the time of diagnosis [<xref rid="B30-cancers-17-00659" ref-type="bibr">30</xref>]. This is due to the relatively high rates of germline Lynch syndrome mutations in individuals with dMMR staining (25–67%); however, a common alternative etiology for dMMR involving <italic toggle="yes">MLH1</italic> and <italic toggle="yes">PMS2</italic> is sporadic <italic toggle="yes">MLH1</italic> promoter methylation [<xref rid="B31-cancers-17-00659" ref-type="bibr">31</xref>,<xref rid="B32-cancers-17-00659" ref-type="bibr">32</xref>]. There is notably a lower sensitivity and specificity for Lynch syndrome in individuals with dMMR by MMR-IHC in extraocular sebaceous carcinomas (81–85% sensitivity and 48% specificity) versus in colonic tumors (92–94% sensitivity and 88–100% specificity) [<xref rid="B33-cancers-17-00659" ref-type="bibr">33</xref>]. Limited studies have explored MMR-IHC and MSI testing sensitivity in sebaceous carcinomas, and there are debates regarding the use of these screenings in sebaceous carcinomas, as their clinical relevance is not well defined.</p>
+<p>Historically, studies have explored tumor screening with MSI and MMR-IHC in individuals with sebaceous and internal tumors concerning MTS. Machin et al. [<xref rid="B34-cancers-17-00659" ref-type="bibr">34</xref>] examined tumor samples from six patients with internal Lynch-associated tumors and cutaneous tumors and found that all ten cutaneous (eight sebaceous adenomas, one sebaceous carcinoma, and one keratoacanthoma) and all eleven internal Lynch-associated tumors exhibited MSI. dMMR on MMR-IHC was concordant for all tumors in this study, with the majority exhibiting loss of <italic toggle="yes">MSH2</italic> protein expression (<italic toggle="yes">n</italic> = 5). This result is suggestive of a germline etiology for these tumors. Entius et al. [<xref rid="B35-cancers-17-00659" ref-type="bibr">35</xref>] compared MSI in tumors from 13 patients with MTS and 8 patients with sporadic sebaceous carcinoma. MSI was detected in 69% (<italic toggle="yes">n</italic> = 9/13) of the patients with MTS, while none of the sporadic sebaceous carcinoma tumors exhibited MSI (<italic toggle="yes">p</italic> = 0.002). MMR-IHC for <italic toggle="yes">MLH1</italic> and <italic toggle="yes">MSH2</italic> was concordant in 89% (<italic toggle="yes">n</italic> = 8/9) of tumors with MSI: four had loss of <italic toggle="yes">MLH1</italic> and four had loss of <italic toggle="yes">MSH2</italic>. These studies demonstrate the potential use of testing individuals for germline pathogenic variants in the setting of a sebaceous carcinoma with MSI.</p>
+<p>More recent studies focused on identifying dMMR in an unselected population of sebaceous neoplasms. Notably, very few of these studies explored MSI status in these tumors (<xref rid="cancers-17-00659-t001" ref-type="table">Table 1</xref>). Cook et al. [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>] identified that 32% of sebaceous carcinomas in their cohort had dMMR, which was lower than rates quoted in other studies exploring dMMR status in sebaceous neoplasms (49–66%) (<xref rid="cancers-17-00659-t001" ref-type="table">Table 1</xref>) [<xref rid="B36-cancers-17-00659" ref-type="bibr">36</xref>,<xref rid="B37-cancers-17-00659" ref-type="bibr">37</xref>,<xref rid="B38-cancers-17-00659" ref-type="bibr">38</xref>]. The lower rate quoted by Cook et al. may be attributed to their focus on only sebaceous carcinomas instead of sebaceous neoplasms in general, as well as the inclusion of periocular tumors, which are typically MMR-proficient.</p>
+<p>Studies have consistently shown that extraocular sebaceous neoplasias are more likely to be dMMR. Jessup et al. [<xref rid="B38-cancers-17-00659" ref-type="bibr">38</xref>] and Cook et al. [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>] performed the largest studies analyzing dMMR status and stratified groups by tumor location. Jessup et al. found that tumor location was significantly (<italic toggle="yes">p</italic> &lt; 0.0001) associated with IHC status: 95% (<italic toggle="yes">n</italic> = 59/62) of non-head and neck tumors were dMMR compared to 55% (<italic toggle="yes">n</italic> = 84/154) of head and neck tumors. However, the authors noted that the sensitivity of tumor location to determine deficiency or proficiency of MMR was low. Cook et al. similarly found that most sebaceous carcinomas with dMMR were at sites other than the head and neck (65%), although the rates were much lower compared to Jessup et al. This study also investigated extraocular sebaceous carcinomas and found that dMMR tumors were most often located on the trunk (45%; <italic toggle="yes">n</italic> = 29/64) compared with MMR-proficient tumors (6%; <italic toggle="yes">n</italic> = 6/100) [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>]. Although these studies have shown that dMMR is significantly associated with tumor location, solely relying on location to determine which tumors are potentially dMMR would miss many dMMR tumors, thus potentially decreasing their chances of identifying a germline variant in this population if one were to screen by location.</p>
+<p>These studies also examined age of onset as a criterion for MMR-IHC testing. Jessup et al. [<xref rid="B38-cancers-17-00659" ref-type="bibr">38</xref>] found a similar median age of tumor onset in individuals with dMMR status compared to those with MMR-proficient status in their sebaceous tumors, with the median ages at diagnosis being 68 and 66, respectively. Cook et al. [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>] found that the median age of tumor onset was slightly younger in individuals whose tumors were dMMR versus MMR-proficient, with the median ages at diagnosis being 67 and 78, respectively; notably, this difference was not statistically significant. This variance in median age can likely be attributed to tumor location and pathologies evaluated in each study (<xref rid="cancers-17-00659-t001" ref-type="table">Table 1</xref>) [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>,<xref rid="B38-cancers-17-00659" ref-type="bibr">38</xref>]. These studies indicate that utilizing age for tumor diagnosis, as well as tumor location, as an alternative for screening with MMR-IHC would likely miss a significant number of tumors suggestive of MTS.</p>
+<p>Sebaceous neoplasms with dMMR most often demonstrated loss of <italic toggle="yes">MSH2/MSH6</italic> on MMR-IHC across all studies (60–74%), with loss of <italic toggle="yes">MLH1/PMS2</italic> (19–23%) as the second most common finding (<xref rid="cancers-17-00659-t001" ref-type="table">Table 1</xref>). Jessup et al. [<xref rid="B38-cancers-17-00659" ref-type="bibr">38</xref>] postulated that the highest frequency of <italic toggle="yes">MSH2/MSH6</italic> deficiency may reflect the fact that <italic toggle="yes">MSH2</italic> is the most common germline mutation in MTS, although germline mutation status was not confirmed in their cohort. Cook et al. [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>] and Everett et al. [<xref rid="B37-cancers-17-00659" ref-type="bibr">37</xref>] found that, of those who underwent MMR-IHC and germline testing, most pathogenic variants were detected in <italic toggle="yes">MSH2</italic> (<xref rid="cancers-17-00659-t002" ref-type="table">Table 2</xref>). Schon et al. [<xref rid="B36-cancers-17-00659" ref-type="bibr">36</xref>] evaluated germline mutation status in their cohort; however, due to the small sample size, only two pathogenic variants were identified, making it challenging to identify significant trends (<xref rid="cancers-17-00659-t002" ref-type="table">Table 2</xref>). <italic toggle="yes">MLH1</italic> promoter methylation was not explored but would be reasonable to consider in future studies, given the known high prevalence of this finding in sporadic colorectal tumors with <italic toggle="yes">MLH1/PMS2</italic> deficiency. Germline testing was not performed for large portions of the cohorts for these studies; therefore, it is hard to conclusively state the use of MMR-IHC in deciding whether one should undergo germline testing. However, when dMMR is identified in a sebaceous neoplasm, this should prompt consideration for an associated pathogenic germline variant.</p>
+<p>Although MMR-IHC has been explored in an unselected population of individuals with sebaceous neoplasias, a few studies have investigated MSI in sebaceous tumors outside of the context of MTS. Kruse et al. [<xref rid="B39-cancers-17-00659" ref-type="bibr">39</xref>] examined 58 paraffin-embedded sebaceous gland tumors from 58 patients from Germany and Italy. Of these tumors, 25 were sebaceous gland neoplasms and 32 were sebaceous gland hyperplasias. An MSI assessment revealed that 60% (<italic toggle="yes">n</italic> = 15/25) of sebaceous gland neoplasms and 3% (<italic toggle="yes">n</italic> = 1/32) of sebaceous gland hyperplasias were MSI-H. A subsequent study showed that in a population suspicious of MTS due to having a personal history of a sebaceous neoplasm and at least one additional malignancy, or a personal history of a sebaceous neoplasm with a family history suspicious of Lynch syndrome, 65% (<italic toggle="yes">n</italic> = 24/37) of patients with MSI-H tumors were identified with a pathogenic variant consistent with a diagnosis of MTS [<xref rid="B40-cancers-17-00659" ref-type="bibr">40</xref>]. Although MSI testing is typically considered in the context of a hereditary condition, such as Lynch syndrome, other etiologies for MSI in sebaceous neoplasms are important to consider. A small study investigated MSI in apparently sporadic sebaceous carcinomas and found a higher rate of MSI in immunosuppressed renal transplant recipients (60%, <italic toggle="yes">n</italic> = 3/5) compared to immunocompetent individuals (0%, <italic toggle="yes">n</italic> = 0/3). Given the relatively small sample size, the authors were unable to establish significant conclusions but postulated that chronic exposure to immunosuppressive drugs, such as azathioprine, could induce MSI due to the preferential selection of cells with dMMR as a mechanism to avoid cytotoxicity [<xref rid="B41-cancers-17-00659" ref-type="bibr">41</xref>]. MSI is not routinely used as a stand-alone screening method for sebaceous neoplasms; however, if MSI is utilized for screening sebaceous neoplasms, it would be important to consider factors such as immunosuppression and dMMR when considering the etiology of MSI-H status.</p>
+<p>MSI testing and MMR-IHC status have been well documented to have high concordance in colorectal tumors. In the limited studies available, MSI-H and dMMR of sebaceous neoplasms appear to have high concordance as well. IHC screening in sebaceous neoplasias is primarily performed in the context of evaluating for a hereditary predisposition but may find increasing use in consideration with systemic therapy for advanced disease. The yield of MSI and IHC screening in sebaceous carcinomas for germline mutations is challenging to determine due to the relatively small number of individuals who undergo MSI and dMMR tumor screening and germline genetic testing. As a result, although it may have use for certain patients, such as those with metastatic disease, universal screening for sebaceous neoplasms via MSI and dMMR for the purposes of determining good candidates for germline testing may be difficult to justify in practice.</p>
+</sec>
+</sec>
+<sec id="sec5-cancers-17-00659">
+<title>5. Hereditary Cancer Predisposition Syndromes Associated with Sebaceous Neoplasms</title>
+<p>Although most sebaceous neoplasms are sporadic in origin, it is known that they occur at higher frequencies in individuals with certain risk factors, including genetic predisposition. MTS has long been associated with sebaceous neoplasms and tumors of the gastrointestinal and genitourinary systems and is caused by mutations in DNA MMR genes, which lead to MSI. MTS was initially described separately by Muir and Torre in 1967, who characterized the classical features of the syndrome as the presence of a cutaneous sebaceous neoplasm(s) with one or more visceral neoplasms, of which colonic neoplasias are the most common in the absence of other causative factors [<xref rid="B42-cancers-17-00659" ref-type="bibr">42</xref>,<xref rid="B43-cancers-17-00659" ref-type="bibr">43</xref>]. MTS is an uncommon variant of Lynch syndrome, having an estimated prevalence of about 1 in 500,000 versus 1 in 279 individuals, respectively [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>,<xref rid="B44-cancers-17-00659" ref-type="bibr">44</xref>]. The proportion of patients with MTS has been estimated to be between about 5% and 9% of all Lynch syndrome patients and has a male-to-female predominance with a ratio of three males for every two females diagnosed [<xref rid="B45-cancers-17-00659" ref-type="bibr">45</xref>]. Patients with this syndrome generally present between 53 and 61 years of age, with the earliest reported case at 23 years and the oldest at 89 years [<xref rid="B46-cancers-17-00659" ref-type="bibr">46</xref>]. Although Lynch syndrome is associated with five genes affecting MMR—<italic toggle="yes">MLH1</italic>, <italic toggle="yes">MSH2</italic>, <italic toggle="yes">MSH6</italic>, <italic toggle="yes">PMS2</italic>, and <italic toggle="yes">EPCAM</italic>—to this point, MTS has been primarily associated with three of these genes: <italic toggle="yes">MLH1</italic>, <italic toggle="yes">MSH2</italic>, and <italic toggle="yes">MSH6</italic>. The majority of patients with MTS are due to pathogenic variants in the <italic toggle="yes">MSH2</italic> gene (88–93%), while <italic toggle="yes">MLH1</italic> is the next most common (7–11%) [<xref rid="B40-cancers-17-00659" ref-type="bibr">40</xref>,<xref rid="B47-cancers-17-00659" ref-type="bibr">47</xref>]. Pathogenic variants in <italic toggle="yes">MSH6</italic> and <italic toggle="yes">PMS2</italic> are the least common germline causes of MTS, with primarily single-case reports of patients and their families reported in the literature [<xref rid="B36-cancers-17-00659" ref-type="bibr">36</xref>,<xref rid="B48-cancers-17-00659" ref-type="bibr">48</xref>,<xref rid="B49-cancers-17-00659" ref-type="bibr">49</xref>]. Elevated risks of sebaceous tumors and keratoacanthomas have not been reported for individuals with <italic toggle="yes">EPCAM</italic> deletions to date. At least 50% of patients diagnosed with MTS present with an internal malignant disease before skin lesions develop, of which colorectal cancer (CRC) is the most common. It is critical to identify these patients as early as possible to aid in proactive decision-making and facilitate education for their family members who may benefit from testing [<xref rid="B50-cancers-17-00659" ref-type="bibr">50</xref>].</p>
+<p>Currently, no consensus on the clinical diagnostic criteria for MTS has been published. However, personal medical history, including the presence of a cutaneous sebaceous neoplasm with one or more visceral neoplasms, in addition to other personal and familial factors, can be suggestive of MTS. As previously discussed, dMMR and MSI can be indicative of Lynch syndrome. Pathogenic variants in a Lynch syndrome-associated gene identified on somatic testing can also be suggestive of a germline mutation. In patients with dMMR colorectal tumors, there is an approximate 20–30% yield for germline testing for mutations associated with Lynch syndrome, which is consistent with the reported yield of germline testing for patients with sebaceous neoplasms with dMMR (20–50%) (<xref rid="cancers-17-00659-t002" ref-type="table">Table 2</xref>) [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>,<xref rid="B36-cancers-17-00659" ref-type="bibr">36</xref>,<xref rid="B37-cancers-17-00659" ref-type="bibr">37</xref>,<xref rid="B51-cancers-17-00659" ref-type="bibr">51</xref>,<xref rid="B52-cancers-17-00659" ref-type="bibr">52</xref>]. Given the similar yield for identifying a germline Lynch syndrome mutation in patients with dMMR in sebaceous carcinomas and CRC, it is reasonable to evaluate for germline testing in the presence of abnormal MMR-IHC testing. With regards to MSI, one study looked at 1066 patients with newly diagnosed colonic adenocarcinoma. Of these, 135 tumors (12.7%) were MSI-H, and 23 (17%) had a germline deleterious mutation [<xref rid="B32-cancers-17-00659" ref-type="bibr">32</xref>]. MSI testing of sebaceous neoplasms in specific patients may have a high germline yield. Mangold et al. demonstrated that in a selected patient population, the yield for germline testing in individuals who had MSI-H tumors was about 65% [<xref rid="B40-cancers-17-00659" ref-type="bibr">40</xref>]. Based on this result, it is important to assess individuals for signs and symptoms of MTS, for which a referral to a genetics specialist, such as a genetic counselor, may be invaluable.</p>
+<p>In addition to somatic testing that may be suggestive of a germline mutation, family history can aid in determining the level of suspicion for MTS. Although sebaceous neoplasms can occur in isolation for individuals with MTS, they are often seen in combination with other cancers, affecting both the patient and their family members. As a result, a genetics consult in which family history is assessed and evaluated is invaluable. It has been estimated that sebaceous neoplasms precede the internal neoplasms or are concurrent with them in 41% of individuals with MTS [<xref rid="B53-cancers-17-00659" ref-type="bibr">53</xref>]. Of the internal neoplasms, the risk is highest for colonic and endometrial cancers, with gastric, ovarian, pancreatic, urothelial, brain (typically glioblastoma), biliary tract, and small intestinal cancers also being associated with Lynch syndrome [<xref rid="B49-cancers-17-00659" ref-type="bibr">49</xref>]. Features that raise suspicion of a germline variant within a family include the following:<list list-type="bullet">
+<list-item>
+<p>Lynch syndrome-associated cancer diagnosed &lt;age 50;</p>
+</list-item>
+<list-item>
+<p>Synchronous or metachronous Lynch syndrome-associated cancers;</p>
+</list-item>
+<list-item>
+<p>Multiple relatives on the same side of the family with Lynch syndrome-associated cancers.</p>
+</list-item>
+</list>
+</p>
+<p>If a patient’s personal and/or family history is suspicious, identification of a germline pathogenic variant can impact the cancer treatment and the proactive management recommendations for individuals and their families. It is important to note that a family history suspicious for a hereditary cancer condition is an indication for referral to genetics services, regardless of the somatic testing results.</p>
+<sec>
+<title>Alternative Genetic Etiologies for MTS Phenotype</title>
+<p>Although MSI can be indicative of an increased risk for MTS, it is estimated that approximately 35% of tumors in patients with this syndrome do not show instability [<xref rid="B50-cancers-17-00659" ref-type="bibr">50</xref>]. In this case, the assumption is that the syndrome is not driven by errors within MMR proteins, as previously discussed, but rather an alternative mechanism. Multiple case reports have identified MTS patients with tumors that show MSS and biallelic inactivation of <italic toggle="yes">MUTYH</italic>, and their authors suggest MAP as an alternative etiology for MTS, separate from a variant of Lynch syndrome [<xref rid="B3-cancers-17-00659" ref-type="bibr">3</xref>,<xref rid="B4-cancers-17-00659" ref-type="bibr">4</xref>]. The function of <italic toggle="yes">MUTYH</italic> is in base excision repair, in which it removes adenine bases from the DNA backbone at sites where adenine is inappropriately paired. Biallelic inactivation of <italic toggle="yes">MUTYH</italic> in the germline due to an associated pathogenic variant causes MAP. MAP is a hereditary cancer predisposition syndrome associated with a significantly increased risk of colorectal polyps (typically between ten to a few hundred), with an average age of presentation of approximately 50 years old [<xref rid="B54-cancers-17-00659" ref-type="bibr">54</xref>]. Unlike Lynch syndrome, which is inherited in an autosomal dominant manner, MAP is inherited in an autosomal recessive manner and does not display the familial patterns often seen in Lynch syndrome. When compared to MTS associated with dMMR, MTS tumors that are driven by biallelic <italic toggle="yes">MUTYH</italic> inactivation are often lower in penetrance and present at older ages than their MMR counterparts [<xref rid="B55-cancers-17-00659" ref-type="bibr">55</xref>].</p>
+</sec>
+</sec>
+<sec id="sec6-cancers-17-00659">
+<title>6. Recommendations and Management for Sebaceous Neoplasms</title>
+<sec id="sec6dot1-cancers-17-00659">
+<title>6.1. Somatic Testing of Sebaceous Neoplasms and Germline Testing After Sebaceous Neoplasm Diagnosis</title>
+<p>As dMMR has been shown to be a good Lynch syndrome predictor across a broad spectrum of tumor types [<xref rid="B56-cancers-17-00659" ref-type="bibr">56</xref>], it is tempting to perform MMR-IHC on all sebaceous neoplasms to identify individuals at high risk for Lynch syndrome. However, due to a high false-positive rate of MMR-IHC (56%) in sebaceous neoplasms, this is unlikely to be effective as a single method for identifying those with Lynch syndrome. Of note, MMR-IHC may be beneficial for reasons other than identifying Lynch syndrome, including assessing for potential response to immunotherapy in advanced diseases [<xref rid="B57-cancers-17-00659" ref-type="bibr">57</xref>].</p>
+<p>The sensitivity and specificity of MMR-IHC on sebaceous neoplasms for Lynch syndrome are lower than those of CRC and endometrial cancer [<xref rid="B58-cancers-17-00659" ref-type="bibr">58</xref>], and, therefore, MMR-IHC is less likely to accurately determine if an individual is at high risk to have Lynch syndrome [<xref rid="B57-cancers-17-00659" ref-type="bibr">57</xref>]. The correlation between sebaceous neoplasms with dMMR and a germline Lynch syndrome mutation was highest when patients had either a personal history of CRC and/or a family history of two or more relatives with CRC [<xref rid="B58-cancers-17-00659" ref-type="bibr">58</xref>]. Therefore, additional Lynch syndrome features are a better predictor of Lynch syndrome diagnosis than MMR deficiency of a sebaceous neoplasm, and MMR-IHC on all sebaceous neoplasms may not be necessary.</p>
+<p>Although several tools are available to identify individuals with CRC at high risk for Lynch syndrome, only one such tool exists to address this question in individuals with sebaceous neoplasms. The Mayo Muir–Torre syndrome risk scoring system provides a score based on the age at diagnosis of a sebaceous neoplasm, the total number of sebaceous neoplasms, personal history of a Lynch syndrome-associated cancer, and family history of any Lynch syndrome-associated cancer. The creators of the scoring system found that individuals with a score of 3 or higher were more likely to have MTS, individuals with a score of 2 had an intermediate likelihood, and no individual with a score of 1 or less had MTS [<xref rid="B57-cancers-17-00659" ref-type="bibr">57</xref>].</p>
+<p>Overall, any individual with a sebaceous neoplasm should be screened for Lynch syndrome, including an assessment for additional Lynch syndrome features, such as personal and family history of Lynch syndrome-related cancers (<xref rid="cancers-17-00659-f001" ref-type="fig">Figure 1</xref>). If additional Lynch syndrome features are present that meet a score of 2 or higher on the Mayo scoring tool, referral to genetics for germline testing is indicated (<xref rid="cancers-17-00659-t0A1" ref-type="table">Table A1</xref>). Prior to germline testing, if an individual had CRC or endometrial cancer, performing MMR-IHC on these tumors may provide additional insight into the possibility of Lynch syndrome. This is because the specificity of MMR-IHC on CRC and endometrial cancer is much higher than that on sebaceous neoplasms.</p>
+<p>MMR-IHC on sebaceous neoplasms should not be used in isolation for the identification of candidates for germline testing. The Mayo scoring system indicates the importance of using the Lynch syndrome features of the personal and family history in addition to the personal history of sebaceous neoplasms to guide referrals to genetics for germline testing rather than MMR-IHC on sebaceous neoplasms. Germline genetic testing needs to include the Lynch syndrome-associated genes (<italic toggle="yes">MLH1</italic>, <italic toggle="yes">MSH2</italic>, <italic toggle="yes">MSH6</italic>, <italic toggle="yes">PMS2</italic>, <italic toggle="yes">EPCAM</italic>), as well as <italic toggle="yes">MUTYH</italic>. Germline multi-gene panels, including these genes, are currently commercially available. Identifying patients with Lynch syndrome or MAP can lead to increased cancer screening and potential chemopreventive options for the individual, as well as their relatives.</p>
+</sec>
+<sec id="sec6dot2-cancers-17-00659">
+<title>6.2. Lynch Syndrome and MAP Management</title>
+<p>Multiple resources review guidelines for the screening and treatment of the many cancers associated with Lynch syndrome. The National Comprehensive Cancer Network (NCCN) guidelines are most often referenced for cancer screening recommendations in individuals with Lynch syndrome and MAP. The latest NCCN guidelines can be accessed here [<uri ns1:href="https://www.nccn.org/guidelines/guidelines-detail?category=2&amp;id=1544">https://www.nccn.org/guidelines/guidelines-detail?category=2&amp;id=1544</uri>, accessed on 27 December 2024]. Cancer risk estimates and associated screenings vary by Lynch syndrome-associated genes and are updated regularly.</p>
+<p>High-quality colonoscopy, typically recommended to be performed every 1–2 years, is the preferred colon screening method for all individuals with Lynch syndrome and MAP. The age at which to start screening varies by the genes affected, as well as family history, but may be initiated as early as age 20. Screening for gynecologic cancers, such as ovarian and endometrial cancers, remains controversial; transvaginal ultrasound and CA-125 have been found to have poor sensitivity and specificity but can be performed for women who have not undergone prophylactic hysterectomy/salpingo-oophorectomy. In addition, regular endometrial biopsy in asymptomatic women can be considered but has not been shown to be more effective than monitoring for abnormal bleeding suggestive of endometrial cancer. Gastric and small bowel cancer screening is performed using high-quality esophagogastroduodenoscopy (EGD), usually performed every 3–5 years in adults.</p>
+<p>Limited data support pancreatic cancer screening in Lynch syndrome. Pancreatic cancer screening can be considered for individuals with at least one first- or second-degree relative with exocrine pancreatic cancer on the same side of the family as Lynch syndrome. Screening can start at age 50 or 10 years younger than the earliest exocrine pancreatic cancer diagnosis in the family, whichever comes first. The NCCN recommends pancreatic cancer screening to be performed in experienced high-volume centers, as there are uncertainties about the potential benefits of pancreatic cancer screening. Screening for other Lynch syndrome-associated cancers, such as those of the urinary tract, brain, or biliary tract, can be considered based on family history and personal risk factors as well.</p>
+<p>Colon cancer screening for MAP includes high-quality colonoscopy every 1–2 years starting at age 25–30. If the polyp burden cannot be managed endoscopically, colectomy is recommended to reduce the colon cancer risk. Baseline EGD is recommended to begin at age 30–35. Cancer screening recommendations for both MAP and Lynch syndrome are updated regularly, so involvement of a genetics professional in managing these disorders is highly recommended [<xref rid="B49-cancers-17-00659" ref-type="bibr">49</xref>].</p>
+</sec>
+</sec>
+<sec id="sec7-cancers-17-00659">
+<title>7. Treatment of Sebaceous Carcinomas</title>
+<p>According to a large survey from the National Cancer Database, over 95% (<italic toggle="yes">n</italic> = 1320/1388) of patients with sebaceous carcinomas are diagnosed with localized disease without nodal or distant metastases [<xref rid="B59-cancers-17-00659" ref-type="bibr">59</xref>]. Surgical resection, whether by wide local excision or Mohs, remains the mainstay of treatment for most sebaceous carcinomas. Sentinel lymph node biopsy may be performed but is controversial due to concerns about low yield and false-negative results in the head and neck [<xref rid="B59-cancers-17-00659" ref-type="bibr">59</xref>,<xref rid="B60-cancers-17-00659" ref-type="bibr">60</xref>]. In addition, radiation and topical therapies have been used anecdotally in those with locally advanced disease [<xref rid="B61-cancers-17-00659" ref-type="bibr">61</xref>,<xref rid="B62-cancers-17-00659" ref-type="bibr">62</xref>,<xref rid="B63-cancers-17-00659" ref-type="bibr">63</xref>,<xref rid="B64-cancers-17-00659" ref-type="bibr">64</xref>]. For patients with locally advanced or metastatic disease, systemic therapy has been used in the neoadjuvant or palliative setting. 5-Fluorouracil/cisplatin, 5-fluorouracil/carboplatin, mitomycin-C, and cetuximab in combination with radiation have been explored in this area [<xref rid="B65-cancers-17-00659" ref-type="bibr">65</xref>,<xref rid="B66-cancers-17-00659" ref-type="bibr">66</xref>,<xref rid="B67-cancers-17-00659" ref-type="bibr">67</xref>,<xref rid="B68-cancers-17-00659" ref-type="bibr">68</xref>]. However, with the advent of immunotherapy and the discovery that dMMR tumors are more responsive to immunotherapy, checkpoint inhibitors have started to be used with good results. In 2018, Domingo-Musibay et al. reported a nearly complete response to pembrolizumab for a patient with a widely metastatic sebaceous carcinoma [<xref rid="B69-cancers-17-00659" ref-type="bibr">69</xref>]. Although this tumor was MSS, it had high expression of PDL-1. Subsequent case reports have confirmed the efficacy of pembrolizumab, either alone or in combination with carboplatin, in the metastatic setting [<xref rid="B70-cancers-17-00659" ref-type="bibr">70</xref>,<xref rid="B71-cancers-17-00659" ref-type="bibr">71</xref>,<xref rid="B72-cancers-17-00659" ref-type="bibr">72</xref>]. Of interest, one of these carcinomas was responsive to immunotherapy, despite being MSS and having a PDL-1 expression of &lt;1%. Based on these results, immunotherapy for those with advanced sebaceous carcinomas may be effective for those with tumors that are MSI, have a high expression of PDL-1, or have a high mutational burden [<xref rid="B72-cancers-17-00659" ref-type="bibr">72</xref>]. These tests are recommended for all patients with metastatic disease. In addition, neoadjuvant use of immunotherapy is now being explored in order to prevent exenteration and allow for less extensive surgery for those with locally advanced disease [<xref rid="B73-cancers-17-00659" ref-type="bibr">73</xref>].</p>
+</sec>
+<sec sec-type="conclusions" id="sec8-cancers-17-00659">
+<title>8. Conclusions/Future Directions</title>
+<p>Current knowledge regarding somatic and germline changes in sebaceous neoplasms has provided valuable information regarding the etiology of many of these tumors. In turn, these insights are starting to guide decisions regarding systemic therapy in patients with advanced disease, as well as aiding in the identification of patients and families at risk of internal malignancies associated with hereditary cancer conditions, such as Lynch syndrome. However, the use of somatic testing, such as MMR-IHC or MSI, as sole assessments for hereditary risk is suboptimal, and reviews of the personal and family histories of cancer and colon polyps are critical for all patients with sebaceous neoplasms. In addition, questions remain about the interactions between somatic profiles, such as those associated with UV radiation and immunosuppression, and germline mutations in this setting. As these pathways become better understood, they have the potential to provide further guidance for the treatment and management of individuals with Lynch syndrome and MUYTH-associated polyposis, as well as those with sporadic sebaceous neoplasms.</p>
+</sec>
+</body>
+<back>
+<ack>
+<title>Acknowledgments</title>
+<p>The authors would like to thank Jeanette Duffels, from the City of Hope Library for her work on the literature search strategy for this review.</p>
+</ack>
+<fn-group>
+<fn>
+<p>
+<bold>Disclaimer/Publisher’s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+</fn>
+</fn-group>
+<notes>
+<title>Author Contributions</title>
+<p>Conceptualization, J.M.J.; investigation, C.F. and A.M.; visualization, C.F. and A.M.; writing—original draft preparation, C.F., A.M., S.D., and J.M.J.; writing—review and editing, J.M.J. and S.D.; supervision, J.M.J. All authors have read and agreed to the published version of the manuscript.</p>
+</notes>
+<notes>
+<title>Institutional Review Board Statement</title>
+<p>Not applicable.</p>
+</notes>
+<notes>
+<title>Informed Consent Statement</title>
+<p>Not applicable.</p>
+</notes>
+<notes notes-type="data-availability">
+<title>Data Availability Statement</title>
+<p>No new data were created or analyzed in this study. Data sharing is not applicable to this article.</p>
+</notes>
+<notes notes-type="COI-statement">
+<title>Conflicts of Interest</title>
+<p>J.J. has previously received funding for clinical trials from Merck and Bristol Myers-Squibb. The funders had no role in the design of the study, in the collection, analysis, or interpretation of data, in the writing of the manuscript, or in the decision to publish the results. All other authors declare no conflicts of interest.</p>
+</notes>
+<glossary>
+<title>Abbreviations</title>
+<p>The following abbreviations are used in this manuscript:
+<array orientation="portrait">
+<tbody>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">CRC</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Colorectal Cancer</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">EGD</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Esophagogastroduodenoscopy</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">HPV</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Human Papillomavirus</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">IHC</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Immunohistochemistry</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">MAP</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">MUTYH-Associated Polyposis</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">MMR</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Mismatch Repair</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">MSI</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Microsatellite Instability</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">MSI-H</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Microsatellite Instability High</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">MSI-L</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Microsatellite Instability Low</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">MSS</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Microsatellite Stable</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">MTS</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Muir–Torre Syndrome</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">NCCN</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">National Comprehensive Cancer Network</td>
+</tr>
+<tr>
+<td align="left" valign="middle" rowspan="1" colspan="1">UV</td>
+<td align="left" valign="middle" rowspan="1" colspan="1">Ultraviolet</td>
+</tr>
+</tbody>
+</array>
+</p>
+</glossary>
+<app-group>
+<app id="app1-cancers-17-00659">
+<title>Appendix A</title>
+<table-wrap position="anchor" id="cancers-17-00659-t0A1" orientation="portrait">
+<object-id pub-id-type="pii">cancers-17-00659-t0A1_Table A1</object-id>
+<label>Table A1</label>
+<caption>
+<p>Genetic Testing Guidelines for Sebaceous Carcinoma.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">NCCN Lynch Syndrome (2024) [<xref rid="B49-cancers-17-00659" ref-type="bibr">49</xref>]</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Mayo MTS Risk Scoring System (2014) [<xref rid="B57-cancers-17-00659" ref-type="bibr">57</xref>]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">
+<bold>Personal History</bold>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">- Known LS PV in the family <break />- Personal history of an LS-related cancer <sup>a</sup> and any of the following: <break />
+<list list-type="bullet">
+<list-item>
+<p>Diagnosed &lt;50</p>
+</list-item>
+<list-item>
+<p>A synchronous or metachronous LS-related cancer <sup>a</sup> regardless of age</p>
+</list-item>
+<list-item>
+<p>1 First-degree or second-degree relative with an LS-related cancer <sup>a</sup> diagnosed &lt;50</p>
+</list-item>
+<list-item>
+<p>≥2 First-degree or second-degree relatives with an LS-related cancer <sup>a</sup> regardless of age</p>
+</list-item>
+</list>
+</td>
+<td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">- Two or more sebaceous neoplasms <break /> OR <break />- At least two of the following: <break />
+<list list-type="bullet">
+<list-item>
+<p>Sebaceous neoplasm younger than 60</p>
+</list-item>
+<list-item>
+<p>Personal history of an additional LS-related cancer <sup>b</sup>
+</p>
+</list-item>
+<list-item>
+<p>Family history * of any LS-related cancer <sup>b</sup>
+</p>
+</list-item>
+</list>* Does not specify degree of relations <break />Score of 2 or more, 100% sensitivity, and 81% specificity for predicting a germline mutation in an LS MMR gene </td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Family History (Unaffected Proband) </td>
+</tr>
+<tr>
+<td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet">
+<list-item>
+<p>≥1 First-degree relative with a CRC or EC diagnosed &lt;50</p>
+</list-item>
+<list-item>
+<p>≥1 First-degree relative with a CRC or EC and a synchronous or metachronous LS-related cancer <sup>a</sup> regardless of age</p>
+</list-item>
+<list-item>
+<p>≥2 First-degree or second-degree relatives with LS-related cancers <sup>a</sup> including ≥1 diagnosed &lt;50</p>
+</list-item>
+<list-item>
+<p>≥3 First-degree or second-degree relatives with LS-related cancers <sup>a</sup> regardless of age</p>
+</list-item>
+</list>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Must be affected to meet criteria for testing. </td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn>
+<p>LS = Lynch syndrome. <sup>a</sup>. Colorectal, endometrial, gastric, ovarian, pancreatic, urothelial, brain (usually glioblastoma), biliary tract, small intestine, sebaceous adenomas, sebaceous carcinomas, and keratoacanthomas. <sup>b.</sup> Colorectal, endometrial, ovarian, small bowel, urinary tract, and biliary tract cancers.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</app>
+</app-group>
+<ref-list>
+<title>References</title>
+<ref id="B1-cancers-17-00659">
+<label>1.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ferreira</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Wiedemeyer</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Demetter</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Adams</surname>
+<given-names>D.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Arends</surname>
+<given-names>M.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Brenn</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<article-title>Update on the pathology, genetics and somatic landscape of sebaceous tumours</article-title>
+<source>Histopathology</source>
+<year>2020</year>
+<volume>76</volume>
+<fpage>640</fpage>
+<lpage>649</lpage>
+<pub-id pub-id-type="doi">10.1111/his.14044</pub-id>
+<pub-id pub-id-type="pmid">31821583</pub-id>
+</element-citation>
+</ref>
+<ref id="B2-cancers-17-00659">
+<label>2.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Cook</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Pethick</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Kibbi</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Hollestein</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Lavelle</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>de Vere Hunt</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Turnbull</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Rous</surname>
+<given-names>B.</given-names>
+</name>
+<name name-style="western">
+<surname>Husain</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Burn</surname>
+<given-names>J.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Sebaceous carcinoma epidemiology, associated malignancies and Lynch/Muir-Torre syndrome screening in England from 2008 to 2018</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2023</year>
+<volume>89</volume>
+<fpage>1129</fpage>
+<lpage>1135</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2023.03.046</pub-id>
+<pub-id pub-id-type="pmid">37031776</pub-id>
+</element-citation>
+</ref>
+<ref id="B3-cancers-17-00659">
+<label>3.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Guarrera</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Prezzano</surname>
+<given-names>J.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Mannava</surname>
+<given-names>K.A.</given-names>
+</name>
+</person-group>
+<article-title>Sebaceomas in a Muir-Torre-like Phenotype in a Patient with MUTYH-Associated Polyposis</article-title>
+<source>Dermatopathology</source>
+<year>2024</year>
+<volume>11</volume>
+<fpage>124</fpage>
+<lpage>128</lpage>
+<pub-id pub-id-type="doi">10.3390/dermatopathology11010011</pub-id>
+<pub-id pub-id-type="pmid">38534264</pub-id>
+<pub-id pub-id-type="pmcid">PMC10968805</pub-id>
+</element-citation>
+</ref>
+<ref id="B4-cancers-17-00659">
+<label>4.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kacerovska</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Drlik</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Slezakova</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Michal</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Stehlik</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Sedivcova</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Hadravsky</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Kazakov</surname>
+<given-names>D.V.</given-names>
+</name>
+</person-group>
+<article-title>Cutaneous Sebaceous Lesions in a Patient with MUTYH-Associated Polyposis Mimicking Muir-Torre Syndrome</article-title>
+<source>Am. J. Dermatopathol.</source>
+<year>2016</year>
+<volume>38</volume>
+<fpage>915</fpage>
+<lpage>923</lpage>
+<pub-id pub-id-type="doi">10.1097/DAD.0000000000000649</pub-id>
+<pub-id pub-id-type="pmid">27870730</pub-id>
+</element-citation>
+</ref>
+<ref id="B5-cancers-17-00659">
+<label>5.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hussein</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Perrett</surname>
+<given-names>C.M.</given-names>
+</name>
+</person-group>
+<article-title>Treatment of sebaceous gland hyperplasia: A review of the literature</article-title>
+<source>J. Dermatol. Treat.</source>
+<year>2021</year>
+<volume>32</volume>
+<fpage>866</fpage>
+<lpage>877</lpage>
+<pub-id pub-id-type="doi">10.1080/09546634.2020.1720582</pub-id>
+<pub-id pub-id-type="pmid">32011918</pub-id>
+</element-citation>
+</ref>
+<ref id="B6-cancers-17-00659">
+<label>6.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bourlond</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Velter</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Cribier</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<article-title>Clinicopathological study of 47 cases of sebaceoma</article-title>
+<source>Ann. Dermatol. Venereol.</source>
+<year>2016</year>
+<volume>143</volume>
+<fpage>814</fpage>
+<lpage>824</lpage>
+<pub-id pub-id-type="doi">10.1016/j.annder.2016.06.013</pub-id>
+<pub-id pub-id-type="pmid">27836252</pub-id>
+</element-citation>
+</ref>
+<ref id="B7-cancers-17-00659">
+<label>7.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Tripathi</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>Z.</given-names>
+</name>
+<name name-style="western">
+<surname>Li</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Bordeaux</surname>
+<given-names>J.S.</given-names>
+</name>
+</person-group>
+<article-title>Incidence and survival of sebaceous carcinoma in the United States</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2016</year>
+<volume>75</volume>
+<fpage>1210</fpage>
+<lpage>1215</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2016.07.046</pub-id>
+<pub-id pub-id-type="pmid">27720512</pub-id>
+</element-citation>
+</ref>
+<ref id="B8-cancers-17-00659">
+<label>8.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dasgupta</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Wilson</surname>
+<given-names>L.D.</given-names>
+</name>
+<name name-style="western">
+<surname>Yu</surname>
+<given-names>J.B.</given-names>
+</name>
+</person-group>
+<article-title>A retrospective review of 1349 cases of sebaceous carcinoma</article-title>
+<source>Cancer</source>
+<year>2009</year>
+<volume>115</volume>
+<fpage>158</fpage>
+<lpage>165</lpage>
+<pub-id pub-id-type="doi">10.1002/cncr.23952</pub-id>
+<pub-id pub-id-type="pmid">18988294</pub-id>
+</element-citation>
+</ref>
+<ref id="B9-cancers-17-00659">
+<label>9.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Shields</surname>
+<given-names>J.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Demirci</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Marr</surname>
+<given-names>B.P.</given-names>
+</name>
+<name name-style="western">
+<surname>Eagle</surname>
+<given-names>R.C.</given-names>
+<suffix>Jr.</suffix>
+</name>
+<name name-style="western">
+<surname>Shields</surname>
+<given-names>C.L.</given-names>
+</name>
+</person-group>
+<article-title>Sebaceous carcinoma of the ocular region: A review</article-title>
+<source>Surv. Ophthalmol.</source>
+<year>2005</year>
+<volume>50</volume>
+<fpage>103</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="doi">10.1016/j.survophthal.2004.12.008</pub-id>
+<pub-id pub-id-type="pmid">15749305</pub-id>
+</element-citation>
+</ref>
+<ref id="B10-cancers-17-00659">
+<label>10.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Haber</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Battistella</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Pages</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Bagot</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Lebbe</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Basset-Seguin</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<article-title>Sebaceous Carcinomas of the Skin: 24 Cases and a Literature Review</article-title>
+<source>Acta Derm. Venereol.</source>
+<year>2017</year>
+<volume>97</volume>
+<fpage>959</fpage>
+<lpage>961</lpage>
+<pub-id pub-id-type="doi">10.2340/00015555-2685</pub-id>
+<pub-id pub-id-type="pmid">28448096</pub-id>
+</element-citation>
+</ref>
+<ref id="B11-cancers-17-00659">
+<label>11.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pandey</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Singh</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Singh</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Pandey</surname>
+<given-names>H.</given-names>
+</name>
+</person-group>
+<article-title>Primary sebaceous gland carcinoma of the bulbar conjunctiva without involvement of eyelid: A clinical dilemma</article-title>
+<source>Oman J. Ophthalmol.</source>
+<year>2011</year>
+<volume>4</volume>
+<fpage>97</fpage>
+<lpage>99</lpage>
+<pub-id pub-id-type="pmid">21897630</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/0974-620X.83665</pub-id>
+<pub-id pub-id-type="pmcid">PMC3160081</pub-id>
+</element-citation>
+</ref>
+<ref id="B12-cancers-17-00659">
+<label>12.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>S.B.</given-names>
+</name>
+<name name-style="western">
+<surname>Saw</surname>
+<given-names>S.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Au Eong</surname>
+<given-names>K.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Chan</surname>
+<given-names>T.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>H.P.</given-names>
+</name>
+</person-group>
+<article-title>Incidence of eyelid cancers in Singapore from 1968 to 1995</article-title>
+<source>Br. J. Ophthalmol.</source>
+<year>1999</year>
+<volume>83</volume>
+<fpage>595</fpage>
+<lpage>597</lpage>
+<pub-id pub-id-type="doi">10.1136/bjo.83.5.595</pub-id>
+<pub-id pub-id-type="pmid">10216061</pub-id>
+<pub-id pub-id-type="pmcid">PMC1723038</pub-id>
+</element-citation>
+</ref>
+<ref id="B13-cancers-17-00659">
+<label>13.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Knackstedt</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Samie</surname>
+<given-names>F.H.</given-names>
+</name>
+</person-group>
+<article-title>Sebaceous Carcinoma: A Review of the Scientific Literature</article-title>
+<source>Curr. Treat. Options Oncol.</source>
+<year>2017</year>
+<volume>18</volume>
+<fpage>47</fpage>
+<pub-id pub-id-type="doi">10.1007/s11864-017-0490-0</pub-id>
+<pub-id pub-id-type="pmid">28681210</pub-id>
+</element-citation>
+</ref>
+<ref id="B14-cancers-17-00659">
+<label>14.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dowell-Esquivel</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>DiCaprio</surname>
+<given-names>R.C.</given-names>
+<suffix>3rd</suffix>
+</name>
+<name name-style="western">
+<surname>Nouri</surname>
+<given-names>K.</given-names>
+</name>
+</person-group>
+<article-title>Sebaceous carcinoma: An updated review of pathogenesis, diagnosis, and treatment options</article-title>
+<source>Arch. Dermatol. Res.</source>
+<year>2023</year>
+<volume>316</volume>
+<fpage>55</fpage>
+<pub-id pub-id-type="doi">10.1007/s00403-023-02747-7</pub-id>
+<pub-id pub-id-type="pmid">38112896</pub-id>
+</element-citation>
+</ref>
+<ref id="B15-cancers-17-00659">
+<label>15.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Papadimitriou</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Vakirlis</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Sotiriou</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Bakirtzi</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Lallas</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Ioannides</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<article-title>Sebaceous Neoplasms</article-title>
+<source>Diagnostics</source>
+<year>2023</year>
+<volume>13</volume>
+<elocation-id>1676</elocation-id>
+<pub-id pub-id-type="doi">10.3390/diagnostics13101676</pub-id>
+<pub-id pub-id-type="pmid">37238164</pub-id>
+<pub-id pub-id-type="pmcid">PMC10217338</pub-id>
+</element-citation>
+</ref>
+<ref id="B16-cancers-17-00659">
+<label>16.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Panjwani</surname>
+<given-names>P.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Tirumalae</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Crasta</surname>
+<given-names>J.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Manjunath</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Rout</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<article-title>Extraocular sebaceous carcinoma: A series of three cases with varied presentation</article-title>
+<source>Dermatol. Pract. Concept.</source>
+<year>2012</year>
+<volume>2</volume>
+<fpage>39</fpage>
+<lpage>44</lpage>
+<pub-id pub-id-type="doi">10.5826/dpc.0201a07</pub-id>
+<pub-id pub-id-type="pmid">24765549</pub-id>
+<pub-id pub-id-type="pmcid">PMC3997245</pub-id>
+</element-citation>
+</ref>
+<ref id="B17-cancers-17-00659">
+<label>17.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Takeuchi</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Ishida</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Yasuda</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Ueda</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Hirose</surname>
+<given-names>Y.</given-names>
+</name>
+</person-group>
+<article-title>Ocular and extraocular sebaceous carcinomas: A retrospective study with emphasis on the presence of in situ lesion and discussion and review of the histogenesis of extraocular sebaceous carcinoma</article-title>
+<source>Oncol. Lett.</source>
+<year>2023</year>
+<volume>26</volume>
+<fpage>337</fpage>
+<pub-id pub-id-type="doi">10.3892/ol.2023.13923</pub-id>
+<pub-id pub-id-type="pmid">37427342</pub-id>
+<pub-id pub-id-type="pmcid">PMC10326651</pub-id>
+</element-citation>
+</ref>
+<ref id="B18-cancers-17-00659">
+<label>18.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Schwartz</surname>
+<given-names>R.A.</given-names>
+</name>
+</person-group>
+<article-title>Keratoacanthoma</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>1994</year>
+<volume>30</volume>
+<fpage>1</fpage>
+<lpage>19</lpage>
+<comment>quiz 20-2</comment>
+<pub-id pub-id-type="doi">10.1016/S0190-9622(94)70001-X</pub-id>
+<pub-id pub-id-type="pmid">8277007</pub-id>
+</element-citation>
+</ref>
+<ref id="B19-cancers-17-00659">
+<label>19.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Tetzlaff</surname>
+<given-names>M.T.</given-names>
+</name>
+<name name-style="western">
+<surname>Singh</surname>
+<given-names>R.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Seviour</surname>
+<given-names>E.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Curry</surname>
+<given-names>J.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Hudgens</surname>
+<given-names>C.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Bell</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Wimmer</surname>
+<given-names>D.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Ning</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Czerniak</surname>
+<given-names>B.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Zhang</surname>
+<given-names>L.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Next-generation sequencing identifies high frequency of mutations in potentially clinically actionable genes in sebaceous carcinoma</article-title>
+<source>J. Pathol.</source>
+<year>2016</year>
+<volume>240</volume>
+<fpage>84</fpage>
+<lpage>95</lpage>
+<pub-id pub-id-type="doi">10.1002/path.4759</pub-id>
+<pub-id pub-id-type="pmid">27287813</pub-id>
+</element-citation>
+</ref>
+<ref id="B20-cancers-17-00659">
+<label>20.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Na</surname>
+<given-names>H.Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Park</surname>
+<given-names>J.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Shin</surname>
+<given-names>S.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Chae</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Choung</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Kim</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Chung</surname>
+<given-names>J.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Kim</surname>
+<given-names>J.E.</given-names>
+</name>
+</person-group>
+<article-title>Targeted Sequencing Revealed Distinct Mutational Profiles of Ocular and Extraocular Sebaceous Carcinomas</article-title>
+<source>Cancers</source>
+<year>2021</year>
+<volume>13</volume>
+<elocation-id>4810</elocation-id>
+<pub-id pub-id-type="doi">10.3390/cancers13194810</pub-id>
+<pub-id pub-id-type="pmid">34638295</pub-id>
+<pub-id pub-id-type="pmcid">PMC8508046</pub-id>
+</element-citation>
+</ref>
+<ref id="B21-cancers-17-00659">
+<label>21.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sargen</surname>
+<given-names>M.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Starrett</surname>
+<given-names>G.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Engels</surname>
+<given-names>E.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Cahoon</surname>
+<given-names>E.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Tucker</surname>
+<given-names>M.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Goldstein</surname>
+<given-names>A.M.</given-names>
+</name>
+</person-group>
+<article-title>Sebaceous Carcinoma Epidemiology and Genetics: Emerging Concepts and Clinical Implications for Screening, Prevention, and Treatment</article-title>
+<source>Clin. Cancer Res.</source>
+<year>2021</year>
+<volume>27</volume>
+<fpage>389</fpage>
+<lpage>393</lpage>
+<pub-id pub-id-type="doi">10.1158/1078-0432.CCR-20-2473</pub-id>
+<pub-id pub-id-type="pmid">32907843</pub-id>
+<pub-id pub-id-type="pmcid">PMC7854832</pub-id>
+</element-citation>
+</ref>
+<ref id="B22-cancers-17-00659">
+<label>22.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>North</surname>
+<given-names>J.P.</given-names>
+</name>
+</person-group>
+<article-title>Molecular Genetics of Sebaceous Neoplasia</article-title>
+<source>Surg. Pathol. Clin.</source>
+<year>2021</year>
+<volume>14</volume>
+<fpage>273</fpage>
+<lpage>284</lpage>
+<pub-id pub-id-type="doi">10.1016/j.path.2021.03.005</pub-id>
+<pub-id pub-id-type="pmid">34023105</pub-id>
+</element-citation>
+</ref>
+<ref id="B23-cancers-17-00659">
+<label>23.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lanoy</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Dores</surname>
+<given-names>G.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Madeleine</surname>
+<given-names>M.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Toro</surname>
+<given-names>J.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Fraumeni</surname>
+<given-names>J.F.</given-names>
+<suffix>Jr.</suffix>
+</name>
+<name name-style="western">
+<surname>Engels</surname>
+<given-names>E.A.</given-names>
+</name>
+</person-group>
+<article-title>Epidemiology of nonkeratinocytic skin cancers among persons with AIDS in the United States</article-title>
+<source>AIDS</source>
+<year>2009</year>
+<volume>23</volume>
+<fpage>385</fpage>
+<lpage>393</lpage>
+<pub-id pub-id-type="doi">10.1097/QAD.0b013e3283213046</pub-id>
+<pub-id pub-id-type="pmid">19114864</pub-id>
+<pub-id pub-id-type="pmcid">PMC2728602</pub-id>
+</element-citation>
+</ref>
+<ref id="B24-cancers-17-00659">
+<label>24.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>D’Arcy</surname>
+<given-names>M.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Castenson</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Lynch</surname>
+<given-names>C.F.</given-names>
+</name>
+<name name-style="western">
+<surname>Kahn</surname>
+<given-names>A.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Morton</surname>
+<given-names>L.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Shiels</surname>
+<given-names>M.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Pfeiffer</surname>
+<given-names>R.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Engels</surname>
+<given-names>E.A.</given-names>
+</name>
+</person-group>
+<article-title>Risk of Rare Cancers Among Solid Organ Transplant Recipients</article-title>
+<source>J. Natl. Cancer Inst.</source>
+<year>2021</year>
+<volume>113</volume>
+<fpage>199</fpage>
+<lpage>207</lpage>
+<pub-id pub-id-type="doi">10.1093/jnci/djaa078</pub-id>
+<pub-id pub-id-type="pmid">32462187</pub-id>
+<pub-id pub-id-type="pmcid">PMC7850530</pub-id>
+</element-citation>
+</ref>
+<ref id="B25-cancers-17-00659">
+<label>25.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sargen</surname>
+<given-names>M.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Cahoon</surname>
+<given-names>E.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Lynch</surname>
+<given-names>C.F.</given-names>
+</name>
+<name name-style="western">
+<surname>Tucker</surname>
+<given-names>M.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Goldstein</surname>
+<given-names>A.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Engels</surname>
+<given-names>E.A.</given-names>
+</name>
+</person-group>
+<article-title>Sebaceous Carcinoma Incidence and Survival Among Solid Organ Transplant Recipients in the United States, 1987–2017</article-title>
+<source>JAMA Dermatol.</source>
+<year>2020</year>
+<volume>156</volume>
+<fpage>1307</fpage>
+<lpage>1314</lpage>
+<pub-id pub-id-type="doi">10.1001/jamadermatol.2020.3111</pub-id>
+<pub-id pub-id-type="pmid">33146669</pub-id>
+<pub-id pub-id-type="pmcid">PMC7643042</pub-id>
+</element-citation>
+</ref>
+<ref id="B26-cancers-17-00659">
+<label>26.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Tetzlaff</surname>
+<given-names>M.T.</given-names>
+</name>
+<name name-style="western">
+<surname>Curry</surname>
+<given-names>J.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Ning</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Sagiv</surname>
+<given-names>O.</given-names>
+</name>
+<name name-style="western">
+<surname>Kandl</surname>
+<given-names>T.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Peng</surname>
+<given-names>B.</given-names>
+</name>
+<name name-style="western">
+<surname>Bell</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Routbort</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Hudgens</surname>
+<given-names>C.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Ivan</surname>
+<given-names>D.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Distinct Biological Types of Ocular Adnexal Sebaceous Carcinoma: HPV-Driven and Virus-Negative Tumors Arise through Nonoverlapping Molecular-Genetic Alterations</article-title>
+<source>Clin. Cancer Res.</source>
+<year>2019</year>
+<volume>25</volume>
+<fpage>1280</fpage>
+<lpage>1290</lpage>
+<pub-id pub-id-type="doi">10.1158/1078-0432.CCR-18-1688</pub-id>
+<pub-id pub-id-type="pmid">30420449</pub-id>
+</element-citation>
+</ref>
+<ref id="B27-cancers-17-00659">
+<label>27.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Orta</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Klimstra</surname>
+<given-names>D.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Qin</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Mecca</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Tang</surname>
+<given-names>L.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Busam</surname>
+<given-names>K.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Shia</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<article-title>Towards identification of hereditary DNA mismatch repair deficiency: Sebaceous neoplasm warrants routine immunohistochemical screening regardless of patient’s age or other clinical characteristics</article-title>
+<source>Am. J. Surg. Pathol.</source>
+<year>2009</year>
+<volume>33</volume>
+<fpage>934</fpage>
+<lpage>944</lpage>
+<pub-id pub-id-type="doi">10.1097/PAS.0b013e318199edca</pub-id>
+<pub-id pub-id-type="pmid">19342947</pub-id>
+</element-citation>
+</ref>
+<ref id="B28-cancers-17-00659">
+<label>28.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Berg</surname>
+<given-names>K.D.</given-names>
+</name>
+<name name-style="western">
+<surname>Glaser</surname>
+<given-names>C.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Thompson</surname>
+<given-names>R.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Hamilton</surname>
+<given-names>S.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Griffin</surname>
+<given-names>C.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Eshleman</surname>
+<given-names>J.R.</given-names>
+</name>
+</person-group>
+<article-title>Detection of microsatellite instability by fluorescence multiplex polymerase chain reaction</article-title>
+<source>J. Mol. Diagn.</source>
+<year>2000</year>
+<volume>2</volume>
+<fpage>20</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/S1525-1578(10)60611-3</pub-id>
+<pub-id pub-id-type="pmid">11272898</pub-id>
+<pub-id pub-id-type="pmcid">PMC1906892</pub-id>
+</element-citation>
+</ref>
+<ref id="B29-cancers-17-00659">
+<label>29.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Vilar</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Gruber</surname>
+<given-names>S.B.</given-names>
+</name>
+</person-group>
+<article-title>Microsatellite instability in colorectal cancer—The stable evidence</article-title>
+<source>Nat. Rev. Clin. Oncol.</source>
+<year>2010</year>
+<volume>7</volume>
+<fpage>153</fpage>
+<lpage>162</lpage>
+<pub-id pub-id-type="doi">10.1038/nrclinonc.2009.237</pub-id>
+<pub-id pub-id-type="pmid">20142816</pub-id>
+<pub-id pub-id-type="pmcid">PMC3427139</pub-id>
+</element-citation>
+</ref>
+<ref id="B30-cancers-17-00659">
+<label>30.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hampel</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Pearlman</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Beightol</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Zhao</surname>
+<given-names>W.</given-names>
+</name>
+<name name-style="western">
+<surname>Jones</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Frankel</surname>
+<given-names>W.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Goodfellow</surname>
+<given-names>P.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Yilmaz</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Miller</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Bacher</surname>
+<given-names>J.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Assessment of Tumor Sequencing as a Replacement for Lynch Syndrome Screening and Current Molecular Tests for Patients with Colorectal Cancer</article-title>
+<source>JAMA Oncol.</source>
+<year>2018</year>
+<volume>4</volume>
+<fpage>806</fpage>
+<lpage>813</lpage>
+<pub-id pub-id-type="doi">10.1001/jamaoncol.2018.0104</pub-id>
+<pub-id pub-id-type="pmid">29596542</pub-id>
+<pub-id pub-id-type="pmcid">PMC5885168</pub-id>
+</element-citation>
+</ref>
+<ref id="B31-cancers-17-00659">
+<label>31.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hampel</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Frankel</surname>
+<given-names>W.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Martin</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Arnold</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Khanduja</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Kuebler</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Clendenning</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Sotamaa</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Prior</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Westman</surname>
+<given-names>J.A.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Feasibility of screening for Lynch syndrome among patients with colorectal cancer</article-title>
+<source>J. Clin. Oncol.</source>
+<year>2008</year>
+<volume>26</volume>
+<fpage>5783</fpage>
+<lpage>5788</lpage>
+<pub-id pub-id-type="doi">10.1200/JCO.2008.17.5950</pub-id>
+<pub-id pub-id-type="pmid">18809606</pub-id>
+<pub-id pub-id-type="pmcid">PMC2645108</pub-id>
+</element-citation>
+</ref>
+<ref id="B32-cancers-17-00659">
+<label>32.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hampel</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Frankel</surname>
+<given-names>W.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Martin</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Arnold</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Khanduja</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Kuebler</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Nakagawa</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Sotamaa</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Prior</surname>
+<given-names>T.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Westman</surname>
+<given-names>J.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Screening for the Lynch syndrome (hereditary nonpolyposis colorectal cancer)</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2005</year>
+<volume>352</volume>
+<fpage>1851</fpage>
+<lpage>1860</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMoa043146</pub-id>
+<pub-id pub-id-type="pmid">15872200</pub-id>
+</element-citation>
+</ref>
+<ref id="B33-cancers-17-00659">
+<label>33.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kibbi</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Worley</surname>
+<given-names>B.</given-names>
+</name>
+<name name-style="western">
+<surname>Owen</surname>
+<given-names>J.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Kelm</surname>
+<given-names>R.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Bichakjian</surname>
+<given-names>C.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Chandra</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Demirci</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Kim</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Nehal</surname>
+<given-names>K.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Thomas</surname>
+<given-names>J.R.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Sebaceous carcinoma: Controversies and their evidence for clinical practice</article-title>
+<source>Arch. Dermatol. Res.</source>
+<year>2020</year>
+<volume>312</volume>
+<fpage>25</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1007/s00403-019-01971-4</pub-id>
+<pub-id pub-id-type="pmid">31471636</pub-id>
+</element-citation>
+</ref>
+<ref id="B34-cancers-17-00659">
+<label>34.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Machin</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Catasus</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Pons</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Munoz</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Conde-Zurita</surname>
+<given-names>J.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Balmana</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Barnadas</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Marti</surname>
+<given-names>R.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Prat</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Matias-Guiu</surname>
+<given-names>X.</given-names>
+</name>
+</person-group>
+<article-title>Microsatellite instability and immunostaining for MSH-2 and MLH-1 in cutaneous and internal tumors from patients with the Muir-Torre syndrome</article-title>
+<source>J. Cutan. Pathol.</source>
+<year>2002</year>
+<volume>29</volume>
+<fpage>415</fpage>
+<lpage>420</lpage>
+<pub-id pub-id-type="doi">10.1034/j.1600-0560.2002.290705.x</pub-id>
+<pub-id pub-id-type="pmid">12139636</pub-id>
+</element-citation>
+</ref>
+<ref id="B35-cancers-17-00659">
+<label>35.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Entius</surname>
+<given-names>M.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Keller</surname>
+<given-names>J.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Drillenburg</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Kuypers</surname>
+<given-names>K.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Giardiello</surname>
+<given-names>F.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Offerhaus</surname>
+<given-names>G.J.</given-names>
+</name>
+</person-group>
+<article-title>Microsatellite instability and expression of hMLH-1 and hMSH-2 in sebaceous gland carcinomas as markers for Muir-Torre syndrome</article-title>
+<source>Clin. Cancer Res.</source>
+<year>2000</year>
+<volume>6</volume>
+<fpage>1784</fpage>
+<lpage>1789</lpage>
+<pub-id pub-id-type="pmid">10815898</pub-id>
+</element-citation>
+</ref>
+<ref id="B36-cancers-17-00659">
+<label>36.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Schon</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Rytina</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Drummond</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Simmonds</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Abbs</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Sandford</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Tischkowitz</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<article-title>Evaluation of universal immunohistochemical screening of sebaceous neoplasms in a service setting</article-title>
+<source>Clin. Exp. Dermatol.</source>
+<year>2018</year>
+<volume>43</volume>
+<fpage>410</fpage>
+<lpage>415</lpage>
+<pub-id pub-id-type="doi">10.1111/ced.13359</pub-id>
+<pub-id pub-id-type="pmid">29333623</pub-id>
+</element-citation>
+</ref>
+<ref id="B37-cancers-17-00659">
+<label>37.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Everett</surname>
+<given-names>J.N.</given-names>
+</name>
+<name name-style="western">
+<surname>Raymond</surname>
+<given-names>V.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Dandapani</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Marvin</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Kohlmann</surname>
+<given-names>W.</given-names>
+</name>
+<name name-style="western">
+<surname>Chittenden</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Koeppe</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Gustafson</surname>
+<given-names>S.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Else</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Fullen</surname>
+<given-names>D.R.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Screening for germline mismatch repair mutations following diagnosis of sebaceous neoplasm</article-title>
+<source>JAMA Dermatol.</source>
+<year>2014</year>
+<volume>150</volume>
+<fpage>1315</fpage>
+<lpage>1321</lpage>
+<pub-id pub-id-type="doi">10.1001/jamadermatol.2014.1217</pub-id>
+<pub-id pub-id-type="pmid">25006859</pub-id>
+<pub-id pub-id-type="pmcid">PMC4977578</pub-id>
+</element-citation>
+</ref>
+<ref id="B38-cancers-17-00659">
+<label>38.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jessup</surname>
+<given-names>C.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Redston</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Tilton</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Reimann</surname>
+<given-names>J.D.</given-names>
+</name>
+</person-group>
+<article-title>Importance of universal mismatch repair protein immunohistochemistry in patients with sebaceous neoplasia as an initial screening tool for Muir-Torre syndrome</article-title>
+<source>Hum. Pathol.</source>
+<year>2016</year>
+<volume>49</volume>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1016/j.humpath.2015.10.005</pub-id>
+<pub-id pub-id-type="pmid">26826402</pub-id>
+</element-citation>
+</ref>
+<ref id="B39-cancers-17-00659">
+<label>39.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kruse</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Rutten</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Schweiger</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Jakob</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Mathiak</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Propping</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Mangold</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Bisceglia</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Ruzicka</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<article-title>Frequency of microsatellite instability in unselected sebaceous gland neoplasias and hyperplasias</article-title>
+<source>J. Investig. Dermatol.</source>
+<year>2003</year>
+<volume>120</volume>
+<fpage>858</fpage>
+<lpage>864</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1523-1747.2003.12125.x</pub-id>
+<pub-id pub-id-type="pmid">12713593</pub-id>
+</element-citation>
+</ref>
+<ref id="B40-cancers-17-00659">
+<label>40.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mangold</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Pagenstecher</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Leister</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Mathiak</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Rutten</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Friedl</surname>
+<given-names>W.</given-names>
+</name>
+<name name-style="western">
+<surname>Propping</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Ruzicka</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Kruse</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<article-title>A genotype-phenotype correlation in HNPCC: Strong predominance of msh2 mutations in 41 patients with Muir-Torre syndrome</article-title>
+<source>J. Med. Genet.</source>
+<year>2004</year>
+<volume>41</volume>
+<fpage>567</fpage>
+<lpage>572</lpage>
+<pub-id pub-id-type="doi">10.1136/jmg.2003.012997</pub-id>
+<pub-id pub-id-type="pmid">15235030</pub-id>
+<pub-id pub-id-type="pmcid">PMC1735835</pub-id>
+</element-citation>
+</ref>
+<ref id="B41-cancers-17-00659">
+<label>41.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Harwood</surname>
+<given-names>C.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Swale</surname>
+<given-names>V.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Bataille</surname>
+<given-names>V.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Quinn</surname>
+<given-names>A.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Ghali</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Patel</surname>
+<given-names>S.V.</given-names>
+</name>
+<name name-style="western">
+<surname>Dove-Edwin</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Cerio</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>McGregor</surname>
+<given-names>J.M.</given-names>
+</name>
+</person-group>
+<article-title>An association between sebaceous carcinoma and microsatellite instability in immunosuppressed organ transplant recipients</article-title>
+<source>J. Investig. Dermatol.</source>
+<year>2001</year>
+<volume>116</volume>
+<fpage>246</fpage>
+<lpage>253</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1523-1747.2001.01233.x</pub-id>
+<pub-id pub-id-type="pmid">11180000</pub-id>
+</element-citation>
+</ref>
+<ref id="B42-cancers-17-00659">
+<label>42.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Torre</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<article-title>Multiple sebaceous tumors</article-title>
+<source>Arch. Dermatol.</source>
+<year>1968</year>
+<volume>98</volume>
+<fpage>549</fpage>
+<lpage>551</lpage>
+<pub-id pub-id-type="pmid">5684233</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archderm.98.5.549</pub-id>
+</element-citation>
+</ref>
+<ref id="B43-cancers-17-00659">
+<label>43.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Muir</surname>
+<given-names>E.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Bell</surname>
+<given-names>A.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Barlow</surname>
+<given-names>K.A.</given-names>
+</name>
+</person-group>
+<article-title>Multiple primary carcinomata of the colon, duodenum, and larynx associated with kerato-acanthomata of the face</article-title>
+<source>Br. J. Surg.</source>
+<year>1967</year>
+<volume>54</volume>
+<fpage>191</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="doi">10.1002/bjs.1800540309</pub-id>
+<pub-id pub-id-type="pmid">6020987</pub-id>
+</element-citation>
+</ref>
+<ref id="B44-cancers-17-00659">
+<label>44.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Win</surname>
+<given-names>A.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Jenkins</surname>
+<given-names>M.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Dowty</surname>
+<given-names>J.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Antoniou</surname>
+<given-names>A.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Giles</surname>
+<given-names>G.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Buchanan</surname>
+<given-names>D.D.</given-names>
+</name>
+<name name-style="western">
+<surname>Clendenning</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Rosty</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Ahnen</surname>
+<given-names>D.J.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Prevalence and Penetrance of Major Genes and Polygenes for Colorectal Cancer</article-title>
+<source>Cancer Epidemiol. Biomark. Prev.</source>
+<year>2017</year>
+<volume>26</volume>
+<fpage>404</fpage>
+<lpage>412</lpage>
+<pub-id pub-id-type="doi">10.1158/1055-9965.EPI-16-0693</pub-id>
+<pub-id pub-id-type="pmcid">PMC5336409</pub-id>
+<pub-id pub-id-type="pmid">27799157</pub-id>
+</element-citation>
+</ref>
+<ref id="B45-cancers-17-00659">
+<label>45.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Eiger-Moscovich</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Eagle</surname>
+<given-names>R.C.</given-names>
+<suffix>Jr.</suffix>
+</name>
+<name name-style="western">
+<surname>Shields</surname>
+<given-names>C.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Racher</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Lally</surname>
+<given-names>S.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Silkiss</surname>
+<given-names>R.Z.</given-names>
+</name>
+<name name-style="western">
+<surname>Shields</surname>
+<given-names>J.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Milman</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<article-title>Muir-Torre Syndrome Associated Periocular Sebaceous Neoplasms: Screening Patterns in the Literature and in Clinical Practice</article-title>
+<source>Ocul. Oncol. Pathol.</source>
+<year>2020</year>
+<volume>6</volume>
+<fpage>226</fpage>
+<lpage>237</lpage>
+<pub-id pub-id-type="doi">10.1159/000504984</pub-id>
+<pub-id pub-id-type="pmid">33005611</pub-id>
+<pub-id pub-id-type="pmcid">PMC7506251</pub-id>
+</element-citation>
+</ref>
+<ref id="B46-cancers-17-00659">
+<label>46.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Shah</surname>
+<given-names>R.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Allman</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Schwartz</surname>
+<given-names>R.A.</given-names>
+</name>
+</person-group>
+<article-title>Muir-Torre Syndrome: A Cutaneous Finding Amidst Broader Malignancies</article-title>
+<source>Am. J. Clin. Dermatol.</source>
+<year>2023</year>
+<volume>24</volume>
+<fpage>375</fpage>
+<lpage>380</lpage>
+<pub-id pub-id-type="doi">10.1007/s40257-023-00757-9</pub-id>
+<pub-id pub-id-type="pmid">36695997</pub-id>
+</element-citation>
+</ref>
+<ref id="B47-cancers-17-00659">
+<label>47.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kruse</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Rutten</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Lamberti</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Hosseiny-Malayeri</surname>
+<given-names>H.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Ruelfs</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Jungck</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Mathiak</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Ruzicka</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Hartschuh</surname>
+<given-names>W.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Muir-Torre phenotype has a frequency of DNA mismatch-repair-gene mutations similar to that in hereditary nonpolyposis colorectal cancer families defined by the Amsterdam criteria</article-title>
+<source>Am. J. Hum. Genet.</source>
+<year>1998</year>
+<volume>63</volume>
+<fpage>63</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.1086/301926</pub-id>
+<pub-id pub-id-type="pmid">9634524</pub-id>
+<pub-id pub-id-type="pmcid">PMC1377247</pub-id>
+</element-citation>
+</ref>
+<ref id="B48-cancers-17-00659">
+<label>48.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mahalingam</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<article-title>MSH6, Past and Present and Muir-Torre Syndrome-Connecting the Dots</article-title>
+<source>Am. J. Dermatopathol.</source>
+<year>2017</year>
+<volume>39</volume>
+<fpage>239</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="doi">10.1097/DAD.0000000000000633</pub-id>
+<pub-id pub-id-type="pmid">28323777</pub-id>
+</element-citation>
+</ref>
+<ref id="B49-cancers-17-00659">
+<label>49.</label>
+<element-citation publication-type="webpage">
+<article-title>National Comprehensive Cancer Network Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric (Version 1.2024)</article-title>
+<comment>Available online: <ext-link ns1:href="https://www.nccn.org/professionals/physician_gls/pdf/genetics_ceg.pdf" ext-link-type="uri">https://www.nccn.org/professionals/physician_gls/pdf/genetics_ceg.pdf</ext-link>
+</comment>
+<date-in-citation content-type="access-date" iso-8601-date="2024-09-29">(accessed on 29 September 2024)</date-in-citation>
+</element-citation>
+</ref>
+<ref id="B50-cancers-17-00659">
+<label>50.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ponti</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Ponz de Leon</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<article-title>Muir-Torre syndrome</article-title>
+<source>Lancet Oncol.</source>
+<year>2005</year>
+<volume>6</volume>
+<fpage>980</fpage>
+<lpage>987</lpage>
+<pub-id pub-id-type="doi">10.1016/S1470-2045(05)70465-4</pub-id>
+<pub-id pub-id-type="pmid">16321766</pub-id>
+</element-citation>
+</ref>
+<ref id="B51-cancers-17-00659">
+<label>51.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Eikenboom</surname>
+<given-names>E.L.</given-names>
+</name>
+<name name-style="western">
+<surname>van der Werf-’t Lam</surname>
+<given-names>A.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Rodriguez-Girondo</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Van Asperen</surname>
+<given-names>C.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Dinjens</surname>
+<given-names>W.N.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Hofstra</surname>
+<given-names>R.M.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Van Leerdam</surname>
+<given-names>M.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Morreau</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Spaander</surname>
+<given-names>M.C.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Wagner</surname>
+<given-names>A.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Universal Immunohistochemistry for Lynch Syndrome: A Systematic Review and Meta-analysis of 58,580 Colorectal Carcinomas</article-title>
+<source>Clin. Gastroenterol. Hepatol.</source>
+<year>2022</year>
+<volume>20</volume>
+<fpage>e496</fpage>
+<lpage>e507</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cgh.2021.04.021</pub-id>
+<pub-id pub-id-type="pmid">33887476</pub-id>
+</element-citation>
+</ref>
+<ref id="B52-cancers-17-00659">
+<label>52.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Plocharczyk</surname>
+<given-names>E.F.</given-names>
+</name>
+<name name-style="western">
+<surname>Frankel</surname>
+<given-names>W.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Hampel</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Peters</surname>
+<given-names>S.B.</given-names>
+</name>
+</person-group>
+<article-title>Mismatch repair protein deficiency is common in sebaceous neoplasms and suggests the importance of screening for Lynch syndrome</article-title>
+<source>Am. J. Dermatopathol.</source>
+<year>2013</year>
+<volume>35</volume>
+<fpage>191</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="doi">10.1097/DAD.0b013e31825f7efe</pub-id>
+<pub-id pub-id-type="pmid">22722469</pub-id>
+</element-citation>
+</ref>
+<ref id="B53-cancers-17-00659">
+<label>53.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Schwartz</surname>
+<given-names>R.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Torre</surname>
+<given-names>D.P.</given-names>
+</name>
+</person-group>
+<article-title>The Muir-Torre syndrome: A 25-year retrospect</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>1995</year>
+<volume>33</volume>
+<fpage>90</fpage>
+<lpage>104</lpage>
+<pub-id pub-id-type="doi">10.1016/0190-9622(95)90017-9</pub-id>
+<pub-id pub-id-type="pmid">7601953</pub-id>
+</element-citation>
+</ref>
+<ref id="B54-cancers-17-00659">
+<label>54.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>O’Shea</surname>
+<given-names>A.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Cleary</surname>
+<given-names>S.P.</given-names>
+</name>
+<name name-style="western">
+<surname>Croitoru</surname>
+<given-names>M.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Kim</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Berk</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Monga</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Riddell</surname>
+<given-names>R.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Pollett</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Gallinger</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Pathological features of colorectal carcinomas in MYH-associated polyposis</article-title>
+<source>Histopathology</source>
+<year>2008</year>
+<volume>53</volume>
+<fpage>184</fpage>
+<lpage>194</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2559.2008.03071.x</pub-id>
+<pub-id pub-id-type="pmid">18564191</pub-id>
+<pub-id pub-id-type="pmcid">PMC2754312</pub-id>
+</element-citation>
+</ref>
+<ref id="B55-cancers-17-00659">
+<label>55.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>John</surname>
+<given-names>A.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Schwartz</surname>
+<given-names>R.A.</given-names>
+</name>
+</person-group>
+<article-title>Muir-Torre syndrome (MTS): An update and approach to diagnosis and management</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2016</year>
+<volume>74</volume>
+<fpage>558</fpage>
+<lpage>566</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2015.09.074</pub-id>
+<pub-id pub-id-type="pmid">26892655</pub-id>
+</element-citation>
+</ref>
+<ref id="B56-cancers-17-00659">
+<label>56.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Latham</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Srinivasan</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Kemel</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Shia</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Bandlamudi</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Mandelker</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Middha</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Hechtman</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Zehir</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Dubard-Gault</surname>
+<given-names>M.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Microsatellite Instability Is Associated with the Presence of Lynch Syndrome Pan-Cancer</article-title>
+<source>J. Clin. Oncol.</source>
+<year>2019</year>
+<volume>37</volume>
+<fpage>286</fpage>
+<lpage>295</lpage>
+<pub-id pub-id-type="doi">10.1200/JCO.18.00283</pub-id>
+<pub-id pub-id-type="pmid">30376427</pub-id>
+<pub-id pub-id-type="pmcid">PMC6553803</pub-id>
+</element-citation>
+</ref>
+<ref id="B57-cancers-17-00659">
+<label>57.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Roberts</surname>
+<given-names>M.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Riegert-Johnson</surname>
+<given-names>D.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Thomas</surname>
+<given-names>B.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Rumilla</surname>
+<given-names>K.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Thomas</surname>
+<given-names>C.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Heckman</surname>
+<given-names>M.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Purcell</surname>
+<given-names>J.U.</given-names>
+</name>
+<name name-style="western">
+<surname>Hanson</surname>
+<given-names>N.B.</given-names>
+</name>
+<name name-style="western">
+<surname>Leppig</surname>
+<given-names>K.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Lim</surname>
+<given-names>J.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A clinical scoring system to identify patients with sebaceous neoplasms at risk for the Muir-Torre variant of Lynch syndrome</article-title>
+<source>Genet. Med.</source>
+<year>2014</year>
+<volume>16</volume>
+<fpage>711</fpage>
+<lpage>716</lpage>
+<pub-id pub-id-type="doi">10.1038/gim.2014.19</pub-id>
+<pub-id pub-id-type="pmid">24603434</pub-id>
+</element-citation>
+</ref>
+<ref id="B58-cancers-17-00659">
+<label>58.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Roberts</surname>
+<given-names>M.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Riegert-Johnson</surname>
+<given-names>D.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Thomas</surname>
+<given-names>B.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Thomas</surname>
+<given-names>C.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Heckman</surname>
+<given-names>M.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Krishna</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>DiCaudo</surname>
+<given-names>D.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Bridges</surname>
+<given-names>A.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Hunt</surname>
+<given-names>K.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Rumilla</surname>
+<given-names>K.M.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Screening for Muir-Torre syndrome using mismatch repair protein immunohistochemistry of sebaceous neoplasms</article-title>
+<source>J. Genet. Couns.</source>
+<year>2013</year>
+<volume>22</volume>
+<fpage>393</fpage>
+<lpage>405</lpage>
+<pub-id pub-id-type="doi">10.1007/s10897-012-9552-4</pub-id>
+<pub-id pub-id-type="pmid">23212176</pub-id>
+</element-citation>
+</ref>
+<ref id="B59-cancers-17-00659">
+<label>59.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Maloney</surname>
+<given-names>N.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Nguyen</surname>
+<given-names>K.A.</given-names>
+</name>
+<name name-style="western">
+<surname>So</surname>
+<given-names>N.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Zaba</surname>
+<given-names>L.C.</given-names>
+</name>
+</person-group>
+<article-title>Yield of sentinel lymph node biopsy in sebaceous carcinoma and predictors of advanced disease: A retrospective analysis of the National Cancer Database</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2023</year>
+<volume>88</volume>
+<fpage>504</fpage>
+<lpage>506</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2022.07.015</pub-id>
+<pub-id pub-id-type="pmid">35843481</pub-id>
+</element-citation>
+</ref>
+<ref id="B60-cancers-17-00659">
+<label>60.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ho</surname>
+<given-names>V.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Ross</surname>
+<given-names>M.I.</given-names>
+</name>
+<name name-style="western">
+<surname>Prieto</surname>
+<given-names>V.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Khaleeq</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Kim</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Esmaeli</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<article-title>Sentinel lymph node biopsy for sebaceous cell carcinoma and melanoma of the ocular adnexa</article-title>
+<source>Arch. Otolaryngol. Head Neck Surg.</source>
+<year>2007</year>
+<volume>133</volume>
+<fpage>820</fpage>
+<lpage>826</lpage>
+<pub-id pub-id-type="doi">10.1001/archotol.133.8.820</pub-id>
+<pub-id pub-id-type="pmid">17709624</pub-id>
+</element-citation>
+</ref>
+<ref id="B61-cancers-17-00659">
+<label>61.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Belaid</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Nasr</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Benna</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Cherif</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Jmour</surname>
+<given-names>O.</given-names>
+</name>
+<name name-style="western">
+<surname>Bouguila</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Benna</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<article-title>Radiation Therapy for Primary Eyelid Cancers in Tunisia</article-title>
+<source>Asian Pac. J. Cancer Prev.</source>
+<year>2016</year>
+<volume>17</volume>
+<fpage>3643</fpage>
+<lpage>3646</lpage>
+<pub-id pub-id-type="pmid">27510024</pub-id>
+</element-citation>
+</ref>
+<ref id="B62-cancers-17-00659">
+<label>62.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kim</surname>
+<given-names>J.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Abramson</surname>
+<given-names>D.H.</given-names>
+</name>
+</person-group>
+<article-title>Topical treatment options for conjunctival neoplasms</article-title>
+<source>Clin. Ophthalmol.</source>
+<year>2008</year>
+<volume>2</volume>
+<fpage>503</fpage>
+<lpage>515</lpage>
+<pub-id pub-id-type="doi">10.2147/OPTH.S1606</pub-id>
+<pub-id pub-id-type="pmid">19668748</pub-id>
+<pub-id pub-id-type="pmcid">PMC2694026</pub-id>
+</element-citation>
+</ref>
+<ref id="B63-cancers-17-00659">
+<label>63.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Yen</surname>
+<given-names>M.T.</given-names>
+</name>
+<name name-style="western">
+<surname>Tse</surname>
+<given-names>D.T.</given-names>
+</name>
+<name name-style="western">
+<surname>Wu</surname>
+<given-names>X.</given-names>
+</name>
+<name name-style="western">
+<surname>Wolfson</surname>
+<given-names>A.H.</given-names>
+</name>
+</person-group>
+<article-title>Radiation therapy for local control of eyelid sebaceous cell carcinoma: Report of two cases and review of the literature</article-title>
+<source>Ophthalmic Plast. Reconstr. Surg.</source>
+<year>2000</year>
+<volume>16</volume>
+<fpage>211</fpage>
+<lpage>215</lpage>
+<pub-id pub-id-type="doi">10.1097/00002341-200005000-00008</pub-id>
+<pub-id pub-id-type="pmid">10826762</pub-id>
+</element-citation>
+</ref>
+<ref id="B64-cancers-17-00659">
+<label>64.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Shields</surname>
+<given-names>C.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Naseripour</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Shields</surname>
+<given-names>J.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Eagle</surname>
+<given-names>R.C.</given-names>
+<suffix>Jr.</suffix>
+</name>
+</person-group>
+<article-title>Topical mitomycin-C for pagetoid invasion of the conjunctiva by eyelid sebaceous gland carcinoma</article-title>
+<source>Ophthalmology</source>
+<year>2002</year>
+<volume>109</volume>
+<fpage>2129</fpage>
+<lpage>2133</lpage>
+<pub-id pub-id-type="doi">10.1016/S0161-6420(02)01239-3</pub-id>
+<pub-id pub-id-type="pmid">12414427</pub-id>
+</element-citation>
+</ref>
+<ref id="B65-cancers-17-00659">
+<label>65.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gogia</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Pushker</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Sen</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Bakhshi</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Avoidance of exenteration in orbital sebaceous gland carcinoma with neoadjuvant chemotherapy</article-title>
+<source>Graefe’s Arch. Clin. Exp. Ophthalmol.</source>
+<year>2013</year>
+<volume>251</volume>
+<fpage>2479</fpage>
+<lpage>2480</lpage>
+<pub-id pub-id-type="doi">10.1007/s00417-013-2382-8</pub-id>
+<pub-id pub-id-type="pmid">23708701</pub-id>
+</element-citation>
+</ref>
+<ref id="B66-cancers-17-00659">
+<label>66.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kaliki</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Ayyar</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Nair</surname>
+<given-names>A.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Mishra</surname>
+<given-names>D.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Reddy</surname>
+<given-names>V.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Naik</surname>
+<given-names>M.N.</given-names>
+</name>
+</person-group>
+<article-title>Neoadjuvant Systemic Chemotherapy in the Management of Extensive Eyelid Sebaceous Gland Carcinoma: A study of 10 Cases</article-title>
+<source>Ophthalmic Plast. Reconstr. Surg.</source>
+<year>2016</year>
+<volume>32</volume>
+<fpage>35</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="doi">10.1097/IOP.0000000000000398</pub-id>
+<pub-id pub-id-type="pmid">25675161</pub-id>
+</element-citation>
+</ref>
+<ref id="B67-cancers-17-00659">
+<label>67.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jung</surname>
+<given-names>Y.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Woo</surname>
+<given-names>I.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Kim</surname>
+<given-names>M.Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Han</surname>
+<given-names>C.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Rha</surname>
+<given-names>E.Y.</given-names>
+</name>
+</person-group>
+<article-title>Palliative 5-fluorouracil and cisplatin chemotherapy in recurrent metastatic sebaceous carcinoma: Case report and literature review</article-title>
+<source>Asia Pac. J. Clin. Oncol.</source>
+<year>2016</year>
+<volume>12</volume>
+<fpage>e189</fpage>
+<lpage>e193</lpage>
+<pub-id pub-id-type="doi">10.1111/ajco.12088</pub-id>
+<pub-id pub-id-type="pmid">23981285</pub-id>
+</element-citation>
+</ref>
+<ref id="B68-cancers-17-00659">
+<label>68.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Della Vittoria Scarpati</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Perri</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Pisconti</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Costa</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Ricciardiello</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Del Prete</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Napolitano</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Carraturo</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Mazzone</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Addeo</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<article-title>Concomitant cetuximab and radiation therapy: A possible promising strategy for locally advanced inoperable non-melanoma skin carcinomas</article-title>
+<source>Mol. Clin. Oncol.</source>
+<year>2016</year>
+<volume>4</volume>
+<fpage>467</fpage>
+<lpage>471</lpage>
+<pub-id pub-id-type="doi">10.3892/mco.2016.746</pub-id>
+<pub-id pub-id-type="pmid">27073643</pub-id>
+<pub-id pub-id-type="pmcid">PMC4812109</pub-id>
+</element-citation>
+</ref>
+<ref id="B69-cancers-17-00659">
+<label>69.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Domingo-Musibay</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Murugan</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Giubellino</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Sharma</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Steinberger</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Yuan</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Hunt</surname>
+<given-names>M.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Lou</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Miller</surname>
+<given-names>J.S.</given-names>
+</name>
+</person-group>
+<article-title>Near complete response to Pembrolizumab in microsatellite-stable metastatic sebaceous carcinoma</article-title>
+<source>J. Immunother. Cancer</source>
+<year>2018</year>
+<volume>6</volume>
+<fpage>58</fpage>
+<pub-id pub-id-type="doi">10.1186/s40425-018-0357-3</pub-id>
+<pub-id pub-id-type="pmid">29914578</pub-id>
+<pub-id pub-id-type="pmcid">PMC6006706</pub-id>
+</element-citation>
+</ref>
+<ref id="B70-cancers-17-00659">
+<label>70.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kodali</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Tipirneni</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Gibson</surname>
+<given-names>P.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Cook</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Verschraegen</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Lane</surname>
+<given-names>K.A.</given-names>
+</name>
+</person-group>
+<article-title>Carboplatin and Pembrolizumab Chemoimmunotherapy Achieves Remission in Recurrent, Metastatic Sebaceous Carcinoma</article-title>
+<source>Ophthalmic Plast. Reconstr. Surg.</source>
+<year>2018</year>
+<volume>34</volume>
+<fpage>e149</fpage>
+<lpage>e151</lpage>
+<pub-id pub-id-type="doi">10.1097/IOP.0000000000001164</pub-id>
+<pub-id pub-id-type="pmid">29979269</pub-id>
+</element-citation>
+</ref>
+<ref id="B71-cancers-17-00659">
+<label>71.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jikihara</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Yokoi</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Matsumura</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Ishitsuka</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Kiyohara</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Watanabe</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Nojima</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Morii</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Fujiwara</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Fujimoto</surname>
+<given-names>M.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Successful treatment of aggressive metastatic sebaceous carcinoma with pembrolizumab</article-title>
+<source>Eur. J. Dermatol.</source>
+<year>2024</year>
+<volume>34</volume>
+<fpage>308</fpage>
+<lpage>310</lpage>
+<pub-id pub-id-type="doi">10.1684/ejd.2024.4697</pub-id>
+<pub-id pub-id-type="pmid">39015971</pub-id>
+</element-citation>
+</ref>
+<ref id="B72-cancers-17-00659">
+<label>72.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Banerjee</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Hossain</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Wirtschafter</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Fathizadeh</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<article-title>Pembrolizumab in the Treatment of Microsatellite Instability-High Sebaceous Carcinoma: A Case Report with Review of the Literature</article-title>
+<source>JCO Precis. Oncol.</source>
+<year>2020</year>
+<volume>4</volume>
+<fpage>61</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="doi">10.1200/PO.19.00302</pub-id>
+<pub-id pub-id-type="pmid">35050729</pub-id>
+</element-citation>
+</ref>
+<ref id="B73-cancers-17-00659">
+<label>73.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Woods</surname>
+<given-names>A.D.</given-names>
+</name>
+<name name-style="western">
+<surname>Grushchak</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Williams</surname>
+<given-names>K.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Tan</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Krunic</surname>
+<given-names>A.L.</given-names>
+</name>
+</person-group>
+<article-title>Combination treatment of bilateral periocular sebaceous carcinomas with microsatellite instability with neoadjuvant pembrolizumab and Mohs surgery</article-title>
+<source>Australas. J. Dermatol.</source>
+<year>2022</year>
+<volume>63</volume>
+<fpage>e345</fpage>
+<lpage>e349</lpage>
+<pub-id pub-id-type="doi">10.1111/ajd.13919</pub-id>
+<pub-id pub-id-type="pmid">36073830</pub-id>
+<pub-id pub-id-type="pmcid">PMC9825858</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+<floats-group>
+<fig position="float" id="cancers-17-00659-f001" orientation="portrait">
+<label>Figure 1</label>
+<caption>
+<p>When a genetics referral is indicated for a patient with sebaceous neoplasm(s).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="cancers-17-00659-g001.jpg" />
+</fig>
+<table-wrap position="float" id="cancers-17-00659-t001" orientation="portrait">
+<object-id pub-id-type="pii">cancers-17-00659-t001_Table 1</object-id>
+<label>Table 1</label>
+<caption>
+<p>Yield of dMMR and MSI testing in sebaceous neoplasms.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Everett et al., 2014 (<italic toggle="yes">n</italic> = 77) [<xref rid="B37-cancers-17-00659" ref-type="bibr">37</xref>]</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Jessup et al., 2016 (<italic toggle="yes">n</italic> = 216) [<xref rid="B38-cancers-17-00659" ref-type="bibr">38</xref>]</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Schon et al., 2018 <break />(<italic toggle="yes">n</italic> = 53) [<xref rid="B36-cancers-17-00659" ref-type="bibr">36</xref>]</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cook et al., 2023 <break />(<italic toggle="yes">n</italic> = 220) [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">dMMR</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">38/77 (49%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">143/216 (66%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">26/53 (49%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70/220 (32%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Extraocular </td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not specified</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">216 (100%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not specified <sup>a</sup>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">64/164 (39%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Periocular</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not specified</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not specified <sup>a</sup>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6/56 (11%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Head and Neck SN with dMMR</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not specified</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">84/154 (55%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not specified</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24/104 (30%) <sup>a,b</sup>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Non-Head and Neck SN with dMMR</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not specified</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">59/62 (95%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not specified</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">36/55 (65%) <sup>a,b</sup>
+</td>
+</tr>
+<tr>
+<td colspan="5" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">dMMR results on IHC</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">MSH2/MSH6</italic>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">27/38 (71%) (<italic toggle="yes">MSH2</italic> or <italic toggle="yes">MSH2/MSH6</italic>)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90/143 (60%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">19/26 (73%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">52/70 (74.3%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">MLH1/PMS2</italic>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9/38 (23%) (<italic toggle="yes">MLH1</italic> or <italic toggle="yes">MLH1/PMS2</italic>)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">27/143 (19%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6/26 (23%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">15/70 (21.4%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">MSH6</italic>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2/38 (5%) <sup>c</sup>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">22/143 (15%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1/26 (3.8%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2/70 (2.9%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">PMS2</italic>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0 (0%) </td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4/143 (3%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0 (0%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1/70 (1.4%)</td>
+</tr>
+<tr>
+<td colspan="5" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">MSI</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MSI-H</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10/40 <sup>d</sup>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not evaluated</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not evaluated</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not evaluated</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn>
+<p>SN = sebaceous neoplasm. <sup>a.</sup> Not specified if extraocular or periocular; 51/71 were head and neck. <sup>b.</sup> Inclusion criteria for this study involved patients with sebaceous carcinomas. <sup>c.</sup> Equivocal or weak staining shown for these patients. <sup>d.</sup> MSI testing could not be completed in 37 (40.5%) SN tumors due to insufficient samples. All MSI-H tumors had dMMR (mostly <italic toggle="yes">MSH2/MSH6</italic>).</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap position="float" id="cancers-17-00659-t002" orientation="portrait">
+<object-id pub-id-type="pii">cancers-17-00659-t002_Table 2</object-id>
+<label>Table 2</label>
+<caption>
+<p>Germline mutation status in individuals with sebaceous neoplasms.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Everett et al., 2014 <sup>a</sup> [<xref rid="B37-cancers-17-00659" ref-type="bibr">37</xref>]</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Jessup et al., 2016 [<xref rid="B38-cancers-17-00659" ref-type="bibr">38</xref>]</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Schon et al., 2018 [<xref rid="B36-cancers-17-00659" ref-type="bibr">36</xref>]</th>
+<th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cook et al., 2023 <sup>b</sup> [<xref rid="B2-cancers-17-00659" ref-type="bibr">2</xref>]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Patients who underwent germline testing</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">86</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Not analyzed</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 </td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">56</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">MLH1</italic> PV</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 (5.8%) </td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0 (0%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3 (5.4%) </td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">MSH2</italic> PV</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">18 (20.9%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 (1%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24 (42.9%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">MSH6</italic> PV</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 (1.2%</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0 (0%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3 (5.4%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">PMS2</italic> PV</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 (1.2%) </td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 (1%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0 (0%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">VUS</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2 (2.3%) <sup>c</sup>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1 (1%) <sup>d</sup>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0 (0%)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">59 (68.6%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7 (70%)</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">26 (46.4%)</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn>
+<p>PV = pathogenic variant; VUS = variant of uncertain significance. <sup>a.</sup> 77/86 had IHC testing on their SN. Reason testing of SN was not completed includes: known MMR mutations in the family (3/9), tumor testing performed on a different Lynch syndrome-associated tumor (4/9), and family history meeting Amsterdam I/II clinical diagnostic criteria, warranting direct germline genetic testing (2/9). <sup>b.</sup> Inclusion criteria for this study involved patients with sebaceous carcinomas. <sup>c.</sup> Results in MSH2 and MSH6. <sup>d.</sup> VUS in <italic toggle="yes">MSH6</italic>, loss of <italic toggle="yes">MLH1</italic>, and <italic toggle="yes">PMS2</italic> on IHC.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</floats-group>
+</article>
+</pmc-articleset>

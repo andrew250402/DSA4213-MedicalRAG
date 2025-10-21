@@ -1,0 +1,3988 @@
+<pmc-articleset xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Nutrients</journal-id>
+<journal-id journal-id-type="iso-abbrev">Nutrients</journal-id>
+<journal-id journal-id-type="pmc-domain-id">1692</journal-id>
+<journal-id journal-id-type="pmc-domain">nutrients</journal-id>
+<journal-id journal-id-type="publisher-id">nutrients</journal-id>
+<journal-title-group>
+<journal-title>Nutrients</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2072-6643</issn>
+<publisher>
+<publisher-name>Multidisciplinary Digital Publishing Institute  (MDPI)</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC6835610</article-id>
+<article-id pub-id-type="pmcid-ver">PMC6835610.1</article-id>
+<article-id pub-id-type="pmcaid">6835610</article-id>
+<article-id pub-id-type="pmcaiid">6835610</article-id>
+<article-id pub-id-type="pmid">31581675</article-id>
+<article-id pub-id-type="doi">10.3390/nu11102342</article-id>
+<article-id pub-id-type="publisher-id">nutrients-11-02342</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Glycemic Index, Glycemic Load and Cancer Risk: An Updated Meta-Analysis</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5841-5773</contrib-id>
+<name name-style="western">
+<surname>Turati</surname>
+<given-names initials="F">Federica</given-names>
+</name>
+<xref ref-type="aff" rid="af1-nutrients-11-02342">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Galeone</surname>
+<given-names initials="C">Carlotta</given-names>
+</name>
+<xref ref-type="aff" rid="af1-nutrients-11-02342">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Augustin</surname>
+<given-names initials="LSA">Livia S. A.</given-names>
+</name>
+<xref ref-type="aff" rid="af2-nutrients-11-02342">2</xref>
+<xref ref-type="aff" rid="af3-nutrients-11-02342">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1441-897X</contrib-id>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names initials="C">Carlo</given-names>
+</name>
+<xref ref-type="aff" rid="af1-nutrients-11-02342">1</xref>
+<xref rid="c1-nutrients-11-02342" ref-type="corresp">*</xref>
+</contrib>
+</contrib-group>
+<aff id="af1-nutrients-11-02342">
+<label>1</label>Department of Clinical Sciences and Community Health, Università degli Studi di Milano, 20133 Milan, Italy; <email>federica.turati@unimi.it</email> (F.T.); <email>carlotta.galeone@gmail.com</email> (C.G.)</aff>
+<aff id="af2-nutrients-11-02342">
+<label>2</label>Clinical Nutrition and Risk Factor Modification Centre, St Michael’s Hospital, Toronto, ON M5B 1W8, Canada; <email>livia.augustin@utoronto.ca</email>
+</aff>
+<aff id="af3-nutrients-11-02342">
+<label>3</label>National Cancer Institute, SSD di Epidemiologia, Istituto Nazionale Tumori - IRCCS - “Fondazione G. Pascale”, 80131 Naples, Italy</aff>
+<author-notes>
+<corresp id="c1-nutrients-11-02342">
+<label>*</label>Correspondence: <email>carlo.lavecchia@unimi.it</email>; Tel.: +39-025-0320-863</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>02</day>
+<month>10</month>
+<year>2019</year>
+</pub-date>
+<pub-date pub-type="collection">
+<month>10</month>
+<year>2019</year>
+</pub-date>
+<volume>11</volume>
+<issue>10</issue>
+<issue-id pub-id-type="pmc-issue-id">345196</issue-id>
+<elocation-id>2342</elocation-id>
+<history>
+<date date-type="received">
+<day>11</day>
+<month>9</month>
+<year>2019</year>
+</date>
+<date date-type="accepted">
+<day>30</day>
+<month>9</month>
+<year>2019</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>01</day>
+<month>10</month>
+<year>2019</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>25</day>
+<month>11</month>
+<year>2019</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2024-12-04 22:25:37.350">
+<day>04</day>
+<month>12</month>
+<year>2024</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2019 by the authors.</copyright-statement>
+<copyright-year>2019</copyright-year>
+<license license-type="open-access">
+<ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref>
+<license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" ns1:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns1:href="nutrients-11-02342.pdf" />
+<abstract>
+<p>Diets high in glycemic index (GI) and glycemic load (GL) have been related to an increased risk of selected cancers, but additional quantification is required. We updated a systematic review and meta-analysis published in 2015 to May 2019 to provide quantitative information on GI/GL and cancer risk. Relative risks (RR) and the corresponding 95 % confidence intervals (CI) for the highest versus the lowest categories of GI and GL were extracted from selected studies and pooled using random-effects models. Twenty reports (&gt;22,000 cancer cases) have become available after January 2015, and 15 were added to the meta-analyses by cancer sites, which considered a total of 88 investigations. The five additional reports were reviewed, but not included in the meta-analyses, since data were inadequate to be pooled. For hormone-related cancers, summary RRs for the highest versus lowest GI and GL intakes were moderately increased. They ranged from 1.04 (breast) to 1.12 (endometrium) for GI and from 1.03 (prostate) to 1.22 (ovary) for GL, of borderline significance. High GI was associated with small increased risks of colorectal (summary RR for GI: 1.20, 95% CI, 1.07–1.34—GL: 1.09, 95% CI, 0.97–1.22, 19 studies), bladder (GI: 1.25, 95% CI, 1.11–1.41—GL: 1.10, 95% CI, 0.85–1.42, four studies) and kidney cancers (GI: 1.16, 95% CI, 1.02–1.32—GL: 1.14, 95% CI, 0.81–1.60, five studies). GL was not significantly related to those cancer sites. Stomach, prostate and lung cancers were not associated with GI and GL. The present analysis, based on an updated comprehensive evaluation of the epidemiological literature, indicates moderate unfavorable effects of high versus low GI on colorectal, and possibly bladder and kidney cancers, and a possible moderate positive association between GL and endometrial cancer.</p>
+</abstract>
+<kwd-group>
+<kwd>cancer</kwd>
+<kwd>glycemic index</kwd>
+<kwd>glycemic load</kwd>
+<kwd>review</kwd>
+<kwd>risk</kwd>
+</kwd-group>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-license-ref</meta-name>
+<meta-value>CC BY</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro" id="sec1-nutrients-11-02342">
+<title>1. Introduction</title>
+<p>The glycemic index (GI) is an index of carbohydrate foods which indicates how quickly the food causes an increase in blood glucose levels [<xref rid="B1-nutrients-11-02342" ref-type="bibr">1</xref>]. High GI foods have fast-release carbohydrates and higher blood glucose concentrations, leading to increased insulin secretion. Low GI foods are digested, absorbed and metabolized more slowly, thus, resulting in a more gradual rise in blood glucose. The glycemic load (GL) is the product of GI and the total available carbohydrate content in a given amount of food. It reflects both the quality (i.e., GI) and the quantity of carbohydrates [<xref rid="B2-nutrients-11-02342" ref-type="bibr">2</xref>].</p>
+<p>Postprandial glycaemia, and consequently dietary GI and GL have been related to diabetes, coronary heart disease (CHD) and obesity [<xref rid="B3-nutrients-11-02342" ref-type="bibr">3</xref>,<xref rid="B4-nutrients-11-02342" ref-type="bibr">4</xref>,<xref rid="B5-nutrients-11-02342" ref-type="bibr">5</xref>]. </p>
+<p>A possible role in the development of selected cancers has been also suggested [<xref rid="B6-nutrients-11-02342" ref-type="bibr">6</xref>], but the evidence is yet weak [<xref rid="B7-nutrients-11-02342" ref-type="bibr">7</xref>]. Long-term consumption of a high GI/GL diet results in chronically high blood glucose, and hence, to chronically elevated insulin concentration. Insulin increases bioactive IGF-1, which promote cancer development by inhibiting apoptosis and stimulating cell proliferation [<xref rid="B8-nutrients-11-02342" ref-type="bibr">8</xref>,<xref rid="B9-nutrients-11-02342" ref-type="bibr">9</xref>]. In addition, hyperglycemia, insulin resistance, diabetes and obesity, which are linked to glucose metabolism, may affect the risk of cancer [<xref rid="B4-nutrients-11-02342" ref-type="bibr">4</xref>,<xref rid="B10-nutrients-11-02342" ref-type="bibr">10</xref>,<xref rid="B11-nutrients-11-02342" ref-type="bibr">11</xref>,<xref rid="B12-nutrients-11-02342" ref-type="bibr">12</xref>]. </p>
+<p>In 2015, we systematically reviewed data from 75 epidemiological reports addressing the association between dietary GI and GL and the risk of cancer, for over 147,000 cancer cases [<xref rid="B13-nutrients-11-02342" ref-type="bibr">13</xref>]. Seventy-two studies were included in the meta-analyses by cancer sites. The summary relative risks (RR) of hormone-related cancers for the highest versus the lowest study-specific category ranged from 1.05 (95% confidence interval, CI, 0.99–1.11, breast cancer) to 1.13 (95% CI, 0.98–1.32, endometrial cancer) for GI, and from 1.04 (95% CI, 0.91–1.18, prostate cancer) to 1.19 (95% CI, 0.85–1.68, ovarian cancer) for GL. A significantly increased colorectal cancer risk emerged for high GI (summary RR = 1.16, 95% CI, 1.07–1.25). Other summary RRs were not significantly above unity.</p>
+<p>After that review, 20 reports [<xref rid="B14-nutrients-11-02342" ref-type="bibr">14</xref>,<xref rid="B15-nutrients-11-02342" ref-type="bibr">15</xref>,<xref rid="B16-nutrients-11-02342" ref-type="bibr">16</xref>,<xref rid="B17-nutrients-11-02342" ref-type="bibr">17</xref>,<xref rid="B18-nutrients-11-02342" ref-type="bibr">18</xref>,<xref rid="B19-nutrients-11-02342" ref-type="bibr">19</xref>,<xref rid="B20-nutrients-11-02342" ref-type="bibr">20</xref>,<xref rid="B21-nutrients-11-02342" ref-type="bibr">21</xref>,<xref rid="B22-nutrients-11-02342" ref-type="bibr">22</xref>,<xref rid="B23-nutrients-11-02342" ref-type="bibr">23</xref>,<xref rid="B24-nutrients-11-02342" ref-type="bibr">24</xref>,<xref rid="B25-nutrients-11-02342" ref-type="bibr">25</xref>,<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>,<xref rid="B27-nutrients-11-02342" ref-type="bibr">27</xref>,<xref rid="B28-nutrients-11-02342" ref-type="bibr">28</xref>,<xref rid="B29-nutrients-11-02342" ref-type="bibr">29</xref>,<xref rid="B30-nutrients-11-02342" ref-type="bibr">30</xref>,<xref rid="B31-nutrients-11-02342" ref-type="bibr">31</xref>,<xref rid="B32-nutrients-11-02342" ref-type="bibr">32</xref>,<xref rid="B33-nutrients-11-02342" ref-type="bibr">33</xref>] have been published, accounting for 23 distinct original studies and almost 22,000 additional cancer cases. These included the EPIC-Italy cohort investigating multiple cancer sites [<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>], the Framingham Offspring cohort on adiposity-related cancers [<xref rid="B29-nutrients-11-02342" ref-type="bibr">29</xref>], a pooled analysis of two studies on esophageal and gastric cardia adenocarcinoma [<xref rid="B24-nutrients-11-02342" ref-type="bibr">24</xref>], three studies on colorectal cancer [<xref rid="B17-nutrients-11-02342" ref-type="bibr">17</xref>,<xref rid="B30-nutrients-11-02342" ref-type="bibr">30</xref>,<xref rid="B31-nutrients-11-02342" ref-type="bibr">31</xref>], one combined analysis of two North European cohorts on cancer of the biliary tract [<xref rid="B19-nutrients-11-02342" ref-type="bibr">19</xref>], two studies on lung cancer [<xref rid="B22-nutrients-11-02342" ref-type="bibr">22</xref>,<xref rid="B25-nutrients-11-02342" ref-type="bibr">25</xref>] (including a combined analysis of two Asian cohorts [<xref rid="B25-nutrients-11-02342" ref-type="bibr">25</xref>]), one on melanoma [<xref rid="B23-nutrients-11-02342" ref-type="bibr">23</xref>], four on breast cancer [<xref rid="B14-nutrients-11-02342" ref-type="bibr">14</xref>,<xref rid="B15-nutrients-11-02342" ref-type="bibr">15</xref>,<xref rid="B16-nutrients-11-02342" ref-type="bibr">16</xref>,<xref rid="B32-nutrients-11-02342" ref-type="bibr">32</xref>] (including the update to 2011 of the Nurses’ Health Study II (NHSII) [<xref rid="B16-nutrients-11-02342" ref-type="bibr">16</xref>]), two on endometrial cancer [<xref rid="B20-nutrients-11-02342" ref-type="bibr">20</xref>,<xref rid="B33-nutrients-11-02342" ref-type="bibr">33</xref>], one on ovarian cancer [<xref rid="B21-nutrients-11-02342" ref-type="bibr">21</xref>], one on bladder cancer [<xref rid="B28-nutrients-11-02342" ref-type="bibr">28</xref>], one on kidney cancer [<xref rid="B27-nutrients-11-02342" ref-type="bibr">27</xref>], and one on thyroid cancer [<xref rid="B18-nutrients-11-02342" ref-type="bibr">18</xref>]. </p>
+<p>A few meta-analyses have recently reported on GI/GL and a single cancer [<xref rid="B34-nutrients-11-02342" ref-type="bibr">34</xref>,<xref rid="B35-nutrients-11-02342" ref-type="bibr">35</xref>,<xref rid="B36-nutrients-11-02342" ref-type="bibr">36</xref>,<xref rid="B37-nutrients-11-02342" ref-type="bibr">37</xref>,<xref rid="B38-nutrients-11-02342" ref-type="bibr">38</xref>,<xref rid="B39-nutrients-11-02342" ref-type="bibr">39</xref>], but no study has provided an updated comprehensive quantification of the association of GI/GL with a wide range of cancer types in a single report. </p>
+<p>Given the new original data, we updated our systematic review and meta-analysis [<xref rid="B13-nutrients-11-02342" ref-type="bibr">13</xref>] to derive a more precise estimation of the associations. Specifically, we reviewed the most recent (up to May 2019) epidemiological data on the association between dietary GI and GL and cancer risk, updated summary RRs for stomach, colorectal, pancreatic, breast, endometrial, ovarian and prostate cancers and addressed issues of heterogeneity and complexities of interpretation [<xref rid="B40-nutrients-11-02342" ref-type="bibr">40</xref>]. Moreover, we calculated meta-analytic estimates for kidney, and for the first time, lung and bladder neoplasms.</p>
+</sec>
+<sec id="sec2-nutrients-11-02342">
+<title>2. Materials and Methods</title>
+<sec id="sec2dot1-nutrients-11-02342">
+<title>2.1. Search Strategy and Selection Criteria</title>
+<p>We conducted a systematic review and a series of meta-analyses on dietary GI and dietary GL and cancer risk following recognized reporting guidelines [<xref rid="B41-nutrients-11-02342" ref-type="bibr">41</xref>]. We included relevant studies selected in our prior systematic review and meta-analysis on GI/GL intake and cancer risk (search up to January 2015 [<xref rid="B13-nutrients-11-02342" ref-type="bibr">13</xref>]), and updated the search using the same search strategy through May 2019. Briefly, the following string was used in Medline/Pubmed, with no language or other restriction: “((cancer) OR (neoplasm) OR (carcinoma)) AND ((glycemic index) OR (glycemic load) OR (glycaemic index) OR (glycaemic load))”. The electronic search was supplemented by hand searching of references of the selected publications and previous reviews.</p>
+<p>We selected original cohort or case-control studies that assessed the association between dietary GI and/or GL intake and the incidence of or mortality from a specific cancer (<xref rid="nutrients-11-02342-t001" ref-type="table">Table 1</xref>). Studies analyzing cancer overall were excluded [<xref rid="B42-nutrients-11-02342" ref-type="bibr">42</xref>]. To be included in the quantitative meta-analyses, studies had to report the estimates of the RRs (i.e., odds ratios, ORs, or RRs, or hazard ratios, HRs) and the corresponding 95% CI for categories of GI/GL intake, or information needed for their calculation; studies providing only the RR for the increment of one unit of GI/GL were reviewed, but not considered in the meta-analyses [<xref rid="B32-nutrients-11-02342" ref-type="bibr">32</xref>,<xref rid="B43-nutrients-11-02342" ref-type="bibr">43</xref>]. We conducted meta-analyses for cancer sites investigated in at least four studies.</p>
+<p>Two reviewers independently identified eligible studies by screening titles, abstract, and when appropriate, full-texts of articles. Any discrepancy was discussed and resolved by consensus. If there were multiple publications from the same study population, we used data from the longest follow-up (for cohorts) or the larger database (for case-control studies).</p>
+<p>From each selected publication, we extracted details on study design, country, sex of the participants, tumor site, number of enrolled subjects (cases and controls or cohort size), period of enrolment (for case-control studies) or follow-up (for cohort studies), methods for dietary assessment (type, number of food items, and whether it had been validated), reference food for GI/GL (white bread or glucose), comparison levels of GI and/or GL, RR estimates (i.e., odds ratios/hazard ratios/RRs) for the comparison between the highest versus the lowest category of GI/GL intake, and confounding factors for which adjustment was made. When RR estimates from models with different covariates were provided, we extracted the RRs adjusted for the largest number of confounding factors. </p>
+</sec>
+<sec id="sec2dot2-nutrients-11-02342">
+<title>2.2. Statistical Analysis</title>
+<p>We conducted quantitative meta-analyses of GI and GL intake in association with the risk of cancer. In the current analysis, we considered cancer sites investigated in at least four studies and for which new epidemiological data have become available after the previous review [<xref rid="B13-nutrients-11-02342" ref-type="bibr">13</xref>], i.e., breast, endometrium, ovary and prostate among hormone-related cancers, stomach, colorectum and pancreas among digestive tract cancers, and lung, bladder and kidney among other cancer sites. Although new data on liver cancer have been made available from the EPIC-Italy cohort [<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>], we did not update the meta-analysis on liver cancer as that data partially overlapped with those reported in 2013 by Fedirko et al. [<xref rid="B44-nutrients-11-02342" ref-type="bibr">44</xref>], which analyzed the overall EPIC cohort. </p>
+<p>We derived summary estimates of the RR by combining study-specific ORs or RRs or HRs for the highest versus the lowest category of GI and GL intake using random-effects models, which account for the heterogeneity among the RR estimates. Heterogeneity was evaluated through the χ<sup>2</sup> test and quantified through and the <italic toggle="yes">I</italic>
+<sup>2</sup> statistic [<xref rid="B45-nutrients-11-02342" ref-type="bibr">45</xref>,<xref rid="B46-nutrients-11-02342" ref-type="bibr">46</xref>]. </p>
+<p>We updated subgroup analyses for breast cancer according to menopausal status and body mass index (BMI) (&lt;25 kg/m<sup>2</sup> and BMI ≥ 25 kg/m<sup>2</sup>). One study showing the RR of breast cancer according to GI and GL among women with BMI ≥ 30 kg/m<sup>2</sup> was excluded from the subgroup analysis [<xref rid="B14-nutrients-11-02342" ref-type="bibr">14</xref>].</p>
+<p>Publication bias was assessed through funnel plots and Egger tests [<xref rid="B47-nutrients-11-02342" ref-type="bibr">47</xref>]. </p>
+<p>All the statistical analyses were performed using the STATA software (version 14; StataCorp, College Station, TX, USA).</p>
+</sec>
+</sec>
+<sec sec-type="results" id="sec3-nutrients-11-02342">
+<title>3. Results</title>
+<p>Of the 203 newly identified publications in the Medline literature (from January 2015 to May 2019), 20 were selected as original studies providing results on the association between GI and/or GL and the risk of a specific cancer (<xref rid="nutrients-11-02342-t001" ref-type="table">Table 1</xref>) (for a detailed description of studies on GI/GL and cancer risk published before January 2015, refer to <xref rid="nutrients-11-02342-t001" ref-type="table">Table 1</xref>—Supporting information of our previous work [<xref rid="B13-nutrients-11-02342" ref-type="bibr">13</xref>]). Eleven reports provided results from case-control studies (including one report of a pooled analysis of two case-control studies [<xref rid="B24-nutrients-11-02342" ref-type="bibr">24</xref>]) and nine from cohort studies (including a combined analysis of two cohorts in Shanghai [<xref rid="B25-nutrients-11-02342" ref-type="bibr">25</xref>], a combined analysis of two Swedish cohorts [<xref rid="B19-nutrients-11-02342" ref-type="bibr">19</xref>], and a prospective analysis based on data from the PREvención con DIeta MEDiterránea (PREDIMED trial) [<xref rid="B14-nutrients-11-02342" ref-type="bibr">14</xref>]). Two reports gave results on a number of cancer sites [<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>,<xref rid="B29-nutrients-11-02342" ref-type="bibr">29</xref>]; the remaining reports were focused on a single cancer type. These reports included a minimum of 32 [<xref rid="B14-nutrients-11-02342" ref-type="bibr">14</xref>] to a maximum of 5112 cases [<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>]. Eight reports were based on studies conducted in North America, three in Central/South America, six in Europe, and three in Asia. All studies except one [<xref rid="B20-nutrients-11-02342" ref-type="bibr">20</xref>] provided results for both GI and GL. Validated FFQs were used in all studies to evaluate dietary habits. Most studies used glucose as reference food for GI/GL calculation. GI/GL were categorized in quartiles in 11 reports, in quintiles in five reports and in tertiles in three reports; one study used GI/GL as a continuous variable.</p>
+<p>Fifteen of the 20 newly identified reports provided data that could be added to our meta-analyses on GI/GL and cancer risk. One publication on breast cancer providing only the RRs for the increment of one unit of GI/GL [<xref rid="B32-nutrients-11-02342" ref-type="bibr">32</xref>], and four publications on cancers sites for which less than four studies were available (i.e., esophagus and gastric cardia [<xref rid="B24-nutrients-11-02342" ref-type="bibr">24</xref>], biliary tract [<xref rid="B19-nutrients-11-02342" ref-type="bibr">19</xref>], melanoma [<xref rid="B23-nutrients-11-02342" ref-type="bibr">23</xref>], thyroid [<xref rid="B18-nutrients-11-02342" ref-type="bibr">18</xref>]), were not considered in the quantitative meta-analyses. In the meta-analyses on breast cancer, the 2015 paper by Farvid et al. [<xref rid="B16-nutrients-11-02342" ref-type="bibr">16</xref>] with updated results of the NHSII cohort replaced the 2003 paper by Cho et al. [<xref rid="B48-nutrients-11-02342" ref-type="bibr">48</xref>], which was based on a shorter follow-up and a quarter of the cases. Similarly, in the meta-analyses on colorectal cancer, updated results from the EPIC-Italy cohort [<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>] replaced data from an earlier publication on the same cohort [<xref rid="B49-nutrients-11-02342" ref-type="bibr">49</xref>]. Updated data from the EPIC-Italy cohort [<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>] did not contribute to the meta-analyses on breast and endometrial cancers as the analyses already included larger amounts of data from the overall EPIC cohort [<xref rid="B50-nutrients-11-02342" ref-type="bibr">50</xref>,<xref rid="B51-nutrients-11-02342" ref-type="bibr">51</xref>]. In addition, we retrieved one publication on ovarian cancer not previously identified [<xref rid="B52-nutrients-11-02342" ref-type="bibr">52</xref>]. </p>
+<sec id="sec3dot1-nutrients-11-02342">
+<title>3.1. Results of the Individual Studies</title>
+<sec id="sec3dot1dot1-nutrients-11-02342">
+<title>3.1.1. Multiple Cancer Sites</title>
+<p>The EPIC-Italy cohort provided results for 21 different cancer types [<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>]. In a median follow-up of about 15 years, 5112 incident cancers occurred (including 441 colon, 102 rectal, 117 pancreatic, 307 lung, 1362 breast, 203 endometrial, 135 ovarian, 481 prostate, 251 bladder and 136 kidney cancers). For most cancer sites, no association was found for either dietary GI or GL. High GI was associated with an increased risk of colon (HR for the fifth versus first quintile: 1.48, 95% CI, 1.09–2.01) and bladder cancer (HR: 1.51, 95% CI, 1.01–2.25), and high GL with an increased risk of colon (HR: 1.80, 95% CI, 1.18-2.74) and diabetes-related cancers (HR: 1.23, 95% CI, 1.03–1.48), but a decreased risk of rectal cancer (HR: 0.42, 95% CI, 0.18–0.98). The Framingham Offspring cohort found no association between GI, GL and adiposity-related cancers, based on a total of 656 incident cancers of the gastrointestinal tract, reticuloendothelial system (blood, bone and spleen), female reproductive tracts, genitourinary organs and the thyroid gland [<xref rid="B29-nutrients-11-02342" ref-type="bibr">29</xref>]. In analyses by cancer type, no significant associations were found for breast, colorectal, and prostate cancers. The HRs for the third versus first tertile were 0.90 (95% CI, 0.59–1.37) for GI and 0.54 (95% CI, 0.26–1.09) for GL for breast cancer (124 cases), 1.51 (95% CI, 0.81–2.84) for GI and 1.21 (95% CI, 0.43–3.40) for GL for colorectal cancer (68 cases), and 0.74 (95% CI, 0.48–1.12) for GI and 0.76 (95% CI, 0.40–1.43) for GL for prostate cancer (157 cases). </p>
+</sec>
+<sec id="sec3dot1dot2-nutrients-11-02342">
+<title>3.1.2. Hormone-Related Cancers</title>
+<p>As for breast cancer, the update of the NHSII, which included 12 additional years of follow-up and almost four times the number of cases compared to the 2003 report [<xref rid="B48-nutrients-11-02342" ref-type="bibr">48</xref>], found a null association between GI and GL and breast cancer risk, with HRs for the fifth versus the first quintile of 1.03 (95% CI, 0.91–1.16) for GI and 0.94 (95% CI, 0.83–1.06) for GL, based on 2833 invasive cases [<xref rid="B16-nutrients-11-02342" ref-type="bibr">16</xref>]. Similar null results were observed in pre- (HR for GI: 1.05, HR for GL: 0.93) and post-menopause (HR for GI: 1.08, HR for GL: 0.95), as well as among normo- (HR for GI: 1.04, HR for GL: 0.94) and over-weight women (HR for GI: 1.12, HR for GL: 1.19, not significant). In a secondary analysis within the framework of the PREDIMED trial, based on 32 incident cases, dietary GI and GL were not related to breast cancer among postmenopausal women at high risk of cardiovascular diseases (HR for the third versus the first tertile 1.02, 95% CI, 0.42–2.46 for GI and 1.00, 95% CI, 0.44–2.30 for GL) [<xref rid="B14-nutrients-11-02342" ref-type="bibr">14</xref>]. No association with breast cancer was also reported in a Mexican population-based case-control study including 1000 women with breast cancer, the ORs for the fourth versus the first quartile being 0.90 (95% CI, 0.68–1.2) for GI and 1.1 (95% CI, 0.82–1.1) for GL [<xref rid="B15-nutrients-11-02342" ref-type="bibr">15</xref>]. In that study, a null association was also observed in subgroups defined by menopausal status and BMI. A further Mexican case-control study, including 509 cases matched 1:1 by age with 509 population controls, found a positive association between GI and breast cancer overall (OR for 1 unit increase 1.15, 95% CI, 1.09–1.23) and luminal A, HER2+ and TN molecular subtypes; no association emerged for GL regardless of the subtype [<xref rid="B32-nutrients-11-02342" ref-type="bibr">32</xref>]. </p>
+<p>Two studies investigating GI/GL in relation to endometrial cancer found both an absence of association [<xref rid="B20-nutrients-11-02342" ref-type="bibr">20</xref>,<xref rid="B33-nutrients-11-02342" ref-type="bibr">33</xref>]. The HRs were 0.98 (95% CI, 0.74–1.29) for GI and 0.83 (95% CI, 0.62–1.11) for GL for the fourth versus first quartile in the US Cancer Prevention Study II (CPS-II) Nutrition Cohort, which included 425 incident cases occurred during a median follow-up of about 14 years [<xref rid="B33-nutrients-11-02342" ref-type="bibr">33</xref>]. In addition, a Canadian case-control study with over 500 cases and 980 population controls found an OR of 0.87 (95% CI, 0.52–1.49) for the fourth versus the first quartile of dietary GL, with no effect modification by BMI [<xref rid="B20-nutrients-11-02342" ref-type="bibr">20</xref>].</p>
+<p>As for ovarian cancer, a case-control study among African-Americans in the USA enrolling about 400 cases and 600 population controls found no association with GI (OR for the fourth versus the first quartile 1.03, 95% CI, 0.84–1.18), but a suggestion of a positive association with GL [<xref rid="B21-nutrients-11-02342" ref-type="bibr">21</xref>]. The ORs were 1.18 (95% CI, 1.04–1.33) per 10 units of GL/1000 kcal in the continuous analysis and 1.35 (95% CI, 0.93–1.97) for the highest versus the lowest quartile of GL when the variable was considered in categories; in the latter analysis, however, a clear dose-risk relationship did not emerge (ORs for subsequent quartiles: 1.16, 1.57 [significant], 1.35, p for trend = 0.05) [<xref rid="B21-nutrients-11-02342" ref-type="bibr">21</xref>]. </p>
+</sec>
+<sec id="sec3dot1dot3-nutrients-11-02342">
+<title>3.1.3. Cancers of the Digestive Tract</title>
+<p>Two case-control [<xref rid="B30-nutrients-11-02342" ref-type="bibr">30</xref>,<xref rid="B31-nutrients-11-02342" ref-type="bibr">31</xref>] and one cohort study [<xref rid="B17-nutrients-11-02342" ref-type="bibr">17</xref>] on colorectal cancer have become available after the previous meta-analysis. The Japan Public Health Center-based prospective Study (JPHC Study) provided, for the first time, data on GI/GL and colorectal cancer risk in a Japanese population [<xref rid="B17-nutrients-11-02342" ref-type="bibr">17</xref>]. Based on 1468 incident cases from a population of over 73,000 subjects followed for 12.5 years on average, the JPHC study found overall non-significant results for GI, as well as GL; the HRs of colorectal cancer for the fourth versus the first quartile were 0.92 (95% CI, 0.73–1.14) in men and 0.97 (95% CI, 0.73–1.30) in women for GI, and 0.79 (95% CI, 0.58-1.08) in men and 0.82 (95% CI, 0.55–1.24) in women for GL. However, a non-significantly reduced risk of (proximal) colon cancer for high GL consumption was observed in men (HRs for proximal colon cancer: 0.62, 95% CI, 0.36–1.08) and a non-significantly reduced risk of rectal cancer for high GI (HRs 0.58, 95% CI, 0.33–1.03) and GL (HR: 0.52, 95% CI, 0.24–1.14) was found in women [<xref rid="B17-nutrients-11-02342" ref-type="bibr">17</xref>]. A Chinese case-control study, including 1944 cases and 2027 community-derived or hospital controls, reported a positive association between GI and colorectal (OR for the fourth versus first quartile: 3.10, 95% CI, 2.51–3.85), as well as colon (1172 cases) and rectal cancer (772 cases), similar in men and women [<xref rid="B31-nutrients-11-02342" ref-type="bibr">31</xref>]. High GL was not associated with colorectal (OR for the fourth versus first quartile: 1.14, 95% CI, 0.94–1.35), colon or rectal cancer. However, an increased risk of colorectal cancer for the highest versus lowest quartile of GL was found in women only (OR 1.42, 95% CI, 1.04–1.95). A case-control study from Argentina and based on 161 cases of colorectal cancer and 331 population-based controls showed significant positive associations with GI and GL in women only (OR for the third versus first tertile 2.12, 95% CI, 1.38–3.27 for GI, OR: 1.98, 95% CI, 1.24–3.18 for GL) [<xref rid="B30-nutrients-11-02342" ref-type="bibr">30</xref>]. </p>
+</sec>
+<sec id="sec3dot1dot4-nutrients-11-02342">
+<title>3.1.4. Other Neoplasms</title>
+<p>A pooled analysis of two US population-based case-control studies (i.e., the US Multi-Center Study and the Los Angeles Multi-Ethnic Study), including overall 500 esophageal adenocarcinomas, 529 gastric cardia adenocarcinomas and 2027 controls, reported an increased risk of esophageal adenocarcinoma for the fifth versus the first quintile of GI intake (OR 1.58, 95% CI, 1.13–2.21), in the absence, however, of a clear dose-risk relationship (p for trend 0.32). Such positive association was evident only among subjects with BMI ≥ 25 kg/m<sup>2</sup>. No relation emerged between GI and esophageal adenocarcinoma (OR for the fifth versus the first quintile: 1.21, 95% CI, 0.88–1.67), as well as between GL intake and esophageal (OR: 0.81, 95% CI, 0.51–1.29) and gastric cardia adenocarcinoma (OR: 0.86, 95% CI, 0.55–1.35) [<xref rid="B24-nutrients-11-02342" ref-type="bibr">24</xref>]. </p>
+<p>Dietary GI and GL were positively related to the risk of biliary tract cancer in the combined analysis of the Swedish Mammography Cohort and cohort of Swedish Men, which included 140 extrahepatic and 23 intrahepatic cancer cases developed from a population of over 76,000 individuals during a mean follow-up of 13.3 years [<xref rid="B19-nutrients-11-02342" ref-type="bibr">19</xref>]. The HRs for the fourth versus first quartile of dietary GI was 2.12 (95% CI, 1.25–3.58) for extrahepatic and 1.47 (95% CI, 0.54–3.97) for intrahepatic biliary tract cancer; the corresponding values for GL were, respectively, 1.63 (95% CI, 1.01–2.63) and 3.46 (95% CI, 1.22–9.84) [<xref rid="B19-nutrients-11-02342" ref-type="bibr">19</xref>].</p>
+<p>Two reports gave results on GI/GL and lung cancer [<xref rid="B22-nutrients-11-02342" ref-type="bibr">22</xref>,<xref rid="B25-nutrients-11-02342" ref-type="bibr">25</xref>]. Data from the Shanghai Women’s and Men’s Health Studies, including 649 incident lung cancers among women and 663 among men developed during an average follow-up of about 15 years, indicated no association of GI or GL with lung cancer [<xref rid="B25-nutrients-11-02342" ref-type="bibr">25</xref>]. The HRs for the fourth versus the first quartile of GI was 1.16 (95% CI, 0.92–1.47) in women and 0.83 (95% CI, 0.67–1.03) in men; the corresponding figures for GL were 1.09 (95% CI, 0.86-1.37) in women and 0.85 (95% CI, 0.68–1.05) in men. Null findings were also found in strata of BMI, smoking, family history of cancer and menopausal status (in women). In a population-based case-control study from USA based on 1905 incident cases and 2413 controls [<xref rid="B22-nutrients-11-02342" ref-type="bibr">22</xref>] a significant positive association with lung cancer risk was found for GI (OR for the fifth versus the first quintile 1.49, 95% CI, 1.21–1.83, <italic toggle="yes">p</italic> for trend &lt; 0.001), but not for GL (OR 1.16, 95% CI, 0.94–1.42). The positive association with GI was more evident among never smokers (OR fifth quintile 2.25, 95% CI, 1.42–3.57) and for the squamous cell carcinoma histologic subtype (OR 1.30, 95% CI, 1.02–1.67) [<xref rid="B22-nutrients-11-02342" ref-type="bibr">22</xref>]. </p>
+<p>An Italian population-based case-control study including 380 cases of melanoma and 719 age- and sex-matched controls reported a positive association with GL among women (OR 2.38; 95% CI 1.25, 4.52 for the highest versus the lowest quintile, <italic toggle="yes">p</italic> for trend = 0.070), but not among men (OR 0.86, 95% CI, 0.47–1.57), and a lack of relation with GI in either sex [<xref rid="B23-nutrients-11-02342" ref-type="bibr">23</xref>]. </p>
+<p>A positive association between GL and bladder cancer risk was found in a case-control study from Italy, including 578 cases and 608 hospital-controls. The risk of bladder cancer was significantly increased from the second quartile onwards, and subjects in the fourth quartile had an approximately doubled risk of bladder cancer compared to those in the first one (OR 1.96, 95% CI, 1.16–3.31) [<xref rid="B28-nutrients-11-02342" ref-type="bibr">28</xref>]. No association emerged with GI. </p>
+<p>One case-control study from USA investigated renal cell carcinoma and found a positive association for GI and an absence of association for GL [<xref rid="B27-nutrients-11-02342" ref-type="bibr">27</xref>]. Based on a total of 854 cases and 1255 population-based controls, the ORs for the fourth versus the first quartile were 1.32 (95% CI, 0.99–1.74; <italic toggle="yes">p</italic> for trend = 0.026) for GI and 1.15 (95% CI, 0.88–1.51) for GL.</p>
+<p>An analysis based on 556 well-differentiated thyroid cancers within the EPIC cohort found overall no association with GI (HR for the fourth versus first quartile: 0.94, 95% CI, 0.73–1.20) and GL (HR: 0.95, 95% CI, 0.74–1.24) [<xref rid="B18-nutrients-11-02342" ref-type="bibr">18</xref>]. In stratified analysis, a significant positive relation among overweight (HR: 1.54, 95% CI, 1.05–2.28, <italic toggle="yes">p</italic> for trend = 0.014) and an inverse one among normoweight subjects (HR: 0.64, 95% CI, 0.46–0.89, <italic toggle="yes">p</italic> for trend = 0.003) emerged with GI [<xref rid="B18-nutrients-11-02342" ref-type="bibr">18</xref>]. </p>
+</sec>
+</sec>
+<sec id="sec3dot2-nutrients-11-02342">
+<title>3.2. Update of the Summary Estimates</title>
+<p>Overall, 88 reports were included in the meta-analyses on GI/GL and cancer risk (see <xref ref-type="app" rid="app1-nutrients-11-02342">Supplementary Materials</xref> for complete bibliography references). Summary RRs of hormone-related cancers, digestive-tract cancers and other neoplasms for the highest versus the lowest category of GI (Panel A) and GL (Panel B) intake are presented, respectively, in <xref ref-type="fig" rid="nutrients-11-02342-f001">Figure 1</xref>, <xref ref-type="fig" rid="nutrients-11-02342-f002">Figure 2</xref> and <xref ref-type="fig" rid="nutrients-11-02342-f003">Figure 3</xref>. There was no evidence of publication bias according to the Egger’s tests for all cancer sites considered (data not shown). </p>
+<sec id="sec3dot2dot1-nutrients-11-02342">
+<title>3.2.1. Hormone-Related Cancers</title>
+<p>Summary RR of hormone-related cancers were all above unity, but non-significant, for both GI and GL, for all cancer sites (<xref ref-type="fig" rid="nutrients-11-02342-f001">Figure 1</xref>). They were 1.04 (95% CI, 0.98–1.10) for GI (22 studies, 52,470 cases-Panel A) and 1.05 (95% CI, 0.97–1.13) for GL (21 studies, 53,196 cases-Panel B) for breast cancer, 1.12 (95% CI, 0.97–1.28) for GI (11 studies, 6988 cases) and 1.12 (95% CI, 0.97–1.30) for GL (13 studies, 8468 cases) for endometrial cancer, 1.08 (95% CI, 0.89–1.32) for GI (eight studies, 4324 cases) and 1.22 (95% CI, 0.95–1.56) for GL (eight studies, 4324 cases) for ovarian cancer, and 1.05 (95% CI, 0.95–1.16) for GI (eight studies, 27,294 cases) and 1.03 (95% CI, 0.91–1.16) for GL (seven studies, 27,138 cases) for prostate cancer. Significant heterogeneity across studies was observed in all the meta-analyses. </p>
+</sec>
+<sec id="sec3dot2dot2-nutrients-11-02342">
+<title>3.2.2. Digestive-Tract Cancers</title>
+<p>There was a positive significant association between high GI intake and colorectal cancer risk. No other significant associations were detected (<xref ref-type="fig" rid="nutrients-11-02342-f002">Figure 2</xref>). Summary RRs were 1.09 (95% CI, 0.79-1.52) for GI (seven studies, 3152 cases—Panel A) and 1.04 (95% CI, 0.80–1.35) for GL (seven studies, 3152 cases–Panel B) for stomach cancer, 1.20 (95% CI, 1.07–1.34) for GI (19 studies, 26,456 cases) and 1.09 (95% CI, 0.97–1.22) for GL (19 studies, 25,778 cases) for colorectal cancer, 1.09 (95% CI, 0.98–1.21) for GI (11 studies, 3855 cases) and 0.99 (95% CI, 0.84–1.17) for GL (12 studies, 4289 cases) for pancreatic cancer. Significant heterogeneity across studies was detected in all the meta-analyses, except for that on GI and pancreatic cancer. In a sensitivity analysis, the summary RR of colorectal cancer according to high GI remained statistically significant with the exclusion of each study in turn. </p>
+</sec>
+<sec id="sec3dot2dot3-nutrients-11-02342">
+<title>3.2.3. Other Neoplasms</title>
+<p>There was no association between high GI or GL intake and lung cancer risk, the summary RRs being 1.11 (95% CI, 0.98–1.26) for GI (six studies, 13,385 cases) and 0.96 (95% CI, 0.87–1.06) for GL (five studies, 12,922 cases) (<xref ref-type="fig" rid="nutrients-11-02342-f003">Figure 3</xref>). A significant positive association was found between high GI and bladder cancer, with a summary RR of 1.25 (95% CI, 1.11–1.41; four studies, 3339 cases); the corresponding summary RR for GL was 1.10 (95% CI, 0.85–1.41; four studies, 3339 cases). Summary RRs for kidney cancer were 1.16 (95% CI, 1.02–1.32) for GI (five studies, 4281 cases) and 1.14 (95% CI, 0.80–1.60) for GL (five studies, 4281 cases). Heterogeneity across studies was low-to-moderate in most of the meta-analyses (I<sup>2</sup> ranging from 0 to 40.5), except for those on GI and lung cancer (I<sup>2</sup> = 68.2%) and GL and kidney cancer (I<sup>2</sup> = 78.6%). In sensitivity analyses, the positive association between high GI and bladder cancer remained significant when any study was removed from the meta-analysis, while the summary RR of kidney cancer for high GI was no longer significant with the exclusion of each study in turn, except that by George et al. [<xref rid="B53-nutrients-11-02342" ref-type="bibr">53</xref>]. </p>
+</sec>
+<sec id="sec3dot2dot4-nutrients-11-02342">
+<title>3.2.4. Subgroup Analyses for Breast Cancer</title>
+<p>In subgroup analyses by menopausal status, the summary RRs of breast cancer for the highest versus the lowest category of GI were 1.08 (95% CI, 0.96–1.21, 13 studies, <italic toggle="yes">p</italic> for heterogeneity = 0.043, I<sup>2</sup>= 44.2%) for premenopausal breast cancer and 1.04 (95% CI, 0.96–1.12, 17 studies <italic toggle="yes">p</italic> for heterogeneity = 0.020, I<sup>2</sup>= 45.9%) for postmenopausal breast cancer (<italic toggle="yes">p</italic> for heterogeneity between strata = 0.595) (<xref ref-type="fig" rid="nutrients-11-02342-f004">Figure 4</xref>). The corresponding figures for GL were 1.16 (95% CI, 1.00–1.34, 13 studies, <italic toggle="yes">p</italic> for heterogeneity = 0.002, I<sup>2</sup> = 62.1%) for premenopausal breast cancer and 1.05 (95% CI, 0.95–1.16, 17 studies, <italic toggle="yes">p</italic> for heterogeneity &lt; 0.001, I<sup>2</sup> = 62.4%) for postmenopausal breast cancer (<italic toggle="yes">p</italic> for heterogeneity between strata = 0.27). </p>
+<p>Summary RRs of breast cancer in strata of BMI indicated a null association with GI and GL among normo-weight as well as overweight women. As for GI, the RRs for the highest versus lowest intake were 1.13 (95% CI, 0.97–1.32, six studies, <italic toggle="yes">p</italic> for heterogeneity = 0.132, I<sup>2</sup> = 35.8%) for BMI &lt; 25 kg/m<sup>2</sup> and 0.97 (95% CI, 0.95–1.16, six studies, <italic toggle="yes">p</italic> for heterogeneity = 0.586, I<sup>2</sup> = 0%) for BMI ≥ 25 kg/m<sup>2</sup> (<italic toggle="yes">p</italic> for heterogeneity between strata = 0.103). Values for GL were 1.12 (95% CI, 0.94–1.34, seven studies, <italic toggle="yes">p</italic> for heterogeneity = 0.003, I<sup>2</sup> = 64.3%) for BMI &lt; 25 kg/m<sup>2</sup> and 0.99 (95% CI, 0.86–1.14, seven studies, <italic toggle="yes">p</italic> for heterogeneity = 0.159, I<sup>2</sup> = 31.2%) for BMI ≥ 25 kg/m<sup>2</sup> (<italic toggle="yes">p</italic> for heterogeneity between strata = 0.286).</p>
+</sec>
+</sec>
+</sec>
+<sec sec-type="discussion" id="sec4-nutrients-11-02342">
+<title>4. Discussion</title>
+<p>The present work, based on 88 reports, represents the most updated comprehensive quantification of the relation of GI and GL intake with cancer risk. It updates and expands a previous analysis published in 2015, and provides meta-analytic results for kidney, and for the first time, lung and bladder cancers. The present results largely confirm those of the previous meta-analysis [<xref rid="B13-nutrients-11-02342" ref-type="bibr">13</xref>]; summary RRs are similar to those previously reported, but, in general, they are more precise, providing more confidence in the results. We found significant, but small, unfavorable effects of high versus low GI diets for colorectal, and possibly bladder and kidney cancers, and a possible modest positive association between high GL and endometrial cancer. Most of the summary RRs were weakly and non-significantly (or at most marginally significantly) increased, indicating no major role of GI/GL intake in the etiology of most cancer types. </p>
+<p>Possible biological mechanisms to explain the modest associations observed include the impact of GI and GL on blood glucose, HbA1c, and hence, insulin and IGF-1. These may also impact on body weight. Although body weight was allowed for in most of the analyses considered, residual confounding may be present. However, GI and GL are correlated with other aspects of carbohydrate quality, such as cereal fibers [<xref rid="B54-nutrients-11-02342" ref-type="bibr">54</xref>,<xref rid="B55-nutrients-11-02342" ref-type="bibr">55</xref>]. Confounding by these factors may also partly explain the observed associations.</p>
+<p>Our findings are broadly similar to other meta-analyses addressing the role of dietary GI, dietary GL and cancer risk. In particular, no associations with stomach [<xref rid="B37-nutrients-11-02342" ref-type="bibr">37</xref>], prostate [<xref rid="B7-nutrients-11-02342" ref-type="bibr">7</xref>,<xref rid="B38-nutrients-11-02342" ref-type="bibr">38</xref>,<xref rid="B39-nutrients-11-02342" ref-type="bibr">39</xref>], and pancreatic cancers [<xref rid="B56-nutrients-11-02342" ref-type="bibr">56</xref>,<xref rid="B57-nutrients-11-02342" ref-type="bibr">57</xref>,<xref rid="B58-nutrients-11-02342" ref-type="bibr">58</xref>] were reported by others. A meta-analysis on kidney cancer based on the same study sample yielded essentially identical results [<xref rid="B36-nutrients-11-02342" ref-type="bibr">36</xref>], i.e., a positive, but weak, significant association with high GI and no association with GL. Although the absence of appreciable heterogeneity among studies supports the robustness of findings on GI and kidney cancer, the still limited number of studies and the null association with GL need to be considered in the interpretation of findings. In addition, the exclusion from the GI-kidney cancer meta-analysis of each study in turn—with the exception of the study by George et al. [<xref rid="B53-nutrients-11-02342" ref-type="bibr">53</xref>]—gave non-significant summary RR estimates.</p>
+<p>According to the World Cancer Research Fund/American Institute for Cancer Research (WCRF/AICR), high dietary GL (but not GI) is probably a cause of endometrial cancer, while evidence on other cancer sites, including colorectal, pancreatic, liver and breast cancers, is inconclusive [<xref rid="B59-nutrients-11-02342" ref-type="bibr">59</xref>]. The conclusion on endometrial cancer was based on a dose-response meta-analysis based on six cohort studies published up to 2012, which estimated a significant 15% increased risk per 50 units/day of GL. The summary RR of endometrial cancer for high versus low GL was 1.17 (95% CI, 1.00–1.37) in our previous meta-analysis based on 11 studies [<xref rid="B13-nutrients-11-02342" ref-type="bibr">13</xref>], and 1.12 (95% CI, 0.97–1.56) in the current update, after the inclusion of two additional studies. Although only marginally significant, such 12% increased risk was not in contrast with the WCRF result, thought the different methods of analyses (i.e., dose-response versus extreme quantile), inclusion criteria (e.g., only cohort versus both cohort and case-control studies) and search updates do not allow a direct comparison. A positive association between high GL (but not GI) and the risk of endometrial cancer was reported in other previous meta-analyses [<xref rid="B57-nutrients-11-02342" ref-type="bibr">57</xref>,<xref rid="B60-nutrients-11-02342" ref-type="bibr">60</xref>,<xref rid="B61-nutrients-11-02342" ref-type="bibr">61</xref>], while a recent high profile publication by Reynold et al, which provided systematic reviews and meta-analyses of prospective studies on the relationship between the most widely studied indicators of carbohydrate quality and incidence of, and mortality from, a wide range of non-communicable diseases, did not find any relation with GI and GL, both in dose-response and extreme quantile analyses [<xref rid="B7-nutrients-11-02342" ref-type="bibr">7</xref>]. In that report, high GI was associated with a marginally significant 10% increased risk of colorectal cancer (summary RR 1.10, 95% CI, 0.99–1.22), and each 10 units/day of GI to a 5% increased risk of borderline significance (summary RR 1.05, 95% CI, 1.00–1.10), while no association was reported for GL [<xref rid="B7-nutrients-11-02342" ref-type="bibr">7</xref>]. Excess risks of colorectal cancer less than 10% for high versus low GI were found in previous meta-analyses of prospective studies [<xref rid="B57-nutrients-11-02342" ref-type="bibr">57</xref>,<xref rid="B62-nutrients-11-02342" ref-type="bibr">62</xref>]. The excess risk was slightly higher (15–20%) —but essentially comparable—in meta-analyses based on both cohort and case-control studies [<xref rid="B63-nutrients-11-02342" ref-type="bibr">63</xref>,<xref rid="B64-nutrients-11-02342" ref-type="bibr">64</xref>], including the present one. </p>
+<p>We found a modest nonsignificant association of GI/GL and breast cancer. Other meta-analyses generally showed no or small (&lt;10%) increased risks for the highest versus the lowest GI or GL [<xref rid="B7-nutrients-11-02342" ref-type="bibr">7</xref>,<xref rid="B34-nutrients-11-02342" ref-type="bibr">34</xref>,<xref rid="B35-nutrients-11-02342" ref-type="bibr">35</xref>,<xref rid="B57-nutrients-11-02342" ref-type="bibr">57</xref>,<xref rid="B58-nutrients-11-02342" ref-type="bibr">58</xref>,<xref rid="B65-nutrients-11-02342" ref-type="bibr">65</xref>,<xref rid="B66-nutrients-11-02342" ref-type="bibr">66</xref>]. In the meta-analyses by Reynolds et al, summary RRs of breast cancer were 1.05 (95% CI, 1.01–1.10) for high versus low GI (but 1.01, 95% CI, 0.98–1.03 for a 10 unit/day increase) and 1.00 (95% CI, 0.95–1.06) for high versus low GL [<xref rid="B7-nutrients-11-02342" ref-type="bibr">7</xref>]. In another meta-analysis updated to 2015, the association with GI—but not with GL—was slightly stronger in postmenopausal than premenopausal women, but the difference was not significant; in addition, BMI did not influence the association between GI, GL and breast cancer [<xref rid="B34-nutrients-11-02342" ref-type="bibr">34</xref>]. This is in line with the current results, showing comparable estimates of the GI/GL-breast cancer association in pre- and post-menopausal women, as well as in normo-weight and overweight women. </p>
+<p>No meta-analysis has previously systematically addressed the association of GI/GL with ovarian, lung or bladder cancers. In our study, GI and GL did not significantly influence the risk of lung and ovarian cancer. We found a significant 25% increased risk of bladder cancer for high versus low GI intake, and the association remained significant when excluding each study in turn; no relation was observed for GL. Conditions related to chronic hyperinsulinemia and hyperglycemia, such as diabetes and the metabolic syndrome, have been associated with bladder cancer [<xref rid="B10-nutrients-11-02342" ref-type="bibr">10</xref>,<xref rid="B67-nutrients-11-02342" ref-type="bibr">67</xref>]. Urinary tract infections influence the risk of bladder cancer and may be associated with a diet promoting a large increase in blood glucose [<xref rid="B68-nutrients-11-02342" ref-type="bibr">68</xref>]. In addition, insulin can increase the expression of epidermal growth factors and protein kinase, and induced bladder cancer cell proliferation in in vitro studies [<xref rid="B69-nutrients-11-02342" ref-type="bibr">69</xref>,<xref rid="B70-nutrients-11-02342" ref-type="bibr">70</xref>]. </p>
+<p>Part of the different associations of dietary GI and dietary GL on selected cancer types may be explained by differences in the underlying dietary patterns. Some studies indeed suggested that while the overall GL of a diet is mostly associated with high-carbohydrate foods, and hence, closely correlates to total carbohydrate intake, GI is associated not to only to high consumption of high-carbohydrate foods, but also to low consumption of some low-carbohydrate foods (and the related nutrients), including fruit, dairy [<xref rid="B71-nutrients-11-02342" ref-type="bibr">71</xref>,<xref rid="B72-nutrients-11-02342" ref-type="bibr">72</xref>], vegetables, and legumes [<xref rid="B73-nutrients-11-02342" ref-type="bibr">73</xref>]. Thus, dietary GI, unlike GL, may reflect more dimensions of diet than just carbohydrates [<xref rid="B74-nutrients-11-02342" ref-type="bibr">74</xref>]. This could partly explain at least the positive association of GI with colorectal cancer—a cancer potentially related to various aspects of diet—in the absence of any relation with GL. In any case, in 2015, a scientific consensus statement by international experts on carbohydrate research recognized that the GI is a valid and reproducible measure to express the glycemic response of foods [<xref rid="B3-nutrients-11-02342" ref-type="bibr">3</xref>].</p>
+<p>The heterogeneity in studies’ results observed in most meta-analyses may be due to several reasons, including the dietary habits of the studied populations (i.e., low carbohydrate diets, which include high animal proteins and fats [e.g., for North American populations] versus high carbohydrate diets [e.g., for populations from southern Europe] [<xref rid="B75-nutrients-11-02342" ref-type="bibr">75</xref>,<xref rid="B76-nutrients-11-02342" ref-type="bibr">76</xref>,<xref rid="B77-nutrients-11-02342" ref-type="bibr">77</xref>]), the number and type of carbohydrate items in the FFQs and GI values attributed to FFQ items, with the consequent different ranges of GI/GL (particularly GL) in various studies. Moreover, studies used different methods of GI/GL categorization in the analyses (e.g., tertiles, quartiles, quintiles); therefore, there is heterogeneity in the highest and lowest absolute levels of GI/GL. The study design and the selection of the adjustment factors may also contribute to the observed heterogeneity.</p>
+<p>In epidemiologic studies, high dietary GI and GL were consistently associated with greater risks of diabetes and CHD. When restricting our analyses on colorectal and breast cancers to large, well-recognized cohorts which reported on GI/GL and such other health outcomes (i.e., the Swedish Mammography Cohort and cohort of Swedish Men, the Shanghai Women’s and Men’s studies, the Health Professional Follow-up Study, the NHSI and NHSII, the EPIC cohort, the Women’ Health Study and the Women’s Health Initiative), results were essentially unchanged, while heterogeneity decreased for the GI-breast cancer (I<sup>2</sup> = 0%, <italic toggle="yes">p</italic> = 0.883), GI-colorectal cancer (I<sup>2</sup> = 9.7%, <italic toggle="yes">p</italic> = 0.353) and GL-breast cancer (I<sup>2</sup> = 6%, <italic toggle="yes">p</italic> = 0.384) meta-analyses, but not appreciably for the meta-analysis on GL and colorectal cancer (I<sup>2</sup> = 71.2%, <italic toggle="yes">p</italic> = 0.001). </p>
+<p>Most studies adjusted for the most relevant confounders, i.e., BMI/physical activity, energy intake, tobacco and social class, but some residual confounding is still possible. GI/GL are positively associated with diabetes, and diabetes increases the risk of colorectal, pancreatic, endometrial and perhaps breast cancer [<xref rid="B78-nutrients-11-02342" ref-type="bibr">78</xref>] (and possibly decreases the risk of prostate cancer) [<xref rid="B79-nutrients-11-02342" ref-type="bibr">79</xref>]. In addition, diabetic patients are often advised to change their diet to lower carbohydrate intake, and this could underestimate any positive association. Therefore, careful consideration of subjects’ diabetes condition is necessary when examining the relation of GI and GL with diabetes-related neoplasms. In most studies on colorectal, endometrial and prostate cancer, authors either: (1) excluded diabetics from the analyses; (2) gave RRs adjusted for diabetes; (3) reported that adjustment for diabetes or restricting the analyses to non-diabetic subjects did not influence the results; or (4) reported that the observed association was independent from diabetes. However, excluding women with diabetes slightly strengthened the association between GI and colorectal cancer risk in the Swedish Mammography Cohort [<xref rid="B80-nutrients-11-02342" ref-type="bibr">80</xref>], and higher GL was positively associated with endometrial cancer among nondiabetic women only in the Iowa Women’s Health Study [<xref rid="B81-nutrients-11-02342" ref-type="bibr">81</xref>].</p>
+<p>Major strengths of the present study are the consideration of many studies and cancer cases, which provided statistical power to detect moderate associations for most cancer sites, the use of a rigorous and systematic methodology for identifying and pooling evidence from previous studies, and the ability to examine GI and GL in association with several types of cancer from cohort and case-control studies in a single report.</p>
+</sec>
+<sec sec-type="conclusions" id="sec5-nutrients-11-02342">
+<title>5. Conclusions</title>
+<p>The present analysis provides the most comprehensive and updated quantification of the relation between GI, GL and cancer risk. It indicates moderate unfavorable effects of high versus low GI on colorectal, and possibly, bladder and kidney cancers, and a possible modest positive association between GL and endometrial cancer. Such small excess risks may, however, be relevant at the population level, due to the high incidence of selected cancers, namely colorectal and breast cancer. </p>
+</sec>
+</body>
+<back>
+<app-group>
+<app id="app1-nutrients-11-02342">
+<title>Supplementary Materials</title>
+<supplementary-material content-type="local-data" id="nutrients-11-02342-s001" position="float" orientation="portrait">
+<media ns1:href="nutrients-11-02342-s001.pdf" position="float" orientation="portrait">
+<caption>
+<p>Click here for additional data file.</p>
+</caption>
+</media>
+</supplementary-material>
+<p>The following are available online at <uri ns1:href="https://www.mdpi.com/2072-6643/11/10/2342/s1">https://www.mdpi.com/2072-6643/11/10/2342/s1</uri>, Supplementary Material: References of studies included in the meta-analyses by cancer site (in alphabetical order).</p>
+</app>
+</app-group>
+<notes>
+<title>Author Contributions</title>
+<p>C.L.V. conceived and supervised the project; F.T. and C.G. conducted the analyses; F.T. drafted the manuscript; L.S.A.A. aided in interpreting the results; and all authors critically revised the manuscript for intellectual content.</p>
+</notes>
+<notes>
+<title>Funding</title>
+<p>This research was partially supported by Department funding and the Italian League for the Fight against Cancer.</p>
+</notes>
+<notes notes-type="COI-statement">
+<title>Conflicts of Interest</title>
+<p>The authors declare no conflict of interest.</p>
+</notes>
+<ref-list>
+<title>References</title>
+<ref id="B1-nutrients-11-02342">
+<label>1.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jenkins</surname>
+<given-names>D.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Wolever</surname>
+<given-names>T.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>R.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Barker</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Fielden</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Baldwin</surname>
+<given-names>J.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Bowling</surname>
+<given-names>A.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Newman</surname>
+<given-names>H.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Jenkins</surname>
+<given-names>A.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Goff</surname>
+<given-names>D.V.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index of foods: A physiological basis for carbohydrate exchange</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>1981</year>
+<volume>34</volume>
+<fpage>362</fpage>
+<lpage>366</lpage>
+<pub-id pub-id-type="doi">10.1093/ajcn/34.3.362</pub-id>
+<pub-id pub-id-type="pmid">6259925</pub-id>
+</element-citation>
+</ref>
+<ref id="B2-nutrients-11-02342">
+<label>2.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Atkinson</surname>
+<given-names>F.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Foster-Powell</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Brand-Miller</surname>
+<given-names>J.C.</given-names>
+</name>
+</person-group>
+<article-title>International tables of glycemic index and glycemic load values: 2008</article-title>
+<source>Diabetes Care</source>
+<year>2008</year>
+<volume>31</volume>
+<fpage>2281</fpage>
+<lpage>2283</lpage>
+<pub-id pub-id-type="doi">10.2337/dc08-1239</pub-id>
+<pub-id pub-id-type="pmid">18835944</pub-id>
+<pub-id pub-id-type="pmcid">PMC2584181</pub-id>
+</element-citation>
+</ref>
+<ref id="B3-nutrients-11-02342">
+<label>3.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Augustin</surname>
+<given-names>L.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Kendall</surname>
+<given-names>C.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Jenkins</surname>
+<given-names>D.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Willett</surname>
+<given-names>W.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Astrup</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Barclay</surname>
+<given-names>A.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Bjorck</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Brand-Miller</surname>
+<given-names>J.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Brighenti</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Buyken</surname>
+<given-names>A.E.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Glycemic index, glycemic load and glycemic response: An international scientific consensus summit from the international carbohydrate quality consortium (icqc)</article-title>
+<source>Nutr. Metab. Cardiovasc. Dis.</source>
+<year>2015</year>
+<volume>25</volume>
+<fpage>795</fpage>
+<lpage>815</lpage>
+<pub-id pub-id-type="doi">10.1016/j.numecd.2015.05.005</pub-id>
+<pub-id pub-id-type="pmid">26160327</pub-id>
+</element-citation>
+</ref>
+<ref id="B4-nutrients-11-02342">
+<label>4.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brand-Miller</surname>
+<given-names>J.C.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic load and chronic disease</article-title>
+<source>Nutr. Rev.</source>
+<year>2003</year>
+<volume>61</volume>
+<fpage>S49</fpage>
+<lpage>S55</lpage>
+<pub-id pub-id-type="doi">10.1301/nr.2003.may.S49-S55</pub-id>
+<pub-id pub-id-type="pmid">12828192</pub-id>
+</element-citation>
+</ref>
+<ref id="B5-nutrients-11-02342">
+<label>5.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Augustin</surname>
+<given-names>L.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Franceschi</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Jenkins</surname>
+<given-names>D.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Kendall</surname>
+<given-names>C.W.</given-names>
+</name>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index in chronic disease: A review</article-title>
+<source>Eur. J. Clin. Nutr.</source>
+<year>2002</year>
+<volume>56</volume>
+<fpage>1049</fpage>
+<lpage>1071</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.ejcn.1601454</pub-id>
+<pub-id pub-id-type="pmid">12428171</pub-id>
+</element-citation>
+</ref>
+<ref id="B6-nutrients-11-02342">
+<label>6.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sieri</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Krogh</surname>
+<given-names>V.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycemic index, glycemic load and cancer: An overview of the literature</article-title>
+<source>Nutr. Metab. Cardiovasc. Dis.</source>
+<year>2017</year>
+<volume>27</volume>
+<fpage>18</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1016/j.numecd.2016.09.014</pub-id>
+<pub-id pub-id-type="pmid">27986350</pub-id>
+</element-citation>
+</ref>
+<ref id="B7-nutrients-11-02342">
+<label>7.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Reynolds</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Mann</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Cummings</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Winter</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Mete</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Te Morenga</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<article-title>Carbohydrate quality and human health: A series of systematic reviews and meta-analyses</article-title>
+<source>Lancet</source>
+<year>2019</year>
+<volume>393</volume>
+<fpage>434</fpage>
+<lpage>445</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(18)31809-9</pub-id>
+<pub-id pub-id-type="pmid">30638909</pub-id>
+</element-citation>
+</ref>
+<ref id="B8-nutrients-11-02342">
+<label>8.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kaaks</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Lukanova</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<article-title>Energy balance and cancer: The role of insulin and insulin-like growth factor-i</article-title>
+<source>Proc. Nutr. Soc.</source>
+<year>2001</year>
+<volume>60</volume>
+<fpage>91</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="doi">10.1079/PNS200070</pub-id>
+<pub-id pub-id-type="pmid">11310428</pub-id>
+</element-citation>
+</ref>
+<ref id="B9-nutrients-11-02342">
+<label>9.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Renehan</surname>
+<given-names>A.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Zwahlen</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Minder</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>O’Dwyer</surname>
+<given-names>S.T.</given-names>
+</name>
+<name name-style="western">
+<surname>Shalet</surname>
+<given-names>S.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Egger</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<article-title>Insulin-like growth factor (igf)-i, igf binding protein-3, and cancer risk: Systematic review and meta-regression analysis</article-title>
+<source>Lancet</source>
+<year>2004</year>
+<volume>363</volume>
+<fpage>1346</fpage>
+<lpage>1353</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(04)16044-3</pub-id>
+<pub-id pub-id-type="pmid">15110491</pub-id>
+</element-citation>
+</ref>
+<ref id="B10-nutrients-11-02342">
+<label>10.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jee</surname>
+<given-names>S.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Ohrr</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Sull</surname>
+<given-names>J.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Yun</surname>
+<given-names>J.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Ji</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Samet</surname>
+<given-names>J.M.</given-names>
+</name>
+</person-group>
+<article-title>Fasting serum glucose level and cancer risk in korean men and women</article-title>
+<source>JAMA</source>
+<year>2005</year>
+<volume>293</volume>
+<fpage>194</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="doi">10.1001/jama.293.2.194</pub-id>
+<pub-id pub-id-type="pmid">15644546</pub-id>
+</element-citation>
+</ref>
+<ref id="B11-nutrients-11-02342">
+<label>11.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Lauby-Secretan</surname>
+<given-names>B.</given-names>
+</name>
+<name name-style="western">
+<surname>Scoccianti</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Loomis</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Grosse</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Bianchini</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Straif</surname>
+<given-names>K.</given-names>
+</name>
+</person-group>
+<article-title>Body fatness and cancer—Viewpoint of the iarc working group</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2016</year>
+<volume>375</volume>
+<fpage>794</fpage>
+<lpage>798</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMsr1606602</pub-id>
+<pub-id pub-id-type="pmid">27557308</pub-id>
+<pub-id pub-id-type="pmcid">PMC6754861</pub-id>
+</element-citation>
+</ref>
+<ref id="B12-nutrients-11-02342">
+<label>12.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bosetti</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Rosato</surname>
+<given-names>V.</given-names>
+</name>
+<name name-style="western">
+<surname>Polesel</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Levi</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Talamini</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Montella</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Negri</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Tavani</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Zucchetto</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Franceschi</surname>
+<given-names>S.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Diabetes mellitus and cancer risk in a network of case-control studies</article-title>
+<source>Nutr. Cancer</source>
+<year>2012</year>
+<volume>64</volume>
+<fpage>643</fpage>
+<lpage>651</lpage>
+<pub-id pub-id-type="doi">10.1080/01635581.2012.676141</pub-id>
+<pub-id pub-id-type="pmid">22519904</pub-id>
+</element-citation>
+</ref>
+<ref id="B13-nutrients-11-02342">
+<label>13.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Turati</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Galeone</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Gandini</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Augustin</surname>
+<given-names>L.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Jenkins</surname>
+<given-names>D.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Pelucchi</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<article-title>High glycemic index and glycemic load are associated with moderately increased cancer risk</article-title>
+<source>Mol. Nutr. Food Res.</source>
+<year>2015</year>
+<volume>59</volume>
+<fpage>1384</fpage>
+<lpage>1394</lpage>
+<pub-id pub-id-type="doi">10.1002/mnfr.201400594</pub-id>
+<pub-id pub-id-type="pmid">25693843</pub-id>
+</element-citation>
+</ref>
+<ref id="B14-nutrients-11-02342">
+<label>14.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Castro-Quezada</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Sanchez-Villegas</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Martinez-Gonzalez</surname>
+<given-names>M.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Salas-Salvado</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Corella</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Estruch</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Schroder</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Alvarez-Perez</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Ruiz-Lopez</surname>
+<given-names>M.D.</given-names>
+</name>
+<name name-style="western">
+<surname>Artacho</surname>
+<given-names>R.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Glycemic index, glycemic load and invasive breast cancer incidence in postmenopausal women: The predimed study</article-title>
+<source>Eur. J. Cancer Prev.</source>
+<year>2016</year>
+<volume>25</volume>
+<fpage>524</fpage>
+<lpage>532</lpage>
+<pub-id pub-id-type="doi">10.1097/CEJ.0000000000000209</pub-id>
+<pub-id pub-id-type="pmid">26633163</pub-id>
+</element-citation>
+</ref>
+<ref id="B15-nutrients-11-02342">
+<label>15.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Amadou</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Degoul</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Hainaut</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Chajes</surname>
+<given-names>V.</given-names>
+</name>
+<name name-style="western">
+<surname>Biessy</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Torres Mejia</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Huybrechts</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Moreno Macia</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Ortega</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Angeles-Llerenas</surname>
+<given-names>A.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Dietary carbohydrate, glycemic index, glycemic load, and breast cancer risk among mexican women</article-title>
+<source>Epidemiology</source>
+<year>2015</year>
+<volume>26</volume>
+<fpage>917</fpage>
+<lpage>924</lpage>
+<pub-id pub-id-type="doi">10.1097/EDE.0000000000000374</pub-id>
+<pub-id pub-id-type="pmid">26340313</pub-id>
+</element-citation>
+</ref>
+<ref id="B16-nutrients-11-02342">
+<label>16.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Farvid</surname>
+<given-names>M.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Eliassen</surname>
+<given-names>A.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Cho</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>W.Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Willett</surname>
+<given-names>W.C.</given-names>
+</name>
+</person-group>
+<article-title>Adolescent and early adulthood dietary carbohydrate quantity and quality in relation to breast cancer risk</article-title>
+<source>Cancer Epidemiol. Biomark. Prev.</source>
+<year>2015</year>
+<volume>24</volume>
+<fpage>1111</fpage>
+<lpage>1120</lpage>
+<pub-id pub-id-type="doi">10.1158/1055-9965.EPI-14-1401</pub-id>
+<pub-id pub-id-type="pmid">25805068</pub-id>
+<pub-id pub-id-type="pmcid">PMC4490995</pub-id>
+</element-citation>
+</ref>
+<ref id="B17-nutrients-11-02342">
+<label>17.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Abe</surname>
+<given-names>S.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Inoue</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Sawada</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Ishihara</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Iwasaki</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Yamaji</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Shimazu</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Sasazuki</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Tsugane</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index and glycemic load and risk of colorectal cancer: A population-based cohort study (jphc study)</article-title>
+<source>Cancer Causes Control</source>
+<year>2016</year>
+<volume>27</volume>
+<fpage>583</fpage>
+<lpage>593</lpage>
+<pub-id pub-id-type="doi">10.1007/s10552-016-0733-6</pub-id>
+<pub-id pub-id-type="pmid">26960926</pub-id>
+</element-citation>
+</ref>
+<ref id="B18-nutrients-11-02342">
+<label>18.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Zamora-Ros</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Rinaldi</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Tsilidis</surname>
+<given-names>K.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Weiderpass</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Boutron-Ruault</surname>
+<given-names>M.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Rostgaard-Hansen</surname>
+<given-names>A.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Tjonneland</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Clavel-Chapelon</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Mesrine</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Katzke</surname>
+<given-names>V.A.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Energy and macronutrient intake and risk of differentiated thyroid carcinoma in the european prospective investigation into cancer and nutrition study</article-title>
+<source>Int. J. Cancer</source>
+<year>2016</year>
+<volume>138</volume>
+<fpage>65</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="doi">10.1002/ijc.29693</pub-id>
+<pub-id pub-id-type="pmid">26190646</pub-id>
+<pub-id pub-id-type="pmcid">PMC6300115</pub-id>
+</element-citation>
+</ref>
+<ref id="B19-nutrients-11-02342">
+<label>19.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Larsson</surname>
+<given-names>S.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>E.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Wolk</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<article-title>Prospective study of glycemic load, glycemic index, and carbohydrate intake in relation to risk of biliary tract cancer</article-title>
+<source>Am. J. Gastroenterol.</source>
+<year>2016</year>
+<volume>111</volume>
+<fpage>891</fpage>
+<lpage>896</lpage>
+<pub-id pub-id-type="doi">10.1038/ajg.2016.101</pub-id>
+<pub-id pub-id-type="pmid">27021191</pub-id>
+</element-citation>
+</ref>
+<ref id="B20-nutrients-11-02342">
+<label>20.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brenner</surname>
+<given-names>D.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Speidel</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Csizmadi</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Biel</surname>
+<given-names>R.K.</given-names>
+</name>
+<name name-style="western">
+<surname>Cook</surname>
+<given-names>L.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Courneya</surname>
+<given-names>K.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Friedenreich</surname>
+<given-names>C.M.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic load and endometrial cancer risk in a case-control study of canadian women</article-title>
+<source>Cancer Epidemiol.</source>
+<year>2015</year>
+<volume>39</volume>
+<fpage>170</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="doi">10.1016/j.canep.2015.01.002</pub-id>
+<pub-id pub-id-type="pmid">25649355</pub-id>
+</element-citation>
+</ref>
+<ref id="B21-nutrients-11-02342">
+<label>21.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Qin</surname>
+<given-names>B.</given-names>
+</name>
+<name name-style="western">
+<surname>Moorman</surname>
+<given-names>P.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Alberg</surname>
+<given-names>A.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Barnholtz-Sloan</surname>
+<given-names>J.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Bondy</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Cote</surname>
+<given-names>M.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Funkhouser</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Peters</surname>
+<given-names>E.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Schwartz</surname>
+<given-names>A.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Terry</surname>
+<given-names>P.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Dietary carbohydrate intake, glycaemic load, glycaemic index and ovarian cancer risk in african-american women</article-title>
+<source>Br. J. Nutr.</source>
+<year>2016</year>
+<volume>115</volume>
+<fpage>694</fpage>
+<lpage>702</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114515004882</pub-id>
+<pub-id pub-id-type="pmid">26669283</pub-id>
+<pub-id pub-id-type="pmcid">PMC4844174</pub-id>
+</element-citation>
+</ref>
+<ref id="B22-nutrients-11-02342">
+<label>22.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Melkonian</surname>
+<given-names>S.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Daniel</surname>
+<given-names>C.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Ye</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Pierzynski</surname>
+<given-names>J.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Roth</surname>
+<given-names>J.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Wu</surname>
+<given-names>X.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index, glycemic load, and lung cancer risk in non-hispanic whites</article-title>
+<source>Cancer Epidemiol. Biomark. Prev.</source>
+<year>2016</year>
+<volume>25</volume>
+<fpage>532</fpage>
+<lpage>539</lpage>
+<pub-id pub-id-type="doi">10.1158/1055-9965.EPI-15-0765</pub-id>
+<pub-id pub-id-type="pmid">26944871</pub-id>
+<pub-id pub-id-type="pmcid">PMC4780226</pub-id>
+</element-citation>
+</ref>
+<ref id="B23-nutrients-11-02342">
+<label>23.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Malavolti</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Malagoli</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Crespi</surname>
+<given-names>C.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Brighenti</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Agnoli</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Sieri</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Krogh</surname>
+<given-names>V.</given-names>
+</name>
+<name name-style="western">
+<surname>Fiorentini</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Farnetani</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Longo</surname>
+<given-names>C.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Glycaemic index, glycaemic load and risk of cutaneous melanoma in a population-based, case-control study</article-title>
+<source>Br. J. Nutr.</source>
+<year>2017</year>
+<volume>117</volume>
+<fpage>432</fpage>
+<lpage>438</lpage>
+<pub-id pub-id-type="doi">10.1017/S000711451700006X</pub-id>
+<pub-id pub-id-type="pmid">28196548</pub-id>
+</element-citation>
+</ref>
+<ref id="B24-nutrients-11-02342">
+<label>24.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Li</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Petrick</surname>
+<given-names>J.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Steck</surname>
+<given-names>S.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Bradshaw</surname>
+<given-names>P.T.</given-names>
+</name>
+<name name-style="western">
+<surname>McClain</surname>
+<given-names>K.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Niehoff</surname>
+<given-names>N.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Engel</surname>
+<given-names>L.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Shaheen</surname>
+<given-names>N.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Risch</surname>
+<given-names>H.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Vaughan</surname>
+<given-names>T.L.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A pooled analysis of dietary sugar/carbohydrate intake and esophageal and gastric cardia adenocarcinoma incidence and survival in the USA</article-title>
+<source>Int. J. Epidemiol.</source>
+<year>2017</year>
+<volume>46</volume>
+<fpage>1836</fpage>
+<lpage>1846</lpage>
+<pub-id pub-id-type="doi">10.1093/ije/dyx203</pub-id>
+<pub-id pub-id-type="pmid">29040685</pub-id>
+<pub-id pub-id-type="pmcid">PMC5837717</pub-id>
+</element-citation>
+</ref>
+<ref id="B25-nutrients-11-02342">
+<label>25.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sun</surname>
+<given-names>J.W.</given-names>
+</name>
+<name name-style="western">
+<surname>Zheng</surname>
+<given-names>W.</given-names>
+</name>
+<name name-style="western">
+<surname>Li</surname>
+<given-names>H.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Gao</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Yang</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Gao</surname>
+<given-names>Y.T.</given-names>
+</name>
+<name name-style="western">
+<surname>Rothman</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Lan</surname>
+<given-names>Q.</given-names>
+</name>
+<name name-style="western">
+<surname>Shu</surname>
+<given-names>X.O.</given-names>
+</name>
+<name name-style="western">
+<surname>Xiang</surname>
+<given-names>Y.B.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycemic load, glycemic index, and carbohydrate intake on the risk of lung cancer among men and women in shanghai</article-title>
+<source>Nutr. Cancer</source>
+<year>2018</year>
+<volume>70</volume>
+<fpage>671</fpage>
+<lpage>677</lpage>
+<pub-id pub-id-type="doi">10.1080/01635581.2018.1460675</pub-id>
+<pub-id pub-id-type="pmid">29668313</pub-id>
+<pub-id pub-id-type="pmcid">PMC6527441</pub-id>
+</element-citation>
+</ref>
+<ref id="B26-nutrients-11-02342">
+<label>26.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sieri</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Agnoli</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Pala</surname>
+<given-names>V.</given-names>
+</name>
+<name name-style="western">
+<surname>Grioni</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Brighenti</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Pellegrini</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Masala</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Palli</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Mattiello</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Panico</surname>
+<given-names>S.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Dietary glycemic index, glycemic load, and cancer risk: Results from the epic-italy study</article-title>
+<source>Sci. Rep.</source>
+<year>2017</year>
+<volume>7</volume>
+<fpage>9757</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-017-09498-2</pub-id>
+<pub-id pub-id-type="pmid">28851931</pub-id>
+<pub-id pub-id-type="pmcid">PMC5575161</pub-id>
+</element-citation>
+</ref>
+<ref id="B27-nutrients-11-02342">
+<label>27.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Zhu</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Tu</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Matin</surname>
+<given-names>S.F.</given-names>
+</name>
+<name name-style="western">
+<surname>Tannir</surname>
+<given-names>N.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Wood</surname>
+<given-names>C.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Wu</surname>
+<given-names>X.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index, glycemic load and carbohydrate intake in association with risk of renal cell carcinoma</article-title>
+<source>Carcinogenesis</source>
+<year>2017</year>
+<volume>38</volume>
+<fpage>1129</fpage>
+<lpage>1135</lpage>
+<pub-id pub-id-type="doi">10.1093/carcin/bgx083</pub-id>
+<pub-id pub-id-type="pmid">28968893</pub-id>
+<pub-id pub-id-type="pmcid">PMC5862287</pub-id>
+</element-citation>
+</ref>
+<ref id="B28-nutrients-11-02342">
+<label>28.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Augustin</surname>
+<given-names>L.S.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Taborelli</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Montella</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Libra</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Tavani</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Crispo</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Grimaldi</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Facchini</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Jenkins</surname>
+<given-names>D.J.A.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Associations of dietary carbohydrates, glycaemic index and glycaemic load with risk of bladder cancer: A case-control study</article-title>
+<source>Br. J. Nutr.</source>
+<year>2017</year>
+<volume>118</volume>
+<fpage>722</fpage>
+<lpage>729</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114517002574</pub-id>
+<pub-id pub-id-type="pmid">28990544</pub-id>
+</element-citation>
+</ref>
+<ref id="B29-nutrients-11-02342">
+<label>29.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Makarem</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Bandera</surname>
+<given-names>E.V.</given-names>
+</name>
+<name name-style="western">
+<surname>Lin</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Jacques</surname>
+<given-names>P.F.</given-names>
+</name>
+<name name-style="western">
+<surname>Hayes</surname>
+<given-names>R.B.</given-names>
+</name>
+<name name-style="western">
+<surname>Parekh</surname>
+<given-names>N.</given-names>
+</name>
+</person-group>
+<article-title>Carbohydrate nutrition and risk of adiposity-related cancers: Results from the framingham offspring cohort (1991–2013)</article-title>
+<source>Br. J. Nutr.</source>
+<year>2017</year>
+<volume>117</volume>
+<fpage>1603</fpage>
+<lpage>1614</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114517001489</pub-id>
+<pub-id pub-id-type="pmid">28660846</pub-id>
+<pub-id pub-id-type="pmcid">PMC7234815</pub-id>
+</element-citation>
+</ref>
+<ref id="B30-nutrients-11-02342">
+<label>30.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Haluszka</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Davila</surname>
+<given-names>V.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Aballay</surname>
+<given-names>L.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Del Pilar Diaz</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Osella</surname>
+<given-names>A.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Niclis</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<article-title>Association of the glycaemic index and the glycaemic load with colorectal cancer in the population of cordoba (argentina): Results of a case-control study using a multilevel modelling approach</article-title>
+<source>Br. J. Nutr.</source>
+<year>2019</year>
+<pub-id pub-id-type="doi">10.1017/S0007114519000035</pub-id>
+<pub-id pub-id-type="pmid">30678740</pub-id>
+</element-citation>
+</ref>
+<ref id="B31-nutrients-11-02342">
+<label>31.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Huang</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Fang</surname>
+<given-names>Y.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Xu</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Luo</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Zhang</surname>
+<given-names>N.Q.</given-names>
+</name>
+<name name-style="western">
+<surname>Huang</surname>
+<given-names>W.Q.</given-names>
+</name>
+<name name-style="western">
+<surname>Pan</surname>
+<given-names>Z.Z.</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>Y.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Zhang</surname>
+<given-names>C.X.</given-names>
+</name>
+</person-group>
+<article-title>Carbohydrate, dietary glycaemic index and glycaemic load, and colorectal cancer risk: A case-control study in china</article-title>
+<source>Br. J. Nutr.</source>
+<year>2018</year>
+<volume>119</volume>
+<fpage>937</fpage>
+<lpage>948</lpage>
+<pub-id pub-id-type="doi">10.1017/S000711451800051X</pub-id>
+<pub-id pub-id-type="pmid">29644952</pub-id>
+</element-citation>
+</ref>
+<ref id="B32-nutrients-11-02342">
+<label>32.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Guerrero</surname>
+<given-names>C.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Gamboa-Loira</surname>
+<given-names>B.</given-names>
+</name>
+<name name-style="western">
+<surname>Merida-Ortega</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Lopez-Carrillo</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycemic index and glycemic load and risk of breast cancer by molecular subtype in mexican women</article-title>
+<source>Nutr. Cancer</source>
+<year>2019</year>
+<pub-id pub-id-type="doi">10.1080/01635581.2019.1607408</pub-id>
+<pub-id pub-id-type="pmid">31058544</pub-id>
+</element-citation>
+</ref>
+<ref id="B33-nutrients-11-02342">
+<label>33.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hartman</surname>
+<given-names>T.J.</given-names>
+</name>
+<name name-style="western">
+<surname>McCullough</surname>
+<given-names>M.L.</given-names>
+</name>
+<name name-style="western">
+<surname>Hodge</surname>
+<given-names>J.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Gaudet</surname>
+<given-names>M.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Gapstur</surname>
+<given-names>S.M.</given-names>
+</name>
+</person-group>
+<article-title>Dietary energy density, glycemic load, glycemic index, and risk for endometrial cancer in the cps-ii nutrition cohort</article-title>
+<source>Cancer Epidemiol. Biomark. Prev.</source>
+<year>2018</year>
+<volume>27</volume>
+<fpage>113</fpage>
+<lpage>115</lpage>
+<pub-id pub-id-type="doi">10.1158/1055-9965.EPI-17-0964</pub-id>
+<pub-id pub-id-type="pmid">29284671</pub-id>
+</element-citation>
+</ref>
+<ref id="B34-nutrients-11-02342">
+<label>34.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Schlesinger</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Chan</surname>
+<given-names>D.S.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Vingeliene</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Vieira</surname>
+<given-names>A.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Abar</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Polemiti</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Stevens</surname>
+<given-names>C.A.T.</given-names>
+</name>
+<name name-style="western">
+<surname>Greenwood</surname>
+<given-names>D.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Aune</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Norat</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<article-title>Carbohydrates, glycemic index, glycemic load, and breast cancer risk: A systematic review and dose-response meta-analysis of prospective studies</article-title>
+<source>Nutr. Rev.</source>
+<year>2017</year>
+<volume>75</volume>
+<fpage>420</fpage>
+<lpage>441</lpage>
+<pub-id pub-id-type="doi">10.1093/nutrit/nux010</pub-id>
+<pub-id pub-id-type="pmid">28969357</pub-id>
+</element-citation>
+</ref>
+<ref id="B35-nutrients-11-02342">
+<label>35.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mullie</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Koechlin</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Boniol</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Autier</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Boyle</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<article-title>Relation between breast cancer and high glycemic index or glycemic load: A meta-analysis of prospective cohort studies</article-title>
+<source>Crit. Rev. Food Sci. Nutr.</source>
+<year>2016</year>
+<volume>56</volume>
+<fpage>152</fpage>
+<lpage>159</lpage>
+<pub-id pub-id-type="doi">10.1080/10408398.2012.718723</pub-id>
+<pub-id pub-id-type="pmid">25747120</pub-id>
+</element-citation>
+</ref>
+<ref id="B36-nutrients-11-02342">
+<label>36.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Xu</surname>
+<given-names>X.</given-names>
+</name>
+<name name-style="western">
+<surname>Zhu</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Li</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Dietary fiber, glycemic index, glycemic load, and renal cell carcinoma risk</article-title>
+<source>Carcinogenesis</source>
+<year>2019</year>
+<volume>40</volume>
+<fpage>441</fpage>
+<lpage>447</lpage>
+<pub-id pub-id-type="doi">10.1093/carcin/bgz049</pub-id>
+<pub-id pub-id-type="pmid">30859214</pub-id>
+</element-citation>
+</ref>
+<ref id="B37-nutrients-11-02342">
+<label>37.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ye</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Wu</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Xu</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Ding</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Shan</surname>
+<given-names>X.</given-names>
+</name>
+<name name-style="western">
+<surname>Xia</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<article-title>Association between dietary carbohydrate intake, glycemic index and glycemic load, and risk of gastric cancer</article-title>
+<source>Eur. J. Nutr.</source>
+<year>2017</year>
+<volume>56</volume>
+<fpage>1169</fpage>
+<lpage>1177</lpage>
+<pub-id pub-id-type="doi">10.1007/s00394-016-1166-4</pub-id>
+<pub-id pub-id-type="pmid">26873099</pub-id>
+</element-citation>
+</ref>
+<ref id="B38-nutrients-11-02342">
+<label>38.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>R.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Tang</surname>
+<given-names>J.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Gao</surname>
+<given-names>J.G.</given-names>
+</name>
+</person-group>
+<article-title>Dietary fiber, whole grains, carbohydrate, glycemic index, and glycemic load in relation to risk of prostate cancer</article-title>
+<source>Onco Targets Ther.</source>
+<year>2015</year>
+<volume>8</volume>
+<fpage>2415</fpage>
+<lpage>2426</lpage>
+<pub-id pub-id-type="pmid">26366096</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S88528</pub-id>
+<pub-id pub-id-type="pmcid">PMC4562756</pub-id>
+</element-citation>
+</ref>
+<ref id="B39-nutrients-11-02342">
+<label>39.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sadeghi</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Sadeghi</surname>
+<given-names>O.</given-names>
+</name>
+<name name-style="western">
+<surname>Khodadost</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Pirouzi</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Hosseini</surname>
+<given-names>B.</given-names>
+</name>
+<name name-style="western">
+<surname>Saedisomeolia</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycemic index and glycemic load and the risk of prostate cancer: An updated systematic review and dose-response meta-analysis</article-title>
+<source>Nutr. Cancer</source>
+<year>2019</year>
+<pub-id pub-id-type="doi">10.1080/01635581.2019.1621356</pub-id>
+<pub-id pub-id-type="pmid">31184513</pub-id>
+</element-citation>
+</ref>
+<ref id="B40-nutrients-11-02342">
+<label>40.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Willett</surname>
+<given-names>W.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Carbohydrate quality and health: Distilling simple truths from complexity</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2019</year>
+<volume>110</volume>
+<fpage>803</fpage>
+<lpage>804</lpage>
+<pub-id pub-id-type="doi">10.1093/ajcn/nqz215</pub-id>
+<pub-id pub-id-type="pmid">31504123</pub-id>
+</element-citation>
+</ref>
+<ref id="B41-nutrients-11-02342">
+<label>41.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Moher</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Liberati</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Tetzlaff</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Altman</surname>
+<given-names>D.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Group</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<article-title>Preferred reporting items for systematic reviews and meta-analyses: The prisma statement</article-title>
+<source>BMJ</source>
+<year>2009</year>
+<volume>339</volume>
+<fpage>b2535</fpage>
+<pub-id pub-id-type="doi">10.1136/bmj.b2535</pub-id>
+<pub-id pub-id-type="pmid">19622551</pub-id>
+<pub-id pub-id-type="pmcid">PMC2714657</pub-id>
+</element-citation>
+</ref>
+<ref id="B42-nutrients-11-02342">
+<label>42.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Nagata</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Wada</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Tsuji</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Kawachi</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Nakamura</surname>
+<given-names>K.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycaemic index and glycaemic load in relation to all-cause and cause-specific mortality in a japanese community: The takayama study</article-title>
+<source>Br. J. Nutr.</source>
+<year>2014</year>
+<volume>112</volume>
+<fpage>2010</fpage>
+<lpage>2017</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114514003109</pub-id>
+<pub-id pub-id-type="pmid">25327340</pub-id>
+</element-citation>
+</ref>
+<ref id="B43-nutrients-11-02342">
+<label>43.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Giles</surname>
+<given-names>G.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Simpson</surname>
+<given-names>J.A.</given-names>
+</name>
+<name name-style="western">
+<surname>English</surname>
+<given-names>D.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Hodge</surname>
+<given-names>A.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Gertig</surname>
+<given-names>D.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Macinnis</surname>
+<given-names>R.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Hopper</surname>
+<given-names>J.L.</given-names>
+</name>
+</person-group>
+<article-title>Dietary carbohydrate, fibre, glycaemic index, glycaemic load and the risk of postmenopausal breast cancer</article-title>
+<source>Int. J. Cancer</source>
+<year>2006</year>
+<volume>118</volume>
+<fpage>1843</fpage>
+<lpage>1847</lpage>
+<pub-id pub-id-type="doi">10.1002/ijc.21548</pub-id>
+<pub-id pub-id-type="pmid">16217755</pub-id>
+</element-citation>
+</ref>
+<ref id="B44-nutrients-11-02342">
+<label>44.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fedirko</surname>
+<given-names>V.</given-names>
+</name>
+<name name-style="western">
+<surname>Lukanova</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Bamia</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Trichopolou</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Trepo</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Nothlings</surname>
+<given-names>U.</given-names>
+</name>
+<name name-style="western">
+<surname>Schlesinger</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Aleksandrova</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Boffetta</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Tjonneland</surname>
+<given-names>A.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Glycemic index, glycemic load, dietary carbohydrate, and dietary fiber intake and risk of liver and biliary tract cancers in western europeans</article-title>
+<source>Ann. Oncol.</source>
+<year>2013</year>
+<volume>24</volume>
+<fpage>543</fpage>
+<lpage>553</lpage>
+<pub-id pub-id-type="doi">10.1093/annonc/mds434</pub-id>
+<pub-id pub-id-type="pmid">23123507</pub-id>
+<pub-id pub-id-type="pmcid">PMC3551485</pub-id>
+</element-citation>
+</ref>
+<ref id="B45-nutrients-11-02342">
+<label>45.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Greenland</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Quantitative methods in the review of epidemiologic literature</article-title>
+<source>Epidemiol. Rev.</source>
+<year>1987</year>
+<volume>9</volume>
+<fpage>1</fpage>
+<lpage>30</lpage>
+<pub-id pub-id-type="doi">10.1093/oxfordjournals.epirev.a036298</pub-id>
+<pub-id pub-id-type="pmid">3678409</pub-id>
+</element-citation>
+</ref>
+<ref id="B46-nutrients-11-02342">
+<label>46.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Higgins</surname>
+<given-names>J.P.</given-names>
+</name>
+<name name-style="western">
+<surname>Thompson</surname>
+<given-names>S.G.</given-names>
+</name>
+</person-group>
+<article-title>Quantifying heterogeneity in a meta-analysis</article-title>
+<source>Stat. Med.</source>
+<year>2002</year>
+<volume>21</volume>
+<fpage>1539</fpage>
+<lpage>1558</lpage>
+<pub-id pub-id-type="doi">10.1002/sim.1186</pub-id>
+<pub-id pub-id-type="pmid">12111919</pub-id>
+</element-citation>
+</ref>
+<ref id="B47-nutrients-11-02342">
+<label>47.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Egger</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Davey Smith</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Schneider</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Minder</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<article-title>Bias in meta-analysis detected by a simple, graphical test</article-title>
+<source>BMJ</source>
+<year>1997</year>
+<volume>315</volume>
+<fpage>629</fpage>
+<lpage>634</lpage>
+<pub-id pub-id-type="doi">10.1136/bmj.315.7109.629</pub-id>
+<pub-id pub-id-type="pmid">9310563</pub-id>
+<pub-id pub-id-type="pmcid">PMC2127453</pub-id>
+</element-citation>
+</ref>
+<ref id="B48-nutrients-11-02342">
+<label>48.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Cho</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Spiegelman</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Hunter</surname>
+<given-names>D.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>W.Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Colditz</surname>
+<given-names>G.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Willett</surname>
+<given-names>W.C.</given-names>
+</name>
+</person-group>
+<article-title>Premenopausal dietary carbohydrate, glycemic index, glycemic load, and fiber in relation to risk of breast cancer</article-title>
+<source>Cancer Epidemiol. Biomark. Prev.</source>
+<year>2003</year>
+<volume>12</volume>
+<fpage>1153</fpage>
+<lpage>1158</lpage>
+<pub-id pub-id-type="pmid">14652274</pub-id>
+</element-citation>
+</ref>
+<ref id="B49-nutrients-11-02342">
+<label>49.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Sieri</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Krogh</surname>
+<given-names>V.</given-names>
+</name>
+<name name-style="western">
+<surname>Agnoli</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Ricceri</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Palli</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Masala</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Panico</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Mattiello</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Tumino</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Giurdanella</surname>
+<given-names>M.C.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Dietary glycemic index and glycemic load and risk of colorectal cancer: Results from the epic-italy study</article-title>
+<source>Int. J. Cancer</source>
+<year>2015</year>
+<volume>136</volume>
+<fpage>2923</fpage>
+<lpage>2931</lpage>
+<pub-id pub-id-type="doi">10.1002/ijc.29341</pub-id>
+<pub-id pub-id-type="pmid">25403784</pub-id>
+</element-citation>
+</ref>
+<ref id="B50-nutrients-11-02342">
+<label>50.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Romieu</surname>
+<given-names>I.</given-names>
+</name>
+<name name-style="western">
+<surname>Ferrari</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Rinaldi</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Slimani</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Jenab</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Olsen</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Tjonneland</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Overvad</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Boutron-Ruault</surname>
+<given-names>M.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Lajous</surname>
+<given-names>M.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Dietary glycemic index and glycemic load and breast cancer risk in the european prospective investigation into cancer and nutrition (epic)</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2012</year>
+<volume>96</volume>
+<fpage>345</fpage>
+<lpage>355</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.111.026724</pub-id>
+<pub-id pub-id-type="pmid">22760570</pub-id>
+</element-citation>
+</ref>
+<ref id="B51-nutrients-11-02342">
+<label>51.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Cust</surname>
+<given-names>A.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Slimani</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Kaaks</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>van Bakel</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Biessy</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Ferrari</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Laville</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Tjonneland</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Olsen</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Overvad</surname>
+<given-names>K.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Dietary carbohydrates, glycemic index, glycemic load, and endometrial cancer risk within the european prospective investigation into cancer and nutrition cohort</article-title>
+<source>Am. J. Epidemiol.</source>
+<year>2007</year>
+<volume>166</volume>
+<fpage>912</fpage>
+<lpage>923</lpage>
+<pub-id pub-id-type="doi">10.1093/aje/kwm161</pub-id>
+<pub-id pub-id-type="pmid">17670911</pub-id>
+</element-citation>
+</ref>
+<ref id="B52-nutrients-11-02342">
+<label>52.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>King</surname>
+<given-names>M.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Olson</surname>
+<given-names>S.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Paddock</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Chandran</surname>
+<given-names>U.</given-names>
+</name>
+<name name-style="western">
+<surname>Demissie</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Lu</surname>
+<given-names>S.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Parekh</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Rodriguez-Rodriguez</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Bandera</surname>
+<given-names>E.V.</given-names>
+</name>
+</person-group>
+<article-title>Sugary food and beverage consumption and epithelial ovarian cancer risk: A population-based case-control study</article-title>
+<source>BMC Cancer</source>
+<year>2013</year>
+<volume>13</volume>
+<elocation-id>94</elocation-id>
+<pub-id pub-id-type="doi">10.1186/1471-2407-13-94</pub-id>
+<pub-id pub-id-type="pmid">23442818</pub-id>
+<pub-id pub-id-type="pmcid">PMC3598848</pub-id>
+</element-citation>
+</ref>
+<ref id="B53-nutrients-11-02342">
+<label>53.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>George</surname>
+<given-names>S.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Mayne</surname>
+<given-names>S.T.</given-names>
+</name>
+<name name-style="western">
+<surname>Leitzmann</surname>
+<given-names>M.F.</given-names>
+</name>
+<name name-style="western">
+<surname>Park</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Schatzkin</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Flood</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Hollenbeck</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Subar</surname>
+<given-names>A.F.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycemic index, glycemic load, and risk of cancer: A prospective cohort study</article-title>
+<source>Am. J. Epidemiol.</source>
+<year>2009</year>
+<volume>169</volume>
+<fpage>462</fpage>
+<lpage>472</lpage>
+<pub-id pub-id-type="doi">10.1093/aje/kwn347</pub-id>
+<pub-id pub-id-type="pmid">19095757</pub-id>
+<pub-id pub-id-type="pmcid">PMC2726642</pub-id>
+</element-citation>
+</ref>
+<ref id="B54-nutrients-11-02342">
+<label>54.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Chatenoud</surname>
+<given-names>L.</given-names>
+</name>
+<name name-style="western">
+<surname>Negri</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Franceschi</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Session: Whole cereal grains, fibre and human cancer wholegrain cereals and cancer in italy</article-title>
+<source>Proc. Nutr. Soc.</source>
+<year>2003</year>
+<volume>62</volume>
+<fpage>45</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="doi">10.1079/PNS2002235</pub-id>
+<pub-id pub-id-type="pmid">12740056</pub-id>
+</element-citation>
+</ref>
+<ref id="B55-nutrients-11-02342">
+<label>55.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kawakita</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>Y.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Gren</surname>
+<given-names>L.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Buys</surname>
+<given-names>S.S.</given-names>
+</name>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Hashibe</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<article-title>Fiber intake and the risk of head and neck cancer in the prostate, lung, colorectal and ovarian (plco) cohort</article-title>
+<source>Int. J. Cancer</source>
+<year>2019</year>
+<volume>145</volume>
+<fpage>2342</fpage>
+<lpage>2348</lpage>
+<pub-id pub-id-type="doi">10.1002/ijc.32162</pub-id>
+<pub-id pub-id-type="pmid">30693489</pub-id>
+<pub-id pub-id-type="pmcid">PMC7771385</pub-id>
+</element-citation>
+</ref>
+<ref id="B56-nutrients-11-02342">
+<label>56.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Aune</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Chan</surname>
+<given-names>D.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Vieira</surname>
+<given-names>A.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Navarro Rosenblatt</surname>
+<given-names>D.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Vieira</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Greenwood</surname>
+<given-names>D.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Cade</surname>
+<given-names>J.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Burley</surname>
+<given-names>V.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Norat</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<article-title>Dietary fructose, carbohydrates, glycemic indices and pancreatic cancer risk: A systematic review and meta-analysis of cohort studies</article-title>
+<source>Ann. Oncol.</source>
+<year>2012</year>
+<volume>23</volume>
+<fpage>2536</fpage>
+<lpage>2546</lpage>
+<pub-id pub-id-type="doi">10.1093/annonc/mds076</pub-id>
+<pub-id pub-id-type="pmid">22539563</pub-id>
+</element-citation>
+</ref>
+<ref id="B57-nutrients-11-02342">
+<label>57.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Choi</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Lee</surname>
+<given-names>J.E.</given-names>
+</name>
+</person-group>
+<article-title>Glycaemic index and glycaemic load in relation to risk of diabetes-related cancers: A meta-analysis</article-title>
+<source>Br. J. Nutr.</source>
+<year>2012</year>
+<volume>108</volume>
+<fpage>1934</fpage>
+<lpage>1947</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114512003984</pub-id>
+<pub-id pub-id-type="pmid">23167978</pub-id>
+</element-citation>
+</ref>
+<ref id="B58-nutrients-11-02342">
+<label>58.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gnagnarella</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Gandini</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Maisonneuve</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index, glycemic load, and cancer risk: A meta-analysis</article-title>
+<source>Am. J. Clin Nutr.</source>
+<year>2008</year>
+<volume>87</volume>
+<fpage>1793</fpage>
+<lpage>1801</lpage>
+<pub-id pub-id-type="doi">10.1093/ajcn/87.6.1793</pub-id>
+<pub-id pub-id-type="pmid">18541570</pub-id>
+</element-citation>
+</ref>
+<ref id="B59-nutrients-11-02342">
+<label>59.</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>World Cancer Research Fund/American Institute for Cancer Research</collab>
+</person-group>
+<source>Diet, Nutrition, Physical Activity and Cancer: A Global Perspective</source>
+<comment>Continuous Update Project Expert Report</comment>
+<publisher-name>World Cancer Research Fund/American Institute for Cancer Research</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2018</year>
+</element-citation>
+</ref>
+<ref id="B60-nutrients-11-02342">
+<label>60.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Galeone</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Augustin</surname>
+<given-names>L.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Filomeno</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Malerba</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Zucchetto</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Pelucchi</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Montella</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Talamini</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Franceschi</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycemic index, glycemic load, and the risk of endometrial cancer: A case-control study and meta-analysis</article-title>
+<source>Eur. J. Cancer Prev.</source>
+<year>2013</year>
+<volume>22</volume>
+<fpage>38</fpage>
+<lpage>45</lpage>
+<pub-id pub-id-type="doi">10.1097/CEJ.0b013e328354d378</pub-id>
+<pub-id pub-id-type="pmid">22584216</pub-id>
+</element-citation>
+</ref>
+<ref id="B61-nutrients-11-02342">
+<label>61.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Nagle</surname>
+<given-names>C.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Olsen</surname>
+<given-names>C.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Ibiebele</surname>
+<given-names>T.I.</given-names>
+</name>
+<name name-style="western">
+<surname>Spurdle</surname>
+<given-names>A.B.</given-names>
+</name>
+<name name-style="western">
+<surname>Webb</surname>
+<given-names>P.M.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index, glycemic load and endometrial cancer risk: Results from the australian national endometrial cancer study and an updated systematic review and meta-analysis</article-title>
+<source>Eur. J. Nutr.</source>
+<year>2013</year>
+<volume>52</volume>
+<fpage>705</fpage>
+<lpage>715</lpage>
+<pub-id pub-id-type="doi">10.1007/s00394-012-0376-7</pub-id>
+<pub-id pub-id-type="pmid">22648201</pub-id>
+</element-citation>
+</ref>
+<ref id="B62-nutrients-11-02342">
+<label>62.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Aune</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Chan</surname>
+<given-names>D.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Lau</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Vieira</surname>
+<given-names>R.</given-names>
+</name>
+<name name-style="western">
+<surname>Greenwood</surname>
+<given-names>D.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Kampman</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Norat</surname>
+<given-names>T.</given-names>
+</name>
+</person-group>
+<article-title>Carbohydrates, glycemic index, glycemic load, and colorectal cancer risk: A systematic review and meta-analysis of cohort studies</article-title>
+<source>Cancer Causes Control</source>
+<year>2012</year>
+<volume>23</volume>
+<fpage>521</fpage>
+<lpage>535</lpage>
+<pub-id pub-id-type="doi">10.1007/s10552-012-9918-9</pub-id>
+<pub-id pub-id-type="pmid">22418776</pub-id>
+</element-citation>
+</ref>
+<ref id="B63-nutrients-11-02342">
+<label>63.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Galeone</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Pelucchi</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<article-title>Added sugar, glycemic index and load in colon cancer risk</article-title>
+<source>Curr. Opin. Clin. Nutr. Metab. Care</source>
+<year>2012</year>
+<volume>15</volume>
+<fpage>368</fpage>
+<lpage>373</lpage>
+<pub-id pub-id-type="doi">10.1097/MCO.0b013e3283539f81</pub-id>
+<pub-id pub-id-type="pmid">22510682</pub-id>
+</element-citation>
+</ref>
+<ref id="B64-nutrients-11-02342">
+<label>64.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mulholland</surname>
+<given-names>H.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Murray</surname>
+<given-names>L.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Cardwell</surname>
+<given-names>C.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Cantwell</surname>
+<given-names>M.M.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index, glycemic load, and risk of digestive tract neoplasms: A systematic review and meta-analysis</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2009</year>
+<volume>89</volume>
+<fpage>568</fpage>
+<lpage>576</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.2008.26823</pub-id>
+<pub-id pub-id-type="pmid">19088152</pub-id>
+</element-citation>
+</ref>
+<ref id="B65-nutrients-11-02342">
+<label>65.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mulholland</surname>
+<given-names>H.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Murray</surname>
+<given-names>L.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Cardwell</surname>
+<given-names>C.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Cantwell</surname>
+<given-names>M.M.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycaemic index, glycaemic load and breast cancer risk: A systematic review and meta-analysis</article-title>
+<source>Br. J. Cancer</source>
+<year>2008</year>
+<volume>99</volume>
+<fpage>1170</fpage>
+<lpage>1175</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.bjc.6604618</pub-id>
+<pub-id pub-id-type="pmid">18728653</pub-id>
+<pub-id pub-id-type="pmcid">PMC2567079</pub-id>
+</element-citation>
+</ref>
+<ref id="B66-nutrients-11-02342">
+<label>66.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dong</surname>
+<given-names>J.Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Qin</surname>
+<given-names>L.Q.</given-names>
+</name>
+</person-group>
+<article-title>Dietary glycemic index, glycemic load, and risk of breast cancer: Meta-analysis of prospective cohort studies</article-title>
+<source>Breast Cancer Res. Treat.</source>
+<year>2011</year>
+<volume>126</volume>
+<fpage>287</fpage>
+<lpage>294</lpage>
+<pub-id pub-id-type="doi">10.1007/s10549-011-1343-3</pub-id>
+<pub-id pub-id-type="pmid">21221764</pub-id>
+</element-citation>
+</ref>
+<ref id="B67-nutrients-11-02342">
+<label>67.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Esposito</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>Chiodini</surname>
+<given-names>P.</given-names>
+</name>
+<name name-style="western">
+<surname>Colao</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Lenzi</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Giugliano</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<article-title>Metabolic syndrome and risk of cancer: A systematic review and meta-analysis</article-title>
+<source>Diabetes Care</source>
+<year>2012</year>
+<volume>35</volume>
+<fpage>2402</fpage>
+<lpage>2411</lpage>
+<pub-id pub-id-type="doi">10.2337/dc12-0336</pub-id>
+<pub-id pub-id-type="pmid">23093685</pub-id>
+<pub-id pub-id-type="pmcid">PMC3476894</pub-id>
+</element-citation>
+</ref>
+<ref id="B68-nutrients-11-02342">
+<label>68.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>J.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Wessells</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>Chancellor</surname>
+<given-names>M.B.</given-names>
+</name>
+<name name-style="western">
+<surname>Howards</surname>
+<given-names>S.S.</given-names>
+</name>
+<name name-style="western">
+<surname>Stamm</surname>
+<given-names>W.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Stapleton</surname>
+<given-names>A.E.</given-names>
+</name>
+<name name-style="western">
+<surname>Steers</surname>
+<given-names>W.D.</given-names>
+</name>
+<name name-style="western">
+<surname>Van Den Eeden</surname>
+<given-names>S.K.</given-names>
+</name>
+<name name-style="western">
+<surname>McVary</surname>
+<given-names>K.T.</given-names>
+</name>
+</person-group>
+<article-title>Urologic complications of diabetes</article-title>
+<source>Diabetes Care</source>
+<year>2005</year>
+<volume>28</volume>
+<fpage>177</fpage>
+<lpage>185</lpage>
+<pub-id pub-id-type="doi">10.2337/diacare.28.1.177</pub-id>
+<pub-id pub-id-type="pmid">15616253</pub-id>
+</element-citation>
+</ref>
+<ref id="B69-nutrients-11-02342">
+<label>69.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Li</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Lin</surname>
+<given-names>T.</given-names>
+</name>
+<name name-style="western">
+<surname>Fan</surname>
+<given-names>X.</given-names>
+</name>
+<name name-style="western">
+<surname>Liang</surname>
+<given-names>Y.</given-names>
+</name>
+<name name-style="western">
+<surname>Heemann</surname>
+<given-names>U.</given-names>
+</name>
+</person-group>
+<article-title>High dose human insulin and insulin glargine promote t24 bladder cancer cell proliferation via pi3k-independent activation of akt</article-title>
+<source>Diabetes Res. Clin. Pract.</source>
+<year>2011</year>
+<volume>91</volume>
+<fpage>177</fpage>
+<lpage>182</lpage>
+<pub-id pub-id-type="doi">10.1016/j.diabres.2010.11.009</pub-id>
+<pub-id pub-id-type="pmid">21129803</pub-id>
+</element-citation>
+</ref>
+<ref id="B70-nutrients-11-02342">
+<label>70.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ornskov</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Nexo</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Sorensen</surname>
+<given-names>B.S.</given-names>
+</name>
+</person-group>
+<article-title>Insulin-induced proliferation of bladder cancer cells is mediated through activation of the epidermal growth factor system</article-title>
+<source>FEBS J.</source>
+<year>2006</year>
+<volume>273</volume>
+<fpage>5479</fpage>
+<lpage>5489</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1742-4658.2006.05539.x</pub-id>
+<pub-id pub-id-type="pmid">17116246</pub-id>
+</element-citation>
+</ref>
+<ref id="B71-nutrients-11-02342">
+<label>71.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Murakami</surname>
+<given-names>K.</given-names>
+</name>
+<name name-style="western">
+<surname>McCaffrey</surname>
+<given-names>T.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Livingstone</surname>
+<given-names>M.B.</given-names>
+</name>
+</person-group>
+<article-title>Associations of dietary glycaemic index and glycaemic load with food and nutrient intake and general and central obesity in british adults</article-title>
+<source>Br. J. Nutr.</source>
+<year>2013</year>
+<volume>110</volume>
+<fpage>2047</fpage>
+<lpage>2057</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114513001414</pub-id>
+<pub-id pub-id-type="pmid">23656860</pub-id>
+</element-citation>
+</ref>
+<ref id="B72-nutrients-11-02342">
+<label>72.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Du</surname>
+<given-names>H.</given-names>
+</name>
+<name name-style="western">
+<surname>van der</surname>
+<given-names>A.D.</given-names>
+</name>
+<name name-style="western">
+<surname>van Bakel</surname>
+<given-names>M.M.</given-names>
+</name>
+<name name-style="western">
+<surname>van der Kallen</surname>
+<given-names>C.J.</given-names>
+</name>
+<name name-style="western">
+<surname>Blaak</surname>
+<given-names>E.E.</given-names>
+</name>
+<name name-style="western">
+<surname>van Greevenbroek</surname>
+<given-names>M.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Jansen</surname>
+<given-names>E.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Nijpels</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Stehouwer</surname>
+<given-names>C.D.</given-names>
+</name>
+<name name-style="western">
+<surname>Dekker</surname>
+<given-names>J.M.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Glycemic index and glycemic load in relation to food and nutrient intake and metabolic risk factors in a dutch population</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2008</year>
+<volume>87</volume>
+<fpage>655</fpage>
+<lpage>661</lpage>
+<pub-id pub-id-type="doi">10.1093/ajcn/87.3.655</pub-id>
+<pub-id pub-id-type="pmid">18326604</pub-id>
+</element-citation>
+</ref>
+<ref id="B73-nutrients-11-02342">
+<label>73.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Mendez</surname>
+<given-names>M.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Covas</surname>
+<given-names>M.I.</given-names>
+</name>
+<name name-style="western">
+<surname>Marrugat</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Vila</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Schroder</surname>
+<given-names>H.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic load, glycemic index, and body mass index in spanish adults</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2009</year>
+<volume>89</volume>
+<fpage>316</fpage>
+<lpage>322</lpage>
+<pub-id pub-id-type="pmid">19056597</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3945/ajcn.2008.26444</pub-id>
+<pub-id pub-id-type="pmcid">PMC3738375</pub-id>
+</element-citation>
+</ref>
+<ref id="B74-nutrients-11-02342">
+<label>74.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Schulz</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Liese</surname>
+<given-names>A.D.</given-names>
+</name>
+<name name-style="western">
+<surname>Mayer-Davis</surname>
+<given-names>E.J.</given-names>
+</name>
+<name name-style="western">
+<surname>D’Agostino</surname>
+<given-names>R.B.</given-names>
+<suffix>Jr.</suffix>
+</name>
+<name name-style="western">
+<surname>Fang</surname>
+<given-names>F.</given-names>
+</name>
+<name name-style="western">
+<surname>Sparks</surname>
+<given-names>K.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Wolever</surname>
+<given-names>T.M.</given-names>
+</name>
+</person-group>
+<article-title>Nutritional correlates of dietary glycaemic index: New aspects from a population perspective</article-title>
+<source>Br. J. Nutr.</source>
+<year>2005</year>
+<volume>94</volume>
+<fpage>397</fpage>
+<lpage>406</lpage>
+<pub-id pub-id-type="doi">10.1079/BJN20051514</pub-id>
+<pub-id pub-id-type="pmid">16176611</pub-id>
+</element-citation>
+</ref>
+<ref id="B75-nutrients-11-02342">
+<label>75.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Favero</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Salvini</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Russo</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Parpinel</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Negri</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Decarli</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Giacosa</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Franceschi</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Sources of macro- and micronutrients in italian women: Results from a food frequency questionnaire for cancer studies</article-title>
+<source>Eur. J. Cancer Prev.</source>
+<year>1997</year>
+<volume>6</volume>
+<fpage>277</fpage>
+<lpage>287</lpage>
+<pub-id pub-id-type="doi">10.1097/00008469-199706000-00005</pub-id>
+<pub-id pub-id-type="pmid">9306075</pub-id>
+</element-citation>
+</ref>
+<ref id="B76-nutrients-11-02342">
+<label>76.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Slimani</surname>
+<given-names>N.</given-names>
+</name>
+<name name-style="western">
+<surname>Fahey</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Welch</surname>
+<given-names>A.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Wirfalt</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Stripp</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Bergstrom</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Linseisen</surname>
+<given-names>J.</given-names>
+</name>
+<name name-style="western">
+<surname>Schulze</surname>
+<given-names>M.B.</given-names>
+</name>
+<name name-style="western">
+<surname>Bamia</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Chloptsios</surname>
+<given-names>Y.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Diversity of dietary patterns observed in the european prospective investigation into cancer and nutrition (epic) project</article-title>
+<source>Public Health Nutr.</source>
+<year>2002</year>
+<volume>5</volume>
+<fpage>1311</fpage>
+<lpage>1328</lpage>
+<pub-id pub-id-type="doi">10.1079/PHN2002407</pub-id>
+<pub-id pub-id-type="pmid">12639235</pub-id>
+</element-citation>
+</ref>
+<ref id="B77-nutrients-11-02342">
+<label>77.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Wirfalt</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>McTaggart</surname>
+<given-names>A.</given-names>
+</name>
+<name name-style="western">
+<surname>Pala</surname>
+<given-names>V.</given-names>
+</name>
+<name name-style="western">
+<surname>Gullberg</surname>
+<given-names>B.</given-names>
+</name>
+<name name-style="western">
+<surname>Frasca</surname>
+<given-names>G.</given-names>
+</name>
+<name name-style="western">
+<surname>Panico</surname>
+<given-names>S.</given-names>
+</name>
+<name name-style="western">
+<surname>Bueno-de-Mesquita</surname>
+<given-names>H.B.</given-names>
+</name>
+<name name-style="western">
+<surname>Peeters</surname>
+<given-names>P.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Engeset</surname>
+<given-names>D.</given-names>
+</name>
+<name name-style="western">
+<surname>Skeie</surname>
+<given-names>G.</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Food sources of carbohydrates in a european cohort of adults</article-title>
+<source>Public Health Nutr.</source>
+<year>2002</year>
+<volume>5</volume>
+<fpage>1197</fpage>
+<lpage>1215</lpage>
+<pub-id pub-id-type="doi">10.1079/PHN2002399</pub-id>
+<pub-id pub-id-type="pmid">12639227</pub-id>
+</element-citation>
+</ref>
+<ref id="B78-nutrients-11-02342">
+<label>78.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>La Vecchia</surname>
+<given-names>C.</given-names>
+</name>
+<name name-style="western">
+<surname>Giordano</surname>
+<given-names>S.H.</given-names>
+</name>
+<name name-style="western">
+<surname>Hortobagyi</surname>
+<given-names>G.N.</given-names>
+</name>
+<name name-style="western">
+<surname>Chabner</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<article-title>Overweight, obesity, diabetes, and risk of breast cancer: Interlocking pieces of the puzzle</article-title>
+<source>Oncologist</source>
+<year>2011</year>
+<volume>16</volume>
+<fpage>726</fpage>
+<lpage>729</lpage>
+<pub-id pub-id-type="doi">10.1634/theoncologist.2011-0050</pub-id>
+<pub-id pub-id-type="pmid">21632448</pub-id>
+<pub-id pub-id-type="pmcid">PMC3228228</pub-id>
+</element-citation>
+</ref>
+<ref id="B79-nutrients-11-02342">
+<label>79.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Harlan</surname>
+<given-names>D.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Archer</surname>
+<given-names>M.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Bergenstal</surname>
+<given-names>R.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Gapstur</surname>
+<given-names>S.M.</given-names>
+</name>
+<name name-style="western">
+<surname>Habel</surname>
+<given-names>L.A.</given-names>
+</name>
+<name name-style="western">
+<surname>Pollak</surname>
+<given-names>M.</given-names>
+</name>
+<name name-style="western">
+<surname>Regensteiner</surname>
+<given-names>J.G.</given-names>
+</name>
+<name name-style="western">
+<surname>Yee</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<article-title>Diabetes and cancer: A consensus report</article-title>
+<source>CA Cancer J. Clin.</source>
+<year>2010</year>
+<volume>60</volume>
+<fpage>207</fpage>
+<lpage>221</lpage>
+<pub-id pub-id-type="doi">10.3322/caac.20078</pub-id>
+<pub-id pub-id-type="pmid">20554718</pub-id>
+</element-citation>
+</ref>
+<ref id="B80-nutrients-11-02342">
+<label>80.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Larsson</surname>
+<given-names>S.C.</given-names>
+</name>
+<name name-style="western">
+<surname>Giovannucci</surname>
+<given-names>E.</given-names>
+</name>
+<name name-style="western">
+<surname>Wolk</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<article-title>Dietary carbohydrate, glycemic index, and glycemic load in relation to risk of colorectal cancer in women</article-title>
+<source>Am. J. Epidemiol.</source>
+<year>2007</year>
+<volume>165</volume>
+<fpage>256</fpage>
+<lpage>261</lpage>
+<pub-id pub-id-type="doi">10.1093/aje/kwk012</pub-id>
+<pub-id pub-id-type="pmid">17118965</pub-id>
+</element-citation>
+</ref>
+<ref id="B81-nutrients-11-02342">
+<label>81.</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Folsom</surname>
+<given-names>A.R.</given-names>
+</name>
+<name name-style="western">
+<surname>Demissie</surname>
+<given-names>Z.</given-names>
+</name>
+<name name-style="western">
+<surname>Harnack</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<article-title>Glycemic index, glycemic load, and incidence of endometrial cancer: The iowa women’s health study</article-title>
+<source>Nutr. Cancer</source>
+<year>2003</year>
+<volume>46</volume>
+<fpage>119</fpage>
+<lpage>124</lpage>
+<pub-id pub-id-type="doi">10.1207/S15327914NC4602_03</pub-id>
+<pub-id pub-id-type="pmid">14690786</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+<floats-group>
+<fig id="nutrients-11-02342-f001" orientation="portrait" position="float">
+<label>Figure 1</label>
+<caption>
+<p>Study-specific and summary relative risks (RRs) of hormone-related cancers for the highest versus the lowest category of glycemic index (Panel A) or glycemic load intake (Panel B).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="nutrients-11-02342-g001a.jpg" />
+<graphic position="float" orientation="portrait" ns1:href="nutrients-11-02342-g001b.jpg" />
+</fig>
+<fig id="nutrients-11-02342-f002" orientation="portrait" position="float">
+<label>Figure 2</label>
+<caption>
+<p>Study-specific and summary relative risks (RRs) of digestive-tract cancers for the highest versus the lowest category of glycemic index (Panel A) or glycemic load intake (Panel B).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="nutrients-11-02342-g002a.jpg" />
+<graphic position="float" orientation="portrait" ns1:href="nutrients-11-02342-g002b.jpg" />
+</fig>
+<fig id="nutrients-11-02342-f003" orientation="portrait" position="float">
+<label>Figure 3</label>
+<caption>
+<p>Study-specific and summary relative risks (RRs) of other neoplasms for the highest versus the lowest category of glycemic index (Panel A) or glycemic load intake (Panel B).</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="nutrients-11-02342-g003a.jpg" />
+<graphic position="float" orientation="portrait" ns1:href="nutrients-11-02342-g003b.jpg" />
+</fig>
+<fig id="nutrients-11-02342-f004" orientation="portrait" position="float">
+<label>Figure 4</label>
+<caption>
+<p>Study-specific and summary relative risks (RRs) of breast cancer for the highest versus the lowest category of glycemic index (<bold>A</bold>) and glycemic load (<bold>B</bold>) in strata of menopausal status.</p>
+</caption>
+<graphic position="float" orientation="portrait" ns1:href="nutrients-11-02342-g004.jpg" />
+</fig>
+<table-wrap id="nutrients-11-02342-t001" orientation="portrait" position="float">
+<object-id pub-id-type="pii">nutrients-11-02342-t001_Table 1</object-id>
+<label>Table 1</label>
+<caption>
+<p>Main characteristics of the studies included in the systematic review.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Study^, Year<break />(Sex)</th>
+<th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Cancer Site</th>
+<th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Study Design<break />Study Area and Period of Enrolment or Follow-Up (Years)</th>
+<th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Cases</th>
+<th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Controls/Cohort size</th>
+<th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Dietary Assessment Method; Reference Food for GI/GL</th>
+<th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">RR (95% CI)<break />Comparison Level (Highest vs. Lowest)</th>
+<th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Matching and Adjustment Factors</th>
+</tr>
+<tr>
+<th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Glycemic Index</th>
+<th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Glycemic Load</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Li 2017 [<xref rid="B24-nutrients-11-02342" ref-type="bibr">24</xref>]<break />(M + W)<break />
+<italic toggle="yes">US Multicenter Study (1)</italic>
+<break />
+<italic toggle="yes">L.A. Multi-Ethnic study (2)</italic>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">EA, GCA</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CC, pb<break />
+<break />USA,<break />in (1): 1993-1995<break />in (2): 1992-1997</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">500 EA<break />529 GCA</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2027</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">in (1): Validated 104-items FFQ<break />in (2): validated 124-items FFQ;<break />not specified</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">EA<break />OR: 1.58 (1.13–2.21)<break />V vs. I study-specific quintile<break />
+<break />GCA<break />OR: 1.21 (0.88–1.67)<break />V vs. I study-specific quintile</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">EA<break />OR: 0.81 (0.51–1.29)<break />V vs. I study-specific quintile<break />
+<break />GCA<break />OR: 0.86 (0.55–1.35)<break />V vs. I study-specific quintile</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Age, sex, study, fruit and vegetables, smoking, GERD, energy, BMI (only for GL)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Haluszka 2019 [<xref rid="B30-nutrients-11-02342" ref-type="bibr">30</xref>]<break />(M + W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CRC</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, pb<break />
+<break />Argentina<break />2008-2016</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">161</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">331</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 127-items FFQ;<break />white bread</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.08 (0.61–1.90)<break /> &gt; 82.5 vs. &lt;77.2<break />III vs. I tertile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.64 (1.16–2.34)<break />&gt;298.7 vs. &lt;200.4<break />III vs. I tertile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, sex, socio-economic status, urbanization, BMI, smoking, analgesic use, family history, </td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Huang 2018 [<xref rid="B31-nutrients-11-02342" ref-type="bibr">31</xref>]<break />(M + W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CRC</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, hb and pb<break />
+<break />China,<break />2010-2017</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">1944</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">2027<break />(1168 hb, 859 pb)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 81-items FFQ;<break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 3.10 (2.51–3.85)<break />&gt;69.8 vs. &lt;64.3<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.14 (0.94–1.39)<break />&gt;187.2 vs. &lt;134.4<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, sex, marital status, residence, education, occupation, income, smoking, passive smoking, alcohol, family history of cancer, occupational physical activity, household and leisure-time activities, energy </td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Abe 2016 [<xref rid="B17-nutrients-11-02342" ref-type="bibr">17</xref>]<break />
+<italic toggle="yes">JPHC Study</italic>
+<break />(M, W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CRC</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Cohort<break />
+<break />Japan,<break />1995/1999–2010<break />average FU: 12.5 years</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">1468</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">73,501 pr<break />919,276 py</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 128-items FFQ;<break />not specified</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR, M: 0.92 (9.73–1.14)<break />65.77-78.46 vs. 28.12-59.10<break />IV vs. I quartile<break />
+<break />RR, W: 0.97 (0.73–1.30)<break />64.05-80.19 vs. 14.25-57.57<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR, M: 0.79 (0.58–1.08)<break />IV vs. I quartile<break />
+<break />RR, W: 0.82 (0.55–1.24)<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Stratified by sex and adjusted for age, area, alcohol, smoking, BMI, MET, history of diabetes, colorectal screening, calcium, magnesium, vitamin B6, vitamin B12, folate, vitamin D, n-3 PUFA, fiber, red meat, and for women only, menopausal status and use of exogenous female hormones.</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Larsson 2016 [<xref rid="B19-nutrients-11-02342" ref-type="bibr">19</xref>]<break />
+<italic toggle="yes">SMC</italic> and <italic toggle="yes">CSM</italic>
+<break />(M+W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Biliary tract</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Cohort<break />
+<break />Sweden,<break />1998–2012<break />mean FU: 13.3 years</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">163 <sup>#</sup>
+</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">76,014 pr<break />1,010,777 py</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 96-items FFQ;<break />white bread</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Total extrahepatic BTC (<italic toggle="yes">n</italic> = 140):<break />RR: 2.12 (1.25–3.58)<break />
+<break />Gallbladder (<italic toggle="yes">n</italic> = 77):<break />RR: 1.58 (0.81–3.08)<break />
+<break />Intrahepatic BTC (<italic toggle="yes">n</italic> = 23)<break />RR: 1.47 (0.54–3.97)<break />
+<break />IV (median: 88 in M and 80 in W) vs. I (median: 73 in M and 69 in W) quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Total extrahepatic BTC (<italic toggle="yes">n</italic> = 140):<break />RR: 1.63 (1.01–2.63)<break />
+<break />Gallbladder (<italic toggle="yes">n</italic> = 77):<break />RR: 2.14 (1.06–4.33)<break />
+<break />Intrahepatic BTC (<italic toggle="yes">n</italic> = 23)<break />RR: 3.46 (1.22–9.84)<break />
+<break />M: &gt;213 vs. &lt;177<break />W: &gt;202 vs. &lt;166<break />IV vs. I (sex-specific) quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, sex, education, smoking, BMI, diabetes, energy</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Sun 2018 [<xref rid="B25-nutrients-11-02342" ref-type="bibr">25</xref>]<break />(M, W)<break />
+<italic toggle="yes">SWHS</italic> and <italic toggle="yes">SMHS</italic>
+</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Lung</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Cohort<break />
+<break />Shanghai, 1997/2000–2013 in SWHS<break />2002/2006–2013 in SMHS<break />average FU: 14.8 years in SWHS and 9.3 years in SMHS</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">1312<break />(649 in SWHS and 663 in SMHS)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">130,852 pr<break />1.612,703 py</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">SWHS:<break />validated 77-items FFQ<break />SMHS:<break />validated 81-items FFQ;<break />not reported</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR, W (SWHS): 1.16 (0.92–1.47)<break />IV (median 76.74) vs. I (median 63.63) quartile<break />
+<break />RR, M (SMHS): 0.83 (0.67–1.03)<break />IV (median 77.02) vs. I (median 64.13) quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR, W (SWHS): 1.09 (0.86–1.37)<break />IV (median 144.8 g/1000 kcal/d) vs. I (median 97.72 g/1000 kcal/d) quartile<break />
+<break />RR, M (SMHS): 0.85 (0.68–1.05)<break />IV (median 143.77 g/1000 kcal/d) vs. I (median 95.79 g/1000 kcal/d) quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, education, income, BMI, physical activity, energy, smoking, alcohol (men only), history of lung disease, hypertension, diabetes, family history of cancer, menopausal status (women only)</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Melkonian 2016 [<xref rid="B22-nutrients-11-02342" ref-type="bibr">22</xref>]<break />(M+W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Lung</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, hb<break />USA,<break />not reported</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">1905</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">2413</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated FFQ;<break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.49 (1.21–1.83) <break />V vs. I (sex-specific) quintile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.16 (0.94–1.42)<break />V vs. I (sex-specific) quintile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, education, gender, smoking, history of emphysema, pneumonia, hay fever, family history of lung cancer, physical activity, BMI, energy </td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Malavolti 2017 [<xref rid="B23-nutrients-11-02342" ref-type="bibr">23</xref>]<break />(M+W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Melanoma</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, pb<break />
+<break />Italy,<break />2005–2006</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">380</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">719</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 188-items FFQ;<break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 0.88 (0.55–1.42)<break />V (median: 55.7) vs. I (median: 47.7) quintile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.35 (0.80–2.27)<break />V (median:149.7) vs. I (median: 92.0) quintile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, sex, residence, education, BMI, phototype, skin sensitivity to sun exposure, sunburns history, SFA, vitamin C, vitamin D, fiber, energy</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Guerrero 2019 [<xref rid="B32-nutrients-11-02342" ref-type="bibr">32</xref>]<break />(W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Breast</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, pb<break />
+<break />Mexico,<break />2007–2011</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">509</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">509</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 133-items FFQ;<break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.15 (1.09–1.23)<break />each unit increment</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.00 (0.99–1.02)<break />each unit increment</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, education, energy, saturated fats, breastfeeding duration</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Castro-Quezada 2016 [<xref rid="B14-nutrients-11-02342" ref-type="bibr">14</xref>]<break />
+<italic toggle="yes">PREDIMED</italic> *<break />(W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Breast</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Cohort<break />
+<break />Spain,<break />2003/2009–2010<break />median FU: 4.8 years</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">32</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">4010 pr<break />(postmenopausal W)<break />17,757 py</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 137-items FFQ; <break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR: 1.02 (0.42–2.46)<break />III (mean: 60.8) vs. I (mean: 50.8) tertile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR: 1.00 (0.44–2.30)<break />III (mean: 129.0) vs. I (mean: 82.2) tertile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, center, intervention group, smoking, education, physical activity, BMI, WHtR, family history of cancer, age at menopause, HRT use, statin use, energy, alcohol, dietary fiber, folate </td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Amadou 2015 [<xref rid="B15-nutrients-11-02342" ref-type="bibr">15</xref>]<break />
+<italic toggle="yes">Cáncer de la Mamá study</italic>
+<break />(W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Breast</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, pb<break />
+<break />Mexico,<break />2004–2007</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">1000</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">1074</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 104-items FFQ;<break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 0.90 (0.68–1.12)<break />&gt;52.5 vs. &lt;46.8<break />IV vs. I quartile<break />Premenopausal W:<break />1.0 (0.67–1.5)<break />Postmenopausal W:<break />0.80 (0.55–1.2)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.1 (0.82–1.1)<break />&gt;173 vs. &lt;145.8<break />IV vs. I quartile<break />Premenopausal W:<break />1.3 (0.86–1.9)<break />Postmenopausal W:<break />0.94 (0.65–1.3)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, age at menarche, SES, breastfeeding, age at first pregnancy, family history of breast cancer, alcohol, physical activity, energy, native ancestry, BMI</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Farvid 2015 [<xref rid="B16-nutrients-11-02342" ref-type="bibr">16</xref>]<break />
+<italic toggle="yes">NHSII</italic>
+<break />(W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Breast</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Cohort<break />
+<break />USA,<break />1991–2011</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">2833</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">90,534 pr<break />1,725,295 py</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 128-items FFQ;<break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR: 1.03 (0.91–1.16)<break />V (median: 57.9) vs. I (median: 49.7) quintile<break />
+<break />Premenopausal W<break />RR: 1.05 (0.90–1.23)<break />Postmenopausal W<break />RR: 1.08 (0.87–1.35)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR: 0.94 (0.83–1.06)<break />V (median: 149) vs. I (median: 96) quintile<break />Premenopausal W<break />RR: 0.93 (0.79–1.09)<break />Postmenopausal W<break />RR: 0.95 (0.76–1.18)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, race, family history of breast cancer, history of BBD, smoking, height, BMI at 18 years, weight change since age 18 years, age at menarche, parity and age at first birth, OC use, alcohol, energy, menopausal status and age at menopause, postmenopausal hormone use.</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Hartman 2018 [<xref rid="B33-nutrients-11-02342" ref-type="bibr">33</xref>]<break />
+<italic toggle="yes">CPS-II Nutrition Cohort</italic>
+<break />(W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Endometrium</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Cohort<break />
+<break />USA,<break />1999–2013<break />average FU: 13.6 years</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">425</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">30,997 pr postmenopausal W<break />377,265 py</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 152-items FFQ;<break />not specified</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR: 0.98 (0.74–1.29)<break />≥54.48 vs. &lt;50.43<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR: 0.83 (0.62–1.11)<break />≥126.82 vs. &lt;100.47<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, smoking, age at menarche, age at menopause, parity, HRT, OC, physical activity, BMI</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Brenner 2015 [<xref rid="B20-nutrients-11-02342" ref-type="bibr">20</xref>]<break />(W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Endometrium</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, pb<break />
+<break />Canada,<break />2002-2006</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">511</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">980</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">adapted NCI DHQ (validated);<break />not specified</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Not provided</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 0.87 (0.52–1.46)<break />&gt;114.1 vs. ≤68.7<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, parity, menopausal status, HRT, rural residence, weight, waist circumference, comorbidity (diabetes, hypertension, thrombosis, pulmonary embolism, myocardial infarction, angina pectoris, stroke, high cholesterol), fiber, energy</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Qin 2016 [<xref rid="B21-nutrients-11-02342" ref-type="bibr">21</xref>]<break />
+<italic toggle="yes">AACES</italic>
+<break />(W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Ovary</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, pb<break />USA,<break />2010–2014</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">406</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">609</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Block 2005 FFQ (110 items, validated);<break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.03 (0.70–1.50) <break />≥54.9 vs. ≤49.9<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.35 (0.93–1.97)<break />≥65.0 vs. ≤50.8 units/1000 kcal<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, education, region, energy, parity, OC use, menopausal status, tubal ligation, family history of breast/ovarian cancer</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Augustin 2017 [<xref rid="B28-nutrients-11-02342" ref-type="bibr">28</xref>]<break />(M+W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Bladder</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, hb<break />Italy,<break />2003–2014</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">578</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">608</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 78-items FFQ;<break />white bread</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.18 (0.83–1.67)<break />&gt;83 vs. &lt;75<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.96 (1.16–3.31)<break />≥275 vs. &lt;169<break />IV vs. I quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, sex, study center, education, smoking, alcohol, abdominal obesity, energy</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Zhu 2017 [<xref rid="B27-nutrients-11-02342" ref-type="bibr">27</xref>]<break />(M+W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Kidney</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">CC, pb<break />USA,<break />2002–2017 (ongoing)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">854</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">1255</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated FFQ;<break />glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.32 (0.99–1.74)<break />IV vs. I (sex-specific) quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">OR: 1.15 (0.88–1.51)<break />IV vs. I (sex-specific) quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, sex, education, BMI, physical activity, smoking, hypertension, family history, energy, HEI-2015</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Zamora-Ros 2016 [<xref rid="B18-nutrients-11-02342" ref-type="bibr">18</xref>]<break />
+<italic toggle="yes">EPIC</italic>
+<break />(M+W)</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Thyroid</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Cohort<break />10 European countries,<break />1992/2000–2006/2009<break />mean FU: 11 years</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">556</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">477,274 pr<break />5,262,772 py</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">country-specific validated dietary questionnaires;glucose</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR: 0.94 (0.73–1.20)<break />&gt;58.5 vs. &lt;53.6<break />IV vs. I (cohort-wide) quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">RR: 0.95 (0.74–1.24)<break />&gt;69.6 vs. &lt;54.4 unit/1000 kcal day<break />IV vs. I (cohort-wide) quartile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, sex, center, BMI, smoking, education, physical activity, energy, alcohol, and for women only, menopausal status and type</td>
+</tr>
+<tr>
+<td align="center" valign="middle" rowspan="1" colspan="1">Makarem 2017 [<xref rid="B29-nutrients-11-02342" ref-type="bibr">29</xref>]<break />(M+W)<break />
+<italic toggle="yes">Framingham Offspring cohort</italic>
+</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Adiposity-related cancers</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Cohort<break />
+<break />USA,<break />1991/1995-2013</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">565 adiposity-related cancers<sup>§</sup>
+<break />124 breast<break />157 prostate<break />68 CRC</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">3184 pr</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">validated 126-items FFQ;<break />not specified</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Adiposity-related cancers<break />RR: 0.95 (0.73–1.24)<break />&gt;57.5 vs. &lt;51.9<break />
+<break />Breast<break />RR: 0.90 (0.59–.37)<break />&gt;56.2 vs. &lt;53.3<break />III vs. I tertile<break />
+<break />Prostate<break />RR: 0.74 (0.48–1.12)<break />&gt;56.4 vs. &lt;53.6<break />III vs. I tertile<break />
+<break />CRC<break />RR: 1.51 (0.81–2.84)<break />&gt;56.3 vs. &lt;53.5<break />III vs. I tertile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Adiposity-related cancers<break />RR: 0.93 (0.58–1.49)<break />&gt;169.9 vs. &lt;85.6<break />
+<break />Breast<break />RR: 0.54 (0.26–1.09)<break />&gt;136.0 vs. &lt;96.7 g/d<break />III vs. I tertile<break />
+<break />Prostate<break />RR: 0.76 (0.40–1.43)<break />&gt;154.4 vs. &lt;106.3 g/d<break />III vs. I tertile<break />
+<break />CRC<break />RR: 1.21 (0.43–3.40)<break />&gt;143.7 vs. &lt;100.7 g/d<break />III vs. I tertile</td>
+<td align="center" valign="middle" rowspan="1" colspan="1">Age, sex, smoking, alcohol, energy<break />
+<break />Breast: additional adjustment for menopausal status, age at menopause, hormone therapy, n. of live births.<break />
+<break />CRC: additional adjustment for red and processed meat, fiber<break />
+<break />For breast, prostate and CRC: additional adjustment for education, BMI, waist circumference, physical activity, history of diabetes and CVD, and antioxidant supplements did not change the results.</td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sieri 2017 [<xref rid="B26-nutrients-11-02342" ref-type="bibr">26</xref>]<break />(M+W)<break />
+<italic toggle="yes">EPIC-Italy</italic>
+</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Various sites</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cohort<break />Italy<break />1993/1998–2009/2010<break />median FU: 14.9 years</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5112 cancers</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">45,148 pr</td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3 validated FFQs;<break />glucose </td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All cancers combined<break />RR: 1.06 (0.97–1.16)<break />V (mean: 57.4) vs. I (mean: 50.0) quintile <break />The paper reported RRs of 20 different cancer sites </td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All cancers combined<break />RR: 1.05 (0.93–1.20)<break />V (mean: 235.2) vs. I (mean: 86.0) quintile<break />The paper reported RRs of 20 different cancer sites </td>
+<td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Age, sex, education, BMI, physical activity, smoking, FFQ, alcohol, non-alcohol energy, fiber, saturated fat</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn>
+<p>Abbreviations: AACES, African American Cancer Epidemiology Study; BBD, benign breast disease; BMI, body mass index; BTC, biliary tract cancer; CC, case-control; CI, confidence interval; CPS, Cancer Prevention Study; CRC, colorectum; CSM, cohort of Swedish Men; CVD, cardiovascular disease; DHQ, Diet History Questionnaire; EA: Esophageal adenocarcinoma; EPIC, European Prospective Investigation into Cancer and nutrition; FFQ, food frequency questionnaire; FU, follow-up; GCA, gastric cardia adenocarcinoma; GERD, gastro-esophageal reflux disease; GI, glycemic index; GL, glycemic load; hb, hospital-based; HEI, Healthy Eating Index; JPHC, Japan Public Health Center-based; HRT, hormone replacement therapy; M, men; MET, metabolic equivalent tasks; NCI, National Cancer Institute; OC, oral contraceptives; OR, odds ratio; pb, population-based; pr, persons at risk; PREDIMED, PREvención con DIeta MEDiterránea; py, person-years; PUFA, polyunsaturated fatty acids; RR, relative risk; SFA, saturated fatty acids; SMC, Swedish Mammography Cohort; SMHS, Shanghai Men’s Health Study; SWHS, Shanghai Women’s Health Study; W, women; WHtR, waist-to-height ratio.^ Study’s name is indicated in Italic. # 140 extrahepatic (including 77 gallbladder cancers) and 23 intrahepatic biliary tract cancers. * Observational cohort of postmenopausal women at high risk of cardiovascular diseases participating in a randomized, parallel group, clinical trial (i.e., PREDIMED trial). § adiposity-related cancers included cancers of the gastrointestinal tract, reticuloendothelial system (blood, bone and spleen), female reproductive tracts, genitourinary organs and the thyroid gland.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</floats-group>
+</article>
+</pmc-articleset>
