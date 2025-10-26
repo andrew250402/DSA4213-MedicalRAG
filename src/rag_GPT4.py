@@ -4,7 +4,7 @@ from typing import List
 
 from langchain.chat_models import init_chat_model  # OpenAI chat LLM
 from langchain.embeddings import init_embeddings
-from langchain_community.vectorstores import FAISS  # optional
+from langchain_community.vectorstores import FAISS
 from langchain.agents import create_agent, AgentState
 from langchain.tools import tool
 from bm25_vectorstore import BM25VectorStore
@@ -24,7 +24,6 @@ def load_vector_db():
     if retriever_type == "faiss":
         print(f"[INFO] Loading FAISS DB from {config.FAISS_PATH}")
         embedding_model = init_embeddings(model="openai:text-embedding-3-small", api_key = os.environ.get("OPENAI_API_KEY"))
-        # embedding_model = OpenAIEmbeddings("text-embedding-3-small")
         return FAISS.load_local(config.FAISS_PATH, embedding_model, allow_dangerous_deserialization=True)
 
     elif retriever_type == "bm25":
@@ -38,8 +37,8 @@ def load_vector_db():
 # ======== LLM ========
 
 def build_llm():
-    """Load OpenAI chat LLM"""
-    return init_chat_model(model="gpt-3.5-turbo", temperature=0)
+    """Load GPT-4o-mini chat LLM (better than GPT-3.5-turbo)"""
+    return init_chat_model(model="gpt-4o-mini", temperature=0)
 
 
 # ======== RAG AGENT ========

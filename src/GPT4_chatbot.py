@@ -1,12 +1,12 @@
 """
-chatbot_cli.py
+GPT4_chatbot.py
 CLI interface for Medical RAG using LangChain 1.x
 """
 
 import sys
 import os
 import config
-from rag_pipeline import build_rag_agent, build_direct_agent, load_vector_db
+from rag_GPT4 import build_rag_agent, build_direct_agent, load_vector_db
 
 # Allow imports from project root
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
