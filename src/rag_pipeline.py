@@ -1,31 +1,56 @@
 import os
 import sys
+import logging
+from datetime import datetime
 from typing import List
 
 from langchain.chat_models import init_chat_model  # OpenAI chat LLM
 from langchain.embeddings import init_embeddings
-from langchain_community.vectorstores import FAISS  # optional
-from langchain.agents import create_agent, AgentState
+from langchain_community.vectorstores import FAISS
+from langchain.agents import create_agent
 from langchain.tools import tool
-from bm25_vectorstore import BM25VectorStore
 from dotenv import load_dotenv
 from prompt_templates import build_prompt
-load_dotenv()
+from bm25_vectorstore import BM25VectorStore
 
 import config
 
+load_dotenv()
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+# ======== SETUP LOGGING ========
+
+def setup_logger():
+    """Configure logging for RAG runs."""
+    logger = logging.getLogger("RAGLogger")
+    logger.setLevel(logging.INFO)
+
+    # Prevent duplicate handlers if re-run
+    if not logger.handlers:
+        handler = logging.FileHandler(config.LOG_FILE, encoding="utf-8")
+        formatter = logging.Formatter(
+            fmt="%(asctime)s | %(levelname)s | %(message)s",
+            datefmt="%Y-%m-%d %H:%M:%S",
+        )
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+    return logger
+
+
+logger = setup_logger()
+
 
 # ======== VECTOR STORE ========
 
 def load_vector_db():
-    """Load FAISS or BM25 database based on config.RETRIEVER_TYPE"""
     retriever_type = getattr(config, "RETRIEVER_TYPE", "faiss").lower()
 
     if retriever_type == "faiss":
         print(f"[INFO] Loading FAISS DB from {config.FAISS_PATH}")
-        embedding_model = init_embeddings(model="openai:text-embedding-3-small", api_key = os.environ.get("OPENAI_API_KEY"))
-        # embedding_model = OpenAIEmbeddings("text-embedding-3-small")
+        embedding_model = init_embeddings(
+            model="openai:text-embedding-3-small",
+            api_key=os.environ.get("OPENAI_API_KEY"),
+        )
         return FAISS.load_local(config.FAISS_PATH, embedding_model, allow_dangerous_deserialization=True)
 
     elif retriever_type == "bm25":
@@ -39,14 +64,12 @@ def load_vector_db():
 # ======== LLM ========
 
 def build_llm():
-    """Load OpenAI chat LLM"""
     return init_chat_model(model=config.MODEL, temperature=0)
 
 
 # ======== RAG AGENT ========
 
 def build_rag_agent(vector_store):
-    """Builds a Retrieval-Augmented Generation agent"""
     llm = build_llm()
 
     @tool(response_format="content_and_artifact")
@@ -58,7 +81,6 @@ def build_rag_agent(vector_store):
             for doc in retrieved_docs
         )
 
-        # 🧠 Build the dynamic prompt from config
         prompt_text = build_prompt(config.PROMPT_STYLE, query, retrieved_docs)
         return prompt_text, retrieved_docs
 
@@ -76,11 +98,8 @@ def build_rag_agent(vector_store):
 # ======== DIRECT LLM (no RAG) ========
 
 def build_direct_agent():
-    """Builds a simple LLM agent without retrieval"""
     llm = build_llm()
-    
     prompt = "You are a helpful assistant. Answer user queries to the best of your ability."
-    
     agent = create_agent(llm, tools=[], system_prompt=prompt)
     return agent
 
@@ -88,7 +107,6 @@ def build_direct_agent():
 # ======== UNIFIED AGENT BUILDER ========
 
 def build_agent():
-    """Build agent based on config.ENABLE_RAG"""
     if getattr(config, "ENABLE_RAG", True):
         print("[INFO] RAG is ENABLED - Loading vector store...")
         vector_store = load_vector_db()
@@ -98,14 +116,44 @@ def build_agent():
         return build_direct_agent()
 
 
-# ======== EXAMPLE USAGE ========
+# ======== MAIN / LOGGING RUN ========
 
 if __name__ == "__main__":
     agent = build_agent()
 
-    query = "What are common symptoms of diabetes?"
+    query = config.QUERY
+    logger.info("=== NEW QUERY SESSION START ===")
+    logger.info(f"Model: {config.MODEL}")
+    logger.info(f"Retriever Type: {config.RETRIEVER_TYPE}")
+    logger.info(f"RAG Enabled: {config.ENABLE_RAG}")
+    logger.info(f"K Documents: {config.K}")
+    logger.info(f"Prompt Style: {config.PROMPT_STYLE}")
+    logger.info(f"Query: {query}")
+
+    # Stream and capture output
+    full_answer = ""
+    retrieved_docs_str = ""
+
     for step in agent.stream(
         {"messages": [{"role": "user", "content": query}]},
         stream_mode="values",
     ):
-        step["messages"][-1].pretty_print()
+        msg = step["messages"][-1]
+
+        # Tool message (retrieval context)
+        if hasattr(msg, "type") and msg.type == "tool":
+            retrieved_docs = getattr(msg, "artifact", None)
+            if retrieved_docs:
+                retrieved_docs_str = "\n\n".join(
+                    f"- {d.page_content[:300]}... (Source: {d.metadata})"
+                    for d in retrieved_docs
+                )
+                logger.info(f"Retrieved Documents:\n{retrieved_docs_str}")
+
+        # Assistant message (final LLM output)
+        elif msg.__class__.__name__ == "AIMessage":
+            full_answer += msg.content
+
+    logger.info(f"Answer:\n{full_answer.strip()}")
+    logger.info("=== END OF QUERY ===\n")
+    print("Answer:", full_answer.strip())

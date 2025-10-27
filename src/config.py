@@ -2,6 +2,9 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
+# Logging
+LOG_FILE = BASE_DIR / "rag_logs.log"  # configurable log file path
+
 # Data Querying
 TERM = "cancer"
 LIMIT = 50
@@ -19,4 +22,7 @@ BM25_PATH = "store/bm25"
 
 # Prompt style
 PROMPT_STYLE = "citation"  # Options: "plain", "citation", "evidence", "safety", "fewshot", "gold style"
+
+# Query (if running "rag_pipeline.py" only)
+QUERY = "Tell me more about prostate cancer"
 
