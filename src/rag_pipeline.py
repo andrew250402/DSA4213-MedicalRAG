@@ -9,6 +9,7 @@ from langchain.agents import create_agent, AgentState
 from langchain.tools import tool
 from bm25_vectorstore import BM25VectorStore
 from dotenv import load_dotenv
+from prompt_templates import build_prompt
 load_dotenv()
 
 import config
@@ -56,16 +57,19 @@ def build_rag_agent(vector_store):
             f"Source: {doc.metadata}\nContent: {doc.page_content}"
             for doc in retrieved_docs
         )
-        return serialized, retrieved_docs
+
+        # 🧠 Build the dynamic prompt from config
+        prompt_text = build_prompt(config.PROMPT_STYLE, query, retrieved_docs)
+        return prompt_text, retrieved_docs
 
     tools = [retrieve_context]
 
-    prompt = (
-        "You have access to a tool that retrieves context from the knowledge base. "
-        "Use it to answer user queries."
+    system_prompt = (
+        f"You are a medical RAG assistant using the '{config.PROMPT_STYLE}' prompt style. "
+        "Use retrieved context to generate concise, evidence-grounded answers."
     )
 
-    agent = create_agent(llm, tools=tools, system_prompt=prompt)
+    agent = create_agent(llm, tools=tools, system_prompt=system_prompt)
     return agent
 
 

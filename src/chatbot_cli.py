@@ -22,7 +22,7 @@ def main():
         agent = build_direct_agent()
     
     print("Medical RAG CLI ready! Type your questions below (type 'exit' to quit).")
-    print(f"Using model {config.MODEL}")
+    print(f"Using model {config.MODEL} with prompt style {config.PROMPT_STYLE}")
 
     while True:
         query = input("\n> ")
