@@ -11,6 +11,7 @@ OUT_DIR = BASE_DIR / "data"
 ENABLE_RAG = True
 K = 3
 RETRIEVER_TYPE = "faiss"   # Options: "faiss" or "bm25"
+MODEL = "gpt-3.5-turbo" # Options: "gpt-3.5-turbo" or "gpt-4o-mini"
 
 # Paths to vector stores
 FAISS_PATH = "store/faiss/openai-text-embedding-3-small"

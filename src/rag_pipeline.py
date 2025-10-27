@@ -39,7 +39,7 @@ def load_vector_db():
 
 def build_llm():
     """Load OpenAI chat LLM"""
-    return init_chat_model(model="gpt-3.5-turbo", temperature=0)
+    return init_chat_model(model=config.MODEL, temperature=0)
 
 
 # ======== RAG AGENT ========
