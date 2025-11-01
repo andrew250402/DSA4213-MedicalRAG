@@ -14,12 +14,29 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-FAISS_PATH = "../store/faiss/openai-text-embedding-3-small"
-DATA_PATH = "../data/plain"
+DATA_PATH = "data_v2/plain"
 
+# FAISS_PATH = "store_v2/faiss/Bio_ClinicalBERT"
 # embedding_model = HuggingFaceEmbeddings(
 #     model_name="emilyalsentzer/Bio_ClinicalBERT"
 # )
+
+# FAISS_PATH = "store_v2/faiss/SapBERT-from-PubMedBERT-fulltext"
+# embedding_model = HuggingFaceEmbeddings(
+#     model_name="cambridgeltl/SapBERT-from-PubMedBERT-fulltext"
+# )
+
+# FAISS_PATH = "store_v2/faiss/MedEmbed-base-v0.1"
+# embedding_model = HuggingFaceEmbeddings(
+#     model_name="abhinand/MedEmbed-base-v0.1"
+# )
+
+# FAISS_PATH = "store_v2/faiss/pubmedbert-base-embeddings"
+# embedding_model = HuggingFaceEmbeddings(
+#     model_name="NeuML/pubmedbert-base-embeddings"
+# )
+
+FAISS_PATH = "store_v2/faiss/openai-text-embedding-3-small"
 embedding_model = OpenAIEmbeddings(model="text-embedding-3-small")
 
 

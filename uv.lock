@@ -299,6 +299,7 @@ dependencies = [
     { name = "faiss-cpu" },
     { name = "langchain" },
     { name = "langchain-community" },
+    { name = "langchain-huggingface" },
     { name = "langchain-openai" },
     { name = "nltk" },
     { name = "pandas" },
@@ -317,6 +318,7 @@ requires-dist = [
     { name = "faiss-cpu", specifier = ">=1.12.0" },
     { name = "langchain", specifier = ">=1.0.1,<2.0.0" },
     { name = "langchain-community", specifier = ">=0.4,<0.5" },
+    { name = "langchain-huggingface", specifier = ">=1.0.0" },
     { name = "langchain-openai", specifier = ">=1.0.0" },
     { name = "nltk", specifier = ">=3.9.2" },
     { name = "pandas", specifier = ">=2.3.3,<3.0.0" },
@@ -809,6 +811,20 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/b4/96/b298cb46643bb235240de7ec8d87d3b4ccefead6bf41ca3c48c7d5397e01/langchain_core-1.0.2.tar.gz", hash = "sha256:9aae1908cc00d50b88e812305e980e7fd06d07375590ce8da01c04037bdccd72", size = 769167, upload-time = "2025-10-29T23:13:02.732Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/52/54/3aed89938a42cf7115575c333647551e35adc380feed651105d2d86c22f5/langchain_core-1.0.2-py3-none-any.whl", hash = "sha256:1f4ab4a41fc2e135e5dd4b97a89af123bbdc535af8f1f0644e8e8801bc288a12", size = 469251, upload-time = "2025-10-29T23:13:00.864Z" },
+]
+
+[[package]]
+name = "langchain-huggingface"
+version = "1.0.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "huggingface-hub" },
+    { name = "langchain-core" },
+    { name = "tokenizers" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/1d/0d/2a22659534cc70410573a53d32756cf7971de7923ba2ccf940c03ecbe12a/langchain_huggingface-1.0.0.tar.gz", hash = "sha256:0d2eb924ff77dc08bb7dd340ab10d47c1b71372e4297bc12e84c4a66df9a4414", size = 247750, upload-time = "2025-10-17T15:30:35.179Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ac/30/7476a926e31498ebc4be3131e06650c5136ffb8ba12067f56212e187dd7c/langchain_huggingface-1.0.0-py3-none-any.whl", hash = "sha256:06d6ac57951c6a1c47d329c38f2b32472a839eab2fa14883be784916ea075da0", size = 27493, upload-time = "2025-10-17T15:30:34.023Z" },
 ]
 
 [[package]]

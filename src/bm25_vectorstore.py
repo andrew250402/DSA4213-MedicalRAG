@@ -50,7 +50,7 @@ class BM25VectorStore:
 
     def _tokenize(self, text: str) -> List[str]:
         """Tokenize text for BM25 indexing."""
-        # Simple tokenization - you can enhance this with better preprocessing
+        # Simple tokenization and lowercasing
         tokens = nltk.word_tokenize(text.lower())
         # Remove punctuation and short tokens
         tokens = [token for token in tokens if token.isalnum()

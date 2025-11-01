@@ -15,15 +15,36 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_openai import OpenAIEmbeddings
 
 # Configuration
-FAISS_PATH = "../store/faiss/openai-text-embedding-3-small"
-DATA_PATH = "../data/plain"
-EVALUATE_DATA_PATH = "../data/evaluation/retrieval/single.json"
-RESULTS_PATH = "../results/retrieval/single/openai-text-embedding-3-small.json"
+DATA_PATH = "data_v2/plain"
+EVALUATE_DATA_PATH = "data_v2/evaluation/retrieval/single.json"
 K = 3
 
+# FAISS_PATH = "store_v2/faiss/Bio_ClinicalBERT"
+# RESULTS_PATH = "results/v2/retrieval/single/Bio_ClinicalBERT.json"
 # embedding_model = HuggingFaceEmbeddings(
 #     model_name="emilyalsentzer/Bio_ClinicalBERT"
 # )
+
+# FAISS_PATH = "store_v2/faiss/SapBERT-from-PubMedBERT-fulltext"
+# RESULTS_PATH = "results/v2/retrieval/single/SapBERT-from-PubMedBERT-fulltext.json"
+# embedding_model = HuggingFaceEmbeddings(
+#     model_name="cambridgeltl/SapBERT-from-PubMedBERT-fulltext"
+# )
+
+# FAISS_PATH = "store_v2/faiss/MedEmbed-base-v0.1"
+# RESULTS_PATH = "results/v2/retrieval/single/MedEmbed-base-v0.1.json"
+# embedding_model = HuggingFaceEmbeddings(
+#     model_name="abhinand/MedEmbed-base-v0.1"
+# )
+
+# FAISS_PATH = "store/faiss/pubmedbert-base-embeddings"
+# RESULTS_PATH = "results/v2/retrieval/single/pubmedbert-base-embeddings.json"
+# embedding_model = HuggingFaceEmbeddings(
+#     model_name="NeuML/pubmedbert-base-embeddings"
+# )
+
+FAISS_PATH = "store_v2/faiss/openai-text-embedding-3-small"
+RESULTS_PATH = "results/v2/retrieval/single/openai-text-embedding-3-small.json"
 embedding_model = OpenAIEmbeddings(model="text-embedding-3-small")
 
 # Initialize FAISS database
@@ -206,6 +227,7 @@ def main():
     results["summary"] = calculate_overall_metrics(detailed_results)
 
     # Save results
+    os.makedirs(os.path.dirname(RESULTS_PATH), exist_ok=True)
     with open(RESULTS_PATH, 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 

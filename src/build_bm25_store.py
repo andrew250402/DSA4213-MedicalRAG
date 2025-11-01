@@ -13,8 +13,8 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from bm25_vectorstore import BM25VectorStore
 
-BM25_PATH = "../store/bm25"
-DATA_PATH = "../data/plain"
+BM25_PATH = "store_v2/bm25"
+DATA_PATH = "data_v2/plain"
 
 
 def main():
