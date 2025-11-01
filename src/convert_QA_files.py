@@ -73,6 +73,8 @@ def convert_all_xmls(input_dir=INPUT_DIR, output_file=OUTPUT_FILE):
         return
 
     df = pd.DataFrame(all_records)
+    # Sort by document_id and question_id
+    df = df.sort_values(by=["document_id", "question_id"])
     df.to_csv(output_file, index=False, encoding="utf-8-sig")
     print(f"[SUCCESS] Saved dataset with {len(df)} rows → {output_file}")
 
