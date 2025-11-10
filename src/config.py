@@ -17,11 +17,11 @@ RETRIEVER_TYPE = "faiss"   # Options: "faiss" or "bm25"
 MODEL = "gpt-3.5-turbo" # Options: "gpt-3.5-turbo" or "gpt-4o-mini"
 
 # Paths to vector stores
-FAISS_PATH = "store/faiss/openai-text-embedding-3-small"
-BM25_PATH = "store/bm25"
+FAISS_PATH = "store_v2/faiss/openai-text-embedding-3-small"
+BM25_PATH = "store_v2/bm25"
 
 # Prompt style
-PROMPT_STYLE = "citation"  # Options: "plain", "citation", "evidence", "safety", "fewshot", "gold style"
+PROMPT_STYLE = "plain"  # Options: "plain", "citation", "evidence", "safety", "fewshot", "gold style"
 
 # Query (if running "rag_pipeline.py" only)
 QUERY = "Tell me more about prostate cancer"
