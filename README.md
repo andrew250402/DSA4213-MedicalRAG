@@ -43,3 +43,25 @@ uv run python src/<script_name>.py
 ├── logs/                      # Log files from experiments
 ├── CancerGov_QA_Dataset.csv   # 729 Cancer QA pairs used for evaluation
 └── README.md
+```
+
+## How to run main experiment
+1. Build/update vector stores
+```bash
+uv run python src/build_faiss_store.py    
+uv run python src/build_bm25_store.py    # if you use BM25
+```
+2. Run the baseline and RAG evaluation
+
+The main settings are in src/config.py.
+To switch between RAG and No-RAG:
+- Set ENABLE_RAG = True for RAG-enabled runs
+- Set ENABLE_RAG = False for the No-RAG baseline
+
+(You can also adjust RETRIEVER_TYPE, K, knowledge base, etc. in this file.)
+
+3. Run the evaluation
+```bash
+uv run python src/evaluate_rag.py
+```
+
