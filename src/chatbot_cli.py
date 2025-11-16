@@ -6,15 +6,23 @@ CLI interface for Medical RAG using LangChain 1.x
 import sys
 import os
 import config
-from rag_pipeline import build_rag_agent, load_vector_db
+from rag_pipeline import build_rag_agent, build_direct_agent, load_vector_db
 
 # Allow imports from project root
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 def main():
-    vectorstore = load_vector_db()
-    agent = build_rag_agent(vectorstore)
+    # Check if RAG is enabled
+    if getattr(config, "ENABLE_RAG", True):
+        print("[INFO] RAG ENABLED - Loading vector store...")
+        vectorstore = load_vector_db()
+        agent = build_rag_agent(vectorstore)
+    else:
+        print("[INFO] RAG DISABLED - Using direct LLM...")
+        agent = build_direct_agent()
+    
     print("Medical RAG CLI ready! Type your questions below (type 'exit' to quit).")
+    print(f"Using model {config.MODEL} with prompt style {config.PROMPT_STYLE}")
 
     while True:
         query = input("\n> ")

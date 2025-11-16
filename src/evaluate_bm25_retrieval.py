@@ -14,10 +14,10 @@ from langchain_core.documents import Document
 from bm25_vectorstore import BM25VectorStore
 
 # Configuration
-BM25_PATH = "../store/bm25"
-DATA_PATH = "../data/plain"
-EVALUATE_DATA_PATH = "../data/evaluation/retrieval/single.json"
-RESULTS_PATH = "../results/retrieval/single/bm25.json"
+BM25_PATH = "store_v2/bm25"
+DATA_PATH = "data_v2/plain"
+EVALUATE_DATA_PATH = "data_v2/evaluation/retrieval/single.json"
+RESULTS_PATH = "results/v2/retrieval/single/bm25.json"
 K = 3
 
 # Initialize BM25 database
