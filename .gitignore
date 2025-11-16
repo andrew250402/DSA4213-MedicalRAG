@@ -17,3 +17,6 @@ poetry.lock
 
 # Log
 rag_logs.log
+
+# Notebook
+andrew_test.ipynb
