@@ -12,23 +12,26 @@ Our project systematically evaluates:
 Experiments were conducted on **729 Cancer.gov QA pairs** (MedQuAD dataset).
 
 ## Setup
-This project uses **`pyproject.toml` + `uv`** for dependency management.
+This project uses **`pyproject.toml` + `Poetry`** for dependency management.
 1. Install uv.
 ```bash
-pip install uv
+pip install poetry
 ```
 2. Install dependencies.
 ```bash
-uv sync
+poetry install
 ```
 3. Add your OpenAI API key
 ```bash
 cp .env.sample .env
+```
+Then edit `.env`:
+```bash
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 4. Running any script
 ```bash
-uv run python src/<script_name>.py
+poetry run python src/<script_name>.py
 ```
 
 ## Repository Structure
@@ -48,8 +51,8 @@ uv run python src/<script_name>.py
 ## How to run main experiment
 1. Build/update vector stores
 ```bash
-uv run python src/build_faiss_store.py    
-uv run python src/build_bm25_store.py    # if you use BM25
+poetry run python src/build_faiss_store.py
+poetry run python src/build_bm25_store.py     # if using BM25
 ```
 2. Run the baseline and RAG evaluation
 
@@ -62,6 +65,6 @@ To switch between RAG and No-RAG:
 
 3. Run the evaluation
 ```bash
-uv run python src/evaluate_rag.py
+poetry run python src/evaluate_rag.py
 ```
 
